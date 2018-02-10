@@ -6,11 +6,11 @@ TheStates Parties to the present Convention, Being parties to the International 
 
 Convinced of the need to ensure that adequate compensation is available to persons who suffer damage caused by pollution resulting from the escape or discharge of oil from ships,
 
-Considering thatthe International Convention of 29 November 1969, on Civil Liability for Oil Pollution Damage, by providing a régime for compensation for pollution damage in Contracting States and for the costs of measures, wherever taken, to prevent or minimize such damage, represents a considerable progress towards the achievement of this aim,
+Considering that the International Convention of 29 November 1969, on Civil Liability for Oil Pollution Damage, by providing a régime for compensation for pollution damage in Contracting States and for the costs of measures, wherever taken, to prevent or minimize such damage, represents a considerable progress towards the achievement of this aim,
 
-Consideringhowever thatthis régime does not afford full compensation for victims of oil pollution damage in all cases while it imposes an additional financial burden on ship-owners,
+Consideringhowever that this régime does not afford full compensation for victims of oil pollution damage in all cases while it imposes an additional financial burden on ship-owners,
 
-Consideringfurther thatthe economic consequences of oil pollution damage resulting from the escape or discharge of oil carried in bulk at sea by ships should not exclusively be borne by the shipping industry but should in part be borne by the oil cargo interests,
+Considering further that the economic consequences of oil pollution damage resulting from the escape or discharge of oil carried in bulk at sea by ships should not exclusively be borne by the shipping industry but should in part be borne by the oil cargo interests,
 
 Convinced of the need to elaborate a compensation and indemnification system supplementary to the International Convention on Civil Liability for Oil Pollution Damage with a view to ensuring that full compensation will be available to victims of oil pollution incidents and that the ship-owners are at the same time given relief in respect of the additional financial burdens imposed on them by the said Convention,
 
@@ -148,7 +148,7 @@ Contributions
 
 Article 10
 
-1. Annualcontributions to the Fund shall be made in respect of each Contracting State by any person who, in the calendar year referred to in Article 12, paragraph 2(a) or (b), has received in total quantities exceeding 150,000 tons:
+1. Annual contributions to the Fund shall be made in respect of each Contracting State by any person who, in the calendar year referred to in Article 12, paragraph 2(a) or (b), has received in total quantities exceeding 150,000 tons:
 
 (a)    in the ports or terminal installations in the territory of that State contributing oil carried by sea to such ports or terminal installations; and
 
@@ -198,7 +198,7 @@ Article 13
 
 1.     The amount of any contribution due under Article 12 and which is in arrears shall bear interest at a rate which shall be determined in accordance with the Internal Regulations of the Fund, provided that different rates may be fixed for different circumstances.
 
-2. EachContracting State shall ensure that any obligation to contribute to the Fund arising under this Convention in respect of oil received within the territory of that State is fulfilled and shall take any appropriate measures under its law, including the imposing of such sanctions as it may deem necessary, with a view to the effective execution of any such obligation; provided, however, that such measures shall only be directed against those persons who are under an obligation to contribute to the Fund.
+2. Each Contracting State shall ensure that any obligation to contribute to the Fund arising under this Convention in respect of oil received within the territory of that State is fulfilled and shall take any appropriate measures under its law, including the imposing of such sanctions as it may deem necessary, with a view to the effective execution of any such obligation; provided, however, that such measures shall only be directed against those persons who are under an obligation to contribute to the Fund.
 
 3. Where a person who is liable in accordance with the provisions of Articles 10 and 12 to make contributions to the Fund does not fulfil his obligations in respect of any such contribution or any part thereof and is in arrear, the Director shall take all appropriate action against such person on behalf of the Fund with a view to the recovery of the amount due. However, where the defaulting contributor is manifestly insolvent or the circumstances otherwise so warrant, the Assembly may, upon recommendation of the Director, decide that no action shall be taken or continued against the contributor.
 
@@ -212,11 +212,11 @@ Article 14
 
 4.     A declaration made in accordance with this Article may be withdrawn by the relevant State giving notice thereof in writing to the Director. Such notification shall take effect three months after the Director’s receipt thereof.
 
-5.     AnyState which is bound by a declaration made under this Article shall, in any proceedings brought against it before a competent  court in respect of any obligation specified in the declaration, waive any immunity that it would otherwise be entitled to invoke.
+5.     Any State which is bound by a declaration made under this Article shall, in any proceedings brought against it before a competent  court in respect of any obligation specified in the declaration, waive any immunity that it would otherwise be entitled to invoke.
 
 Article 15
 
-1.     EachContracting State shall ensure that any person who receives contributing oil within its territory in such quantities that he is liable to contribute to the Fund appears on a list to be established and kept up to date by the Director in accordance with the subsequent provisions of this Article.
+1.     Each Contracting State shall ensure that any person who receives contributing oil within its territory in such quantities that he is liable to contribute to the Fund appears on a list to be established and kept up to date by the Director in accordance with the subsequent provisions of this Article.
 
 2.     For the purposes set out in paragraph 1, each Contracting State shall communicate, at a time and in the manner to be prescribed in the Internal Regulations, to the Director the name and address of any person who in respect of that State is liable to contribute to the Fund pursuant to Article 10, as well as data on the relevant quantities of contributing oil received by any such person during the preceding calendar year.
 
@@ -280,7 +280,7 @@ Articles 21-27
 
 Article 28
 
-1.     TheSecretariat shall comprise the Director and such staff as the administration of the Fund may require.
+1.     The Secretariat shall comprise the Director and such staff as the administration of the Fund may require.
 
 2.     The Director shall be the legal representative of the Fund.
 
@@ -366,7 +366,7 @@ Claims for compensation under Article 4 arising from incidents occurring after t
 
 Article 36
 
-TheSecretary-General of the Organization shall convene the first session of the Assembly. This session shall take place as soon as possible after entry into force of this Convention and, in any case, not more than thirty days after such entry into force.
+The Secretary-General of the Organization shall convene the first session of the Assembly. This session shall take place as soon as possible after entry into force of this Convention and, in any case, not more than thirty days after such entry into force.
 
 Article36
 
@@ -378,7 +378,7 @@ The following transitional provisions shall apply in the period, hereinafter ref
 
 (c)    In the application of Article 4 of this Convention, the amount to be taken into account in determining the aggregate amount of compensation payable by the Fund shall also include the amount of compensation actually paid under the 1969 Liability Convention, if any, and the amount of compensation actually paid or deemed to have been paid under the 1971 Fund Convention.
 
-(d)    Paragraph1 of Article 9 of this Convention shall also apply to the rights enjoyed under the 1969 Liability Convention.
+(d)    Paragraph 1 of Article 9 of this Convention shall also apply to the rights enjoyed under the 1969 Liability Convention.
 
 Article36
 
@@ -394,13 +394,13 @@ Article36
 
 Notwithstanding the provisions of this Convention, the following provisions shall apply to the administration of the Fund during the period in which both the 1971 Fund Convention and this Convention are in force:
 
-(a)    TheSecretariat of the Fund, established by the 1971 Fund Convention (hereinafter referred to as “the 1971 Fund”), headed by the Director, may also function as the Secretariat and the Director of the Fund.
+(a)    The Secretariat of the Fund, established by the 1971 Fund Convention (hereinafter referred to as “the 1971 Fund”), headed by the Director, may also function as the Secretariat and the Director of the Fund.
 
 (b)    If,in accordance with sub-paragraph (a), the Secretariat and the Director of the 1971 Fund also perform the function of Secretariat and Director of the Fund, the Fund shall be represented, in cases of conflict of interests between the 1971 Fund and the Fund, by the Chairman of the Assembly of the Fund.
 
 (c)    TheDirector and the staff and experts appointed by him, performing their duties under this Convention and the 1971 Fund Convention, shall not be regarded as contravening the provisions of Article 30 of this Convention in so far as they discharge their duties in accordance with this Article.
 
-(d)    TheAssembly of the Fund shall endeavour not to take decisions which are incompatible with decisions taken by the Assembly of the 1971 Fund. If differences of opinion with respect to common administrative issues arise, the Assembly of the Fund shall try to reach a consensus with the Assembly of the 1971 Fund, in a spirit of mutual co-operation and with the common aims of both organizations in mind.
+(d)    The Assembly of the Fund shall endeavour not to take decisions which are incompatible with decisions taken by the Assembly of the 1971 Fund. If differences of opinion with respect to common administrative issues arise, the Assembly of the Fund shall try to reach a consensus with the Assembly of the 1971 Fund, in a spirit of mutual co-operation and with the common aims of both organizations in mind.
 
 (e)    The Fund may succeed to the rights, obligations and assets of the 1971 Fund if the Assembly of the 1971 Fund so decides, in accordance with Article 44, paragraph 2, of the 1971 Fund Convention.
 
@@ -416,7 +416,7 @@ Article 28
 
 Signature,ratification, acceptance, approval and accession
 
-1.     ThisProtocol shall be open for signature at London from 15 January 1993 to 14 January 1994 by any State which has signed the 1992 Liability Convention.
+1.     This Protocol shall be open for signature at London from 15 January 1993 to 14 January 1994 by any State which has signed the 1992 Liability Convention.
 
 2.     Subject to paragraph 4, this Protocol shall be ratified, accepted or approved by States which have signed it.
 
@@ -454,7 +454,7 @@ Entryinto force
 
 4.     Any State may, at the time of the deposit of its instrument of ratification, acceptance, approval or accession in respect of this Protocol declare that such instrument shall not take effect for the purpose of this Article until the end of the six-month period n Article 31.
 
-5.     AnyState which has made a declaration in accordance with the preceding paragraph may withdraw it at any time by means of a notification addressed to the Secretary-General of the Organization. Any such withdrawal shall take effect on the date the notification is received, and any State making such a withdrawal shall be deemed to have deposited its instrument of ratification, acceptance, approval or accession in respect of this Protocol on that date.
+5.     Any State which has made a declaration in accordance with the preceding paragraph may withdraw it at any time by means of a notification addressed to the Secretary-General of the Organization. Any such withdrawal shall take effect on the date the notification is received, and any State making such a withdrawal shall be deemed to have deposited its instrument of ratification, acceptance, approval or accession in respect of this Protocol on that date.
 
 6.     Any State which has made a declaration under Article 13, paragraph 2, of the Protocol of 1992 to amend the 1969 Liability Convention shall be deemed to have also made a declaration under paragraph 4 of this Article. Withdrawal of a declaration under the said Article 13, paragraph 2, shall be deemed to constitute withdrawal also under paragraph 5 of this Article.
 
@@ -516,7 +516,7 @@ Denunciation
 
 4.     Denunciation of the 1992 Liability Convention shall be deemed to be a denunciation of this Protocol. Such denunciation shall take effect on the date on which denunciation of the Protocol of 1992 to amend the 1969 Liability Convention takes effect according to Article 16 of that Protocol.
 
-5.     AnyContracting State to this Protocol which has not denounced the 1971 Fund Convention and the 1969 Liability Convention as required by Article 31 shall be deemed to have denounced this Protocol with effect twelve months after the expiry of the six-month period mentioned in that Article. As from the date on which the denunciations provided for in Article 31 take effect, any Party to this Protocol which deposits an instrument of ratification, acceptance, approval or accession to the 1969 Liability Convention shall be deemed to have denounced this Protocol with effect from the date on which such instrument takes effect.
+5.     Any Contracting State to this Protocol which has not denounced the 1971 Fund Convention and the 1969 Liability Convention as required by Article 31 shall be deemed to have denounced this Protocol with effect twelve months after the expiry of the six-month period mentioned in that Article. As from the date on which the denunciations provided for in Article 31 take effect, any Party to this Protocol which deposits an instrument of ratification, acceptance, approval or accession to the 1969 Liability Convention shall be deemed to have denounced this Protocol with effect from the date on which such instrument takes effect.
 
 6.     As between the Parties to this Protocol, denunciation by any of them of the 1971 Fund Convention in accordance with Article 41 thereof shall not be construed in any way as a denunciation of the 1971 Fund Convention as amended by this Protocol.
 
@@ -526,7 +526,7 @@ Article 35
 
 Extraordinary sessions of the Assembly
 
-1.     AnyContracting State may, within ninety days after the deposit of an instrument of denunciation the result of which it considers will significantly increase the level of contributions for the remaining Contracting States, request the Director to convene an extraordinary session of the Assembly. The Director shall convene the Assembly to meet not later than sixty days after receipt of the request.
+1.     Any Contracting State may, within ninety days after the deposit of an instrument of denunciation the result of which it considers will significantly increase the level of contributions for the remaining Contracting States, request the Director to convene an extraordinary session of the Assembly. The Director shall convene the Assembly to meet not later than sixty days after receipt of the request.
 
 2.     The Director may convene, on his own initiative, an extraordinary session of the Assembly to meet within sixty days after the deposit of any instrument of denunciation, if he considers that such denunciation will result in a significant increase in the level of contributions of the remaining Contracting States.
 
@@ -558,7 +558,7 @@ Article 38
 
 Depositary
 
-1.     ThisProtocol and any amendments accepted under Article 33 shall be deposited with the Secretary-General of the Organization.
+1.     This Protocol and any amendments accepted under Article 33 shall be deposited with the Secretary-General of the Organization.
 
 2.     The Secretary-General of the Organization shall:
 
@@ -594,9 +594,9 @@ Languages
 
 ThisProtocol is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
 
-Doneat London thistwenty-seventh day of November one thousand nine hundred and ninety-two.
+Done at London this twenty-seventh day of November one thousand nine hundred and ninety-two.
 
-Inwitness whereof the undersigned, being duly authorized by their respective Governments for that purpose, have signed this Protocol.6
+In witness whereof the undersigned, being duly authorized by their respective Governments for that purpose, have signed this Protocol.6
 
 6. Signatures omitted.
 
@@ -662,11 +662,11 @@ Article 1
 
 For the purposes of this Protocol:
 
-1.     “1992Liability Convention” means the International Convention on Civil Liability for Oil Pollution Damage, 1992;
+1.     “1992 Liability Convention” means the International Convention on Civil Liability for Oil Pollution Damage, 1992;
 
 2.     “1992 Fund Convention” means the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992;
 
-3.     “1992Fund” means the International Oil Pollution Compensation Fund, 1992, established under the 1992 Fund Convention;
+3.     “1992 Fund” means the International Oil Pollution Compensation Fund, 1992, established under the 1992 Fund Convention;
 
 4.     “Contracting State” means a Contracting State to this Protocol, unless stated otherwise;
 
@@ -718,7 +718,7 @@ Article 4
 
 Article 5
 
-TheSupplementary Fund shall pay compensation when the Assembly of the 1992 Fund has considered that the total amount of the established claims exceeds, or there is a risk that the total amount of established claims will exceed the aggregate amount of compensation available under article 4, paragraph 4, of the 1992 Fund Convention and that as a consequence the Assembly of the 1992 Fund has decided provisionally or finally that payments will only be made for a proportion of any established claim. The Assembly of the Supplementary Fund shall then decide whether and to what extent the Supplementary Fund shall pay the proportion of any established claim not paid under the 1992 Liability Convention and the 1992 Fund Convention.
+The Supplementary Fund shall pay compensation when the Assembly of the 1992 Fund has considered that the total amount of the established claims exceeds, or there is a risk that the total amount of established claims will exceed the aggregate amount of compensation available under article 4, paragraph 4, of the 1992 Fund Convention and that as a consequence the Assembly of the 1992 Fund has decided provisionally or finally that payments will only be made for a proportion of any established claim. The Assembly of the Supplementary Fund shall then decide whether and to what extent the Supplementary Fund shall pay the proportion of any established claim not paid under the 1992 Liability Convention and the 1992 Fund Convention.
 
 Article 6
 
@@ -742,9 +742,9 @@ Article 8
 
 Article 9
 
-1.     TheSupplementary Fund shall, in respect of any amount of compensation for pollution damage paid by the Supplementary Fund in accordance with article 4, paragraph 1, of this Protocol, acquire by subrogation the rights that the person so compensated may enjoy under the 1992 Liability Convention against the owner or his guarantor.
+1.     The Supplementary Fund shall, in respect of any amount of compensation for pollution damage paid by the Supplementary Fund in accordance with article 4, paragraph 1, of this Protocol, acquire by subrogation the rights that the person so compensated may enjoy under the 1992 Liability Convention against the owner or his guarantor.
 
-2.     TheSupplementary Fund shall acquire by subrogation the rights that the person compensated by it may enjoy under the 1992 Fund Convention against the 1992 Fund.
+2.     The Supplementary Fund shall acquire by subrogation the rights that the person compensated by it may enjoy under the 1992 Fund Convention against the 1992 Fund.
 
 3.     Nothing in this Protocol shall prejudice any right of recourse or subrogation of the Supplementary Fund against persons other than those referred to in the preceding paragraphs. In any event the right of the Supplementary Fund to subrogation against such person shall not be less favourable than that of an insurer of the person to whom compensation has been paid.
 
@@ -832,11 +832,11 @@ Article 16
 
 Article 17
 
-1.     TheSecretariat of the 1992 Fund, headed by the Director of the 1992 Fund, may also function as the Secretariat and the Director of the Supplementary Fund.
+1.     The Secretariat of the 1992 Fund, headed by the Director of the 1992 Fund, may also function as the Secretariat and the Director of the Supplementary Fund.
 
 2.     If,in accordance with paragraph 1, the Secretariat and the Director of the 1992 Fund also perform the function of Secretariat and Director of the Supplementary Fund, the Supplementary Fund shall be represented, in cases of conflict of interests between the 1992 Fund and the Supplementary Fund, by the Chairman of the Assembly.
 
-3.     TheDirector of the Supplementary Fund, and the staff and experts appointed by the Director of the Supplementary Fund, performing their duties under this Protocol and the 1992 Fund Convention, shall not be regarded as contravening the provisions of article 30 of the 1992 Fund Convention as applied by article 16, paragraph 2, of this Protocol in so far as they discharge their duties in accordance with this article.
+3.     The Director of the Supplementary Fund, and the staff and experts appointed by the Director of the Supplementary Fund, performing their duties under this Protocol and the 1992 Fund Convention, shall not be regarded as contravening the provisions of article 30 of the 1992 Fund Convention as applied by article 16, paragraph 2, of this Protocol in so far as they discharge their duties in accordance with this article.
 
 4.     The Assembly shall endeavour not to take decisions which are incompatible with decisions taken by the Assembly of the 1992 Fund.
 
@@ -892,7 +892,7 @@ Entry into force
 
 (a)    at least eight States have signed the Protocol without reservation as to ratification, acceptance or approval, or have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General; and
 
-(b)    theSecretary-General has received information from the Director of the 1992 Fund that those persons who would be liable to contribute pursuant to article 10 have received during the preceding calendar year a total quantity of at least 450 million tons of contributing oil, including the quantities referred to in article 14, paragraph 1.
+(b)    the Secretary-General has received information from the Director of the 1992 Fund that those persons who would be liable to contribute pursuant to article 10 have received during the preceding calendar year a total quantity of at least 450 million tons of contributing oil, including the quantities referred to in article 14, paragraph 1.
 
 2.     For each State which signs this Protocol without reservation as to ratification, acceptance or approval, or which ratifies, accepts, approves or accedes to this Protocol, after the conditions in paragraph 1 for entry into force have been met, the Protocol shall enter into force three months following the date of the deposit by such State of the appropriate instrument.
 
@@ -1026,11 +1026,11 @@ Article 31
 
 Languages
 
-ThisProtocol is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
+This Protocol is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
 
-Doneat London this sixteenth day of May two thousand and three.
+Done at London this sixteenth day of May two thousand and three.
 
-In witness whereof theundersigned, being duly authorised by their respective Governments for that purpose, have signed this Protocol.
+In witness whereof the undersigned, being duly authorised by their respective Governments for that purpose, have signed this Protocol.
 
 Signatures omitted.
 
