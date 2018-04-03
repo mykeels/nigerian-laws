@@ -50,7 +50,7 @@ An Act to establish a Special Petroleum Trust Fund into which shall be paid all 
 
 <center>[1994 No. 25.]</center>
 
-<div style="text:right">[4th October, 1993]</div>
+[4th October, 1993]
 
 <center>[Commencement.]</center>
 
@@ -78,7 +78,7 @@ Establishment and composition, etc., of the Petroleum (Special) Trust Fund and M
 
     (b) may sue and be sued in its corporate name.
 
-(3) The Fund shall be located in the Presidency and shall not be subject to the direc- tion, control or supervision of any other authority or person in the performance of its functions under this Act other than the President.
+(3) The Fund shall be located in the Presidency and shall not be subject to the direction, control or supervision of any other authority or person in the performance of its functions under this Act other than the President.
 
 (4) Notwithstanding the provisions of subsection (1) of this section, the President may, by order, vary, add, amend or substitute new and approved production cost per litre of petroleum products as and when he may deem fit in the circumstance.
 
@@ -232,7 +232,7 @@ Notwithstanding the provisions of section 6 (3) of this Act, the secretary of th
 
     (2) Notwithstanding the provisions of subsection (1) of this section nothing in this Act shall prevent the appointment of a person to any office on terms which preclude the grant of a pension and gratuity in respect of that office.
 
-PART III
+## PART III
 
 Financial provisions
 
