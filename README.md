@@ -26,8 +26,6 @@ Separate pages are devoted to laws made in each year starting from the consolida
 
 - 1992
 
-  - [Immigration and Prisons Services Board Act (formerly Customs, Immigration and Prison Services Board Act, See 1992 No.45) - CAP I2 L.F.N. 2004](./1992/immigration-and-prisons-services-board-act-formerly-customs-immigration-and-prison-services-board-act-see-1992-no45-cap-i2-lfn-2004.md)
-
 - 1993
 
 - 1994
