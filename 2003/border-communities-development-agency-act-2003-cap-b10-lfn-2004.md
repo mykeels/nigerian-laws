@@ -98,7 +98,7 @@ An Act to establish the Border Communities Development Agency; and for related m
 
 1.     Establishment of the Border Communities Development Agency
 
-(1)    Thereis established an agency to be known as the Border Communities Development Agency (in this Act referred to as "the Agency").
+(1)    There is established an agency to be known as the Border Communities Development Agency (in this Act referred to as "the Agency").
 
 (2)    The Agency­­−
 
@@ -106,13 +106,13 @@ An Act to establish the Border Communities Development Agency; and for related m
 
 (b)    may sue and be sued in its corporate name.
 
-(3)    Theheadquarters of the Agency shall be in the Federal Capital Territory, Abuja and may have offices in the border States specified in the First Schedule to this Act.
+(3)    The headquarters of the Agency shall be in the Federal Capital Territory, Abuja and may have offices in the border States specified in the First Schedule to this Act.
 
 [First Schedule.]
 
 2.     Establishment of the Governing Board of the Agency
 
-(1)    Thereis established for the Agency a governing board which shall provide the general policy guidelines for the day-to-day administration of the Agency and shall comprise−
+(1)    There is established for the Agency a governing board which shall provide the general policy guidelines for the day-to-day administration of the Agency and shall comprise−
 
 (a)    the Vice-President of the Federation, who shall be the Chairman;
 
@@ -154,21 +154,21 @@ An Act to establish the Border Communities Development Agency; and for related m
 
 [2006 No. 38, s. 2(a).]
 
-(d)    theInspector-General of Police;
+(d)    the Inspector-General of Police;
 
-(e)    theChief Economic Adviser, National Planning Commission;
+(e)    the Chief Economic Adviser, National Planning Commission;
 
 (f)     the Director-General, National Boundary Commission;
 
-(g)    theDirector-General, National Intelligence Agency;
+(g)    the Director-General, National Intelligence Agency;
 
-(h)    thePermanent Secretary, State and Local Government Affairs Office;
+(h)    the Permanent Secretary, State and Local Government Affairs Office;
 
 (i)     the Surveyor-General of the Federation; and
 
 (j)     six other persons to represent each of the six geo-political zones;
 
-(k)    theExecutive Secretary of the Agency who shall serve as Secretary to the Board.
+(k)    the Executive Secretary of the Agency who shall serve as Secretary to the Board.
 
 [2006 No. 38, s. 2 (b).]
 
@@ -186,7 +186,7 @@ An Act to establish the Border Communities Development Agency; and for related m
 
 [2006 No. 38, s. 2 (c)]
 
-(5)    Notwithstandingthe provisions of subsection (3) of this section, a member of the Board may at any time be removed from office by the President for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misconduct.
+(5)    Notwithstanding the provisions of subsection (3) of this section, a member of the Board may at any time be removed from office by the President for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misconduct.
 
 [2006 No. 38, s.2 (c)]
 
@@ -198,7 +198,7 @@ An Act to establish the Border Communities Development Agency; and for related m
 
 [2006 No. 38, s. 2 (c).]
 
-(8)    Notwithstandingthe foregoing provisions of section 2 of this Act, a person shall cease to hold office as a member of the Board if−
+(8)    Notwithstanding the foregoing provisions of section 2 of this Act, a person shall cease to hold office as a member of the Board if−
 
 a.     he becomes bankrupt, suspends payment or compounds with his creditors; or
 
@@ -214,31 +214,31 @@ e.     in the case of a person in possession of professional qualifications,
 
 [2006 No. 38, s. 2 (c).]
 
-(9)    Thesupplementary provisions set out in the Second Schedule to this Act shall have effect with respect to the proceedings of the Board and other matters contained therein.
+(9)    The supplementary provisions set out in the Second Schedule to this Act shall have effect with respect to the proceedings of the Board and other matters contained therein.
 
 [2006 No. 38, s. 2 (c). Second Schedule.
 
 ### PART II  - Functions and Powers of the Agency
 
-3.     Functionsand powers of the Agency
+3.     Functions and powers of the Agency
 
 (1)    The Agency shall−
 
 (a)    prepare a comprehensive programme of action for the development of the border communities;
 
-(b)    prepareand submit proposals on project for the Border Communities to the President;
+(b)    prepare and submit proposals on project for the Border Communities to the President;
 
-(c)    advisethe Federal Government on border areas development and other related issues;
+(c)    advise the Federal Government on border areas development and other related issues;
 
-(d)    consultwith the relevant border communities and liaise with the Federal Government on areas required for the overall development in order to maintain, sustain and develop border communities;
+(d)    consult with the relevant border communities and liaise with the Federal Government on areas required for the overall development in order to maintain, sustain and develop border communities;
 
-(e)    identifyand determine in each year, such deliberate or conscious infrastructural project required for the overall development of the border communities;
+(e)    identify and determine in each year, such deliberate or conscious infrastructural project required for the overall development of the border communities;
 
 (f)     execute such border development policies, projects and programmes in the border communities;
 
-(g)    co-ordinatethe activities of all relevant Ministries in the implementation of Federal Government policies and programmes for the development of border communities; and
+(g)    co-ordinate the activities of all relevant Ministries in the implementation of Federal Government policies and programmes for the development of border communities; and
 
-(h)    setguidelines for the implementation and monitoring of Federal Government projects in the border communities;
+(h)    set guidelines for the implementation and monitoring of Federal Government projects in the border communities;
 
 (i)     plan and develop strategies towards ensuring efficient and effective implementation of Federal projects within the border States and ensure their implementation;
 
@@ -250,7 +250,7 @@ e.     in the case of a person in possession of professional qualifications,
 
 (l)     do such other things which it deems expedient in the performance of its functions under this Act.
 
-4.     Officesand premises of the Agency
+4.     Offices and premises of the Agency
 
 For the purposes of providing offices and premises necessary for the performance of its functions under this Act, the Agency may subject to the Land Use Act, take lease of any interest in land or other property and may sell or dispose of such interest held by it.
 
@@ -258,15 +258,15 @@ For the purposes of providing offices and premises necessary for the performance
 
 ### PART II - Staff of the Agency
 
-5.     Appointmentof the Executive Secretary of the Agency
+5.     Appointment of the Executive Secretary of the Agency
 
-(1)    Thereshall be for the Agency, an Executive Secretary who shall be a member of, and Secretary to the Board and shall be appointed by the President of the Federal Republic of Nigeria.
+(1)    There shall be for the Agency, an Executive Secretary who shall be a member of, and Secretary to the Board and shall be appointed by the President of the Federal Republic of Nigeria.
 
 [2006 No. 38, s. 4 (a).]
 
-(2)    TheExecutive Secretary shall be the Chief Executive and Accounting Officer of the Agency and be responsible for the execution of the policy and the day-to-day administration of the affairs of the Agency.
+(2)    The Executive Secretary shall be the Chief Executive and Accounting Officer of the Agency and be responsible for the execution of the policy and the day-to-day administration of the affairs of the Agency.
 
-(3)    TheExecutive Secretary shall hold office-
+(3)    The Executive Secretary shall hold office-
 
 (a)    for a term of four years in the first instance and may be re-appointed for a further term of four years and no more; and
 
@@ -278,33 +278,33 @@ Removal of Executive Secretary from office by the President
 
 [2006 No. 38, s. 4 (b).]
 
-(5)    TheExecutive Secretary of the Agency may resign his appointment by a notice in writing under his hand, addressed to the President and shall on the date of the receipt of the notice by the president cease to hold the office of the Executive Secretary.
+(5)    The Executive Secretary of the Agency may resign his appointment by a notice in writing under his hand, addressed to the President and shall on the date of the receipt of the notice by the president cease to hold the office of the Executive Secretary.
 
 [2006 No. 38, s. 4 (b).]
 
 6. Other staff of the Agency
 
-(1)    TheBoard shall appoint, for the Agency, such officers and other employees as it may, from time to time deem necessary for the purpose of the Agency.
+(1)    The Board shall appoint, for the Agency, such officers and other employees as it may, from time to time deem necessary for the purpose of the Agency.
 
-(2)    Theterms and conditions of service (including remuneration, allowances, benefits and pensions) of officers and employees of the Agency shall be determined by the Board.
+(2)    The terms and conditions of service (including remuneration, allowances, benefits and pensions) of officers and employees of the Agency shall be determined by the Board.
 
 (3)    TheBoard shall appoint for the Agency a Secretary who shall possess such qualification and experience as are appropriate for a person required to perform the functions of that office under this Act.
 
 (4)    Subjectto the provisions of this section, the Secretary shall hold office on such terms as to emoluments and otherwise as may be specified in his letter of appointment.
 
-7.     Appointmentof Heads of Departments of the Agency
+7.     Appointment of Heads of Departments of the Agency
 
 (1)    TheCommission may appoint Heads of Departments for the Agency who shall be professionals in border issues and such other persons to be officers and employees of the Agency to assist the Secretary in the exercise of the functions of the Agency under this Act.
 
-(2)    Theremuneration and tenure of office of the Heads of Departments and the other officers and employees of the Agency shall be determined by the Board after consultation with the Federal Civil Service Commission.
+(2)    The remuneration and tenure of office of the Heads of Departments and the other officers and employees of the Agency shall be determined by the Board after consultation with the Federal Civil Service Commission.
 
-(3)    Notwithstandingthe provisions of subsection (1) of this section, the Heads of Departments or any of the officers and employees of the Agency may be appointed by the Agency by way of transfer or secondment from any of the Public Service in the Federation.
+(3)    Notwithstanding the provisions of subsection (1) of this section, the Heads of Departments or any of the officers and employees of the Agency may be appointed by the Agency by way of transfer or secondment from any of the Public Service in the Federation.
 
 8.     Pensions
 
-(1)    Servicein the Agency shall be approved service for the purpose of the Pension Act and accordingly, employees of the Agency shall be entitled to pensions, gratuities and other retirement benefits as are prescribed under the Pensions Act.
+(1)    Service in the Agency shall be approved service for the purpose of the Pension Act and accordingly, employees of the Agency shall be entitled to pensions, gratuities and other retirement benefits as are prescribed under the Pensions Act.
 
-(2)   Notwithstandingthe provisions of subsection (1) of this section, nothing in this Act shall prevent the appointment of a person to any office on terms, which preclude the grant of a pension, gratuity or other retirement benefit in respect of that office.
+(2)   Notwithstanding the provisions of subsection (1) of this section, nothing in this Act shall prevent the appointment of a person to any office on terms, which preclude the grant of a pension, gratuity or other retirement benefit in respect of that office.
 
 (3)    For the purpose of the application of the provisions of the Pensions Act, any power exercisable by a Minister or other authority of the Federal Government other than the power to make regulations under section 23 of the Pensions Act is vested in and shall be exercisable by the Board and not by any other person or authority.
 
@@ -318,7 +318,7 @@ Removal of Executive Secretary from office by the President
 
 (b)     annual subvention from the Federal Government;
 
-(c)    suchcounter-part funding as may be provided, from time to time, by a State or Local Government;
+(c)    such counter-part funding as may be provided, from time to time, by a State or Local Government;
 
 (d)    Loans and grants-in-aid from national, bilateral and multilateral agencies;
 
@@ -348,11 +348,11 @@ The Agency may, from time to time, apply the proceeds of the Agency-
 
 (2)    TheAgency shall not without the approval of the President, borrow money which exceeds at any time the amount set by the President.
 
-(3)    Notwithstandingsubsection (1) of this section, where the sum to be borrowed is in foreign currency, the Agency shall not borrow the sum without the prior approval of the President.
+(3)    Notwithstanding subsection (1) of this section, where the sum to be borrowed is in foreign currency, the Agency shall not borrow the sum without the prior approval of the President.
 
 12. Annual estimates and expenditure
 
-(1)    TheAgency shall not later than 30th September in each year, submit to the Presi- dent an estimate of its expenditure and income including payments to the Agency for the next succeeding year.
+(1)    TheAgency shall not later than 30th September in each year, submit to the President an estimate of its expenditure and income including payments to the Agency for the next succeeding year.
 
 (2)    TheAgency shall keep proper accounts in respect of each year and proper records in relation to those accounts and shall cause the accounts to be audited within six months after the end of each year by auditors appointed from the list and in accordance with the guidelines supplied by the Auditor-General for the Federation.
 
@@ -364,13 +364,13 @@ The Agency may, from time to time, apply the proceeds of the Agency-
 
 ### PART V - Legal Proceedings
 
-14.   Limitationof suits against officers of the Agency
+14.   Limitation of suits against officers of the Agency
 
 The provisions of the Public Officers Protection Act shall apply in relation to any suit instituted against any officer or employee of the Agency.
 
 Cap. P41.]
 
-15.   Servicesof documents
+15.   Services of documents
 
 A notice, summons or other documents required or authorised to be served upon the Agency under the provisions of this Act or any other law or enactment may be served by delivering it to the Executive Secretary or by sending it by registered post addressed to the Executive Secretary at the principal office of the Agency.
 
@@ -410,11 +410,11 @@ The Agency may, subject to the provisions of this Act and the conditions of any 
 
 (a)    not for his personal gain, make use of any information which has come to his knowledge in the exercise of his powers or is obtained by him in the ordinary course of his duty as a member of the Board or as the Executive Secretary, officer or employee of the Agency;
 
-(b)    treatas confidential any information which has come to his knowledge in the exercise of his powers or is obtained by him in the performance of his duties under this Act; and
+(b)    treat as confidential any information which has come to his knowledge in the exercise of his powers or is obtained by him in the performance of his duties under this Act; and
 
 (c)       (deleted by 2006 No. 38, s. 7).
 
-(2)    Anyperson who contravenes the provisions of subsection (1) of this section commits an offence and is liable on conviction to a fine not less than N20,000 or imprisonment for a term not exceeding two years or to both such fine and imprisonment.
+(2)    Any person who contravenes the provisions of subsection (1) of this section commits an offence and is liable on conviction to a fine not less than N20,000 or imprisonment for a term not exceeding two years or to both such fine and imprisonment.
 
 [2006 No. 38, s. 6 (2).]
 
@@ -486,7 +486,7 @@ The fixing of the seal of the Agency shall be authenticated by the signature of 
 
 (b)    any defect in the appointment of a member of the Board or committee; or
 
-(c)    reasonthat any person not entitled to do so took part in the proceedings of the Board or Committee.
+(c)    reason that any person not entitled to do so took part in the proceedings of the Board or Committee.
 
 11.   A member of a Committee who has a personal interest in any contract or any agreement entered into or proposed to be considered by the Committee shall forthwith disclose his interest to the committee and shall not vote on any question relating to the contract or arrangement.
 
