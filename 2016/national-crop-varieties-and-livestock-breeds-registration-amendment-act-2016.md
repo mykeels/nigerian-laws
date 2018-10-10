@@ -14,19 +14,19 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria-
 
 Amendment of Cap. N27 LFN 204
 
-1.       The National Crop Varieties Livestock Breeds (Registration, Etc) Act Cap N27. Laws of the Federation of Nigeria 2004 (in this Act referred to as “the Principal Act”) is amended as set out in this Act.
+1. The National Crop Varieties Livestock Breeds (Registration, Etc) Act Cap N27. Laws of the Federation of Nigeria 2004 (in this Act referred to as “the Principal Act”) is amended as set out in this Act.
 
 Amendment of section 8
 
-2.       Section 8 of the Principal Act is amended—
+2. Section 8 of the Principal Act is amended—
 
-(a)     in subsection (2) by substituting for the expression. “N200”, in line 2. the expression. “N100,000”; and
+(a) in subsection (2) by substituting for the expression. “N200”, in line 2. the expression. “N100,000”; and
 
-(b)     in subsection (3), by substituting for the expression. “N5,000”, in line 5,  the expression. “N500,000”
+(b) in subsection (3), by substituting for the expression. “N5,000”, in line 5,  the expression. “N500,000”
 
 Citation.
 
-3.       This Act may bee cited as the National Crop Varieties and Livestock Breeds (Registration, Etc.) (Amendment) Act. 2016.
+3. This Act may bee cited as the National Crop Varieties and Livestock Breeds (Registration, Etc.) (Amendment) Act. 2016.
 
 ## Reference
 

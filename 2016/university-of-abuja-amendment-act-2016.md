@@ -8,11 +8,11 @@ ARRANGEMENTOF SECTIONS
 
 Section:
 
-1.       Amendment of Cap. U2 LFN, 2004.
+1. Amendment of Cap. U2 LFN, 2004.
 
-2.       Amendment of section 3.
+2. Amendment of section 3.
 
-3.       Citation.
+3. Citation.
 
 UNIVERSITYOF ABUJA (AMENDMENT) ACT, 2016
 
