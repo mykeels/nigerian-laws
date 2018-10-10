@@ -6,15 +6,15 @@ This Act further amends the National Minimum Wage Act, Cap. N61 Laws of the Fede
 
 ARRANGEMENT OF SECTIONS
 
-1.       Amendment of Cap.N61 LFN, 2004.
+1. Amendment of Cap.N61 LFN, 2004.
 
-2.       Amendment of section 1.
+2. Amendment of section 1.
 
-3.       Amendment of section 3.
+3. Amendment of section 3.
 
-4.       Amendment of section 5.
+4. Amendment of section 5.
 
-5.       Citation.
+5. Citation.
 
 NATIONAL MINIMUM WAGE (AMENDMENT) ACT
 
@@ -26,33 +26,33 @@ ENACTED by the National Assembly of the Federal Republic of Nigeria:
 
 Amendment of Cap N61 LFN, 2004
 
-1.       The National Minimum Wage Act Cap. N61 Laws of the Federation of Nigeria, 2004 (in this Act referred to as "the Principal Act") as amended, is further amended as set out in this Act.
+1. The National Minimum Wage Act Cap. N61 Laws of the Federation of Nigeria, 2004 (in this Act referred to as "the Principal Act") as amended, is further amended as set out in this Act.
 
 Amendment of section 1
 
-2.       Section 1 of the Principal Act is amended in subsection (1) by substituting for the existing subsection (1) a new subsection "(1)":
+2. Section 1 of the Principal Act is amended in subsection (1) by substituting for the existing subsection (1) a new subsection "(1)":
 
 "(1) As from the commencement of this Act, it shall be the duty of every employer (except as provided for under the principal Act as amended) to pay a wage not less than the national minimum wage of N18,000.00 per month to every worker under his establishment".
 
 Amendment of section 3
 
-3.       Section 3 of the Principal Act is amended in subsection (1) by substituting for the amount:
+3. Section 3 of the Principal Act is amended in subsection (1) by substituting for the amount:
 
-(a)     N100.00 in line 5, the amount N20, 000.00; and
+(a) N100.00 in line 5, the amount N20, 000.00; and
 
-(b)     N10.00 in line 6, the amount N 1,000.
+(b) N10.00 in line 6, the amount N 1,000.
 
 Amendment of section 5
 
-4.       Section 5 of the Principal Act is amended by substituting for the amount:
+4. Section 5 of the Principal Act is amended by substituting for the amount:
 
-(a)     N100.00 in line 6, the amountN20, 000.00; and
+(a) N100.00 in line 6, the amountN20, 000.00; and
 
-(b)     N100.00 in line 6 the amount N1, 000.
+(b) N100.00 in line 6 the amount N1, 000.
 
 Citation
 
-5.       This Act may be cited as the National Minimum Wage (Amendment) Act, 2011.
+5. This Act may be cited as the National Minimum Wage (Amendment) Act, 2011.
 
 I CERTIFY, IN ACCORDANCE WITH SECTION 2 (1) OF THE ACTS AUTHENTICATION ACT, CAP. A2, LAWS OF THE FEDERATION OF NIGERIA 2004, THAT THIS IS A TRUE COPY OF THE BILL PASSED BY BOTH HOUSES OF THE NATIONAL ASSEMBLY.
 
