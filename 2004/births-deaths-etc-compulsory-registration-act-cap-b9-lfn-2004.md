@@ -930,7 +930,7 @@ The Chief Registrar of each State of the Federation and of the Federal Capital T
 
 (b) take charge of the registration office of the Commission within the State or the Federal Capital Territory, Abuja;
 
-(c)  file all registrable certificates and documents in the appropriate register;
+(c) file all registrable certificates and documents in the appropriate register;
 
 (d) compile and make monthly returns on all registrable certificates and documents to the Registrar-General;
 
@@ -1884,7 +1884,7 @@ Full name (surname first)………………………………………………�
 
 Address of usual place of residence …………………………………………………………………………
 
-……………………….................                                        ……………………………………
+………………………................. ……………………………………
 
 Signature or left thumb mark of informant                                 Signature of registrar
 
@@ -1926,7 +1926,7 @@ Place of issue: ………………………………………………………�
 
 Name of registrar: …………………………………………………………
 
-……………..............                                                             ………………………………..
+…………….............. ………………………………..
 
 Date                                                                                                   Signature of registrar
 
@@ -1940,7 +1940,7 @@ Town/village.............................................................. Volum
 
 LGA............................................................................State………....................................................
 
-Entry No. in Birth Registration Form
+Entry No. in Birth Registration Form
 
 Date of registration
 
@@ -2016,7 +2016,7 @@ FOR USE IN REGISTRATION OFFICE
 
 Date                                                           Signature of registrar
 
-………………………….                                            ………………………………..
+…………………………. ………………………………..
 
 Name of informant                                          Signature of informant
 
@@ -2138,13 +2138,13 @@ Town/village …………………………………………………
 
 LGA ……………………………………………………………...
 
-Registration. No.
+Registration. No.
 
 Date of birth of child
 
 Place of birth of child
 
-Name (if any) of the child
+Name (if any) of the child
 
 Sex of child
 
@@ -2176,7 +2176,7 @@ Town/village ………………………………….... Volume.................
 
 LGA ……………………………………… State................................
 
-Entry no. in stillbirth report
+Entry no. in stillbirth report
 
 Date of stillborn
 
@@ -2292,7 +2292,7 @@ Town/village ………………………………………………………
 
 LGA ................................................ ……………………..
 
-Registration. No.
+Registration. No.
 
 Name of child
 
@@ -2392,7 +2392,7 @@ FORM D.IA (Regulation 24 (1)).]
 
 Medical certificate for cause of death
 
-I,…......................................................................of………………………………………………………………………………..do hereby certify that I have medically attended ……................of ……………………………………….  who was (a) apparently, or stated to be …………………years that I last saw ………………on the ……………………………………20 ……………………was suffering from ………………………….that …………………………………………….died as I am aware, or (b) informed, on the ……..day of …………………………………….,20 ……………………………, at (c)…………………………………..and that the cause of death was to the best of my knowledge or belief as herein stated—
+I,…......................................................................of………………………………………………………………………………..do hereby certify that I have medically attended ……................of ………………………………………. who was (a) apparently, or stated to be …………………years that I last saw ………………on the ……………………………………20 ……………………was suffering from ………………………….that …………………………………………….died as I am aware, or (b) informed, on the ……..day of …………………………………….,20 ……………………………, at (c)…………………………………..and that the cause of death was to the best of my knowledge or belief as herein stated—
 
 Primary cause ……………………………………………………………………………………....................
 
@@ -2412,13 +2412,13 @@ Medical qualification address
 
 State address
 
-(a) Omit "apparently" or "or stated to be" as the case may be;
+(a) Omit "apparently" or "or stated to be" as the case may be;
 
-(b) Omit "aware or" when hour of death is known from report;
+(b) Omit "aware or" when hour of death is known from report;
 
-(c) State the time;
+(c) State the time;
 
-(d) State duration of illness if possible.
+(d) State duration of illness if possible.
 
 Note that by "primary cause of death" is meant the decease present at the time of death which initiated the train of events leading thereto, and not a secondary contributory or immediate cause or a terminal condition or mode of death.
 
@@ -2456,7 +2456,7 @@ Place of issue...
 
 Name of registrar:…………………………………………………………………............................................
 
-................................                                                                          ………………………….
+................................ ………………………….
 
 Date                                                                                                                          Signature of registrar
 
@@ -2768,7 +2768,7 @@ District..................................................LGA...................
 
 Town/village........................................... State.................................................
 
-Registration. No
+Registration. No
 
 Date of entry
 
@@ -2820,7 +2820,7 @@ District................................................... LGA.................
 
 Town/village............................................State................................................
 
-Registration. no.
+Registration. no.
 
 Date of entry
 

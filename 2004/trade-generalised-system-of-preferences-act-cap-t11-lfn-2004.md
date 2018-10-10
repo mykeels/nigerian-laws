@@ -1,12 +1,12 @@
-# 9.     Russia
+# 9. Russia
 
-10.    Bulgaria
+10. Bulgaria
 
-11.    Hungary
+11. Hungary
 
-12.    Czechoslovakia; and
+12. Czechoslovakia; and
 
-13.    Sweden
+13. Sweden
 
 _________________
 

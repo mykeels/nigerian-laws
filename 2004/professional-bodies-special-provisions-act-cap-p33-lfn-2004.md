@@ -2,11 +2,11 @@
 
 ARRANGEMENT OF SECTIONS
 
-1.     Provisions for facilities to practise certain professions in Nigeria by non-Nigerians.
+1. Provisions for facilities to practise certain professions in Nigeria by non-Nigerians.
 
-2.     Interpretation.
+2. Interpretation.
 
-3.     Short title.
+3. Short title.
 
 SCHEDULE
 
@@ -16,29 +16,29 @@ An Act to vest in the Federal Government the power to permit the practice of t
 
 [7th February, 1972]                            [Commencement.)
 
-1.     Provisions for facilities to practise certain professions in Nigeria by non-Nigerians
+1. Provisions for facilities to practise certain professions in Nigeria by non-Nigerians
 
-(1)    If the President is satisfied that it is desirable in the public interest so to do he may, notwithstanding anything to the contrary in any enactment, by order published in the Federal Gazette permit the practice in Nigeria of any of the professions specified in the Schedule to this Act by persons other than citizens of Nigeria.
+(1) If the President is satisfied that it is desirable in the public interest so to do he may, notwithstanding anything to the contrary in any enactment, by order published in the Federal Gazette permit the practice in Nigeria of any of the professions specified in the Schedule to this Act by persons other than citizens of Nigeria.
 
-(2)    Without prejudice to the generality of the foregoing subsection (1) of this section, the President may by the said order (after such consultation) and with a view to facilitating the practice of such profession in Nigeria-
+(2) Without prejudice to the generality of the foregoing subsection (1) of this section, the President may by the said order (after such consultation) and with a view to facilitating the practice of such profession in Nigeria-
 
-(a)    direct that any enactment or the exercise of any power thereunder, which-
+(a) direct that any enactment or the exercise of any power thereunder, which-
 
-(i)     prohibits or restricts the practice of the profession; or
+(i) prohibits or restricts the practice of the profession; or
 
-(ii)    enables any person or authority to regulate the membership of the profession, in a manner that may permit or is likely to permit such prohibition or restriction, shall no longer have effect;
+(ii) enables any person or authority to regulate the membership of the profession, in a manner that may permit or is likely to permit such prohibition or restriction, shall no longer have effect;
 
-(b)    exempt any person or the profession from the application of any enactment generally or waive the application of the enactment therefor;
+(b) exempt any person or the profession from the application of any enactment generally or waive the application of the enactment therefor;
 
-(c)    suspend for such period as he may in his discretion specify the operation that any enactment has apart from this Act in respect of the profession; and
+(c) suspend for such period as he may in his discretion specify the operation that any enactment has apart from this Act in respect of the profession; and
 
-(d)    make such other provisions as may be necessary for the purposes of subsection (1) of this section.
+(d) make such other provisions as may be necessary for the purposes of subsection (1) of this section.
 
-(3)    Any order to be made pursuant to the foregoing provisions may be made subject to any conditions which the President may in his discretion impose.
+(3) Any order to be made pursuant to the foregoing provisions may be made subject to any conditions which the President may in his discretion impose.
 
-(4)    Any enactment to which any of the foregoing provisions relate shall, unless it is hereafter otherwise expressly provided, be construed subject to this Act.
+(4) Any enactment to which any of the foregoing provisions relate shall, unless it is hereafter otherwise expressly provided, be construed subject to this Act.
 
-2.     Interpretation
+2. Interpretation
 
 In this Act, unless the context otherwise requires-
 
@@ -46,7 +46,7 @@ In this Act, unless the context otherwise requires-
 
 "person" means any individual or class of individuals duly qualified to practise any of the professions set out under the Schedule to this Act.
 
-3.     Short title
+3. Short title
 
 This Act may be cited as the Professional Bodies (Special Provisions) Act.
 
@@ -54,27 +54,27 @@ SCHEDULE
 
 List of professions
 
-1.     Professions concerned with the following that is-
+1. Professions concerned with the following that is-
 
-(a)    Law;
+(a) Law;
 
-(b)    Medicine;
+(b) Medicine;
 
-(c)    Dentistry;
+(c) Dentistry;
 
-(d)    Midwifery and nursing;
+(d) Midwifery and nursing;
 
-(e)     Engineering;
+(e) Engineering;
 
-(f)     Surveys;
+(f) Surveys;
 
-(g)    Architecture;
+(g) Architecture;
 
-(h)    Accountancy; and
+(h) Accountancy; and
 
-(i)     Any other technological or scientific discipline.
+(i) Any other technological or scientific discipline.
 
-2.     Other professions which the President may by order specify.
+2. Other professions which the President may by order specify.
 
 SUBSIDIARY LEGISLATION
 

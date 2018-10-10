@@ -6,57 +6,57 @@ ARRANGEMENT OF SECTIONS
 
 Establishment of the National Metallurgical Development Centre
 
-1.     Establishment of the National Metallurgical Development Centre.
+1. Establishment of the National Metallurgical Development Centre.
 
-2.     Membership of the Governing Board of the Centre.
+2. Membership of the Governing Board of the Centre.
 
-3.     Functions of the Board.
+3. Functions of the Board.
 
 ### PART II
 
 Functions of the Centre
 
-4.     Functions of the Centre.
+4. Functions of the Centre.
 
-5.     Power of Minister to give directions.
+5. Power of Minister to give directions.
 
 ### PART III
 
 Staff of the Centre
 
-6.     Appointment of the Director and principal officers of the Centre.
+6. Appointment of the Director and principal officers of the Centre.
 
-7.     Other staff of the Centre.
+7. Other staff of the Centre.
 
-8.     Service in the Centre to be pensionable.
+8. Service in the Centre to be pensionable.
 
-9.     Conditions of service of officers and staff.
+9. Conditions of service of officers and staff.
 
-10.    Power to enter land and payment of compensation.
+10. Power to enter land and payment of compensation.
 
-11.    Power to acquire land.
+11. Power to acquire land.
 
 ### PART IV
 
 Funds of the Centre and other financial provisions
 
-12.      Funds of the Centre.
+12. Funds of the Centre.
 
-13.      General reserve.
+13. General reserve.
 
-14.      Power to borrow and invest.
+14. Power to borrow and invest.
 
-15.      Annual estimates, accounts and audit.
+15. Annual estimates, accounts and audit.
 
-16.      Annual report.
+16. Annual report.
 
 ### PART V
 
-17.    Limitation of suits against the Centre.
+17. Limitation of suits against the Centre.
 
-18.    Service of documents.
+18. Service of documents.
 
-19.    Restriction on execution against the property of the Centre.
+19. Restriction on execution against the property of the Centre.
 
 Miscellaneous
 
@@ -76,73 +76,73 @@ An Act to establish the National Metallurgical Development Centre with responsib
 
 Establishment of the National Metallurgical Development Centre
 
-1.     Establishment of the National Metallurgical Development Centre
+1. Establishment of the National Metallurgical Development Centre
 
-(1)    There is hereby established a body to be known as the National Metallurgical Development Centre (in this Act referred to as "the Centre").
+(1) There is hereby established a body to be known as the National Metallurgical Development Centre (in this Act referred to as "the Centre").
 
-(2)    The Centre shall be a body corporate with perpetual succession and a common seal.
+(2) The Centre shall be a body corporate with perpetual succession and a common seal.
 
-(3)    The Centre may sue or be sued in its corporate name and may for the purposes of its functions under this Act and subject to the Land Use Act, hold, acquire and dispose of any property movable or immovable.
+(3) The Centre may sue or be sued in its corporate name and may for the purposes of its functions under this Act and subject to the Land Use Act, hold, acquire and dispose of any property movable or immovable.
 
-1.     Membership of the Governing Board of the Centre
+1. Membership of the Governing Board of the Centre
 
-(1)    There is hereby established for the Centre a Governing Board which shall comprise-
+(1) There is hereby established for the Centre a Governing Board which shall comprise-
 
-(a)    a chairman to be appointed by the President on the recommendation of the Minister;
+(a) a chairman to be appointed by the President on the recommendation of the Minister;
 
-(b)    one representative of the Federal Ministry of Power and Steel;
+(b) one representative of the Federal Ministry of Power and Steel;
 
-(c)    one representative of the Ajaokuta Steel Company;
+(c) one representative of the Ajaokuta Steel Company;
 
-(d)    one representative of the Nigerian Coal Corporation;
+(d) one representative of the Nigerian Coal Corporation;
 
-(e)    one representative of the National Iron Ore Mining Company; one representative of the Federal Ministry of Finance;
+(e) one representative of the National Iron Ore Mining Company; one representative of the Federal Ministry of Finance;
 
-(f)     one representative of the National Planning Commission;
+(f) one representative of the National Planning Commission;
 
-(g)    one representative of the Manufacturers Association of Nigeria (Steel Group);
+(g) one representative of the Manufacturers Association of Nigeria (Steel Group);
 
-(h)    three other persons to be appointed by the President on the recommendation of the Minister, being persons of proven integrity who by reason of their ability, experience and specialised knowledge of the metallurgical and allied industries, or by reason of their professional or business attainment are, in the opinion of the Minister, capable of making useful contributions to the work of the Centre; and
+(h) three other persons to be appointed by the President on the recommendation of the Minister, being persons of proven integrity who by reason of their ability, experience and specialised knowledge of the metallurgical and allied industries, or by reason of their professional or business attainment are, in the opinion of the Minister, capable of making useful contributions to the work of the Centre; and
 
-(i)     the Director of the Centre.
+(i) the Director of the Centre.
 
-(2)    The supplementary provisions contained in the Schedule to this Act shall have effect with respect to the tenure of office of members, the proceedings of the Board and the other matters therein contained.
+(2) The supplementary provisions contained in the Schedule to this Act shall have effect with respect to the tenure of office of members, the proceedings of the Board and the other matters therein contained.
 
-3.     Functions of the Board
+3. Functions of the Board
 
 The Board shall be responsible for-
 
-(a)    the formulation of the broad policy for the Centre in accordance with such guidelines as may, from time to time, be issued by the Federal Government; and
+(a) the formulation of the broad policy for the Centre in accordance with such guidelines as may, from time to time, be issued by the Federal Government; and
 
-(b)    ensuring full compliance with the provisions of this Act.
+(b) ensuring full compliance with the provisions of this Act.
 
 ### PART II
 
 Functions of the Centre
 
-4.     Functions of the Centre
+4. Functions of the Centre
 
 The functions of the Centre shall be to-
 
-(a)    undertake, through laboratory research and tests, mineralogical appraisal, examination and evaluation of mineral ore samples for the purpose of ascertaining the mineral species contained therein;
+(a) undertake, through laboratory research and tests, mineralogical appraisal, examination and evaluation of mineral ore samples for the purpose of ascertaining the mineral species contained therein;
 
 (b     carry out liberation studies, characterisation and identification of ores and other material microstructural components, designed to disengage mineral species, so as to release their valuable grain constituents for industrial use;
 
-(c)    up-grade the qualities of Nigerian low-grade ores and minerals through beneficiation techniques and processes with a view to achieving an efficient and economic extraction of the materials contained therein with the purpose of ensuring self-sufficiency and rendering unnecessary the importation of such ores or metals as are produced therefrom
+(c) up-grade the qualities of Nigerian low-grade ores and minerals through beneficiation techniques and processes with a view to achieving an efficient and economic extraction of the materials contained therein with the purpose of ensuring self-sufficiency and rendering unnecessary the importation of such ores or metals as are produced therefrom
 
-(d)    carry out applied research on and develop both conventional and new refractory products using indigenous mineral raw materials;
+(d) carry out applied research on and develop both conventional and new refractory products using indigenous mineral raw materials;
 
 (e) conduct applied research into the quality of coals available in Nigeria and develop metallurgical coke from indigenous coal samples;
 
 (f) develop substitutes for strategic ferrous and non-ferrous alloys by increasing the adaptation and use of locally produced mineral raw materials as alloying elements to be used in the nation's metallurgical and allied industries;
 
-(g)  improve the performance of the processes used in the metallurgical and allied industries through the application of fundamental scientific knowledge to the solution of problems related to steel production, fabrication and utilisation;
+(g) improve the performance of the processes used in the metallurgical and allied industries through the application of fundamental scientific knowledge to the solution of problems related to steel production, fabrication and utilisation;
 
 (h) conduct research into foundry problems associated with Nigeria's metallurgical and allied industries with particular emphasis on problems relating to foundry moulding materials, smelting operations and casting techniques;
 
 (i) design and develop pilot flow-sheets for various metallurgical processes, especially for the economic standardisation and beneficiation of locally produced ores;
 
-(j)  study fundamental aspects of metals and alloys and determine failure nodes in engineering components and structures with particular emphasis on proofs and failure stresses of steels and defects in steel ingots and rolled products;
+(j) study fundamental aspects of metals and alloys and determine failure nodes in engineering components and structures with particular emphasis on proofs and failure stresses of steels and defects in steel ingots and rolled products;
 
 (k) develop and fabricate standard samples of machine tools and other engineering components and structures for analytical purposes with a view to their eventual adaptation and use on a large scale in the metallurgical and allied industries;
 
@@ -152,13 +152,13 @@ The functions of the Centre shall be to-
 
 (n) develop enamelling and other techniques for the surface coating of metals including electroplating, galvanising and anodic protection, and study problems relating to corrosion of metals and alloys and modes of preventing them;
 
-(0)  render both public and private establishments engaged in the metallurgical and allied industries, consultancy and technical services at various stages, (including exploration, processing, smelting, design and fabrication stages) and charge fees for such services;
+(0) render both public and private establishments engaged in the metallurgical and allied industries, consultancy and technical services at various stages, (including exploration, processing, smelting, design and fabrication stages) and charge fees for such services;
 
 (p) liaise, collaborate and enter into joint ventures with other institutions whether in Nigeria or elsewhere whose functions are in one way or the other related to those of the Centre or which may require the services of the Centre;
 
 (q) establish, organise, run, operate, conduct and participate in such training courses, lectures, seminars, conferences, symposia and similar study groups as may enhance the activities of the Centre or the efficiency of any of its officers and employees;
 
-(r)  establish such facilities and do such other things which are conducive to the discharge of its functions under this Act; and
+(r) establish such facilities and do such other things which are conducive to the discharge of its functions under this Act; and
 
 (s) commercialise any of its scientific break-throughs for the benefit of Nigerian industries as may be approved by the Board and in accordance with relevant Nigerian laws.
 
@@ -174,9 +174,9 @@ Staff of the Centre
 
 (1) There shall be appointed for the Centre an officer to be designated as the Director of the Centre who shall be the chief executive of the Centre and shall be responsible for the day-to-day running and management of the affairs of the Centre.
 
-(2)  The Director shall be appointed by the President on the recommendation of the Minister.
+(2) The Director shall be appointed by the President on the recommendation of the Minister.
 
-(3)  The Director shall be of the rank of a Permanent Secretary in the public service of the Federation.
+(3) The Director shall be of the rank of a Permanent Secretary in the public service of the Federation.
 
 (4) The Director shall be a person who possesses a qualification in metallurgy, mineral process engineering, industrial chemistry or any of the pure and applied sciences, from a recognised university or cognate institution and has since his qualification been actively employed or engaged in the metallurgical or allied industry in a managerial capacity for a continuous period of not less than ten years.
 
@@ -226,9 +226,9 @@ Without prejudice to the provisions of section 6 of this Act, the terms and cond
 
 (b) carrying on drilling, quarrying, excavation or trenching activities thereon;
 
-(c)  constructing any structure and placing, maintaining, examining, repairing, altering or removing any installation or beacon for the purpose of survey as aforementioned;
+(c) constructing any structure and placing, maintaining, examining, repairing, altering or removing any installation or beacon for the purpose of survey as aforementioned;
 
-(d)  cutting down or removing such trees and underwood that may interfere with such surveyor other activities as aforementioned;
+(d) cutting down or removing such trees and underwood that may interfere with such surveyor other activities as aforementioned;
 
 (e) carrying out such other relevant activities necessary to give effect to the functions of the Centre as set out in section 4 of this Act.
 
@@ -260,13 +260,13 @@ Without prejudice to the provisions of section 6 of this Act, the terms and cond
 
 (6) The compensation, if any, payable under the Land Use Act for the acquisition of any land under this section or for the revocation of any rights relating to the land, where applicable, shall in the first instance be paid by the Federal Government but the Centre shall refund to that Government any compensation so paid and all incidental expenses incurred by that Government.
 
-(7)  A plan of any land referred to in subsection (2) of this section-
+(7) A plan of any land referred to in subsection (2) of this section-
 
 (a) containing measurements of the boundaries of the land;
 
 (b) showing the relationship of the land to any sufficient identifying mark;  and
 
-(c)  signed by the Director,shall be a sufficient description of the land for the purposes of an application under that subsection.
+(c) signed by the Director,shall be a sufficient description of the land for the purposes of an application under that subsection.
 
 (8) The Centre shall not, without the approval in writing of the Governor of the State in which the land is situated, alienate, mortgage, charge or otherwise demise any immovable property which has been vested in the Centre under this section or in respect of which a right of occupancy has been so granted to the Centre.
 
@@ -290,7 +290,7 @@ Funds of the Centre and other financial provisions
 
 (3) The Centre may, from time to time, apply the proceeds of the fund established in pursuance of subsection (1) of this section for the following purposes, that is-
 
-(a)  to the cost of administration of the Centre and any research work carried on by or on behalf of the Centre;
+(a) to the cost of administration of the Centre and any research work carried on by or on behalf of the Centre;
 
 (b) to the provision of such training for employees of the Centre as the Board may deem necessary;
 
@@ -340,7 +340,7 @@ Miscellaneous
 
 (2) Notwithstanding anything in any other enactment, no suit against a member of the Board, a Director, or any other officer or employee of the Centre for any act done in pursuance or execution of this Act or any other enactment or law, or of any public duty or authority, or in respect of any alleged neglect or default in the execution of this Act or such enactment or law, duty or authority, shall lie or be instituted in any court unless-
 
-(a)  it is commenced within six months next after the act, neglect or default complained of; or
+(a) it is commenced within six months next after the act, neglect or default complained of; or
 
 (b) in the case of a continuation of damage or injury, within six months next after the ceasing thereof.
 
@@ -434,7 +434,7 @@ Committees
 
 (2) No decision of any committee of the Board shall take effect until it is confirmed by the Board.
 
-(3)  Every committee appointed by the Board under the foregoing provisions of this paragraph shall be presided over by a member of the Board and shall be made up of such number of persons, not necessarily all members of the Board, as the Board may determine in each case.
+(3) Every committee appointed by the Board under the foregoing provisions of this paragraph shall be presided over by a member of the Board and shall be made up of such number of persons, not necessarily all members of the Board, as the Board may determine in each case.
 
 Miscellaneous
 

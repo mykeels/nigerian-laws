@@ -4,51 +4,51 @@ ARRANGEMENTOF SECTIONS
 
 ### PART I- Customs duties of goods imported into or exported from Nigeria
 
-1.       General rules for the interpretation of the Harmonized Systems.
+1. General rules for the interpretation of the Harmonized Systems.
 
-2.       Classification of goods imported
+2. Classification of goods imported
 
-3.       Charge of import duty.
+3. Charge of import duty.
 
-4.       Partial exemption of fish from import duty
+4. Partial exemption of fish from import duty
 
-5.       Concession for utilization of Nigerian gas.
+5. Concession for utilization of Nigerian gas.
 
-6.       Levy on imported sugar
+6. Levy on imported sugar
 
-7.       Customs duty rate on raw materials for the manufacture of essential drugs
+7. Customs duty rate on raw materials for the manufacture of essential drugs
 
-8.       Exemptions from import duty.
+8. Exemptions from import duty.
 
-9.       Goods prohibited from being imported
+9. Goods prohibited from being imported
 
-10.     Restriction on importation of arms and ammunitions.
+10. Restriction on importation of arms and ammunitions.
 
-11.     Goods absolutely prohibited for exportation.
+11. Goods absolutely prohibited for exportation.
 
-12.     Restriction on modification of duty imposed on goods, etc.
+12. Restriction on modification of duty imposed on goods, etc.
 
-13.     Powers to impose, vary or remove any import duty and to amend the Schedules.
+13. Powers to impose, vary or remove any import duty and to amend the Schedules.
 
-14.     Effect of enactment reducing or removing duty.
+14. Effect of enactment reducing or removing duty.
 
-15.     Excess duty to be paid.
+15. Excess duty to be paid.
 
-16.     Effect of increase of duty or reduction.
+16. Effect of increase of duty or reduction.
 
-17.     Duty on goods imported in containers.
+17. Duty on goods imported in containers.
 
-18.     Importation of prohibited goods.
+18. Importation of prohibited goods.
 
-19.     Columns that may or may not form part of the Act.
+19. Columns that may or may not form part of the Act.
 
 ### PART II - General rules for the interpretation of the Harmonized System.
 
-20.     Classification
+20. Classification
 
 ### PART III – Excise, Tariff, etc.
 
-21.     Goods liable to excise duty.
+21. Goods liable to excise duty.
 
 ### Part IV - Citation, repeals and interpretation
 
@@ -64,187 +64,187 @@ An Act to provide for the imposition of ad valorem customs and excise duties pay
 
 ### PART I - Customs duties of goods imported into or exported from Nigeria.
 
-1.       General rules for the interpretation of the Harmonized System.
+1. General rules for the interpretation of the Harmonized System.
 
 Theclassification of goods according to various Schedules to this Act shall be in accordance with the General Rules for the interpretation of the Harmonized System set out in Part II of this Act.
 
-2.       Classification of goods imported Goods imported into Nigeria shall, for customs purposes, be in accordance with the form of customs tariff set out in the First Schedule to this Act.
+2. Classification of goods imported Goods imported into Nigeria shall, for customs purposes, be in accordance with the form of customs tariff set out in the First Schedule to this Act.
 
 [First Schedule]
 
-3.       Charge of import duty.
+3. Charge of import duty.
 
 Where in any heading or in any Harmonized System Code, (in this Act referred to as the H.S. Code) of the First Schedule to this Act, a rate of duty payable shall be the amount of the rate shown in the Customs Duty Rate for the year or years in which the goods concerned are imported into Nigeria, and on the importation into Nigeria of goods classified in that heading or H. S. Code there shall, subject to the provision of section 4 of this Act, be charged an import duty at the rate shown in the Customs Duty Rate column.
 
-4.       Partial exemption of fish from import duty
+4. Partial exemption of fish from import duty
 
 In Chapter 3 of the First Schedule to this Act, the rates of import duty specified in the Customs Duty Rate Column H.S. Code 0304.9000 and H.S. Code 0306.1100 to 0307.9900 shall not apply to fish-
 
-a.       caught, processed and landed; or
+a. caught, processed and landed; or
 
-b.       processed and landed aboard vessels flying the Nigerian flag and owned by Nigerian citizens or companies.
+b. processed and landed aboard vessels flying the Nigerian flag and owned by Nigerian citizens or companies.
 
-4A.    Any machinery, equipment or spare part imported into Nigeria by an industrial establishment, engaged in the exploration, processing or power generation through the utilisation of Nigerian gas, for its operation, shall be exempted from the customs duties setout in Schedule 1 to this Act .
+4A. Any machinery, equipment or spare part imported into Nigeria by an industrial establishment, engaged in the exploration, processing or power generation through the utilisation of Nigerian gas, for its operation, shall be exempted from the customs duties setout in Schedule 1 to this Act .
 
-5.       Concession for utilization of Nigerian gas
+5. Concession for utilization of Nigerian gas
 
 Anymachinery, equipment or spare part imported into Nigeria by an industrial establishment engaged in the exploration, processing or power generation through the utilization of Nigerian gas, for its operation, shall be exempted from the customs duties set out in the First Schedule to this Act.
 
-6.       Levy on imported sugar
+6. Levy on imported sugar
 
 In addition to the customs duty and other approved charges, a five per cent levy on the C.I.F value is hereby imposed on imported sugar.
 
-7.       Customs duty rate on raw materials for the manufacture of essential drugs
+7. Customs duty rate on raw materials for the manufacture of essential drugs
 
 Theimportation of raw materials for the manufacture of drugs by bona fide drug manufacturers shall attract a ten per cent customs duty rate.
 
-8.       Exemption from import duty
+8. Exemption from import duty
 
 Goodsspecified in the Second Schedule of this Act imported into Nigeria shall, subject to such conditions as are set out therein, be exempted from the duties set out in the Custom Duty Rate Column of the First Schedule to this Act.
 
-9.       Goods prohibited from being imported
+9. Goods prohibited from being imported
 
 Goodsspecified in the Third and Fourth Schedules to this Act shall be prohibited from being imported into Nigeria.
 
 [First Schedule]
 
-10.     Restriction on importation of arms and ammunitions
+10. Restriction on importation of arms and ammunitions
 
 The goods classified in the first Schedule to this Act as arms and ammunitions, except for arms and ammunitions imported by the Armed Forces of Nigeria and the Nigeria Police Force under the Second Schedule to this Act, shall only be imported into Nigeria by licence issued by the appropriate authorities.
 
-11.     Goods absolutely prohibited for exportation
+11. Goods absolutely prohibited for exportation
 
 The goods specified in the Sixth Schedule to this Act shall remain in force for seven years with respect thereto from the date of commencement of this Act.
 
-12.     Restriction on modification of duty imposed on goods, etc.
+12. Restriction on modification of duty imposed on goods, etc.
 
 The duties imposed on goods specified in the First Schedule to this Act shall remain in force for seven years with respect thereto from the date of commencement of this Act.
 
 13. Power to impose, vary or remove any import duty and to amend the Schedules.
 
-(1).    Notwithstanding the provisions of section 12 of this Act, the President may, on the recommendation of the Tariff Review Board, by order –
+(1). Notwithstanding the provisions of section 12 of this Act, the President may, on the recommendation of the Tariff Review Board, by order –
 
-a)      impose, vary or remove any import or excise duty
+a) impose, vary or remove any import or excise duty
 
-b)      add to or vary any of the Schedules;
+b) add to or vary any of the Schedules;
 
-c)       delete the whole or any part of any of the Schedules;
+c) delete the whole or any part of any of the Schedules;
 
-d)      substitute a new Schedule or Schedules thereto.
+d) substitute a new Schedule or Schedules thereto.
 
-(2).    Without prejudice to the generality of section 12 (1) (a) of the Interpretation Act (which allows different provisions to be made for different circumstances) an order made under this section may differentiate between the goods of different countries for the purpose of implementing the provisions of any agreement between the Government of the Federal Republic of Nigeria and any other government or any international organization or authority.
+(2). Without prejudice to the generality of section 12 (1) (a) of the Interpretation Act (which allows different provisions to be made for different circumstances) an order made under this section may differentiate between the goods of different countries for the purpose of implementing the provisions of any agreement between the Government of the Federal Republic of Nigeria and any other government or any international organization or authority.
 
-(3).    An order made under subsection (1) of this section shall have effect from the date of its publication in the Gazette
+(3). An order made under subsection (1) of this section shall have effect from the date of its publication in the Gazette
 
-14.     Effect of enactment reducing or removing duty.
+14. Effect of enactment reducing or removing duty.
 
-(1).    Where this or any other enactment has the effect of reducing or removing the duty on any goods, any person by whom any such goods are entered shall, where the minister so directs
+(1). Where this or any other enactment has the effect of reducing or removing the duty on any goods, any person by whom any such goods are entered shall, where the minister so directs
 
-a.       in the case of a reduced duty, pay the reduced duty thereon and in addition thereto shall pay to the Nigerian Customs Service an amount equal to the difference between the duty payable immediately before the coming into force of such enactment and the reduced duty payable thereunder; or
+a. in the case of a reduced duty, pay the reduced duty thereon and in addition thereto shall pay to the Nigerian Customs Service an amount equal to the difference between the duty payable immediately before the coming into force of such enactment and the reduced duty payable thereunder; or
 
-ii.       give security to the Nigerian Customs Service by bond or otherwise for the amount;
+ii. give security to the Nigerian Customs Service by bond or otherwise for the amount;
 
-b.       in the case of a removed duty
+b. in the case of a removed duty
 
-i.        pay to the Nigerian Customs Service, an amount equal to the duty payable immediately before the coming into force of such enactment; or
+i. pay to the Nigerian Customs Service, an amount equal to the duty payable immediately before the coming into force of such enactment; or
 
-ii.       give security to the Nigerian Customs Service by bond or otherwise for such amount.
+ii. give security to the Nigerian Customs Service by bond or otherwise for such amount.
 
-(2).    All payments made under subsection (1) of this section shall, without prejudice to the provisions of section (1) of this Act, be brought to account as duties of customs.
+(2). All payments made under subsection (1) of this section shall, without prejudice to the provisions of section (1) of this Act, be brought to account as duties of customs.
 
-15.     Excess duty to be repaid
+15. Excess duty to be repaid
 
-(1)     If the amount paid as duty on any goods under any provision of this Act or any other enactment, together with any additional amount paid under section 14 (1) of this Act, exceeds the duty payable on such goods immediately after the expiration of such provision, the balance shall, on application, be repaid by the Nigeria Customs Service to the person who paid such amount.
+(1) If the amount paid as duty on any goods under any provision of this Act or any other enactment, together with any additional amount paid under section 14 (1) of this Act, exceeds the duty payable on such goods immediately after the expiration of such provision, the balance shall, on application, be repaid by the Nigeria Customs Service to the person who paid such amount.
 
-(2)     Subject to the provisions of section 14 (2) of this Act, any bond or other security given by any person under section 14 (1) of this Act shall, on the expiration of the enactment concerned, be cancelled.
+(2) Subject to the provisions of section 14 (2) of this Act, any bond or other security given by any person under section 14 (1) of this Act shall, on the expiration of the enactment concerned, be cancelled.
 
-16.     Effect of increase of duty or reduction
+16. Effect of increase of duty or reduction
 
-(1)     Where, in accordance with the provisions of this Act or any enactment, any new customs import duty is imposed or any customs duty is increased and any goods in respect of which the duty is payable are delivered on or after the day on which the new increased duly takes effect in pursuance of a contract made before that day, the seller of the goods may, in the absence of any agreement to the contrary, recover, as an addition to the contract price, a sum equal to any amount paid to him in respect of the goods on account of the new duty or the increase of duty, as the case may be.
+(1) Where, in accordance with the provisions of this Act or any enactment, any new customs import duty is imposed or any customs duty is increased and any goods in respect of which the duty is payable are delivered on or after the day on which the new increased duly takes effect in pursuance of a contract made before that day, the seller of the goods may, in the absence of any agreement to the contrary, recover, as an addition to the contract price, a sum equal to any amount paid to him in respect of the goods on account of the new duty or the increase of duty, as the case may be.
 
-(2)     Where, in accordance with the provisions of this Act or any other enactment, any customs import duty is reduced and any goods affected by the duty are delivered on or after the day on which the reduction in the duty takes effect or the duty ceases in pursuance of a contract made before that day, the purchaser of the goods, in the absence of any agreement to the contrary may, if the seller of the goods has had in respect of those goods the benefit of the reduction or removal of the duty, deduct from the contract price a sum equal to the amount of the reduction of the duty or the amount of the duty, as the case may be.
+(2) Where, in accordance with the provisions of this Act or any other enactment, any customs import duty is reduced and any goods affected by the duty are delivered on or after the day on which the reduction in the duty takes effect or the duty ceases in pursuance of a contract made before that day, the purchaser of the goods, in the absence of any agreement to the contrary may, if the seller of the goods has had in respect of those goods the benefit of the reduction or removal of the duty, deduct from the contract price a sum equal to the amount of the reduction of the duty or the amount of the duty, as the case may be.
 
-(3)     Where the contract price has been or is to be adjusted in accordance with this section and any repayment is made to the seller under section 15 of this Act, the seller shall allow the benefit of such payment to the buyer.
+(3) Where the contract price has been or is to be adjusted in accordance with this section and any repayment is made to the seller under section 15 of this Act, the seller shall allow the benefit of such payment to the buyer.
 
-17.     Duty on goods imported in containers
+17. Duty on goods imported in containers
 
 If any goods chargeable with duty according to the weight or quantity thereof are imported in any container intended for sale, or of a kind usually sold with goods when they are sold retail, and if such container is marked or labeled as containing, or commonly sold as containing or is commonly reputed to contain, a specific weight or quantity of such goods, then such container shall be deemed to contain not less than such specific weight or quantity.
 
-18.     Importation of prohibited goods
+18. Importation of prohibited goods
 
 If for any reason whatsoever the Federal Government approves the importation of any item under the Third Schedule to this Act the beneficiary shall pay the customs duty as prescribed in the First Schedule to this Act or the duty specified in the letter of approval in addition to such other approved charges, provided the approval was obtained prior to the importation.
 
-19.     Columns that may or may not form part of Act
+19. Columns that may or may not form part of Act
 
 In the First, Third and Fifth Schedules to this Act., the following columns shall form part of this Act-
 
-a.       Heading number;
+a. Heading number;
 
-b.       H.S Code;
+b. H.S Code;
 
-c.       Tariff description;
+c. Tariff description;
 
-d.       Customs Duty Rate;
+d. Customs Duty Rate;
 
 Providedthat the following statistical particulars may also be published in Schedules 1, 3 and 5 for the purpose of correlating the import and export list code numbers with the nomenclature heading
 
-i.        statistical description;
+i. statistical description;
 
-ii.       unit of quantity but shall not form part of this Act.
+ii. unit of quantity but shall not form part of this Act.
 
 ### PART II
 
 Generalrules for the interpretation of the Harmonized System
 
-20.     Classification of goods
+20. Classification of goods
 
 Classificationof goods in the nomenclature shall be governed by the following principles-
 
-(1)     The titles of sections, chapters and sub—chapters are provided for ease of reference only for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions-
+(1) The titles of sections, chapters and sub—chapters are provided for ease of reference only for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and, provided such headings or notes do not otherwise require, according to the following provisions-
 
-(2) a.           Any reference in a heading to an article shall be taken to include a reference to that article incomplete or unfinished, provided that, as presented, the incomplete or unfinished article has the essential character of the complete or finished article.
+(2) a. Any reference in a heading to an article shall be taken to include a reference to that article incomplete or unfinished, provided that, as presented, the incomplete or unfinished article has the essential character of the complete or finished article.
 
 It shall also be taken to include a reference to that article complete or finished (or failing to be classified as complete or finished by virtue of this rule), presented, unassembled or disassembled.
 
-b.       Any reference in a heading to a material or substance shall be taken to include a reference to mixtures or combinations of that material or substance with other materials or substance. Any reference to goods of a given material or substance shall be taken to include a reference to goods consisting wholly or partly of such material or substance. The classification of goods consisting of more than one material or substance shall be according to the principles of rule 3.
+b. Any reference in a heading to a material or substance shall be taken to include a reference to mixtures or combinations of that material or substance with other materials or substance. Any reference to goods of a given material or substance shall be taken to include a reference to goods consisting wholly or partly of such material or substance. The classification of goods consisting of more than one material or substance shall be according to the principles of rule 3.
 
-(3)     When by application of rule 2 (b) or for any other reason, goods are, prima facie classifiable under two or more headings, classification shall be effected as follows - a. the heading, which provides the most specific description, shall be referred to heading providing a more general description. However when two or more headings each refer to part only of the materials or substances contained in mixed or composite goods or to part only of the items in a set put up for retail sale, these headings are to be regarded as equally specific in relation to those goods, even if one of them gives a more complete or precise description of the goods
+(3) When by application of rule 2 (b) or for any other reason, goods are, prima facie classifiable under two or more headings, classification shall be effected as follows - a. the heading, which provides the most specific description, shall be referred to heading providing a more general description. However when two or more headings each refer to part only of the materials or substances contained in mixed or composite goods or to part only of the items in a set put up for retail sale, these headings are to be regarded as equally specific in relation to those goods, even if one of them gives a more complete or precise description of the goods
 
-b.       mixtures, composite goods consisting of different materials or made up of different components, and goods put up in sets for retail sale, which cannot be classified by reference to 3 (a), shall be classified as if they consisted of the material or component which gives them their essential character, in so far as this criterion is applicable.
+b. mixtures, composite goods consisting of different materials or made up of different components, and goods put up in sets for retail sale, which cannot be classified by reference to 3 (a), shall be classified as if they consisted of the material or component which gives them their essential character, in so far as this criterion is applicable.
 
-c.       when goods cannot be classified by reference to 3 (a) or 3 (b), they shall be classified under the heading, which occur last in numerical order among those which equally merit consideration.
+c. when goods cannot be classified by reference to 3 (a) or 3 (b), they shall be classified under the heading, which occur last in numerical order among those which equally merit consideration.
 
-(4)     Goods, which cannot be classified in accordance with the above rules, shall be classified under the heading appropriate to the goods to which they are most akin.
+(4) Goods, which cannot be classified in accordance with the above rules, shall be classified under the heading appropriate to the goods to which they are most akin.
 
-(5)     In addition to the foregoing provisions, the following rules shall apply in respect of the goods referred to therein.-
+(5) In addition to the foregoing provisions, the following rules shall apply in respect of the goods referred to therein.-
 
-a.       camera cases, musical instrument cases, gun cases, drawing instrument cases, necklace cases and similar containers, specifically shaped or fitted to contain a specific article or set of articles, suitable for long-term use and presented with the articles for which they are intended, shall be classified with such articles when of a kind normally soled therewith. This rule does not, however, apply to containers which gives the whole its essential character.
+a. camera cases, musical instrument cases, gun cases, drawing instrument cases, necklace cases and similar containers, specifically shaped or fitted to contain a specific article or set of articles, suitable for long-term use and presented with the articles for which they are intended, shall be classified with such articles when of a kind normally soled therewith. This rule does not, however, apply to containers which gives the whole its essential character.
 
-b.       Subject to the provisions of rule 5 (a) above, packaging materials and packing containers presented with the goods therein, shall be classified with the goods if they are of a kind normally used for packing such goods. However, this provision does not apply when such packing materials or packing containers are clearly suitable for repetitive use.
+b. Subject to the provisions of rule 5 (a) above, packaging materials and packing containers presented with the goods therein, shall be classified with the goods if they are of a kind normally used for packing such goods. However, this provision does not apply when such packing materials or packing containers are clearly suitable for repetitive use.
 
-(6).    For legal purposes, the classification of goods in the sub-headings of a heading shall be determined according to the terms of those sub-headings and any related subheading notes and, mutates mutandis, to the above rules, on the understanding that only sub-headings at the same level are comparable. For the purpose of this rule, the relative section and chapter notes also apply, unless the context otherwise requires.
+(6). For legal purposes, the classification of goods in the sub-headings of a heading shall be determined according to the terms of those sub-headings and any related subheading notes and, mutates mutandis, to the above rules, on the understanding that only sub-headings at the same level are comparable. For the purpose of this rule, the relative section and chapter notes also apply, unless the context otherwise requires.
 
 ### PART III
 
 ExciseTariff, etc
 
-21.     Goods liable to excise duty
+21. Goods liable to excise duty
 
-(1)     Goods manufactured in Nigeria and specified in the Fifth Schedule to this Act shall be charged with duties of excise at the rates specified under the Duty Column in the said Schedule.
+(1) Goods manufactured in Nigeria and specified in the Fifth Schedule to this Act shall be charged with duties of excise at the rates specified under the Duty Column in the said Schedule.
 
 ### PART IV
 
 Citation,repeals and interpretation
 
-22.     Citation, repeals and interpretation
+22. Citation, repeals and interpretation
 
-1.       This Act may be cited as the Customs, Excise Tariff, etc (Consolidation) Act.
+1. This Act may be cited as the Customs, Excise Tariff, etc (Consolidation) Act.
 
-2.       The Customs, Excise Tariff, etc. (Consolidation) Act is hereby repealed.
+2. The Customs, Excise Tariff, etc. (Consolidation) Act is hereby repealed.
 
-3.       “Minister” means the Minister charged with responsibility for matter relating to finance.
+3. “Minister” means the Minister charged with responsibility for matter relating to finance.
 
-4.       “Tariff Review Board” means the Board charged with the responsibility for the review of customs and excise tariff, etc. in this Act.
+4. “Tariff Review Board” means the Board charged with the responsibility for the review of customs and excise tariff, etc. in this Act.
 
 CUSTOMS,EXCISE TARIFF, ETC. (CONSOLIDATION) Act No. 4
 
@@ -258,15 +258,15 @@ LIVEANIMALS; ANIMAL PRODUCTS
 
 Section Note
 
-1.       Live animals.
+1. Live animals.
 
-2.       Meat and edible meat offal.
+2. Meat and edible meat offal.
 
-3.       Fish and crustaceans, molluscs and other aquatic invertebrates.
+3. Fish and crustaceans, molluscs and other aquatic invertebrates.
 
-4.       Dairy produces; birds’ eggs; natural honey; edible products of animal origin, not elsewhere specified or included.
+4. Dairy produces; birds’ eggs; natural honey; edible products of animal origin, not elsewhere specified or included.
 
-5.       Products of animal origin, not elsewhere specified or included.
+5. Products of animal origin, not elsewhere specified or included.
 
 SECTION II
 
@@ -274,23 +274,23 @@ VEGETABLE PRODUCTS
 
 Section Note
 
-6.       Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage .
+6. Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage .
 
-7.       Edible vegetables and certain root and tubers.
+7. Edible vegetables and certain root and tubers.
 
-8.       Edible fruit and nuts; peel of citrus fruit or melons.
+8. Edible fruit and nuts; peel of citrus fruit or melons.
 
-9.       Coffee, tea, mate and spices.
+9. Coffee, tea, mate and spices.
 
-10.     Cereals.
+10. Cereals.
 
-11.     Products of the milling industry; malt; starches; inulin; wheat gluten.
+11. Products of the milling industry; malt; starches; inulin; wheat gluten.
 
-12.     Oil seeds and oleaginous fruit; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straws and fodder.
+12. Oil seeds and oleaginous fruit; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straws and fodder.
 
-13.     Lac; gums, resins and other vegetable saps and extract .
+13. Lac; gums, resins and other vegetable saps and extract .
 
-14.     Vegetables plaiting materials; vegetable products not elsewhere specified or included.
+14. Vegetables plaiting materials; vegetable products not elsewhere specified or included.
 
 SECTION III
 
@@ -298,7 +298,7 @@ ANIMAL OR VEGETABLE FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE F
 
 ANIMAL OR VEGETABLE WAXES
 
-15.     Animal or vegetable fats and oil and their cleavage products; prepared edible fats; animal or vegetable waxes .
+15. Animal or vegetable fats and oil and their cleavage products; prepared edible fats; animal or vegetable waxes .
 
 SECTION IV
 
@@ -306,33 +306,33 @@ PREPAREDFOODSTUFFS; BEVERAGE, SPIRITS AND VINEGAR; TOBACCOAND MANUFACTURE TOBACC
 
 Section Note
 
-16.     Preparations of meat, of fish or of crustaceans , molluscs or other aquatic invertebrates .
+16. Preparations of meat, of fish or of crustaceans , molluscs or other aquatic invertebrates .
 
-17.     Sugars and Sugar confectionery.
+17. Sugars and Sugar confectionery.
 
-18.     Cocoa and cocoa preparations.
+18. Cocoa and cocoa preparations.
 
-19.     Preparations of cereals, flour, starch or milk; pastrycooks’ products.
+19. Preparations of cereals, flour, starch or milk; pastrycooks’ products.
 
-20.     Preparations of vegetables, fruit, nuts or other parts of plants
+20. Preparations of vegetables, fruit, nuts or other parts of plants
 
-21.     Miscellaneous edible preparations.
+21. Miscellaneous edible preparations.
 
-22.     Beverages, spirits and vinegar.
+22. Beverages, spirits and vinegar.
 
-23.     Residues and waste from the food industries; prepared animal fodder.
+23. Residues and waste from the food industries; prepared animal fodder.
 
-24.     Tobacco and manufactured tobacco substitutes.
+24. Tobacco and manufactured tobacco substitutes.
 
 SECTION V
 
 MINERAL PRODUCTS
 
-25.     Salt; sulphur; earths and stone; plastering materials, lime and cement.
+25. Salt; sulphur; earths and stone; plastering materials, lime and cement.
 
-26.     Ores, slag and ash.
+26. Ores, slag and ash.
 
-27.     Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes.
+27. Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes.
 
 SECTION VI
 
@@ -340,27 +340,27 @@ PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
 
 Section Note
 
-28.     Inorganic chemicals; organic or inorganic compounds of precious metals, of rareearth metals, of radioactive elements or of isotopes.
+28. Inorganic chemicals; organic or inorganic compounds of precious metals, of rareearth metals, of radioactive elements or of isotopes.
 
-29.     Organic chemicals.
+29. Organic chemicals.
 
-30.     Pharmaceutical products.
+30. Pharmaceutical products.
 
-31.     Fertilisers.
+31. Fertilisers.
 
-32.     Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks.
+32. Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks.
 
-33.     Essential oils and resinoids; perfumery, cosmetic or toilet preparations.
+33. Essential oils and resinoids; perfumery, cosmetic or toilet preparations.
 
-34.     Soap, organic surface-active agents, washing preparations, lubricating preparation, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster.
+34. Soap, organic surface-active agents, washing preparations, lubricating preparation, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster.
 
-35.     Albuminoidal substances; modified starches; glues; enzymes.
+35. Albuminoidal substances; modified starches; glues; enzymes.
 
-36.     Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations.
+36. Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations.
 
-37.     Photographic or cinematographic goods.
+37. Photographic or cinematographic goods.
 
-38.     Miscellaneous chemical products.
+38. Miscellaneous chemical products.
 
 SECTION VII
 
@@ -370,9 +370,9 @@ RUBBER AND ARTICLES THEREOF
 
 Section Notes
 
-39.     Plastics and articles thereof.
+39. Plastics and articles thereof.
 
-40.     Rubber and articles thereof.
+40. Rubber and articles thereof.
 
 SECTION VIII
 
@@ -380,11 +380,11 @@ RAW HIDES AND SKINS, LEATHER, FURSKINS AND ARTICLES THEREOF; SADDLERY AN HARNESS
 
 HANDBAGSAND SIMILAR CONTAINERS; ARTICLES OF ANIMAL GUT (OTHER THAN SILK-WORM GUT)
 
-41.     Raw hides and skins (other than furskins) and leather.
+41. Raw hides and skins (other than furskins) and leather.
 
-42.     Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut).
+42. Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut).
 
-43.     Furskins and artificial fur; manufactures thereof.
+43. Furskins and artificial fur; manufactures thereof.
 
 SECTION IX
 
@@ -392,21 +392,21 @@ WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL; CORK AND ARTICLES OF CORK;
 
 MANUFACTURESOF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS;BASKETWARE AND WICKERWORK
 
-44.     Wood and articles of wood; wood charcoal
+44. Wood and articles of wood; wood charcoal
 
-45.     Cork and articles of cork.
+45. Cork and articles of cork.
 
-46.     Manufactures of straw, of esparto or of other plaiting materials; basket ware and wickerwork.
+46. Manufactures of straw, of esparto or of other plaiting materials; basket ware and wickerwork.
 
 SECTION X
 
 PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD; PAPER AND PAPERBOARD AND ARTICLES THEREOF
 
-47.     Pulp of wood or of other fibrous cellulosic material; recovered (waste an scrap) paper or paperboard.
+47. Pulp of wood or of other fibrous cellulosic material; recovered (waste an scrap) paper or paperboard.
 
-48.     Paper and paperboard; articles of paper pulp, of paper or of paperboard.
+48. Paper and paperboard; articles of paper pulp, of paper or of paperboard.
 
-49.     Printed books, newspaper, pictures and other products of the printing industry; manuscripts, typescripts and plans.
+49. Printed books, newspaper, pictures and other products of the printing industry; manuscripts, typescripts and plans.
 
 SECTION XI
 
@@ -414,45 +414,45 @@ TEXTILESAND TEXTILE ARTICLES
 
 Section Note
 
-50.     Silk.
+50. Silk.
 
-51.     Wool, fine or coarse animal hair; horsehair yarn and woven fabric.
+51. Wool, fine or coarse animal hair; horsehair yarn and woven fabric.
 
-52.     Cotton.
+52. Cotton.
 
-53.     Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn.
+53. Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn.
 
-54.     Man-made filaments.
+54. Man-made filaments.
 
-55.     Man-made staple fibres.
+55. Man-made staple fibres.
 
-56.     Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof.
+56. Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof.
 
-57.     Carpets and other textile floor coverings.
+57. Carpets and other textile floor coverings.
 
-58.     Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery.
+58. Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery.
 
-59.     Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use.
+59. Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use.
 
-60.     Knitted or crocheted fabrics.
+60. Knitted or crocheted fabrics.
 
-61.     Articles of apparel and clothing accessories, knitted or crocheted.
+61. Articles of apparel and clothing accessories, knitted or crocheted.
 
-62.     Articles of apparel and clothing accessories, not knitted or crocheted.
+62. Articles of apparel and clothing accessories, not knitted or crocheted.
 
-63.     Other made up textile articles; set; worn clothing and worn textile articles; rags.
+63. Other made up textile articles; set; worn clothing and worn textile articles; rags.
 
 SECTION XII
 
 FOOTWEAR,HEADGEAR, UNBRELLAS, SUN UNMBRELLAS, WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS THEREOF; PREPARED FEATHERS AND ARTICLES MADE THEREWITH; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR
 
-64.     Footwear, gaiters and the like; parts of such articles
+64. Footwear, gaiters and the like; parts of such articles
 
-65.     Headgear and parts thereof.
+65. Headgear and parts thereof.
 
-66.     Umbrellas, sun umbrellas, walking-sticks, seat-stick, whips, riding-crops and parts thereof.
+66. Umbrellas, sun umbrellas, walking-sticks, seat-stick, whips, riding-crops and parts thereof.
 
-67.     Prepared feathers and down and articles made of feathers or of down; artificial flowers; of human hair.
+67. Prepared feathers and down and articles made of feathers or of down; artificial flowers; of human hair.
 
 SECTION XIII
 
@@ -460,11 +460,11 @@ ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS; CERAMIC
 
 GLASS AND GLASSWARE
 
-68.     Articles of stone, plaster, cement, asbestos, mica or similar materials.
+68. Articles of stone, plaster, cement, asbestos, mica or similar materials.
 
-69.     Ceramic products.
+69. Ceramic products.
 
-70.     Glass and glassware.
+70. Glass and glassware.
 
 SECTION XIV
 
@@ -472,7 +472,7 @@ NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, M
 
 ANDARTICLES THEREOF; IMITATION JEWELLERY; COIN
 
-71.     Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal and articles thereof; imitation jewellery; coin.
+71. Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal and articles thereof; imitation jewellery; coin.
 
 SECTION XV
 
@@ -480,29 +480,29 @@ BASE METALS AND ARTICLES OF BASE METAL
 
 Section Note
 
-72.     Iron and steel.
+72. Iron and steel.
 
-73.     Articles of iron or steel.
+73. Articles of iron or steel.
 
-74.     Copper and articles thereof.
+74. Copper and articles thereof.
 
-75.     Nickel and articles thereof.
+75. Nickel and articles thereof.
 
-76.     Aluminium and articles thereof.
+76. Aluminium and articles thereof.
 
-77.     (Reserved for possible future use in the Harmonized System)
+77. (Reserved for possible future use in the Harmonized System)
 
-78.     Lead and articles thereof.
+78. Lead and articles thereof.
 
-79.     Zinc and articles thereof.
+79. Zinc and articles thereof.
 
-80.     Tin and articles thereof.
+80. Tin and articles thereof.
 
-81.     Other base metals; cermets; articles thereof.
+81. Other base metals; cermets; articles thereof.
 
-82.     Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal.
+82. Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal.
 
-83.     Miscellaneous articles of base metal.
+83. Miscellaneous articles of base metal.
 
 SECTION XVI
 
@@ -510,9 +510,9 @@ MACHINERYAND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS THEREOF; SOUND R
 
 Section Notes
 
-84.     Nuclear reactors, boilers, machinery an mechanical appliances; parts thereof.
+84. Nuclear reactors, boilers, machinery an mechanical appliances; parts thereof.
 
-85.     Electrical machinery and equipment and parts thereof; sound recorder and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles.
+85. Electrical machinery and equipment and parts thereof; sound recorder and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles.
 
 SECTION XVII
 
@@ -520,13 +520,13 @@ VEHICLES,AIRCRAFT, VESSELS AND ASSOCIATED TRANSPORT EQUIPMENT
 
 Section Note
 
-86.     Railway or tramway locomotives, rolling-stock and parts thereof, railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro mechanical) traffic signaling equipment of all kinds.
+86. Railway or tramway locomotives, rolling-stock and parts thereof, railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro mechanical) traffic signaling equipment of all kinds.
 
-87.     Vehicles other than railway or tramway rolling – stock, and parts and accessories thereof
+87. Vehicles other than railway or tramway rolling – stock, and parts and accessories thereof
 
-88.     Aircraft, spacecraft, and parts thereof.
+88. Aircraft, spacecraft, and parts thereof.
 
-89.     Ships, boats and floating structures.
+89. Ships, boats and floating structures.
 
 SECTION XVIII
 
@@ -534,9 +534,9 @@ OPTICAL,PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL O
 
 90      Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof.
 
-91.     Clocks and watches and parts thereof.
+91. Clocks and watches and parts thereof.
 
-92.     Musical instrument; parts and accessories of such articles.
+92. Musical instrument; parts and accessories of such articles.
 
 SECTION XIX
 
@@ -548,21 +548,21 @@ SECTION XX
 
 MISCELLANEOUSMANUFACTURED ARTICLES
 
-94.     Furniture; bedding, mattress, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings.
+94. Furniture; bedding, mattress, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings.
 
-95.     Toys, games and sport requisites; parts and accessories thereof.
+95. Toys, games and sport requisites; parts and accessories thereof.
 
-96.     Miscellaneous manufactured articles.
+96. Miscellaneous manufactured articles.
 
 SECTION XXI
 
 WORKS OF ART, COLLECTORS’ PIECES AND ANTIQUES
 
-97.     Works of art, collections’ pieces and antiques.
+97. Works of art, collections’ pieces and antiques.
 
-98.     (Reserved for special uses by Contracting Parties)
+98. (Reserved for special uses by Contracting Parties)
 
-99.     (Reserved for special by contracting parties)
+99. (Reserved for special by contracting parties)
 
 ABBREVIATIONSAND SYMBOLS
 
@@ -656,29 +656,29 @@ GENERALRULES FOR THE INTERPRETATION OF THE HARMONIZED SYSTEM
 
 Classificationof goods in the Nomenclature shall be governed by the following principles:
 
-1.       The titles of Sections, Chapters and sub- Chapters are provided for ease of reference only for legal purposes, classification shall be determined according to the terms of the heading and any relative Section or Chapter Notes and, provided such headings or Notes do not otherwise require, according to the following provisions:
+1. The titles of Sections, Chapters and sub- Chapters are provided for ease of reference only for legal purposes, classification shall be determined according to the terms of the heading and any relative Section or Chapter Notes and, provided such headings or Notes do not otherwise require, according to the following provisions:
 
-2. (a)           Any reference in a heading to an article shall be taken to include a reference to that article incomplete or unfinished, provided that, as presented, the incomplete or unfinished article has the essential character of the complete or finished articles . It shall also be taken to include a reference to that article complete or finished (or failing to be classified as complete or finished by virtue of this Rule), presented, unassembled or disassembled .
+2. (a) Any reference in a heading to an article shall be taken to include a reference to that article incomplete or unfinished, provided that, as presented, the incomplete or unfinished article has the essential character of the complete or finished articles . It shall also be taken to include a reference to that article complete or finished (or failing to be classified as complete or finished by virtue of this Rule), presented, unassembled or disassembled .
 
-(b)     Any reference in a heading to a material or substance shall be taken to include a reference to mixtures or combinations of that material or substance with other material or substances. Any reference to goods of a given material or substance shall be taken to include a reference to goods consisting wholly or partly of such material or substance. The classification of goods consisting of more than one material or substance shall be according to the principle of Rule 3.
+(b) Any reference in a heading to a material or substance shall be taken to include a reference to mixtures or combinations of that material or substance with other material or substances. Any reference to goods of a given material or substance shall be taken to include a reference to goods consisting wholly or partly of such material or substance. The classification of goods consisting of more than one material or substance shall be according to the principle of Rule 3.
 
-3.       When by application of Rule 2 (b) or for any other reason, goods are, prima facie, classifiable under two or more heading, classification shall be effected as follows:
+3. When by application of Rule 2 (b) or for any other reason, goods are, prima facie, classifiable under two or more heading, classification shall be effected as follows:
 
-(a)     The heading which provides the most specific description shall be preferred to headings providing a more general description. However when two or more headings each refer to part only of the materials or substances contained in mixed or composite goods or to part of the items in a set put up for retail sale, these headings are to be regarded as equally specific in relation to those goods, even if one of them gives a more complete or precise description of the goods.
+(a) The heading which provides the most specific description shall be preferred to headings providing a more general description. However when two or more headings each refer to part only of the materials or substances contained in mixed or composite goods or to part of the items in a set put up for retail sale, these headings are to be regarded as equally specific in relation to those goods, even if one of them gives a more complete or precise description of the goods.
 
-(b)     Mixtures, composite goods consisting of different material or made up of different components, and goods put up in sets for retail sale, which cannot be classified by references to 3 (a), shall be classified as if they consisted of the material or component which gives them their essential character, insofar as this criterion is applicable.
+(b) Mixtures, composite goods consisting of different material or made up of different components, and goods put up in sets for retail sale, which cannot be classified by references to 3 (a), shall be classified as if they consisted of the material or component which gives them their essential character, insofar as this criterion is applicable.
 
-(c)     When goods cannot be classified by reference to 3 (a) or 3 (b), they shall be classified under the heading which occurs last in numerical order among those which equally merit consideration .
+(c) When goods cannot be classified by reference to 3 (a) or 3 (b), they shall be classified under the heading which occurs last in numerical order among those which equally merit consideration .
 
-4.       Goods which cannot be classified in accordance with the above Rules shall be classified under the heading appropriate to the goods to which they are most akin.
+4. Goods which cannot be classified in accordance with the above Rules shall be classified under the heading appropriate to the goods to which they are most akin.
 
-5.       In addition to the foregoing provision, the following Rules shall apply in respect of the goods referred to therein.
+5. In addition to the foregoing provision, the following Rules shall apply in respect of the goods referred to therein.
 
-(a)     Camera cases, musical instrument cases, gun cases, drawing instrument cases, necklaces cases and similar containers, specifically shaped or fitted to contain a specific article or set of articles, suitable for long- term use and presented with the article for which they are intended, shall be classified with such articles when of a kind normally sold therewith. This Rule does not, however, apply to containers which give the whole its essential character;
+(a) Camera cases, musical instrument cases, gun cases, drawing instrument cases, necklaces cases and similar containers, specifically shaped or fitted to contain a specific article or set of articles, suitable for long- term use and presented with the article for which they are intended, shall be classified with such articles when of a kind normally sold therewith. This Rule does not, however, apply to containers which give the whole its essential character;
 
-(b)     Subject to the provision of Rule 5 (a) above, packing material and packing container presented with the goods therein shall be classified with the goods if they are of a kind normally used for packing such goods. However, this provision is not binding when such packing materials or packing containers are clearly suitable for repetitive use.
+(b) Subject to the provision of Rule 5 (a) above, packing material and packing container presented with the goods therein shall be classified with the goods if they are of a kind normally used for packing such goods. However, this provision is not binding when such packing materials or packing containers are clearly suitable for repetitive use.
 
-6.       For legal purposes, the classifications of goods in the sub-headings of a heading shall be determined according to the terms of those sub-headings and any related Subheading
+6. For legal purposes, the classifications of goods in the sub-headings of a heading shall be determined according to the terms of those sub-headings and any related Subheading
 
 Notes and, mutatis mutandis, to the above Rules, on the understanding that only sub-heading at the same level are comparable. For the purpose of this Rule the relative Section and Chapter Notes also apply, unless the context otherwise requires.
 
@@ -700,11 +700,11 @@ Note.
 
 1. -    This Chapter covers all live animals except:
 
-(a)     Fish and crustaceans, molluscs and other aquatic invertebrates, of heading 03.01, 03.06 or 03.07;
+(a) Fish and crustaceans, molluscs and other aquatic invertebrates, of heading 03.01, 03.06 or 03.07;
 
-(b)     Cultures of micro-organisms and other products of heading 30.02; and 2-
+(b) Cultures of micro-organisms and other products of heading 30.02; and 2-
 
-(c)     Animals of heading 95.08.
+(c) Animals of heading 95.08.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -790,11 +790,11 @@ Note.
 
 1. -    This Chapter does not cover:
 
-(a)     Products of the kinds described in headings 02.01 to 02.08 or 02.10, unfit or unsuitable for human consumption;
+(a) Products of the kinds described in headings 02.01 to 02.08 or 02.10, unfit or unsuitable for human consumption;
 
-(b)     Guts, bladders or stomachs of animals (heading 05.04) or animal blood (heading 05.11 or 30.02); or
+(b) Guts, bladders or stomachs of animals (heading 05.04) or animal blood (heading 05.11 or 30.02); or
 
-(c)     Animal fat, other than products of heading 02.09 (Chapter 15).
+(c) Animal fat, other than products of heading 02.09 (Chapter 15).
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -976,13 +976,13 @@ Notes.
 
 1.-     This Chapter does not cover:
 
-(a)     Mammals of heading 01.06;
+(a) Mammals of heading 01.06;
 
-(b)     Meat of mammals of heading 01.06 (heading 02.08 or 02.10);
+(b) Meat of mammals of heading 01.06 (heading 02.08 or 02.10);
 
-(c)     Fish (including livers and roes thereof) or crustaceans, molluscs or other aquatic invertebrates, dead and unfit or unsuitable for human consumption by reason of either their species or their condition (Chapter 5); flours, meals or pellets of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption (heading 23.01); or
+(c) Fish (including livers and roes thereof) or crustaceans, molluscs or other aquatic invertebrates, dead and unfit or unsuitable for human consumption by reason of either their species or their condition (Chapter 5); flours, meals or pellets of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption (heading 23.01); or
 
-(d)     Caviar or caviar substitutes prepared from fish eggs (heading 16.04).
+(d) Caviar or caviar substitutes prepared from fish eggs (heading 16.04).
 
 2.-     In this Chapter the term “pellets” means products which have been agglomerated either directly by compression or by the addition of a small quantity of binder.
 
@@ -1264,25 +1264,25 @@ Notes.
 
 2. -    For the purposes of heading 04.05:
 
-(a)     The term “butter” means natural butter, whey butter or recombined butter (fresh, salted rancid, including canned butter) derived exclusively from milk, with a milk fat content of 80% or more but not more than 95% by weight, a maximum milk solids not fat content of 2% by weight and a maximum water content of 16% by weight.
+(a) The term “butter” means natural butter, whey butter or recombined butter (fresh, salted rancid, including canned butter) derived exclusively from milk, with a milk fat content of 80% or more but not more than 95% by weight, a maximum milk solids not fat content of 2% by weight and a maximum water content of 16% by weight.
 
 Butter does not contain added emulsifiers, but may contain sodium chloride, food colours, neutralizing salts and cultures of harmless lactic-acid-producing bacteria.
 
-(b)     The expression “dairy spreads” means a spreadable emulsion of the water-in-oil type, containing milkfat as the only fat in the product, with a milk fat content of 39% or more but less than 80% by weight.
+(b) The expression “dairy spreads” means a spreadable emulsion of the water-in-oil type, containing milkfat as the only fat in the product, with a milk fat content of 39% or more but less than 80% by weight.
 
 3. -    Products obtained by the concentration of whey and with the addition of milk or Milk fat are to be classified as cheese in heading 04.06 provided that they have the three following characteristics:
 
-(a)     a milkfat content, by weight of the dry matter, of 5% or more;
+(a) a milkfat content, by weight of the dry matter, of 5% or more;
 
-(b)     a dry matter content, by weight, of at least 70% but not exceeding 85%; and
+(b) a dry matter content, by weight, of at least 70% but not exceeding 85%; and
 
-(c)     they are moulded or capable of being moulded.
+(c) they are moulded or capable of being moulded.
 
 4. -    This Chapter does not cover:
 
-(a)     Products obtained from whey, containing by weight more than 95% lactose, expressed as anhydrous lactose calculated on the dry matter (heading 17.02); or
+(a) Products obtained from whey, containing by weight more than 95% lactose, expressed as anhydrous lactose calculated on the dry matter (heading 17.02); or
 
-(b)     Albumins (including concentrates of two or more whey proteins, containing by weight more than 80% whey proteins, calculated on the dry matter) (heading 35.02) or globulins (heading 35.04).
+(b) Albumins (including concentrates of two or more whey proteins, containing by weight more than 80% whey proteins, calculated on the dry matter) (heading 35.02) or globulins (heading 35.04).
 
 SubheadingNotes .
 
@@ -1398,13 +1398,13 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Edible products (other than guts, bladders and stomachs of animals, whole and pieces thereof, and animal blood, liquid or dried);
+(a) Edible products (other than guts, bladders and stomachs of animals, whole and pieces thereof, and animal blood, liquid or dried);
 
-(b)     Hides or skins (including furskins) other than goods of heading 05.05 and parings and similar waste of raw hides or skins of heading 05.11 (Chapter 41 or 43);
+(b) Hides or skins (including furskins) other than goods of heading 05.05 and parings and similar waste of raw hides or skins of heading 05.11 (Chapter 41 or 43);
 
-(c)     Animal textile materials, other than horsehair and horsehair waste (Section XI); or
+(c) Animal textile materials, other than horsehair and horsehair waste (Section XI); or
 
-(d)     Prepared knots or tufts for broom or brush making (heading 96.03).
+(d) Prepared knots or tufts for broom or brush making (heading 96.03).
 
 2. -    For the purposes of heading 05.01, the sorting of hair by length (provided the root ends and tip ends respectively are not arranged together) shall be deemed not to constitute working.
 
@@ -1562,13 +1562,13 @@ Notes.
 
 3. -    Heading 07.12 covers all dried vegetable of the kinds falling in headings 07.01 to 07.11, other than:
 
-(a)     dried leguminous vegetables, shelled (heading 07.13);
+(a) dried leguminous vegetables, shelled (heading 07.13);
 
-(b)     sweet corn in the forms specified in headings 11.02 to 11.04;
+(b) sweet corn in the forms specified in headings 11.02 to 11.04;
 
-(c)     flour, meal, powder, flakes, granules and pellets of potatoes (heading 11.05);
+(c) flour, meal, powder, flakes, granules and pellets of potatoes (heading 11.05);
 
-(d)     flour, meal and powder of the dried leguminous vegetables of heading 07.13
+(d) flour, meal and powder of the dried leguminous vegetables of heading 07.13
 
 (Heading 11.06).
 
@@ -1760,9 +1760,9 @@ Notes.
 
 3. -    Dried fruit or dried nuts of this Chapter may be partially rehydrated, or treated for the following purposes:
 
-(a)     For additional preservation or stabilisation (e.g., by moderate heat treatment, sulphuring, the addition of sorbic acid or potassium sorbate),
+(a) For additional preservation or stabilisation (e.g., by moderate heat treatment, sulphuring, the addition of sorbic acid or potassium sorbate),
 
-(b)     To improve or maintain their appearance (e.g. by the addition of vegetable oil or small quantities of glucose syrup), provided that they retain the character of dried fruit or dried nuts.
+(b) To improve or maintain their appearance (e.g. by the addition of vegetable oil or small quantities of glucose syrup), provided that they retain the character of dried fruit or dried nuts.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -1930,9 +1930,9 @@ Notes.
 
 1. -    Mixtures of the products of headings 09.04 to 09.10 are to be classified as follows:
 
-(a)     Mixtures of two or more of the products of the same heading are to be classified in that heading;
+(a) Mixtures of two or more of the products of the same heading are to be classified in that heading;
 
-(b)     Mixtures of two or more of the products of different headings are to be classified in heading 09.10.
+(b) Mixtures of two or more of the products of different headings are to be classified in heading 09.10.
 
 Theaddition of other substances to the products of headings 09.04 to 09.10 (or to the mixtures referred to in paragraph (a) or (b) above) shall not affect their classification provided the resulting mixtures retain the essential character of the goods of those headings. Otherwise such mixtures are not classified in this Chapter; those constituting mixed condiments or mixed seasonings are classified in heading 21.03.
 
@@ -2062,7 +2062,7 @@ Notes.
 
 1. - (a)The products specified in the headings of this Chapter are to be classified in those headings only if grains are present, whether or not in the ear or on the stalk.
 
-(b)     The Chapter does not cover grains which have been hulled or otherwise worked.
+(b) The Chapter does not cover grains which have been hulled or otherwise worked.
 
 However,rice, husked, milled, polished, glazed, parboiled or broken remains classified in heading 10.06.
 
@@ -2124,29 +2124,29 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Roasted malt put up as coffee substitutes (heading 09.01 or 21.01);
+(a) Roasted malt put up as coffee substitutes (heading 09.01 or 21.01);
 
-(b)     Prepared flours, groats, meals or starches of heading 19.01;
+(b) Prepared flours, groats, meals or starches of heading 19.01;
 
-(c)     Corn flakes or other products of heading 19.04;
+(c) Corn flakes or other products of heading 19.04;
 
-(d)     Vegetables, prepared or preserved, of heading 20.01, 20.04 or 20.05;
+(d) Vegetables, prepared or preserved, of heading 20.01, 20.04 or 20.05;
 
-(e)     Pharmaceutical products (Chapter 30); or
+(e) Pharmaceutical products (Chapter 30); or
 
-(f)      starches having the character of perfumery, cosmetic or toilet preparations
+(f) starches having the character of perfumery, cosmetic or toilet preparations
 
 (Chapter 33).
 
 2. -(A) Products from the milling of the cereals listed in the table below fall in this chapter if they have, by weight on the dry product:
 
-(a)     a starch content (determined by the modified Ewers polarimetric method) exceeding that indicated in Column (2); and
+(a) a starch content (determined by the modified Ewers polarimetric method) exceeding that indicated in Column (2); and
 
-(b)     an ash content (after deduction of any added minerals) not exceeding that indicated in Column (3).
+(b) an ash content (after deduction of any added minerals) not exceeding that indicated in Column (3).
 
 Otherwise,they fall in heading 23.02. However, germ of cereals, whole, rolled, flaked or ground, is always classified in heading 11.04.
 
-(B)     Products falling in this Chapter under the above provisions shall be classified in heading 11.01 or 11.02 if the percentage passing through a woven metal wire cloth sieve with the aperture indicated in Column (4) or (5) is not less, by weight, than that shown against the cereal concerned.
+(B) Products falling in this Chapter under the above provisions shall be classified in heading 11.01 or 11.02 if the percentage passing through a woven metal wire cloth sieve with the aperture indicated in Column (4) or (5) is not less, by weight, than that shown against the cereal concerned.
 
 Otherwise,they fall in heading 11.03 or 11.04.
 
@@ -2168,9 +2168,9 @@ Buckwheat………………. 45% 4% 80% -
 
 3. -    For the purposes of heading 11.03, the terms “groats” and “meal” mean products obtained by the fragmentation of cereal grains, of which:
 
-(a)     in the case of maize (corn) products, at least 95% by weight passes through a woven metal wire cloth sieve with an aperture of 2mm;
+(a) in the case of maize (corn) products, at least 95% by weight passes through a woven metal wire cloth sieve with an aperture of 2mm;
 
-(b)     in the case of other cereal products, at least 95% by weight passes through a woven metal wire cloth sieve with an aperture of 1.25mm
+(b) in the case of other cereal products, at least 95% by weight passes through a woven metal wire cloth sieve with an aperture of 1.25mm
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -2304,35 +2304,35 @@ It does not apply to products of heading 08.01 or 08.02 or to olives (Chapter 7 
 
 Heading12.09 does not, however, apply to the following even if for sowing:
 
-(a)     Leguminous vegetables or sweet corn (Chapter 7);
+(a) Leguminous vegetables or sweet corn (Chapter 7);
 
-(b)     Spices or other products of Chapter 9;
+(b) Spices or other products of Chapter 9;
 
-(c)     Cereals (Chapter 10); or
+(c) Cereals (Chapter 10); or
 
-(d)     Products of headings 12.01 to 12.07 or 12.11.
+(d) Products of headings 12.01 to 12.07 or 12.11.
 
 4. -    Heading 12.11 applies, inter alia, to the following plants or parts thereof : basil, borage, ginseng, hyssop, liquorice, all species of mint, rosemary, rue, sage and wormwood.
 
 Heading12.11 does not, however, apply to :
 
-(a)     Medicaments of Chapter 30;
+(a) Medicaments of Chapter 30;
 
-(b)     Perfumery, cosmetic or toilet preparations of Chapter 33; or
+(b) Perfumery, cosmetic or toilet preparations of Chapter 33; or
 
-(c)     Insecticides, fungicides, herbicides, disinfectants or similar products of heading 38.08.
+(c) Insecticides, fungicides, herbicides, disinfectants or similar products of heading 38.08.
 
 5. -    For the purposes of heading 12.12, the term “seaweeds and other algae” does not include:
 
-(a)     Dead single-cell micro-organisms of heading 21.02;
+(a) Dead single-cell micro-organisms of heading 21.02;
 
-(b)     Cultures of micro-organisms of heading 30.02; or
+(b) Cultures of micro-organisms of heading 30.02; or
 
-(c)     Fertilizers of heading 31.01 or 31.05.
+(c) Fertilizers of heading 31.01 or 31.05.
 
 Subheading Note.
 
-1.       For the purposes of subheading 1205.10, the expression “low erucic acid rape or colza seeds” means rape or colza seeds yielding a fixed oil which has an erucic acid content of less than 2% by weight and yielding a solid component which contains less than 30 micromoles of glucosinolates per gram.
+1. For the purposes of subheading 1205.10, the expression “low erucic acid rape or colza seeds” means rape or colza seeds yielding a fixed oil which has an erucic acid content of less than 2% by weight and yielding a solid component which contains less than 30 micromoles of glucosinolates per gram.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -2466,25 +2466,25 @@ Note.
 
 The heading does not apply to :
 
-(a)     Liquorice extract containing more than 10% by weight of sucrose or put up as Confectionery (heading 17.04);
+(a) Liquorice extract containing more than 10% by weight of sucrose or put up as Confectionery (heading 17.04);
 
-(b)     Malt extract (heading 19.01);
+(b) Malt extract (heading 19.01);
 
-(c)     Extracts of coffee, tea or mate (heading 21.01);
+(c) Extracts of coffee, tea or mate (heading 21.01);
 
-(d)     Vegetable saps or extracts constituting alcoholic beverages (Chapter 22);
+(d) Vegetable saps or extracts constituting alcoholic beverages (Chapter 22);
 
-(e)     Camphor, glycyrrhizin or other products of heading 29.14 or 29.38;
+(e) Camphor, glycyrrhizin or other products of heading 29.14 or 29.38;
 
-(f)      Concentrates of poppy straw containing not less than 50% by weight of alkaloids (heading 29.39);
+(f) Concentrates of poppy straw containing not less than 50% by weight of alkaloids (heading 29.39);
 
-(g)     Medicaments of heading 30.03 or 30.04 or blood-grouping reagents (heading 30.06);
+(g) Medicaments of heading 30.03 or 30.04 or blood-grouping reagents (heading 30.06);
 
-(h)     Tanning or dyeing extracts (heading 32.01 or 32.03);
+(h) Tanning or dyeing extracts (heading 32.01 or 32.03);
 
-(i)      Essential oils, concretes, absolutes, resinoids, extracted oleoresins, aqueous distillates or aqueous solutions of essential oils or preparations based on odoriferous substances of a kind used for the manufacture of beverages (Chapter 33); or
+(i) Essential oils, concretes, absolutes, resinoids, extracted oleoresins, aqueous distillates or aqueous solutions of essential oils or preparations based on odoriferous substances of a kind used for the manufacture of beverages (Chapter 33); or
 
-(j)      Natural rubber, balata, gutta-percha, guayule, chicle or similar natural gums
+(j) Natural rubber, balata, gutta-percha, guayule, chicle or similar natural gums
 
 (heading 40.01).
 
@@ -2500,7 +2500,7 @@ HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
-13.     02 Vegetable saps and extracts; pectic substances, pectinates and pectates; agaragar and other mucilages and thickeners, whether or not modified, derived from vegetable products.
+13. 02 Vegetable saps and extracts; pectic substances, pectinates and pectates; agaragar and other mucilages and thickeners, whether or not modified, derived from vegetable products.
 
 - Vegetable saps and extracts:
 
@@ -2542,7 +2542,7 @@ Notes.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
-14.     01 Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark).
+14. 01 Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark).
 
 1401.1000.00-Bamboos……………………………………. kg 5
 
@@ -2576,17 +2576,17 @@ Notes.
 
 1. - This Chapter does not cover :
 
-(a)     Pig fat or poultry fat of heading 02.09;
+(a) Pig fat or poultry fat of heading 02.09;
 
-(b)     Cocoa butter, fat or oil (heading 18.04);
+(b) Cocoa butter, fat or oil (heading 18.04);
 
-(c)     Edible preparations containing by weight more than 15% of the products of heading 04.05 (generally Chapter 21);
+(c) Edible preparations containing by weight more than 15% of the products of heading 04.05 (generally Chapter 21);
 
-(d)     Greaves (heading 23.01) or residues of headings 23.04 to 23.06;
+(d) Greaves (heading 23.01) or residues of headings 23.04 to 23.06;
 
-(e)     Fatty acids, prepared waxes, medicaments, paints, varnishes, soap, perfumery, cosmetic or toilet preparations, sulphonated oils or other goods of Section VI; or
+(e) Fatty acids, prepared waxes, medicaments, paints, varnishes, soap, perfumery, cosmetic or toilet preparations, sulphonated oils or other goods of Section VI; or
 
-(f)      Factice derived from oils (heading 40.02).
+(f) Factice derived from oils (heading 40.02).
 
 2. -    Heading 15.09 does not apply to oils obtained from olives, by solvent extraction
 
@@ -2650,7 +2650,7 @@ HEADING/H.S. CODE DESCRIPTION SU NG DUTY ATE
 
 1509.9000.99-- Other ……………………………….. kg 20
 
-15.     10 -Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09:
+15. 10 -Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09:
 
 1510.0000.10-- In bottles only ………………….. lt 50
 
@@ -2866,11 +2866,11 @@ Note.
 
 1. -    This Chapter does not cover:
 
-(a)     Sugar confectionery containing cocoa (heading 18.06);
+(a) Sugar confectionery containing cocoa (heading 18.06);
 
-(b)     Chemically pure sugars (other than sucrose, lactose, maltose, glucose and fructose) or other products of heading 29.40; or
+(b) Chemically pure sugars (other than sucrose, lactose, maltose, glucose and fructose) or other products of heading 29.40; or
 
-(c)     Medicaments or other products of Chapter 30.
+(c) Medicaments or other products of Chapter 30.
 
 Subheading Note.
 
@@ -2976,21 +2976,21 @@ Notes.
 
 1.- This Chapter does not cover:
 
-(a)     Except in the case of stuffed products of heading 19.02, food preparations containing more than 20% by weight of sausage, meat, meat offal, blood, fish or crustaceans, molluscs or other aquatic or other aquatic invertebrates, of any combination thereof (Chapter 16);
+(a) Except in the case of stuffed products of heading 19.02, food preparations containing more than 20% by weight of sausage, meat, meat offal, blood, fish or crustaceans, molluscs or other aquatic or other aquatic invertebrates, of any combination thereof (Chapter 16);
 
-(b)     Biscuits or other articles made from flour or from starch, specially prepared for use in animal feeding (heading 23.09); or
+(b) Biscuits or other articles made from flour or from starch, specially prepared for use in animal feeding (heading 23.09); or
 
-(c)     Medicaments or other products of Chapter 30.
+(c) Medicaments or other products of Chapter 30.
 
 2. -    For the purposes of heading 19.01:
 
-(a)     The term “groats” means cereal groats of Chapter 11;
+(a) The term “groats” means cereal groats of Chapter 11;
 
-(b)     The terms “flour” and “meal” mean:
+(b) The terms “flour” and “meal” mean:
 
-(1)     Cereal flour and meal of Chapter 11, and
+(1) Cereal flour and meal of Chapter 11, and
 
-(2)     Flour, meal and powder of vegetable origin of and Chapter, other than flour, meal or powder of dried vegetables (heading 07.12), of potatoes (heading 11.05) or of dried leguminous vegetables (heading 11.06).
+(2) Flour, meal and powder of vegetable origin of and Chapter, other than flour, meal or powder of dried vegetables (heading 07.12), of potatoes (heading 11.05) or of dried leguminous vegetables (heading 11.06).
 
 3. -    Heading 19.04 does not cover preparations containing more than 6% by weight of cocoa calculated on a totally defatted basis or coated with chocolate other food preparations containing cocoa of heading 18.06 (heading 18.06).
 
@@ -3066,11 +3066,11 @@ Notes.
 
 1. –    This Chapter does not cover:
 
-(a)     Vegetables, fruit or nuts, prepared or preserved by the processes specified in Chapter 7,8 or 11;
+(a) Vegetables, fruit or nuts, prepared or preserved by the processes specified in Chapter 7,8 or 11;
 
-(b)     Food preparations containing more than 20% by weight of sausage, meat, meat offal, blood, fish or crustaceans, molluscs or other aquatic invertebrates, or any combination thereof (Chapter 16); or
+(b) Food preparations containing more than 20% by weight of sausage, meat, meat offal, blood, fish or crustaceans, molluscs or other aquatic invertebrates, or any combination thereof (Chapter 16); or
 
-(c)     Homogenised composite food preparations of heading 21.04
+(c) Homogenised composite food preparations of heading 21.04
 
 2. -    Headings 20.07 and 20.08 do not apply to fruit jellies, fruit pastes, sugar-coated almonds or the like in the form of sugar confectionery (heading 17.04) or chocolate confectionery (heading 18.06).
 
@@ -3316,21 +3316,21 @@ Notes.
 
 1. -    This Chapter does not cover :
 
-(a)     Mixed vegetables of heading 07.12;
+(a) Mixed vegetables of heading 07.12;
 
-(b)     Roasted coffee substitutes containing coffee in any proportion (heading 09.01);
+(b) Roasted coffee substitutes containing coffee in any proportion (heading 09.01);
 
-(c)     Flavoured tea (heading 09.02);
+(c) Flavoured tea (heading 09.02);
 
-(d)     Spices or other products of heading 09.04 to 09.10;
+(d) Spices or other products of heading 09.04 to 09.10;
 
-(e)     Food preparations, other than the products described in heading 21.03 or 21.04, containing more than 20% by weight of sausage, meat, meat offal, blood, fish or crustaceans, molluscs or other aquatic invertebrates, or any combination thereof
+(e) Food preparations, other than the products described in heading 21.03 or 21.04, containing more than 20% by weight of sausage, meat, meat offal, blood, fish or crustaceans, molluscs or other aquatic invertebrates, or any combination thereof
 
 (Chapter 16);
 
-(f)      Yeast put up as a medicament or other products of heading 30.03 or 30.04; or
+(f) Yeast put up as a medicament or other products of heading 30.03 or 30.04; or
 
-(g)     Prepared enzymes of heading 35.07.
+(g) Prepared enzymes of heading 35.07.
 
 2. -    Extracts of the substitutes referred to in Note 1 (b) above are to be classified in heading 21.01.
 
@@ -3394,17 +3394,17 @@ Notes.
 
 1.-     This Chapter does not cover:
 
-(a)     Products of this Chapter (other than those of heading 22.09) prepared for culinary purposes and thereby rendered unsuitable for consumption as beverages (generally heading 21.03);
+(a) Products of this Chapter (other than those of heading 22.09) prepared for culinary purposes and thereby rendered unsuitable for consumption as beverages (generally heading 21.03);
 
-(b)     Sea water (heading 25.01);
+(b) Sea water (heading 25.01);
 
-(c)     Distilled or conductivity water or water of similar purity (heading 28.51);
+(c) Distilled or conductivity water or water of similar purity (heading 28.51);
 
-(d)     Acetic acid of a concentration exceeding 10% by weight of acetic acid (heading 29.15);
+(d) Acetic acid of a concentration exceeding 10% by weight of acetic acid (heading 29.15);
 
-(e)     Medicaments of heading 30.03 or 30.04; or
+(e) Medicaments of heading 30.03 or 30.04; or
 
-(f)      Perfumery or toilet preparations (Chapter 33).
+(f) Perfumery or toilet preparations (Chapter 33).
 
 2. -    For the purposes of this Chapter and of Chapters 20 and 21, the “alcoholic strength by volume” shall be determined at a temperature of 20oC.
 
@@ -3614,23 +3614,23 @@ Theproducts of this Chapter may contain an added anti-dusting agent, provided th
 
 2. -    This Chapter does not cover:
 
-(a)     Sublimed sulphur, precipitated sulphur or colloidal sulphur (heading 28.02);
+(a) Sublimed sulphur, precipitated sulphur or colloidal sulphur (heading 28.02);
 
-(b)     Earth colours containing 70% or more by weight of combined iron evaluated as Fe2O3 (heading 28.21);
+(b) Earth colours containing 70% or more by weight of combined iron evaluated as Fe2O3 (heading 28.21);
 
-(c)     Medicaments or other products of Chapter 30;
+(c) Medicaments or other products of Chapter 30;
 
-(d)     Perfumery, cosmetic or toilet preparation (Chapter 33);
+(d) Perfumery, cosmetic or toilet preparation (Chapter 33);
 
-(e)     Setts, curbstones or flagstones (heading 68.01); mosaic cubes or the like (heading 68.02); roofing, facing or damp course slates (heading 68.03);
+(e) Setts, curbstones or flagstones (heading 68.01); mosaic cubes or the like (heading 68.02); roofing, facing or damp course slates (heading 68.03);
 
-(f)      Precious or semi-precious stones (heading 71.02 or 71.03);
+(f) Precious or semi-precious stones (heading 71.02 or 71.03);
 
-(g)     Cultured crystals (other than optical elements) weighing not less 2.5g each, of sodium chloride or of magnesium oxide, of heading 38.24; optical elements of sodium chloride or of magnesium oxide (heading 90.01);
+(g) Cultured crystals (other than optical elements) weighing not less 2.5g each, of sodium chloride or of magnesium oxide, of heading 38.24; optical elements of sodium chloride or of magnesium oxide (heading 90.01);
 
-(h)     Billiard chalks (heading 95.04); or
+(h) Billiard chalks (heading 95.04); or
 
-(ij)     Writing or drawing chalks or tailors’ chalks (heading 96.09).
+(ij) Writing or drawing chalks or tailors’ chalks (heading 96.09).
 
 3.-     Any products classifiable in heading 25.17 and any other heading of the Chapter are to be classified in heading 25.17.
 
@@ -3874,27 +3874,27 @@ Notes.
 
 1.-     This Chapter does not cover:
 
-(a)     Slag or similar industrial waste prepared as macadam (heading 25.17);
+(a) Slag or similar industrial waste prepared as macadam (heading 25.17);
 
-(b)     Natural magnesium carbonate (magnesite), whether or not calcined (heading 25.19);
+(b) Natural magnesium carbonate (magnesite), whether or not calcined (heading 25.19);
 
-(c)     Sludges from the storage tanks of petroleum oils, consisting mainly of such oils (27.10);
+(c) Sludges from the storage tanks of petroleum oils, consisting mainly of such oils (27.10);
 
-(d)     Basic slag of Chapter 31;
+(d) Basic slag of Chapter 31;
 
-(e)     Slag wool, rock wool or similar mineral wools (heading 68.06);
+(e) Slag wool, rock wool or similar mineral wools (heading 68.06);
 
-(f)      Waste or scrap of precious metal or of metal clad with precious metal; other waste or scrap containing precious metal or precious metal compounds, of a kind used principally for the recovery of precious metal (heading 71.12); or
+(f) Waste or scrap of precious metal or of metal clad with precious metal; other waste or scrap containing precious metal or precious metal compounds, of a kind used principally for the recovery of precious metal (heading 71.12); or
 
-(g)     Copper, nickel or cobalt mattes produced by any process of smelting(Section XV).
+(g) Copper, nickel or cobalt mattes produced by any process of smelting(Section XV).
 
 2. -    For the purposes of heading 26.01 to 26.17, the term “ores” means minerals of mineralogical species actually used in the metallurgical industry for the extraction of mercury, of the metals of heading 28.44 or of the metals of Section XIV or XV, even if they are intended for non-metallurgical purposes. Headings 26.01 to 26.17 do not, however include minerals which have been submitted to processes not normal to the metallurgical industry.
 
 3. -    Heading 26.20 applies only to:
 
-(a)     Ash and residues of a kind used in industry either for the extraction of metals or as a basis for the manufacture of chemical compounds of metals, excluding ash and residues from the incineration of municipal waste (heading 26.21); and
+(a) Ash and residues of a kind used in industry either for the extraction of metals or as a basis for the manufacture of chemical compounds of metals, excluding ash and residues from the incineration of municipal waste (heading 26.21); and
 
-(b)     Ash and residues containing arsenic, whether or not containing metals, of a kind used either for the extraction of arsenic or metals or for the manufacture of their chemical compounds.
+(b) Ash and residues containing arsenic, whether or not containing metals, of a kind used either for the extraction of arsenic or metals or for the manufacture of their chemical compounds.
 
 Subheading Notes.
 
@@ -4014,21 +4014,21 @@ Notes.
 
 1.-     This Chapter does not cover :
 
-(a)     Separate chemically defined organic compounds, other than pure methane and propane which are to be classified in heading 27.11;
+(a) Separate chemically defined organic compounds, other than pure methane and propane which are to be classified in heading 27.11;
 
-(b)     Medicaments of heading 30.03 or 30.04; or
+(b) Medicaments of heading 30.03 or 30.04; or
 
-(c)     Mixed unsaturated hydrocarbons of heading 33.01, 33.02 or 38.05.
+(c) Mixed unsaturated hydrocarbons of heading 33.01, 33.02 or 38.05.
 
 2. -    References in heading 27.10 to “petroleum oils and oils obtained from bituminous minerals” include not petroleum oils and oils obtained from bituminous minerals but also similar oils, as well as those consisting mainly of mixed unsaturated hydrocarbons, obtained by any process, provided that the weight of the non-aromatic constituents exceeds that of the aromatic constituents. However, the references do not include liquid synthetic polyolefins of which less than 60% by volume distils at 300oC, after conversion to 1,013 milibars when a reduced-pressure distillation method is used (Chapter 39)
 
 3. -    For the purposes of heading 27.10, “waste oils” means waste containing mainly petroleum oils and oils obtained from bituminous minerals (as described in Note 2 to this Chapter), whether or not mixed with water. These include:
 
-(a)     Such oils no longer fit for use as primary products (for example, used lubricating oils, used Hydraulic oils and used transformer oils);
+(a) Such oils no longer fit for use as primary products (for example, used lubricating oils, used Hydraulic oils and used transformer oils);
 
-(b)     Sludge oils from the storage tanks of petroleum oils, mainly containing such oils and a high concentration of additives (for example, chemicals) used in the manufacture of the primary products; and
+(b) Sludge oils from the storage tanks of petroleum oils, mainly containing such oils and a high concentration of additives (for example, chemicals) used in the manufacture of the primary products; and
 
-(c)     Such oils in the form of emulsions in water or mixtures with water, such as those resulting from oil spills, storage tank washings, or from the used of cutting oils for machining operations.
+(c) Such oils in the form of emulsions in water or mixtures with water, such as those resulting from oil spills, storage tank washings, or from the used of cutting oils for machining operations.
 
 Subheading Notes.
 
@@ -4184,11 +4184,11 @@ Notes.
 
 3. -    Goods put up in sets consisting of two or more separate constituents, some or all of which fall in this Section and are intended to be mixed together to obtain a product of Section VI or VII, are to be classified in the heading appropriate to that product, provided that the constituents are :
 
-(a)     having regard to the manner in which they are put up, clearly identifiable as being intended to be used together without first being repacked;
+(a) having regard to the manner in which they are put up, clearly identifiable as being intended to be used together without first being repacked;
 
-(b)     presented together; and
+(b) presented together; and
 
-(c)     identifiable, whether by their nature or by the relative proportions in which they are present, as being complementary one to another.
+(c) identifiable, whether by their nature or by the relative proportions in which they are present, as being complementary one to another.
 
 Chapter 28
 
@@ -4198,47 +4198,47 @@ Notes
 
 1. -    Except where the context otherwise requires, the headings of this Chapter apply only to:
 
-(a)     Separate chemical elements and separate chemically defined compounds, whether or not containing impurities;
+(a) Separate chemical elements and separate chemically defined compounds, whether or not containing impurities;
 
-(b)     The products mentioned in (a) above dissolved in water;
+(b) The products mentioned in (a) above dissolved in water;
 
-(c)     The products mentioned in (a) above dissolved in other solvents provided that the solution constitutes a normal and necessary method of putting up these products adopted solely for reasons of safety or for transport and that the solvent does not render the product particularly suitable for specific use rather than for general use;
+(c) The products mentioned in (a) above dissolved in other solvents provided that the solution constitutes a normal and necessary method of putting up these products adopted solely for reasons of safety or for transport and that the solvent does not render the product particularly suitable for specific use rather than for general use;
 
-(d)     The products mentioned in (a), (b) or (c) above with an added stabilizer (including an anti-caking agent) necessary for their preservation or transport;
+(d) The products mentioned in (a), (b) or (c) above with an added stabilizer (including an anti-caking agent) necessary for their preservation or transport;
 
-(e)     The products mentioned in (a), (b), (c), or (d) above with an added anti-dusting agent or a colouring substance added to facilitate their identification or for safety reasons, provided that the addition do not render the product particularly suitable for specific use rather than for general use.
+(e) The products mentioned in (a), (b), (c), or (d) above with an added anti-dusting agent or a colouring substance added to facilitate their identification or for safety reasons, provided that the addition do not render the product particularly suitable for specific use rather than for general use.
 
 2. -    In addition to dithionites and sulphoxlates, stabilized with organic substance (heading 28.31), carbonates and peroxocarbonates of inorganic bases (heading 28.36), cyanides, cyanide oxides and complex cyanides of inorganic bases (heading 28.37), fulminates, cyanates, and thiocyanates, of inorganic bases (heading 28.38), organic products included in heading 28.43 to 28.46 and carbides (heading 28.49), only the following compounds of carbon are to be classified in this Chapter:
 
-(a)     Oxides of carbon, hydrogen cyanide and fulminic, isocyanic, thiocyanic and other simple or complex cyanogens acid (heading 28.11);
+(a) Oxides of carbon, hydrogen cyanide and fulminic, isocyanic, thiocyanic and other simple or complex cyanogens acid (heading 28.11);
 
-(b)     Halide oxides of carbon (heading 28.12);
+(b) Halide oxides of carbon (heading 28.12);
 
-(c)     Carbon disulphide (heading 28.13);
+(c) Carbon disulphide (heading 28.13);
 
-(d)     Thiocarbonates, selencocarbonates, tellurocarbonates, selenocyanates, tellurocyanates, tetrathiocyanatodiamminochromates (reineckates) and other complex cyanates, of inorganic bases (heading 28.42);
+(d) Thiocarbonates, selencocarbonates, tellurocarbonates, selenocyanates, tellurocyanates, tetrathiocyanatodiamminochromates (reineckates) and other complex cyanates, of inorganic bases (heading 28.42);
 
-(e)     Hydrogen peroxide, solidified with urea (heading 28.47), Carbon oxysulphide, thiocarbonyl halides, cyanogens halides and canamide and its metal derivatives (heading 28.51) other than calcium canamide, whether or not pure (Chapter 31).
+(e) Hydrogen peroxide, solidified with urea (heading 28.47), Carbon oxysulphide, thiocarbonyl halides, cyanogens halides and canamide and its metal derivatives (heading 28.51) other than calcium canamide, whether or not pure (Chapter 31).
 
 3.-     Subject to the provisions of Note 1 to Section VI, this Chapter does not cover:
 
-(a)     Sodium chloride or magnesium oxide, whether or not pure, or other products of Section V;
+(a) Sodium chloride or magnesium oxide, whether or not pure, or other products of Section V;
 
-(b)     Organo-inorganic compounds other than those mentioned in Note 2 above;
+(b) Organo-inorganic compounds other than those mentioned in Note 2 above;
 
-(c)     Products mentioned in Note 2,3,4 or 5 to Chapter 31;
+(c) Products mentioned in Note 2,3,4 or 5 to Chapter 31;
 
-(d)     Inorganic products of a kind used as Luminoplores, of heading 32.06; glass frit and other glass in the form of powder, granules or flakes, of heading 32.07;
+(d) Inorganic products of a kind used as Luminoplores, of heading 32.06; glass frit and other glass in the form of powder, granules or flakes, of heading 32.07;
 
-(e)     Artificial graphite (heading 38.01); products put up as charges for fireextinguishers or put up in fire-extinguishing grenades, of heading 38.13; ink removers put up in packings for retail sale, of heading 38.24; cultured crystals (other than optical elements) weighing not less than 2.5g each, of the halides of the alkali or alkaline-earth metals, of heading 38.24;
+(e) Artificial graphite (heading 38.01); products put up as charges for fireextinguishers or put up in fire-extinguishing grenades, of heading 38.13; ink removers put up in packings for retail sale, of heading 38.24; cultured crystals (other than optical elements) weighing not less than 2.5g each, of the halides of the alkali or alkaline-earth metals, of heading 38.24;
 
-(f)      Precious or semi-precious stones (natural, synthetic or reconstructed) or dust or powder or such stones (heading 71.02 to 71.05), or precious metals or precious metal alloys of
+(f) Precious or semi-precious stones (natural, synthetic or reconstructed) or dust or powder or such stones (heading 71.02 to 71.05), or precious metals or precious metal alloys of
 
 Chapter 71;
 
-(g)     The metals, whether or not pure, metal alloys or cermets including sintered metal carbides (metal carbides sintered with a metal), of Section XV; or
+(g) The metals, whether or not pure, metal alloys or cermets including sintered metal carbides (metal carbides sintered with a metal), of Section XV; or
 
-(h)     Optical elements, for example, of the halides of the alkali or alkaline-earth metals (heading 90.01).
+(h) Optical elements, for example, of the halides of the alkali or alkaline-earth metals (heading 90.01).
 
 4.-     Chemically defined complex acids consisting of a non-metal acid of sub-chapter II and a metal acid of sub-chapter IV are to be classified in heading 28.11.
 
@@ -4248,17 +4248,17 @@ Exceptwhere the context otherwise requires, double or complex salt are to be cla
 
 6. -    Heading 28.44 applies only to :
 
-(a)     Technetium (atomic No. 43), promethium (atomic No. 61), polonium (atomic No. 84) and all elements with an atomic number greater than 84;
+(a) Technetium (atomic No. 43), promethium (atomic No. 61), polonium (atomic No. 84) and all elements with an atomic number greater than 84;
 
-(b)     Natural or artificial radioactive isotopes (including those of the precious metals or of the base metals of Sections XIV and XV), whether or not mixed together;
+(b) Natural or artificial radioactive isotopes (including those of the precious metals or of the base metals of Sections XIV and XV), whether or not mixed together;
 
-(c)     Compounds, inorganic or organic, of these elements or isotopes, whether or not chemically defined, whether or not mixed together;
+(c) Compounds, inorganic or organic, of these elements or isotopes, whether or not chemically defined, whether or not mixed together;
 
-(d)     Alloys, dispersions (including cerments), ceramic products and mixtures containing these elements or isotopes or inorganic or organic compounds thereof and having a specific radioactivity exceeding 74 Bq/g (0.002 uCi/g);
+(d) Alloys, dispersions (including cerments), ceramic products and mixtures containing these elements or isotopes or inorganic or organic compounds thereof and having a specific radioactivity exceeding 74 Bq/g (0.002 uCi/g);
 
-(e)     Spent (irradiated) fuel elements (cartridges) of nuclear reactors;
+(e) Spent (irradiated) fuel elements (cartridges) of nuclear reactors;
 
-(f)      Radioactive residues whether or not usable.
+(f) Radioactive residues whether or not usable.
 
 The term “isotopes”, for the purposes of this Note and of the wording of heading 28.44 and 28.45, refers to :
 
@@ -4804,43 +4804,43 @@ Notes.
 
 1.-     Except where the context otherwise requires, the headings of this Chapter apply only to :
 
-(a)     Separate chemically defined organic compounds, whether or not containing impurities;
+(a) Separate chemically defined organic compounds, whether or not containing impurities;
 
-(b)     Mixtures of two or more isomers of the same organic compound (whether or not containing impurities), except mixtures or acyclic hydrocarbon isomers (other than stereoisomers), whether or not saturated (Chapter 27);
+(b) Mixtures of two or more isomers of the same organic compound (whether or not containing impurities), except mixtures or acyclic hydrocarbon isomers (other than stereoisomers), whether or not saturated (Chapter 27);
 
-(c)     The products of headings 29.36 to 29.39 or the sugar ethers, sugar acetals and sugar esters, and their salts, of heading 29.40, or the products of heading 29.41, whether or not chemically defined;
+(c) The products of headings 29.36 to 29.39 or the sugar ethers, sugar acetals and sugar esters, and their salts, of heading 29.40, or the products of heading 29.41, whether or not chemically defined;
 
-(d)     The products mentioned in (a), (b) or (c) above dissolved in water;
+(d) The products mentioned in (a), (b) or (c) above dissolved in water;
 
-(e)     The products mentioned in (a), (b) or (c) above dissolved in other solvents provided that the solution constitutes a normal and necessary method of putting up these products adopted solely for reasons of safety or for transport and that the solvent does not render the product particularly suitable for specific use rather that for general use;
+(e) The products mentioned in (a), (b) or (c) above dissolved in other solvents provided that the solution constitutes a normal and necessary method of putting up these products adopted solely for reasons of safety or for transport and that the solvent does not render the product particularly suitable for specific use rather that for general use;
 
-(f)      The products mentioned in (a), (b), (c), (d) or (e) above with an added stabilizer (including an anti-caking agent) necessary for their preservation or transport;
+(f) The products mentioned in (a), (b), (c), (d) or (e) above with an added stabilizer (including an anti-caking agent) necessary for their preservation or transport;
 
-(g)     The products mentioned in (a), (b), (c), (d), (e) or (f) above with an added antidusting agent or a colouring or odoriferous substance added to facilitate their identification or for safety reasons, provided that the additions do not render the product particularly suitable for specific use rather than for general use;
+(g) The products mentioned in (a), (b), (c), (d), (e) or (f) above with an added antidusting agent or a colouring or odoriferous substance added to facilitate their identification or for safety reasons, provided that the additions do not render the product particularly suitable for specific use rather than for general use;
 
-(h)     The following products, diluted to standard strengths, for the production of azo dyes, diazonium salts, couplers used for these salts and diazotisable amines and their salts.
+(h) The following products, diluted to standard strengths, for the production of azo dyes, diazonium salts, couplers used for these salts and diazotisable amines and their salts.
 
 2. -    This Chapter does not cover :
 
-(a)     Goods of heading 15.04 or crude glycerol of heading 15.20;
+(a) Goods of heading 15.04 or crude glycerol of heading 15.20;
 
-(b)     Ethyl alcohol (heading 22.07 or 22.08);
+(b) Ethyl alcohol (heading 22.07 or 22.08);
 
-(c)     Methane or propane (heading 27.11);
+(c) Methane or propane (heading 27.11);
 
-(d)     The compounds of carbon mentioned in Note 2 to Chapter 28;
+(d) The compounds of carbon mentioned in Note 2 to Chapter 28;
 
-(e)     Urea (heading 31.02 or 31.05);
+(e) Urea (heading 31.02 or 31.05);
 
-(f)      Colouring matter of vegetable or animal origin (heading 32.03, synthetic organic colouring matter, synthetic organic products, of a kind used as fluorescent brightening agents or as luminophores (heading 32.04) or dyes or other colouring matter put up in forms or packings for retail sale (heading 32.12);
+(f) Colouring matter of vegetable or animal origin (heading 32.03, synthetic organic colouring matter, synthetic organic products, of a kind used as fluorescent brightening agents or as luminophores (heading 32.04) or dyes or other colouring matter put up in forms or packings for retail sale (heading 32.12);
 
-(g)     Enzymes (heading 35.07);
+(g) Enzymes (heading 35.07);
 
-(h)     Metaldehyde, hexamethylenetetramine or simlar substances, put up in forms (for example, tablets, sticks or similar forms) for use as fuels, or liquid or liquefied-gas fuels in containers of a kind used for filling or refilling cigarette or similar lighters and of a capacity not exceeding 300cm3 (heading 36.06);
+(h) Metaldehyde, hexamethylenetetramine or simlar substances, put up in forms (for example, tablets, sticks or similar forms) for use as fuels, or liquid or liquefied-gas fuels in containers of a kind used for filling or refilling cigarette or similar lighters and of a capacity not exceeding 300cm3 (heading 36.06);
 
-(ij)     Products put up as charges for fire-extinguishers or put up in fire-extinguishing grenades, of heading 38.13; ink removers put up in packings for retail sale, of heading 38.24; or
+(ij) Products put up as charges for fire-extinguishers or put up in fire-extinguishing grenades, of heading 38.13; ink removers put up in packings for retail sale, of heading 38.24; or
 
-(k)     Optical elements, for example, of ethylenediamine tartrate (heading 90.01).
+(k) Optical elements, for example, of ethylenediamine tartrate (heading 90.01).
 
 3. -    Goods which could be included in two or more of the headings of this chapter are to be classified in that one of those headings which occurs last in numerical order.
 
@@ -4852,17 +4852,17 @@ For the purposes of headings 29.11, 29.12, 29.14, 29.18 and 29.22, “oxygen-fun
 
 5. - (a)The esters of acid-function organic compounds of sub-Chapters I to VII with organic compounds of these sub-Chapters are to be classified with that compound is classified in the heading which occurs last in numerical order in these sub- Chapters.
 
-(b)     Esters of ethyl alcohol with acid-function organic compounds or sub-Chapter 1 to VII are to be classified in the same heading as the corresponding acid-function compounds.
+(b) Esters of ethyl alcohol with acid-function organic compounds or sub-Chapter 1 to VII are to be classified in the same heading as the corresponding acid-function compounds.
 
-(c)     Subject to Note 1 to Section VI and Note 2 to Chapter 28:
+(c) Subject to Note 1 to Section VI and Note 2 to Chapter 28:
 
-(1)     Inorganic salts of organic compounds such as acid-phenol- or enolfunction compounds or organic bases, of sub-Chapters 1 to X or heading 29.42, are to be classified in the heading appropriate to the organic compound; and
+(1) Inorganic salts of organic compounds such as acid-phenol- or enolfunction compounds or organic bases, of sub-Chapters 1 to X or heading 29.42, are to be classified in the heading appropriate to the organic compound; and
 
-(2)     Salts formed between organic compounds of subchapters 1 to X heading 29.42 are to be classified in the heading appropriate to the base or to the acid (including phenol- or enol-function compounds) from which they are formed, whichever occurs last in numerical order in the Chapter.
+(2) Salts formed between organic compounds of subchapters 1 to X heading 29.42 are to be classified in the heading appropriate to the base or to the acid (including phenol- or enol-function compounds) from which they are formed, whichever occurs last in numerical order in the Chapter.
 
-(d)     Metal alcoholates are to be classifed in the same heading as the corresponding alcohols except in the case of ethanol (heading 29.05).
+(d) Metal alcoholates are to be classifed in the same heading as the corresponding alcohols except in the case of ethanol (heading 29.05).
 
-(e)     Halides of carboxylic acids are to be classified in the same heading as the corresponding acids.
+(e) Halides of carboxylic acids are to be classified in the same heading as the corresponding acids.
 
 6.-     The compounds of headings 29.30 and 29.31 are organic compound the molecules of which contain, in addition to atoms of hydrogen, oxygen or nitrogen, atoms of other nonmetals or of metals (such as sulphur, arsenic, mercury or lead) directly linked to carbon atoms. Heading 29.30 (organo-sulphur compounds) and heading No.
 
@@ -4874,9 +4874,9 @@ Theseprovisions apply only when the ring-position hetero-atoms are those resulti
 
 8.-     For the purposes of heading 29.37:
 
-(a)     the term “hormones” includes hormone-releasing or hormone-stimulating factors, hormone inhibitiors and hormone antagonists (anti-hormones);
+(a) the term “hormones” includes hormone-releasing or hormone-stimulating factors, hormone inhibitiors and hormone antagonists (anti-hormones);
 
-(b)     the expression “used primarily as hormones” applies not only to hormone derivatives and structural analogues used primarily for their hormonal effect, but also to those derivatives and structural analogues used primarily as intermediates in the synthesis of products of this heading.
+(b) the expression “used primarily as hormones” applies not only to hormone derivatives and structural analogues used primarily for their hormonal effect, but also to those derivatives and structural analogues used primarily as intermediates in the synthesis of products of this heading.
 
 Subheading Note.
 
@@ -5872,61 +5872,61 @@ Notes.
 
 1. -    This chapter does not cover:
 
-(a)     Foods or beverages (such as dietetic, diabetic or fortified foods, food supplements, tonic beverages and mineral waters), other than nutritional preparations for intravenous administration (Section IV);
+(a) Foods or beverages (such as dietetic, diabetic or fortified foods, food supplements, tonic beverages and mineral waters), other than nutritional preparations for intravenous administration (Section IV);
 
-(b)     Plasters specially calcined or finely ground for use in dentistry (heading 25.20);
+(b) Plasters specially calcined or finely ground for use in dentistry (heading 25.20);
 
-(c)     Aqueous distillates or aqueous solution of essential oils, suitable for medicinal uses (heading 33.01);
+(c) Aqueous distillates or aqueous solution of essential oils, suitable for medicinal uses (heading 33.01);
 
-(d)     Preparations of headings 33.03 to 33.07, even if they have therapeutic or prophylactic properties;
+(d) Preparations of headings 33.03 to 33.07, even if they have therapeutic or prophylactic properties;
 
-(e)     Soap or other products of heading 34.01 containing added medicaments;
+(e) Soap or other products of heading 34.01 containing added medicaments;
 
-(f)      Preparations with a basis of plaster for use in dentistry (heading 34.07));or
+(f) Preparations with a basis of plaster for use in dentistry (heading 34.07));or
 
-(g)     Blood albumin not prepared for therapeutic or prophylactic uses (heading 35.02).
+(g) Blood albumin not prepared for therapeutic or prophylactic uses (heading 35.02).
 
 2. -    For the purposes of heading 30.02, the expression “modified immunological products” applies only to monoclonal antibodies (MABs), antibody fragments, antibody conjugates and antibody fragment conjugates.
 
 3. -    For the purposes of headings 30.03 and 30.04 and of Note 4 (d) to this Chapter, the following are to be treated :
 
-(a)     As unmixed products:
+(a) As unmixed products:
 
-(1)     Unmixed products dissolved in water;
+(1) Unmixed products dissolved in water;
 
-(2)     All goods of Chapter 28 or 29; and
+(2) All goods of Chapter 28 or 29; and
 
-(3)     Simple vegetable extracts of heading 13.02, merely standardized or dissolved in any solvent;
+(3) Simple vegetable extracts of heading 13.02, merely standardized or dissolved in any solvent;
 
-(b)     As products which have been mixed:
+(b) As products which have been mixed:
 
-(1)     Colloidal solutions and suspensions (other than colloidal sulphur);
+(1) Colloidal solutions and suspensions (other than colloidal sulphur);
 
-(2)     Vegetable extracts obtained by the treatment of mixtures of vegetable materials; and
+(2) Vegetable extracts obtained by the treatment of mixtures of vegetable materials; and
 
-(3)     Salts and concentrates obtained by evaporating natural mineral waters .
+(3) Salts and concentrates obtained by evaporating natural mineral waters .
 
 4. -    Heading 30.06 applies only to the following, which are to be classified in that heading and in no other heading of the Nomenclature:
 
-(a)     Sterile surgical catgut, similar sterile suture materials and sterile tissue adhesives for surgical wound closure;
+(a) Sterile surgical catgut, similar sterile suture materials and sterile tissue adhesives for surgical wound closure;
 
-(b)     Sterile laminaria and sterile laminaria tents;
+(b) Sterile laminaria and sterile laminaria tents;
 
-(c)     Sterile absorbable surgical or dental haemostatics;
+(c) Sterile absorbable surgical or dental haemostatics;
 
-(d)     Opacifying preparations for X-ray examinations and diagostic reagents designed to be administered to the patient, being unmixed products put up in measured doses or products consisting of two or more ingredient which have been mixed together for such uses;
+(d) Opacifying preparations for X-ray examinations and diagostic reagents designed to be administered to the patient, being unmixed products put up in measured doses or products consisting of two or more ingredient which have been mixed together for such uses;
 
-(e)     Blood-grouping reagents;
+(e) Blood-grouping reagents;
 
-(f)      Dental cements and other dental fillings; bone reconstruction cements;
+(f) Dental cements and other dental fillings; bone reconstruction cements;
 
-(g)     First-aid boxes and kits;
+(g) First-aid boxes and kits;
 
-(h)     Chemical contraceptive preparations based on hormones, on other products of heading 29.37 or on spermicides;
+(h) Chemical contraceptive preparations based on hormones, on other products of heading 29.37 or on spermicides;
 
-(ij)     Gel preparations designed to be used in human or veterinary medicine as a lubricant for parts of the body for surgical operations or physical examinations or as a coupling agent between the body and medical instruments; and
+(ij) Gel preparations designed to be used in human or veterinary medicine as a lubricant for parts of the body for surgical operations or physical examinations or as a coupling agent between the body and medical instruments; and
 
-(k)     Waste pharmaceuticals, that is, pharmaceutical products which are unfit for their original intended purpose` due to, for example, expiry of shelf life.
+(k) Waste pharmaceuticals, that is, pharmaceutical products which are unfit for their original intended purpose` due to, for example, expiry of shelf life.
 
 HEADING / H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -6020,67 +6020,67 @@ Notes .
 
 1.-     This Chapter does not cover:
 
-(a)     Animal blood of heading 05.11;
+(a) Animal blood of heading 05.11;
 
-(b)     Separate chemically defined compounds (other than those answering to the descriptions in Note 2 (A), 3 (A), 4 (A) or 5 below); or
+(b) Separate chemically defined compounds (other than those answering to the descriptions in Note 2 (A), 3 (A), 4 (A) or 5 below); or
 
-(c)     Cultured potassium chloride crystals (other than optical elements ) weighing not less than 2.5g each, of heading 38.24; optical elements of potassium chloride (heading 90.01).
+(c) Cultured potassium chloride crystals (other than optical elements ) weighing not less than 2.5g each, of heading 38.24; optical elements of potassium chloride (heading 90.01).
 
 2. -    Heading 31.02 applies only to the following goods, provided that they are not put up in the forms or packages described in heading 31. 05:
 
-(A)     Goods which answer to one or other of the descriptions given below:
+(A) Goods which answer to one or other of the descriptions given below:
 
-(i)      Sodium nitrate, whether or not pure;
+(i) Sodium nitrate, whether or not pure;
 
-(ii)     Ammonium nitrate, whether or not pure;
+(ii) Ammonium nitrate, whether or not pure;
 
-(iii)    Double salts, whether or not pure, of ammonium sulphate and ammonium nitrate;
+(iii) Double salts, whether or not pure, of ammonium sulphate and ammonium nitrate;
 
-(iv)    Ammonium sulphate , whether or not pure;
+(iv) Ammonium sulphate , whether or not pure;
 
-(v)     Double salts (whether or not pure) or mixtures of calcium nitrate and ammonium nitrate;
+(v) Double salts (whether or not pure) or mixtures of calcium nitrate and ammonium nitrate;
 
-(vi)    Double salts (whether or not pure) or mixture of calcium nitrate and magnesium nitrate ;
+(vi) Double salts (whether or not pure) or mixture of calcium nitrate and magnesium nitrate ;
 
-(vii)   Calcium cyanamide, whether or not pure or treated with oil;
+(vii) Calcium cyanamide, whether or not pure or treated with oil;
 
-(viii)   Urea, whether or not pure.
+(viii) Urea, whether or not pure.
 
-(B)     Fertilizers consisting of any of the goods described in (A) above mixed together .
+(B) Fertilizers consisting of any of the goods described in (A) above mixed together .
 
-(C)     Fertilisers consisting of ammonium chloride or of any of the goods described in (A) or (B) above mixed with chalk, gypsum or other inorganic non-fertilizing substances .
+(C) Fertilisers consisting of ammonium chloride or of any of the goods described in (A) or (B) above mixed with chalk, gypsum or other inorganic non-fertilizing substances .
 
-(D)    Liquid fertilizers consisting of the goods of subparagraph (A) (ii) or (viii) above, or of mixtures of those goods, in an aqueous or ammoniacal solution.
+(D) Liquid fertilizers consisting of the goods of subparagraph (A) (ii) or (viii) above, or of mixtures of those goods, in an aqueous or ammoniacal solution.
 
 3. -    Heading 31.03 applies only to the following goods, provided that they are not put up in the forms or packages described in heading 31.05:
 
-(A)     Goods which answer to one or other of the descriptions given below:
+(A) Goods which answer to one or other of the descriptions given below:
 
-(i)      Basic slag;
+(i) Basic slag;
 
-(ii)     Natural phosphates of heading 25.10, calcined or further heat –treated than for the removal of impurities ;
+(ii) Natural phosphates of heading 25.10, calcined or further heat –treated than for the removal of impurities ;
 
-(iii)    Superphosphates (single, double or triple);
+(iii) Superphosphates (single, double or triple);
 
-(iv)    Calcium hydrogenorthophosphate containing not less than 0.2% by weight of fluorine calculated on the dry anhydrous product.
+(iv) Calcium hydrogenorthophosphate containing not less than 0.2% by weight of fluorine calculated on the dry anhydrous product.
 
-(B)     Fertilisers consisting of any of the goods described in (A) above, mixed together, but with no account being taken of the fluorine content limit.
+(B) Fertilisers consisting of any of the goods described in (A) above, mixed together, but with no account being taken of the fluorine content limit.
 
-(C)     Fertilisers consisting of any of the goods described in (A) or (B) above, but with no account being taken of the fluorine content limit, mixed with chalk, gypsum or other inorganic non- fertilising substances .
+(C) Fertilisers consisting of any of the goods described in (A) or (B) above, but with no account being taken of the fluorine content limit, mixed with chalk, gypsum or other inorganic non- fertilising substances .
 
 4. -    Heading 31.04 applies only to the following goods, provided that they are not put up in the forms or packages described in heading 31.05:
 
-(A)     Goods which answer to one or other of the descriptions given below:
+(A) Goods which answer to one or other of the descriptions given below:
 
-(i)      Crude natural potassium salts (for example, carnallite, kainite and sylvite);
+(i) Crude natural potassium salts (for example, carnallite, kainite and sylvite);
 
-(ii)     Potasium chloride, whether or not pure, except as provided in Note 1 (c) above;
+(ii) Potasium chloride, whether or not pure, except as provided in Note 1 (c) above;
 
-(iii)    Potassium sulphate, whether or not pure;
+(iii) Potassium sulphate, whether or not pure;
 
-(iv)    Magnesium potassium sulphate, whether or not pure.
+(iv) Magnesium potassium sulphate, whether or not pure.
 
-(B)     Fertilisers consisting of any of the goods described in (A) above mixed together .
+(B) Fertilisers consisting of any of the goods described in (A) above mixed together .
 
 5. -    Ammonium dihydrogenorthophosphate (monoammonium phosphate) and diammonium hydrogeorthophosphate (diammonium phosphate),whether or not pure, and intermixtures thereof, are to be classified in heading 31.05.
 
@@ -6162,11 +6162,11 @@ Notes.
 
 1. -    This Chapter does not cover
 
-(a)     Separate chemically defined elements or compounds (except those of heading 32.03 or 32.04, inorganic products of a kind used as luminophores (heading 32.06), glass obtained from fused quartz or other fused silica in the forms provided for in heading32.07, and also dyes and other colouring matter put up in forms or packings for retail sale, of heading 32.12);
+(a) Separate chemically defined elements or compounds (except those of heading 32.03 or 32.04, inorganic products of a kind used as luminophores (heading 32.06), glass obtained from fused quartz or other fused silica in the forms provided for in heading32.07, and also dyes and other colouring matter put up in forms or packings for retail sale, of heading 32.12);
 
-(b)     Tannates or other tannin derivatives of products of headings 29.36 to 29.39, 29.41 or 35.01, 35.04; or
+(b) Tannates or other tannin derivatives of products of headings 29.36 to 29.39, 29.41 or 35.01, 35.04; or
 
-(c)     Mastics of asphalt or other bituminous mastics (heading 27.15).
+(c) Mastics of asphalt or other bituminous mastics (heading 27.15).
 
 2. -    Heading 32.04 includes mixtures of stabilized diazonium salts and couplers for the production of azo dyes .
 
@@ -6178,9 +6178,9 @@ Notes.
 
 6. -    The expression “stamping foils” in heading 32.12 applies only to thin sheets of a kind used for printing, for example, book covers or hat bands, and consisting of:
 
-(a)     Metalic powder (including powder of precious metal) or pigment, agglomerated with glue, gelatin or other binder; or
+(a) Metalic powder (including powder of precious metal) or pigment, agglomerated with glue, gelatin or other binder; or
 
-(b)     Metal (including precious metal) or pigment, deposited on a supporting sheet of any material.
+(b) Metal (including precious metal) or pigment, deposited on a supporting sheet of any material.
 
 HEADING / H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -6322,11 +6322,11 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Natural oleoresins or vegetable extracts of heading 13.01 or 13.02;
+(a) Natural oleoresins or vegetable extracts of heading 13.01 or 13.02;
 
-(b)     Soap or other products of heading 34.01; or
+(b) Soap or other products of heading 34.01; or
 
-(c)     Gum, wood or sulphate turpentine or other products of heading 38.05.
+(c) Gum, wood or sulphate turpentine or other products of heading 38.05.
 
 2. -    The expression “odoriferous substance” in heading 33.02 refers only to the substances of heading 33.01, to odoriferous constituents isolated from those substances or to synthetic aromatics.
 
@@ -6438,39 +6438,39 @@ Notes.
 
 1. –    This Chapter does not cover :
 
-(a)     Edible mixtures or preparations of animal or vegetable fats or oil of a kind used as mould release preparations (heading 15.17);
+(a) Edible mixtures or preparations of animal or vegetable fats or oil of a kind used as mould release preparations (heading 15.17);
 
-(b)     Separate chemically defined compound; or
+(b) Separate chemically defined compound; or
 
-(c)     Shampoos, dentifrices, shaving creams and foam, or bath preparations, containing soap or other organic surface-active agents (heading 33.05, 33.06 or 33.07).
+(c) Shampoos, dentifrices, shaving creams and foam, or bath preparations, containing soap or other organic surface-active agents (heading 33.05, 33.06 or 33.07).
 
 2. -    For the purposes of heading 34.01, the expression “soap” applies only to soap soluble in water. Soap and the other products of heading 34.01 may contain added substances (forexample, disinfectants, abrasive powders, fillers or medicaments ). Products containing abrasive powders remain classified in heading 34.01 only if in the form of bars, cakes or moulded pieces or shapes . In other forms they are to be classified in heading 34.05 as “scouring powder and similar preparations”.
 
 3. -    For the purposes of heading 34.02 “ organic surface – active agents” are product which when mixed with water at a concentration of 0.5% at 20oC and left to stand for one hour at the same temperature:
 
-(a)     give a transparent or translucent liquid or stable emulsion without separation of isoluble matter ; and
+(a) give a transparent or translucent liquid or stable emulsion without separation of isoluble matter ; and
 
-(b)     reduce the surface tension of water to 4.5x10-2 N/m (45 dyne / cm) or less.
+(b) reduce the surface tension of water to 4.5x10-2 N/m (45 dyne / cm) or less.
 
 4. -    In heading 34.03 the expression “ petroleum oils and oils obtained from bituminous minerals” applies to the products defined in note 2 to Chapter 27.
 
 5. -    In heading 34.04, subject to the exclusions provided below, the expression “ artificial waxes and prepared waxes” applies only to:
 
-(A)     Chemically produced organic products of a waxy character, whether or not water soluble;
+(A) Chemically produced organic products of a waxy character, whether or not water soluble;
 
-(B)     Products obtained by mixing different waxes;
+(B) Products obtained by mixing different waxes;
 
-(C)     Products of a waxy character with a basis of one or more waxes and containing fats, resins, mineral substances or other materials.
+(C) Products of a waxy character with a basis of one or more waxes and containing fats, resins, mineral substances or other materials.
 
 The heading does not apply to:
 
-(a)     Products of heading 15.16,34.02 or 38.23, even if having a waxy character;
+(a) Products of heading 15.16,34.02 or 38.23, even if having a waxy character;
 
-(b)     Unmixed animal waxes or unmixed vegetable waxes, whether or not refined or coloured , of heading 15.21;
+(b) Unmixed animal waxes or unmixed vegetable waxes, whether or not refined or coloured , of heading 15.21;
 
-(c)     Mineral waxes or similar products of heading 27.12, whether or not intermixed or merely coloured; or
+(c) Mineral waxes or similar products of heading 27.12, whether or not intermixed or merely coloured; or
 
-(d)     Waxes mixed with, dispersed in or dissolved in a liquid medium (headings 34.05, 38.09,etc.).
+(d) Waxes mixed with, dispersed in or dissolved in a liquid medium (headings 34.05, 38.09,etc.).
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -6568,17 +6568,17 @@ Notes
 
 1. -    This chapter does not cover:
 
-(a)     Yeasts (heading 21.02);
+(a) Yeasts (heading 21.02);
 
-(b)     Blood fractions (other than blood albumin not prepared for therapeutic or prophylactic uses), medicament or other products of chapter 30;
+(b) Blood fractions (other than blood albumin not prepared for therapeutic or prophylactic uses), medicament or other products of chapter 30;
 
-(c)     Enzymatic preparations for pre-tanning (heading 32.02);
+(c) Enzymatic preparations for pre-tanning (heading 32.02);
 
-(d)     Enzymatic soaking or washing preparations or other products of Chapter 34;
+(d) Enzymatic soaking or washing preparations or other products of Chapter 34;
 
-(e)     Hardened proteins (heading 39.13); or
+(e) Hardened proteins (heading 39.13); or
 
-(f)      Gelatin products of the printing industry (chapter 49).
+(f) Gelatin products of the printing industry (chapter 49).
 
 2. -    For the purposes of heading 35.05, the term “dextrins” means starch degradation products with a reducing sugar content, expressed as dextrose on the dry substance, not exceeding10%.
 
@@ -6604,7 +6604,7 @@ HEADING / H.S. CODE DESCRIPTION SU NG DUTY RATE
 
 3502.9000.00- Other ……………………………………….. kg 10
 
-3503.0000.00-Gelatin (including gelatin in rectangular (including square) sheets, whether or not surfaceworked or coloured ) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 35.01 ……………………………………..  kg 10
+3503.0000.00-Gelatin (including gelatin in rectangular (including square) sheets, whether or not surfaceworked or coloured ) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 35.01 …………………………………….. kg 10
 
 3504.0000.00-Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed. ………………………………… kg 10
 
@@ -6708,53 +6708,53 @@ Notes.
 
 1. -    This chapter does not cover:
 
-(a)     Separate chemically defined elements or compounds with the exception of the following:
+(a) Separate chemically defined elements or compounds with the exception of the following:
 
-(1)     Artificial graphite (heading 38.01);
+(1) Artificial graphite (heading 38.01);
 
-(2)     Insecticides, rodenticides, fungicides, herbicides, anti-sprouting productsb and plant-growth regulators, disinfectants and similar products, put up as described in heading 38.08;
+(2) Insecticides, rodenticides, fungicides, herbicides, anti-sprouting productsb and plant-growth regulators, disinfectants and similar products, put up as described in heading 38.08;
 
-(3)     Products put up as charges for fire-extinguishers or put up in fireextinguishing grenades (heading 38.13);
+(3) Products put up as charges for fire-extinguishers or put up in fireextinguishing grenades (heading 38.13);
 
-(4)     Certified reference materials specified in Note 2 below;
+(4) Certified reference materials specified in Note 2 below;
 
-(5)     Products specified in Notes 3 (a) or 3 (c) below;
+(5) Products specified in Notes 3 (a) or 3 (c) below;
 
-(b)     Mixtures of chemicals with foodstuffs or other substances with nutritive value, of a kind used in the preparation of human foodstuffs (generally heading 21.06);
+(b) Mixtures of chemicals with foodstuffs or other substances with nutritive value, of a kind used in the preparation of human foodstuffs (generally heading 21.06);
 
-(c)     Ash and residues (including sludges, other than sewages sludge), containing metals arsenic or their mixtures and meeting the requirements of Note 3 (a) or 3 (b) to Chapter 26 (heading 26.20);
+(c) Ash and residues (including sludges, other than sewages sludge), containing metals arsenic or their mixtures and meeting the requirements of Note 3 (a) or 3 (b) to Chapter 26 (heading 26.20);
 
-(d)     Medicaments (heading 30.03 or 30.04); or.
+(d) Medicaments (heading 30.03 or 30.04); or.
 
-(e)     Spent catalysts of a kind used for the extraction of base metals or for the manufacture of chemical compounds of base metals (heading 26.20), spent catalysts of a kind used principally for the recovery of precious metal (heading 71.21) or catalysts consisting of metals or metal alloys in the form of, for example, finely divided powder or woven gauze (section XIV or XV).
+(e) Spent catalysts of a kind used for the extraction of base metals or for the manufacture of chemical compounds of base metals (heading 26.20), spent catalysts of a kind used principally for the recovery of precious metal (heading 71.21) or catalysts consisting of metals or metal alloys in the form of, for example, finely divided powder or woven gauze (section XIV or XV).
 
 2. - (A)For the purpose of heading 38.22, the expression “certified reference materials” means reference materials which are accompanied by a certificate which indicates the values of the certified properties, the methods used to determine these values and the degree of certainty associated with each value and which are suitable for analytical, calibrating or referencing purposes.
 
-(B)     With the exception of the products of Chapter 28 or 29, for the classification of certified reference materials, heading 38.22 shall take precedence over any other heading in the Nomenclature.
+(B) With the exception of the products of Chapter 28 or 29, for the classification of certified reference materials, heading 38.22 shall take precedence over any other heading in the Nomenclature.
 
 3. -    Heading 38.24 includes the following goods which are not to be classified in any other heading of the Nomenclature:
 
-(a)     Cultured crystals (other than optical elements) weighing not less than 2.5g each, of magnesium oxide or of the halides of the alkali or alkaline-earth metals;
+(a) Cultured crystals (other than optical elements) weighing not less than 2.5g each, of magnesium oxide or of the halides of the alkali or alkaline-earth metals;
 
-(b)     Fusel oil; Dippel’s oil;
+(b) Fusel oil; Dippel’s oil;
 
-(c)     Ink removers put up in packings for retail sale;
+(c) Ink removers put up in packings for retail sale;
 
-(d)     Stencil correctors and other correcting fluids put up in packings for retail sale; and
+(d) Stencil correctors and other correcting fluids put up in packings for retail sale; and
 
-(e)     Ceramic firing testers, fusible (for example, seger cones ).
+(e) Ceramic firing testers, fusible (for example, seger cones ).
 
 4. -    Throughout the Nomenclature, “municipal waste” means waste of a kind collected from households, hotels, restaurants, hospitals, shops, offices, etc., road and pavement sweepings, as well as construction and demolition waste. Municipal waste generally contains a large variety of material such as plastics, rubber, wood, paper, textiles, glass, metals, food materials, broken furniture and other damaged or discarded articles.
 
 The term “municipal waste”, however, does not cover:
 
-(a)     Individual materials or articles segregated from the waste, such as wastes of plastics, rubber, wood, paper, textiles, glass or metals and spent batteries which fall in their appropriate headings of the Nomenclature;
+(a) Individual materials or articles segregated from the waste, such as wastes of plastics, rubber, wood, paper, textiles, glass or metals and spent batteries which fall in their appropriate headings of the Nomenclature;
 
-(b)     Industrial waste;
+(b) Industrial waste;
 
-(c)     Waste pharmaceuticals, as defined in Note 4 (k) to Chapter 30; or
+(c) Waste pharmaceuticals, as defined in Note 4 (k) to Chapter 30; or
 
-(d)     Clinical waste, as defined in Note 6 (a) below.
+(d) Clinical waste, as defined in Note 6 (a) below.
 
 5. -    For the purposes of heading 38.25, “sewage sludge” means sludge arising from urban effluent treatment plant and includes pre-treatment waste, scouring and unstabilised sludge.
 
@@ -6762,19 +6762,19 @@ Stabilisedsludge when suitable for use as fertilizer is excluded (Chapter 31).
 
 6. -    For the purposes of heading 38.25, the expression “other wastes” applies to:
 
-(a)     Clinical waste, that is, contaminated waste arising from medical research, diagnosis, treatment or other medical, surgical, dental or veterinary procedures, which often contain pathogens and pharmaceutical substances and require special disposal procedures (for example, soiled dressings, used gloves and used syringes);
+(a) Clinical waste, that is, contaminated waste arising from medical research, diagnosis, treatment or other medical, surgical, dental or veterinary procedures, which often contain pathogens and pharmaceutical substances and require special disposal procedures (for example, soiled dressings, used gloves and used syringes);
 
-(b)     Waste organic solvents;
+(b) Waste organic solvents;
 
-(c)     Wastes of metal pickling liquors, hydraulic fluids, brake fluids and anti-freezing fluids; and
+(c) Wastes of metal pickling liquors, hydraulic fluids, brake fluids and anti-freezing fluids; and
 
-(d)     Other wastes from chemical or allied industries.
+(d) Other wastes from chemical or allied industries.
 
 Theexpression “other wastes” does not, however, cover wastes which contain mainly petroleum oils or oils obtained from bituminous minerals (heading 27.10).
 
 Subheading Note.
 
-1.       For the purposes of subheadings 3825.41 and 3825.49, “waste organic solvents” are wastes containing mainly organic solvents, not fit for further use as presented as primary products, whether or not intended for recovery of the solvents.
+1. For the purposes of subheadings 3825.41 and 3825.49, “waste organic solvents” are wastes containing mainly organic solvents, not fit for further use as presented as primary products, whether or not intended for recovery of the solvents.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -6990,11 +6990,11 @@ Notes.
 
 1. -    Goods put up in sets consisting of two or more separate constituents, some or all of which fall in this Section and are intended to be mixed together to obtain a product of Section VI or VII, are to be classified in the heading appropriate to the product, provided that the constituents are :
 
-(a)     having regard to the manner in which they are put up, clearly identifiable as being intended to be used together without first repacked ;
+(a) having regard to the manner in which they are put up, clearly identifiable as being intended to be used together without first repacked ;
 
-(b)     presented together; and
+(b) presented together; and
 
-(c)     identifiable, whether by their nature or by the relative proportions in which they are present, as being complementary one to another.
+(c) identifiable, whether by their nature or by the relative proportions in which they are present, as being complementary one to another.
 
 2. -    Except for the goods of heading 39.18 or 38.19, plastics, rubber, and articles thereof, printed with motifs, characters or pictorial representations, which are not merely incidental to the primary use of the goods, fall in Chapters 49.
 
@@ -7010,61 +7010,61 @@ Throughoutthe Nomenclature any reference to “ plastics” also includes vulcan
 
 2. -    This Chapter does not cover:
 
-(a)     Waxes of heading 27.12 or 34.04;
+(a) Waxes of heading 27.12 or 34.04;
 
-(b)     Separate chemically defined organic compound (Chapter 29);
+(b) Separate chemically defined organic compound (Chapter 29);
 
-(c)     Heparing or its salts (heading 30 .01);
+(c) Heparing or its salts (heading 30 .01);
 
-(d)     Solutions (other than collodions ) consisting of any of the products specified in headings 39.01 to 39.13 in volatile organic solvents when the weight of the solvent exceeds 50% of the weight of the solution (heading 32.08); stamping foils of heading 32.12;
+(d) Solutions (other than collodions ) consisting of any of the products specified in headings 39.01 to 39.13 in volatile organic solvents when the weight of the solvent exceeds 50% of the weight of the solution (heading 32.08); stamping foils of heading 32.12;
 
-(e)     Organic surface-active agents or preparations of heading 34.02;
+(e) Organic surface-active agents or preparations of heading 34.02;
 
-(f)      Run gums or ester gums (heading 38.06);
+(f) Run gums or ester gums (heading 38.06);
 
-(g)     Diagnostic or laboratory reagents on a backing of plastics (heading 38.22);
+(g) Diagnostic or laboratory reagents on a backing of plastics (heading 38.22);
 
-(h)     Synthetic rubber, as defined for the purposes of Chapter 40, or articles thereof;
+(h) Synthetic rubber, as defined for the purposes of Chapter 40, or articles thereof;
 
-(ij)     Saddlery or harness (heading 42.01) or trunks, suitcases, handbags or other containers of heading 42.02;
+(ij) Saddlery or harness (heading 42.01) or trunks, suitcases, handbags or other containers of heading 42.02;
 
-(k)     Plaits, wickerwork or the articles of Chapter 46;
+(k) Plaits, wickerwork or the articles of Chapter 46;
 
-(l)      Wall coverings of heading 48.14;
+(l) Wall coverings of heading 48.14;
 
-(m)    Good of Section XI (textile and textile articles);
+(m) Good of Section XI (textile and textile articles);
 
-(n)     Articles of section XII (for example, footwear, headgear, umbrellas, sun umbellas, walking-sticks, Whips, riding- crops or parts thereof );
+(n) Articles of section XII (for example, footwear, headgear, umbrellas, sun umbellas, walking-sticks, Whips, riding- crops or parts thereof );
 
-(o)     Imitation jewellery of heading 71.17
+(o) Imitation jewellery of heading 71.17
 
-(p)     Articles of Section XVI (machines and mechanical or electrical appliances);
+(p) Articles of Section XVI (machines and mechanical or electrical appliances);
 
-(q)     Parts of aircraft or vehicles of Section XVII;
+(q) Parts of aircraft or vehicles of Section XVII;
 
-(r)      Articles of Chapter 90 (for example, optical elements, spectacle frames, drawing instruments);
+(r) Articles of Chapter 90 (for example, optical elements, spectacle frames, drawing instruments);
 
-(s)     Articles of Chapter 91 (for example, clock or watch cases);
+(s) Articles of Chapter 91 (for example, clock or watch cases);
 
-(t)      Articles of Chapter 92 (for example, musical instrument or parts thereof);
+(t) Articles of Chapter 92 (for example, musical instrument or parts thereof);
 
-(u)     Articles of Chapter 94 (for example, furniture, lamps and lighting fittings, illuminated signs, prefabricated buildings);
+(u) Articles of Chapter 94 (for example, furniture, lamps and lighting fittings, illuminated signs, prefabricated buildings);
 
-(v)     Articles of Chapter 95 (for example, toys games, sports requisites ) ; or
+(v) Articles of Chapter 95 (for example, toys games, sports requisites ) ; or
 
-(w)    Articlesof Chapter 96 (for example, brushes, buttons, slide fasteners, combs, mouthpieces or stems for smoking pipes, cigarette holders or the like, parts of vacuum flasks or the like, pens propelling pencils).
+(w) Articlesof Chapter 96 (for example, brushes, buttons, slide fasteners, combs, mouthpieces or stems for smoking pipes, cigarette holders or the like, parts of vacuum flasks or the like, pens propelling pencils).
 
 3. -    Headings 39.01 to 39.11 apply only to goods of a kind produced by chemical synthesis, falling in the following categories:
 
-(a)     Liquid synthetic polyolefins of which less than 60% by volume distils at 300oC, after conversion to 1.013 millibars when a reduced-pressure distillation method is sed (headings 39.01 and 39.02);
+(a) Liquid synthetic polyolefins of which less than 60% by volume distils at 300oC, after conversion to 1.013 millibars when a reduced-pressure distillation method is sed (headings 39.01 and 39.02);
 
-(b)     Resins, not highly polymerized, of the coumarone –indene type (heading39.11);
+(b) Resins, not highly polymerized, of the coumarone –indene type (heading39.11);
 
-(c)     Other synthetic polymers with an average of at least 5 monomer units;
+(c) Other synthetic polymers with an average of at least 5 monomer units;
 
-(d)     Silicones (heading 39.10);
+(d) Silicones (heading 39.10);
 
-(e)     Resols (heading 39.09) and other prepolymers.
+(e) Resols (heading 39.09) and other prepolymers.
 
 4. -    The expression “copolymers” covers all polymers in which no single monomer unit contributes 95% or more by weight to the total polymer content.
 
@@ -7076,9 +7076,9 @@ If no single comonomer units predominate, polymers or polymer blends, as the cas
 
 6. -    In heading 39.01 to 39.14, the expression “ primary form” applies only to the following forms:
 
-(a)     Liquids and paste, including dispersions (emulsions and suspension ) and solutions;
+(a) Liquids and paste, including dispersions (emulsions and suspension ) and solutions;
 
-(b)     Blocks of irregular shape, lumps, powders ( including moulding powders), granules, flakes and similar bulk forms.
+(b) Blocks of irregular shape, lumps, powders ( including moulding powders), granules, flakes and similar bulk forms.
 
 7. -    Heading 39.15 does not apply to waste, parings and scrap of a single thermoplastic material, transformed into primary form (headings 39.01 to 39.14).
 
@@ -7090,43 +7090,43 @@ If no single comonomer units predominate, polymers or polymer blends, as the cas
 
 11. - Heading 39.25 applies only to the following articles, not being products covered by any of the early heading of sub-Chapter II:
 
-(a)     Reservoirs, tanks (including septic tanks ), vats and similar containers, of a capacity exceeding 3001;
+(a) Reservoirs, tanks (including septic tanks ), vats and similar containers, of a capacity exceeding 3001;
 
-(b)     Structural elements used, for example, in floors, walls or partitions, ceiling or roofs;
+(b) Structural elements used, for example, in floors, walls or partitions, ceiling or roofs;
 
-(c)     Gutters and fittings thereof;
+(c) Gutters and fittings thereof;
 
-(d)     Doors, window and their frames and thresholds for doors;
+(d) Doors, window and their frames and thresholds for doors;
 
-(e)     Balconies, balustrades, fencing, gates and similar barrier;
+(e) Balconies, balustrades, fencing, gates and similar barrier;
 
-(f)      Shutters, blinds (including Venetian blinds ) and similar articles and parts and fittings thereof;
+(f) Shutters, blinds (including Venetian blinds ) and similar articles and parts and fittings thereof;
 
-(g)     Large-scale shelving for assembly and permanent installation, for example, in shops, workshops, warehouses;
+(g) Large-scale shelving for assembly and permanent installation, for example, in shops, workshops, warehouses;
 
-(h)     Ornamental architectural features, for example, flutings, cupolas, dovecotes; and;
+(h) Ornamental architectural features, for example, flutings, cupolas, dovecotes; and;
 
-(i)      Fittings and mountings intended for permanent installation in or on doors,windows, staircases, walls or other parts of buildings, for example, knobs, handles, hooks, brackets, towel rails, switch-plates and other protective plates.
+(i) Fittings and mountings intended for permanent installation in or on doors,windows, staircases, walls or other parts of buildings, for example, knobs, handles, hooks, brackets, towel rails, switch-plates and other protective plates.
 
 Subheading Notes.
 
 1. –    Within any one heading of this Chapter, polymers (including copolymers) and chemically modified polymers are to be classified according to the following provisions:
 
-(a)     Where there is a subheading named “Other” in the same series:
+(a) Where there is a subheading named “Other” in the same series:
 
-(1)     The designation in subheading of a polymer by the prefix “poly” (e.g, polyethylene and polyamide – 6,means that the constituent monomer unit or monomer units of the named polymer taken together must contribute 95% or more by weight of the total polymer content .
+(1) The designation in subheading of a polymer by the prefix “poly” (e.g, polyethylene and polyamide – 6,means that the constituent monomer unit or monomer units of the named polymer taken together must contribute 95% or more by weight of the total polymer content .
 
-(2)     The copolymers named in subheadings 3901.30, 3903.20, 3903.30 and 3904.30 are to be classified in those subheadings, provided that  the comonomer units of the named copolymers contribute 95% or more by weight of the total polymer content .
+(2) The copolymers named in subheadings 3901.30, 3903.20, 3903.30 and 3904.30 are to be classified in those subheadings, provided that  the comonomer units of the named copolymers contribute 95% or more by weight of the total polymer content .
 
-(3)     Chemically modified polymers are to be classified in the subheading named “Other” provided that the chemically modified polymers are not more specifically covered by another subheading.
+(3) Chemically modified polymers are to be classified in the subheading named “Other” provided that the chemically modified polymers are not more specifically covered by another subheading.
 
-(4)     Polymers not meeting (1), (2) or (3) above, are to be classified in the subheading, among the remaining subheadings in the series, covering polymers of that monomer unit which predominates by weight over every other single comonomer unit. For this purpose, constituent monomer units of polymers failing in the same subheading shall be taken together. Only the constituent comonomer units of the polymers in the series of subheadings under consideration are to be compared.
+(4) Polymers not meeting (1), (2) or (3) above, are to be classified in the subheading, among the remaining subheadings in the series, covering polymers of that monomer unit which predominates by weight over every other single comonomer unit. For this purpose, constituent monomer units of polymers failing in the same subheading shall be taken together. Only the constituent comonomer units of the polymers in the series of subheadings under consideration are to be compared.
 
-(b)     Where there is to subheading named “other” in the same series:
+(b) Where there is to subheading named “other” in the same series:
 
-(1)     polymers are to be classified in the subheading covering polymers of that monomer unit which predominates by weight over every other single comonomer unit. For this purpose, constituent monomer units of polymers falling in the same subheading shall be taken together. Only the constituent comonomer unit of the polymers in the series under consideration are to be compared .
+(1) polymers are to be classified in the subheading covering polymers of that monomer unit which predominates by weight over every other single comonomer unit. For this purpose, constituent monomer units of polymers falling in the same subheading shall be taken together. Only the constituent comonomer unit of the polymers in the series under consideration are to be compared .
 
-(2.)    Chemically modified polymer are to be classified in the subheading appropriate to unmodified polymer .
+(2.) Chemically modified polymer are to be classified in the subheading appropriate to unmodified polymer .
 
 polymer blends are to be classified in the same subheading as polymers of the same monomer units in the same proportions .
 
@@ -7538,47 +7538,47 @@ Notes.
 
 2. -    This Chapter does not cover:
 
-(a)     Goods of section XI (textiles and textile articles);
+(a) Goods of section XI (textiles and textile articles);
 
-(b)     Footwear or parts thereof of Chapter 64;
+(b) Footwear or parts thereof of Chapter 64;
 
-(c)     Headgear or parts thereof (including bathing caps ) of Chapter 65;
+(c) Headgear or parts thereof (including bathing caps ) of Chapter 65;
 
-(d)     Mechanical or electrical appliances or parts thereof section XVI (including electrical goods of all kinds), of all rubber;
+(d) Mechanical or electrical appliances or parts thereof section XVI (including electrical goods of all kinds), of all rubber;
 
-(e)     Articles of Chapter 90, 92, 94 or 96; or
+(e) Articles of Chapter 90, 92, 94 or 96; or
 
-(f)      Articles of Chapter 95 (other than sports gloves, mitten and mitts and articles of headings 40.11 to 40. 13 ).
+(f) Articles of Chapter 95 (other than sports gloves, mitten and mitts and articles of headings 40.11 to 40. 13 ).
 
 3. -    In headings 40.01 to 40.03 and 40.05, the expression “primary forms” applies only to the following forms:
 
-(a)     Liquids and pastes (including latex, whether or not pre-vulcanised, and other dispersions and solutions);
+(a) Liquids and pastes (including latex, whether or not pre-vulcanised, and other dispersions and solutions);
 
-(b)     Blocks of irregular shape, lumps, bales, powders, granules, crumbs and similar bulk forms.
+(b) Blocks of irregular shape, lumps, bales, powders, granules, crumbs and similar bulk forms.
 
 4. -    In Note 1 to this Chapter and in heading 40.02, the expression “ synthetic rub applies to:
 
-(a)     Unsaturated synthetic substances which can be irreversibly transformed by vulcanisation with sulphur into non – thermoplastic substances which at a temperature between 18oC and 29oC, will not break on being extended to three times their original length and will return, after being extended to twice their original length, within a period of five minutes, to a length not greater than one and a half times their original length. For the purposes of this test, substances necessary for the cross-linking, such as vulcanizing activators or accelerators, may be added; the presence of substances as provided for by Note 5 (b) (ii) and (iii) is also permitted . However, the presence of any substances not necessary for the cross-linking, such as extender, plasticisers and filers, is not permitted;
+(a) Unsaturated synthetic substances which can be irreversibly transformed by vulcanisation with sulphur into non – thermoplastic substances which at a temperature between 18oC and 29oC, will not break on being extended to three times their original length and will return, after being extended to twice their original length, within a period of five minutes, to a length not greater than one and a half times their original length. For the purposes of this test, substances necessary for the cross-linking, such as vulcanizing activators or accelerators, may be added; the presence of substances as provided for by Note 5 (b) (ii) and (iii) is also permitted . However, the presence of any substances not necessary for the cross-linking, such as extender, plasticisers and filers, is not permitted;
 
-(b)     Thioplasts (TM); and
+(b) Thioplasts (TM); and
 
-(c)     Natural rubber modified by grafting or mixing with plastics, depolymerised natural rubber, mixtures of unsaturated synthetic substance with saturated synthetic high polymers provided that all the above- mentioned products comply with the requirements concerning vulcanization, elongation and recovery in (a) above.
+(c) Natural rubber modified by grafting or mixing with plastics, depolymerised natural rubber, mixtures of unsaturated synthetic substance with saturated synthetic high polymers provided that all the above- mentioned products comply with the requirements concerning vulcanization, elongation and recovery in (a) above.
 
 5. -    (a) Headings 40.01 and 40.02 do not apply to any rubber or mixture of rubbers which has been compounded, before or after coagulation, with :
 
-( i )    vulcanising agents, accelerators, retarders or activators (other than those added for the preparation of pre-vulcanised rubber latex);
+( i ) vulcanising agents, accelerators, retarders or activators (other than those added for the preparation of pre-vulcanised rubber latex);
 
-(ii)     pigments or other colouring matter, other than those added solely for the purpose of identification;
+(ii) pigments or other colouring matter, other than those added solely for the purpose of identification;
 
-(iii)    plasticisers or extenders (except mineral oil in the case of oil-extended rubber), fillers, reinforcing agents, organic solvents or any other substances, expect those permitted under (b);
+(iii) plasticisers or extenders (except mineral oil in the case of oil-extended rubber), fillers, reinforcing agents, organic solvents or any other substances, expect those permitted under (b);
 
-(b)     The presence of the following substances in any rubber or mixture of rubbers shall not affect its classification in heading 40.01 or 40.02, as the case may be, provided that such rubber or mixture of rubbers retains its essential character as a raw material:
+(b) The presence of the following substances in any rubber or mixture of rubbers shall not affect its classification in heading 40.01 or 40.02, as the case may be, provided that such rubber or mixture of rubbers retains its essential character as a raw material:
 
-(i)      emulsifiers or anti-tack agents;
+(i) emulsifiers or anti-tack agents;
 
-(ii)     small amounts of breakdown products of emulsifiers;
+(ii) small amounts of breakdown products of emulsifiers;
 
-(iii)    very small amounts of the following: heat – sensitive agents (generally for obtaining thermosensitive rubber latexes), cationic surface-active agents(generally for obtaining electro-positive rubber latexes), antioxidants, coagulants, crumbing agents, freeze-resisting agents, peptisers, preservatives, stabilizer, viscosity-control agents or simila special- purpose additives.
+(iii) very small amounts of the following: heat – sensitive agents (generally for obtaining thermosensitive rubber latexes), cationic surface-active agents(generally for obtaining electro-positive rubber latexes), antioxidants, coagulants, crumbing agents, freeze-resisting agents, peptisers, preservatives, stabilizer, viscosity-control agents or simila special- purpose additives.
 
 6. -    For the purposes of heading 40.04, the expressions “waste, parings and scrap” means rubber waste, parings and scrap from the manufacture or working of rubber and rubber goods definitely not usable as such because of cutting–up, wear or other reasons.
 
@@ -7848,13 +7848,13 @@ Raw hides and skins (other than furskins) and leather
 
 Notes.
 
-1.       - This Chapter does not cover:
+1. - This Chapter does not cover:
 
-(a)     Parings or similar waste, of raw hides or skins (heading 05.11);
+(a) Parings or similar waste, of raw hides or skins (heading 05.11);
 
-(b)     Birdskins or parts of birdskins, with their feathers or down, of heading 05.05 or  67.01;or
+(b) Birdskins or parts of birdskins, with their feathers or down, of heading 05.05 or  67.01;or
 
-(c)     Hides or skins, with the hair or wool on, raw tanned or dressed (chapter 43); the following are however, to be classified in chapter 41, namely, raw hides and skins with the hair or wool on , of bovine animal (including buftalo), of equine animals, of sheep or lambs (except Astrakhan, broadtail, caracul, Persian or similar lambs, Indian, Chinese, Mongolian or Tibetan lambs), of goats or kids (except yemen, mongolian or Tibetan goats and kids), of swine (including peccary), of chamois, of gazelle, of reindeer, of elk, of deer, of roebucks or of dogs.
+(c) Hides or skins, with the hair or wool on, raw tanned or dressed (chapter 43); the following are however, to be classified in chapter 41, namely, raw hides and skins with the hair or wool on , of bovine animal (including buftalo), of equine animals, of sheep or lambs (except Astrakhan, broadtail, caracul, Persian or similar lambs, Indian, Chinese, Mongolian or Tibetan lambs), of goats or kids (except yemen, mongolian or Tibetan goats and kids), of swine (including peccary), of chamois, of gazelle, of reindeer, of elk, of deer, of roebucks or of dogs.
 
 2. -    (A) Headings 41.04 to 41.06 do not cover hides and skins which have undergone tanning (including pretanning) process which is reversible (headings 41.01 to 41. 03, as the case may be).
 
@@ -7996,41 +7996,41 @@ Articles of leather; saddlery and harness; travel goods, handbags and similar co
 
 Notes.
 
-1.       - This Chapter does not cover:
+1. - This Chapter does not cover:
 
-(a)     Sterile surgical catgut or similar sterile suture materials (heading 30.06);
+(a) Sterile surgical catgut or similar sterile suture materials (heading 30.06);
 
-(b)     Articles of apparel or clothing accessories (except gloves, mittens and mitts), lined with furskin or artificial fur or to which furskin or artificial fur is attached on the outside except as mere trimming (heading 43.03 or 43.04);
+(b) Articles of apparel or clothing accessories (except gloves, mittens and mitts), lined with furskin or artificial fur or to which furskin or artificial fur is attached on the outside except as mere trimming (heading 43.03 or 43.04);
 
-(c)     Made up articles of netting (heading 56.08);
+(c) Made up articles of netting (heading 56.08);
 
-(d)     Articles of Chapter 64;
+(d) Articles of Chapter 64;
 
-(e)     Headgear or parts thereof of Chapter 65;
+(e) Headgear or parts thereof of Chapter 65;
 
-(f)      Whips, riding-crops or other articles of heading 66.02;
+(f) Whips, riding-crops or other articles of heading 66.02;
 
-(g)     Cuff-links, bracelets or other imitation jewellery (heading 71.17)
+(g) Cuff-links, bracelets or other imitation jewellery (heading 71.17)
 
-(h)     Fittings or trimmings for harness, such as stirups, bits, horse brasses and buckles, separately presented (generally section XV)
+(h) Fittings or trimmings for harness, such as stirups, bits, horse brasses and buckles, separately presented (generally section XV)
 
-(ij)     Strings, skins for drums or the like, or other parts of musical instruments (heading 92.09);
+(ij) Strings, skins for drums or the like, or other parts of musical instruments (heading 92.09);
 
-(k)     Articles of Chapter 94 (for example, furniture, lamps and lighting fittings);
+(k) Articles of Chapter 94 (for example, furniture, lamps and lighting fittings);
 
-(i)      Articles of Chapter 95 (for example, toys , games, sports (requisites); or
+(i) Articles of Chapter 95 (for example, toys , games, sports (requisites); or
 
-(m)    Buttons,press-fasteners, snap-fasteners, press-studs, button moulds or other parts of these articles, button blanks, of heading 96.06.
+(m) Buttons,press-fasteners, snap-fasteners, press-studs, button moulds or other parts of these articles, button blanks, of heading 96.06.
 
 2. - (A)In addition to the provisions of Note 1 above, heading 42.02 does not cover :
 
-(a)     Bags made of sheeting of plastics, whether or not printed, with handles, not designed for prolonged used (heading 39.23);
+(a) Bags made of sheeting of plastics, whether or not printed, with handles, not designed for prolonged used (heading 39.23);
 
-(b)     Articles of plaiting materials (heading 46.02).
+(b) Articles of plaiting materials (heading 46.02).
 
-(B)     Articles of headings 42.02 and 42.03 which have parts of precious metal clad with precious metal, of natural or cultured pearls, of precious or semi-precious stones (natural, synthetic or reconstructed) remain classified in those headings even if such parts constitute more than minor fittings or minor ornamentation, provided that these parts do not give the articles their essential character. If on the other hand, the parts give the articles their essential character, the articles are to be classified in chapter 71.
+(B) Articles of headings 42.02 and 42.03 which have parts of precious metal clad with precious metal, of natural or cultured pearls, of precious or semi-precious stones (natural, synthetic or reconstructed) remain classified in those headings even if such parts constitute more than minor fittings or minor ornamentation, provided that these parts do not give the articles their essential character. If on the other hand, the parts give the articles their essential character, the articles are to be classified in chapter 71.
 
-3.       - For the purposes of heading 42.03, the expression “articles of apparel and clothing accessories” applies inter alia, to gloves, mittens and mitts (including those for sport or for protection), aprons and other protective clothing braces, belts, bandoliers and wrist straps, but excluding watch straps (heading 91.13).
+3. - For the purposes of heading 42.03, the expression “articles of apparel and clothing accessories” applies inter alia, to gloves, mittens and mitts (including those for sport or for protection), aprons and other protective clothing braces, belts, bandoliers and wrist straps, but excluding watch straps (heading 91.13).
 
 HEADING / H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -8148,27 +8148,27 @@ Chapter 43
 
 Furskinsand artificial fur; manufactures  there of  Notes .
 
-1.       Throughout the Nomenclature references to “furskins” other than to raw furskins of heading 43.01, apply to hides or skins of all animals which have been tanned or dressed with the hair or wool on.
+1. Throughout the Nomenclature references to “furskins” other than to raw furskins of heading 43.01, apply to hides or skins of all animals which have been tanned or dressed with the hair or wool on.
 
-2.       - This chapter does not cover:
+2. - This chapter does not cover:
 
-(a)     Birdskins or parts of birdskins, with their feathers or down (heading 05.05.or 67.01);
+(a) Birdskins or parts of birdskins, with their feathers or down (heading 05.05.or 67.01);
 
-(b)     Raw hides or skins, with the hair or wool on, of Chapter 41 (see Note 1 (c) to that Chapter);
+(b) Raw hides or skins, with the hair or wool on, of Chapter 41 (see Note 1 (c) to that Chapter);
 
-(c)     Gloves mitten and mitts consisting of leather and furskin or of leather and artificial fur (heading 42.03);
+(c) Gloves mitten and mitts consisting of leather and furskin or of leather and artificial fur (heading 42.03);
 
-(d)     Articles of Chapter 64;
+(d) Articles of Chapter 64;
 
-(e)     Headgear or parts thereof Chapter 65; or
+(e) Headgear or parts thereof Chapter 65; or
 
-(f)      Articles of Chapter 95 (for example, toys, games, sports requisites).
+(f) Articles of Chapter 95 (for example, toys, games, sports requisites).
 
-3.       - Heading 43.03 includes furskins and parts thereof, assembled with the addition of other materials, and furskins and parts thereof, sewn together in the form of garments or parts or accessories of garment or in the form of other articles.
+3. - Heading 43.03 includes furskins and parts thereof, assembled with the addition of other materials, and furskins and parts thereof, sewn together in the form of garments or parts or accessories of garment or in the form of other articles.
 
-4.       - Articles of apparel and clothing accessories (except those excluded by Note 2 ) lined with furskin or artificial fur or to which furskin or artificial fur is attached on the outside except as mere trimming are to be classified in heading 43.03 or 43.04 as the case may be .
+4. - Articles of apparel and clothing accessories (except those excluded by Note 2 ) lined with furskin or artificial fur or to which furskin or artificial fur is attached on the outside except as mere trimming are to be classified in heading 43.03 or 43.04 as the case may be .
 
-5.       - Throughout the Nomenclature the expression “artificial fur” means any imitation of furskins consisting of `wool, hair or other fibres gummed or sewn on to leather, woven fabric or other materials, but does not include imitation furskins obtained by weaving or knitting (generally, heading 58.01 or 60.01).
+5. - Throughout the Nomenclature the expression “artificial fur” means any imitation of furskins consisting of `wool, hair or other fibres gummed or sewn on to leather, woven fabric or other materials, but does not include imitation furskins obtained by weaving or knitting (generally, heading 58.01 or 60.01).
 
 HEADING / H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -8220,51 +8220,51 @@ Wood and articles of wood; wood charcoal
 
 Notes .
 
-1.       - This Chapter does not cover:
+1. - This Chapter does not cover:
 
-(a)     Wood, in chips, in shavings, crushed, ground or powdered, of a kind used primarily in perfumery, in pharmacy, or for insecticidal or similar purposes (heading 12.11);
+(a) Wood, in chips, in shavings, crushed, ground or powdered, of a kind used primarily in perfumery, in pharmacy, or for insecticidal or similar purposes (heading 12.11);
 
-(b)     Bamboos or other materials of a woody nature of a kind used primarily for plaiting, in the rough, whether or not split, sawn lengthwise or cut to length (heading 14.01);
+(b) Bamboos or other materials of a woody nature of a kind used primarily for plaiting, in the rough, whether or not split, sawn lengthwise or cut to length (heading 14.01);
 
-(c)     Wood, in chips, in shavings, ground or powdered, of a kind used primarily in dyeing or in tanning (head   14.04);
+(c) Wood, in chips, in shavings, ground or powdered, of a kind used primarily in dyeing or in tanning (head   14.04);
 
-(d)     Activated charcoal (heading 38.02);
+(d) Activated charcoal (heading 38.02);
 
-(e)     Articles of heading 42.02;
+(e) Articles of heading 42.02;
 
-(f)      Goods of Chapter 46;
+(f) Goods of Chapter 46;
 
-(g)     Footwear or parts thereof of Chapter 64;
+(g) Footwear or parts thereof of Chapter 64;
 
-(h)     Goods of Chapter 66 (for example, umbrellas and walking-sticks and parts thereof);
+(h) Goods of Chapter 66 (for example, umbrellas and walking-sticks and parts thereof);
 
-(ij)     Goods of heading 68.08;
+(ij) Goods of heading 68.08;
 
-(k)     Imitation jewellery of heading 71.17;
+(k) Imitation jewellery of heading 71.17;
 
-(l)      Goods of section XVI or section XVII (for example, machine parts, cases, covers, cabinets for machines and apparatus and wheelwrights’ wares);
+(l) Goods of section XVI or section XVII (for example, machine parts, cases, covers, cabinets for machines and apparatus and wheelwrights’ wares);
 
-(m)    Goods of section XVIII (for example, clock cases and musical instruments and parts thereof);
+(m) Goods of section XVIII (for example, clock cases and musical instruments and parts thereof);
 
-(n)     Parts of firearms (heading 93.05);
+(n) Parts of firearms (heading 93.05);
 
-(o)     Articles of chapter 94 (for examples, furniture, lamps and lightening fittings, prefabricated building);
+(o) Articles of chapter 94 (for examples, furniture, lamps and lightening fittings, prefabricated building);
 
-(p)     Articles of Chapter 95 (for example, toys, games, sports requisites );
+(p) Articles of Chapter 95 (for example, toys, games, sports requisites );
 
-(q)     Articles of Chapter 96 (for example, smoking pipes and parts thereof , buttons, pencils) excluding bodies and handles, of wood, for articles of heading 96.03;or
+(q) Articles of Chapter 96 (for example, smoking pipes and parts thereof , buttons, pencils) excluding bodies and handles, of wood, for articles of heading 96.03;or
 
-(r)      Articles of Chapter 97 (for example, works of art).
+(r) Articles of Chapter 97 (for example, works of art).
 
-2.       - In this Chapter, the expression “ densified wood” means wood which has been subjected to chemical or physical treatment (being, in the case of layers bonded together, treatment  in  excess of that needed to ensure a good bond ), and which has thereby acquired  increaseddensity or hardness together with improved mechanical strength or resistance to chemical  or electrical agencies.
+2. - In this Chapter, the expression “ densified wood” means wood which has been subjected to chemical or physical treatment (being, in the case of layers bonded together, treatment  in  excess of that needed to ensure a good bond ), and which has thereby acquired  increaseddensity or hardness together with improved mechanical strength or resistance to chemical  or electrical agencies.
 
-3.       - Headings 44.14 to 44.21 apply to articles of the respective descriptions of particle board  similar board, fibreboard, laminated wood or densified wood as they apply to such articles of wood .
+3. - Headings 44.14 to 44.21 apply to articles of the respective descriptions of particle board  similar board, fibreboard, laminated wood or densified wood as they apply to such articles of wood .
 
-4.       - Product of heading 44.10, 44.11 or 44.12 may be worked to form the shapes  provided for in respect of the goods of heading 44.09, curved, corrugated, perforated, cut or formed to shapes other than square or rectangular or submitted to any other operation provided it does not give them the character of articles of other headings.
+4. - Product of heading 44.10, 44.11 or 44.12 may be worked to form the shapes  provided for in respect of the goods of heading 44.09, curved, corrugated, perforated, cut or formed to shapes other than square or rectangular or submitted to any other operation provided it does not give them the character of articles of other headings.
 
-5.       - Heading 44.17 does not apply to tools in which the blade, working edge, working surface or other working part is formed by any of the materials specified in Note 1 to Chapter 82
+5. - Heading 44.17 does not apply to tools in which the blade, working edge, working surface or other working part is formed by any of the materials specified in Note 1 to Chapter 82
 
-6.       - Subject to Note 1 above and except where the context otherwise requires, any reference to “wood” in a heading of this Chapter applies also to bamboos and other materials of a woody nature.
+6. - Subject to Note 1 above and except where the context otherwise requires, any reference to “wood” in a heading of this Chapter applies also to bamboos and other materials of a woody nature.
 
 Subheading Note.
 
@@ -8528,15 +8528,15 @@ And strips of paper, but not strips of leather or composition leather or of felt
 
 2. -    This Chapter does not cover:
 
-(a)     Wall coverings of heading 48.14;
+(a) Wall coverings of heading 48.14;
 
-(b)     Twine, cordage, ropes or cables, plaited or not (heading 56.07);
+(b) Twine, cordage, ropes or cables, plaited or not (heading 56.07);
 
-(c)     Footwear or headgear or parts thereof of Chapter 64 or 65;
+(c) Footwear or headgear or parts thereof of Chapter 64 or 65;
 
-(d)     Vehicles or bodies for vehicles of basketware (Chapter 87); or
+(d) Vehicles or bodies for vehicles of basketware (Chapter 87); or
 
-(e)     Articles of Chapter 94 (for example, furniture, lamps and lighting fittings).
+(e) Articles of Chapter 94 (for example, furniture, lamps and lighting fittings).
 
 3. -    For the purposes of heading 46.01, the expression “Plaiting materials, plaits and similar products of plaiting materials, bound together in parallel strands” means plaiting materials, plaits and similar products of plaiting materials, placed side by side and bound together, in the form of sheets, whether or not the binding materials are of spun textile materials.
 
@@ -8644,35 +8644,35 @@ Notes.
 
 2. -    This Chapter does not cover:
 
-(a)     Articles of Chapter 30;
+(a) Articles of Chapter 30;
 
-(b)     Stamping foils of heading 32.12;
+(b) Stamping foils of heading 32.12;
 
-(c)     Perfumed papers or papers impregnated or coated with cosmetics (Chapter 33);
+(c) Perfumed papers or papers impregnated or coated with cosmetics (Chapter 33);
 
-(d)     Paper or cellulose wadding impregnated, coated or covered with soap or detergent (heading 34.01), or with polishes, creams or similar preparations (heading 34.05);
+(d) Paper or cellulose wadding impregnated, coated or covered with soap or detergent (heading 34.01), or with polishes, creams or similar preparations (heading 34.05);
 
-(e)     Sensitised paper or paperboard of headings 37.01 to 37.04;
+(e) Sensitised paper or paperboard of headings 37.01 to 37.04;
 
-(f)      Paper impregnated with diagnostic or laboratory reagents (heading 38.22);
+(f) Paper impregnated with diagnostic or laboratory reagents (heading 38.22);
 
-(g)     Paper-reinforced stratified sheeting of plastics, or one layer of paper or paperboard coated or covered with a layer of plastics, the latter constituting more than half the total thickness, or articles of such materials, other than wall coverings of heading 48.14 (Chapter 39);
+(g) Paper-reinforced stratified sheeting of plastics, or one layer of paper or paperboard coated or covered with a layer of plastics, the latter constituting more than half the total thickness, or articles of such materials, other than wall coverings of heading 48.14 (Chapter 39);
 
-(h)     Articles of heading 42.02 (for example, travel goods);
+(h) Articles of heading 42.02 (for example, travel goods);
 
-(ij)     Articles of Chapter 46 (manufactures of plaiting materials);
+(ij) Articles of Chapter 46 (manufactures of plaiting materials);
 
-(k)     Paper yarn or textile articles of paper yarn (Section XI);
+(k) Paper yarn or textile articles of paper yarn (Section XI);
 
-(l)      Articles of Chapter 64 or Chapter 65;
+(l) Articles of Chapter 64 or Chapter 65;
 
-(m)    Abrasivepaper or paperboard (heading 68.05) or paper or paperboard-backed mica (heading 68.14) (paper and paperboard coated with mica powder are, however, to be classified in this Chapter);
+(m) Abrasivepaper or paperboard (heading 68.05) or paper or paperboard-backed mica (heading 68.14) (paper and paperboard coated with mica powder are, however, to be classified in this Chapter);
 
-(n)     Metal foil backed with paper or paperboard (Section XV);
+(n) Metal foil backed with paper or paperboard (Section XV);
 
-(o)     Articles of heading 92.09; or
+(o) Articles of heading 92.09; or
 
-(p)     Articles of Chapter 95 (for example, toys, games, sports requisites) or Chapter 96 (for example, buttons).
+(p) Articles of Chapter 95 (for example, toys, games, sports requisites) or Chapter 96 (for example, buttons).
 
 3. -    Subject to the provisions of Note 7, headings 48.01 to 48.05 include paper and paperboard which have been subjected to calendering, super-calendering, glazing or similar finishing, false water-marking or surface sizing, and also paper, paperboard, cellulose wadding and webs of cellulose fibres, coloured or marbled throughout the mass by any method.
 
@@ -8684,35 +8684,35 @@ Except where heading 48.03 otherwise requires, these headings do not apply to pa
 
 For paper or paperboard weighing not more than 150 g/m2 :
 
-(a)     containing 10% or more of fibres obtained by a mechanical or chemi-mechanical process, and
+(a) containing 10% or more of fibres obtained by a mechanical or chemi-mechanical process, and
 
-1.       weighing not more than 80 g/m2 , or
+1. weighing not more than 80 g/m2 , or
 
-2.       coloured throughout the mass; or
+2. coloured throughout the mass; or
 
-(b)     containing more than 8% ash, and
+(b) containing more than 8% ash, and
 
-1.       weighing not more than 80 g/m2 , or
+1. weighing not more than 80 g/m2 , or
 
-2.       coloured throughout the mass; or
+2. coloured throughout the mass; or
 
-(c)     containing more than 3% ash and having a brightness of 60% or more; or
+(c) containing more than 3% ash and having a brightness of 60% or more; or
 
-(d)     containing more than 3% but not more than 8% ash, having a brightness less than 60%, and a burst index equal to or less than 2.5 kPa.m2/g; or
+(d) containing more than 3% but not more than 8% ash, having a brightness less than 60%, and a burst index equal to or less than 2.5 kPa.m2/g; or
 
-(e)     containing 3% ash or less, having a brightness of 60% or more and a burst index equal to or less than 2.5 kPa.m2/g.
+(e) containing 3% ash or less, having a brightness of 60% or more and a burst index equal to or less than 2.5 kPa.m2/g.
 
 For paper or paperboard weighing more than 150 g/m2 :
 
-(a)     coloured throughout the mass; or
+(a) coloured throughout the mass; or
 
-(b)     having a brightness of 60% or more, and
+(b) having a brightness of 60% or more, and
 
-1.       a caliper of 225 micrometres (microns) or less, or
+1. a caliper of 225 micrometres (microns) or less, or
 
-2.        caliper of more than 225 micrometres (microns) but not more than 508 micrometres (microns) and an ash content of more than 3%; or
+2. caliper of more than 225 micrometres (microns) but not more than 508 micrometres (microns) and an ash content of more than 3%; or
 
-(c)     having a brightness of less than 60%, a caliper of 254 micrometres (microns) or less, and an ash content of more than 8%.
+(c) having a brightness of less than 60%, a caliper of 254 micrometres (microns) or less, and an ash content of more than 8%.
 
 Heading48.02 does not, however, cover filter paper or paperboard (including teabag paper) or felt paper or paperboard.
 
@@ -8722,25 +8722,25 @@ Heading48.02 does not, however, cover filter paper or paperboard (including teab
 
 8. -    Headings 48.01 and 48.03 to 48.09 apply only to paper, paperboard, cellulose wadding anwebs of cellulose fibres:
 
-(a)     in a strips or rolls of a width exceeding 36 cm; or
+(a) in a strips or rolls of a width exceeding 36 cm; or
 
-(b)     in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state.
+(b) in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state.
 
 9. -    For the purposes of heading 48.14, the expression “wallpaper and similar wall coverings” applies only to:
 
-(a)     Paper in rolls, of a width of not less than 45 cm and not more than 160 cm, suitable for wall or ceiling decoration:
+(a) Paper in rolls, of a width of not less than 45 cm and not more than 160 cm, suitable for wall or ceiling decoration:
 
-(i)      Grained, embossed, surface-coloured, design-printed or otherwise surfacedecorated (e.g., with textile flock), whether or not coated or covered with transparent protective plastics;
+(i) Grained, embossed, surface-coloured, design-printed or otherwise surfacedecorated (e.g., with textile flock), whether or not coated or covered with transparent protective plastics;
 
-(ii)     With an uneven surface resulting from the incorporation of particles of wood, straw, etc.;
+(ii) With an uneven surface resulting from the incorporation of particles of wood, straw, etc.;
 
-(iii)    Coated or covered on the face side with plastics, the layer of plastics being grained, embossed, coloured, design-printed or otherwise decorated; or
+(iii) Coated or covered on the face side with plastics, the layer of plastics being grained, embossed, coloured, design-printed or otherwise decorated; or
 
-(iv)    Covered on the face side with plaiting material, whether or not bound together in parallel strands or woven;
+(iv) Covered on the face side with plaiting material, whether or not bound together in parallel strands or woven;
 
-(b)     Borders and friezes, of paper, treated as above, whether or not in rolls, suitable for wall or ceiling decoration;
+(b) Borders and friezes, of paper, treated as above, whether or not in rolls, suitable for wall or ceiling decoration;
 
-(c)     Wall coverings of paper made up of several panels, in rolls or sheets, printed so as to make up a scene, design or motif when applied to a wall. Products on a base of paper or paperboard, suitable for use both as floor coverings and as wall coverings, are to be classified in heading 48.15.
+(c) Wall coverings of paper made up of several panels, in rolls or sheets, printed so as to make up a scene, design or motif when applied to a wall. Products on a base of paper or paperboard, suitable for use both as floor coverings and as wall coverings, are to be classified in heading 48.15.
 
 10. - Heading 48.20 does not cover loose sheets or cards, cut to size, whether or not printed, embossed or perforated.
 
@@ -8772,9 +8772,9 @@ KPa
 
 2. -    For the purposes of subheadings 4804.21 and 4804.29, “sack kraft paper” means, machinefinished paper, of which not less than 80% by weight of the total fibre content consists of fibres obtained by the chemical sulphate or soda processes, in rolls, weighing not less than 60 g/m2 but not more than 115 g/m2 and meeting one of the following sets of specifications:
 
-(a)     Having a Mullen burst index of not less than 3,7 kPa.m2/g and a stretch factor of more than 4.5% in the cross direction and of more than 2% in the machine direction.
+(a) Having a Mullen burst index of not less than 3,7 kPa.m2/g and a stretch factor of more than 4.5% in the cross direction and of more than 2% in the machine direction.
 
-(b)     Having minima for tear and tensile as indicated in the following table or the linearly interpolated equivalent for any other weight:
+(b) Having minima for tear and tensile as indicated in the following table or the linearly interpolated equivalent for any other weight:
 
 Minimumtear Minimum tensile
 
@@ -9140,13 +9140,13 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Photographic negatives or positives on transparent bases (Chapter 37);
+(a) Photographic negatives or positives on transparent bases (Chapter 37);
 
-(b)     Maps, plans or globes, in relief, whether or not printed (heading 90.23);
+(b) Maps, plans or globes, in relief, whether or not printed (heading 90.23);
 
-(c)     Playing cards or other goods of Chapter 95; or
+(c) Playing cards or other goods of Chapter 95; or
 
-(d)     Original engravings, prints or lithographs (heading 97.02), postage or revenue stamps, stamp postmarks, first-day covers, postal stationery or the like of heading
+(d) Original engravings, prints or lithographs (heading 97.02), postage or revenue stamps, stamp postmarks, first-day covers, postal stationery or the like of heading
 
 97.04,antiques of an age exceeding one hundred years or other articles of Chapter 97.
 
@@ -9156,11 +9156,11 @@ Notes.
 
 4. - Heading 49.01 also covers:
 
-(a)     A collection of printed reproductions of, for example, works of art or drawings, with a relative text, put up with numbered pages in a form suitable for binding into one or more volumes;
+(a) A collection of printed reproductions of, for example, works of art or drawings, with a relative text, put up with numbered pages in a form suitable for binding into one or more volumes;
 
-(b)     A pictorial supplement accompanying, and subsidiary to, a bound volume; and
+(b) A pictorial supplement accompanying, and subsidiary to, a bound volume; and
 
-(c)     Printed parts of books or booklets, in the form of assembled or separate sheets or signatures, constituting the whole or a part of a complete work and designed for binding. However, printed pictures or illustrations not bearing a text, whether in the form of signatures or separate sheets, fall in heading 49.11.
+(c) Printed parts of books or booklets, in the form of assembled or separate sheets or signatures, constituting the whole or a part of a complete work and designed for binding. However, printed pictures or illustrations not bearing a text, whether in the form of signatures or separate sheets, fall in heading 49.11.
 
 5.-     Subject to Note 3 to this Chapter, heading 49.01 does not cover publications which are essentially devoted to advertising (for example, brochures, pamphlets, leaflets, trade catalogues, year books published by trade associations, tourist propaganda). Such publications are to be classified in heading 49.11.
 
@@ -9236,165 +9236,165 @@ Notes.
 
 1. -    This Section does not cover:
 
-(a)     Animal brush making bristles or hair (heading 05.02); horsehair or horsehair waste (heading 05.03);
+(a) Animal brush making bristles or hair (heading 05.02); horsehair or horsehair waste (heading 05.03);
 
-(b)     Human hair or articles of human hair (heading 05.01, 67.03 or 67.04), except straining cloth of a kind commonly used in oil presses of the like (heading 59.11);
+(b) Human hair or articles of human hair (heading 05.01, 67.03 or 67.04), except straining cloth of a kind commonly used in oil presses of the like (heading 59.11);
 
-(c)     Cotton linters or other vegetable materials of Chapter 14;
+(c) Cotton linters or other vegetable materials of Chapter 14;
 
-(d)     Asbestos of heading 25.24 or articles of asbestos or other products of heading 68.12 or 68.13;
+(d) Asbestos of heading 25.24 or articles of asbestos or other products of heading 68.12 or 68.13;
 
-(e)     Articles of heading 30.05 or 30.06 (for example, wadding, gauze, bandages and similar articles for medical, surgical, dental or veterinary purposes, sterile surgical suture materials); yarn used to clean between the teeth (dental floss), in individual retail packages, of heading 33.06;
+(e) Articles of heading 30.05 or 30.06 (for example, wadding, gauze, bandages and similar articles for medical, surgical, dental or veterinary purposes, sterile surgical suture materials); yarn used to clean between the teeth (dental floss), in individual retail packages, of heading 33.06;
 
-(f)      Sensitised textiles of headings 37.01 to 37.04;
+(f) Sensitised textiles of headings 37.01 to 37.04;
 
-(g)     Monofilament of which any cross-sectional dimension exceeds 1 mm or strip or the like (for example, artificial straw) of an apparent width exceeding 5 mm, of plastics (Chapter 39), or plaits or fabrics or other basketware or wickerwork of such monofilament or strip (Chapter 46);
+(g) Monofilament of which any cross-sectional dimension exceeds 1 mm or strip or the like (for example, artificial straw) of an apparent width exceeding 5 mm, of plastics (Chapter 39), or plaits or fabrics or other basketware or wickerwork of such monofilament or strip (Chapter 46);
 
-(h)     Woven, knitted or crocheted fabrics, felt or nonwovens, impregnated, coated, covered or laminated with plastics, or articles thereof, of Chapter 39;
+(h) Woven, knitted or crocheted fabrics, felt or nonwovens, impregnated, coated, covered or laminated with plastics, or articles thereof, of Chapter 39;
 
-(ij)     Woven, knitted or crocheted fabrics, felt or nonwovens, impregnated, coated, covered or laminated with rubber, or articles thereof, of Chapter 40;
+(ij) Woven, knitted or crocheted fabrics, felt or nonwovens, impregnated, coated, covered or laminated with rubber, or articles thereof, of Chapter 40;
 
-(k)     Hides or skins with their hair or wool on (Chapter 41 or 43) or articles of furskin, artificial fur or article thereof, of heading 43.03 or 43.04;
+(k) Hides or skins with their hair or wool on (Chapter 41 or 43) or articles of furskin, artificial fur or article thereof, of heading 43.03 or 43.04;
 
-(l)      Articles of textile materials of heading 42.01 or 42.02;
+(l) Articles of textile materials of heading 42.01 or 42.02;
 
-(m)    Products or articles of Chapter 48 (for example, cellulose wadding);
+(m) Products or articles of Chapter 48 (for example, cellulose wadding);
 
-(n)     Footwear or parts of footwear, gaiters or leggings or similar articles of Chapter 64;
+(n) Footwear or parts of footwear, gaiters or leggings or similar articles of Chapter 64;
 
-(o)     Hair-nets or other headgear or parts thereof of Chapter 65;
+(o) Hair-nets or other headgear or parts thereof of Chapter 65;
 
-(p)     Goods of Chapter 67;
+(p) Goods of Chapter 67;
 
-(q)     Abrasive-coated textile material (heading 68.05) and also carbon fibres or articles of carbon fibres of heading 68.15;
+(q) Abrasive-coated textile material (heading 68.05) and also carbon fibres or articles of carbon fibres of heading 68.15;
 
-(r)      Glass fibres or articles of glass fibres, other than embroidery with glass thread on a visible ground of fabric (Chapter 70);
+(r) Glass fibres or articles of glass fibres, other than embroidery with glass thread on a visible ground of fabric (Chapter 70);
 
-(s)     Articles of Chapter 94 (for example, furniture, bedding, lamps and lighting fittings);
+(s) Articles of Chapter 94 (for example, furniture, bedding, lamps and lighting fittings);
 
-(t)      Articles of Chapter 95 (for example, toys, games, sports requisites and nets);
+(t) Articles of Chapter 95 (for example, toys, games, sports requisites and nets);
 
-(u)     Articles of Chapter 96 (for example, brushes, travel sets for sewing, slide fasteners and typewriter ribbons); or
+(u) Articles of Chapter 96 (for example, brushes, travel sets for sewing, slide fasteners and typewriter ribbons); or
 
-(v)     Articles of Chapter 97.
+(v) Articles of Chapter 97.
 
 2. - (A) Goods classifiable in Chapter 50 to 55 or in heading 58.09 or 59.02 and of a mixture of two or more textile materials are to be classified as if consisting wholly of that one textile material which predominates by weight over any other single textile material. When no one textile material predominates by weight, the goods are to be classified as if consisting wholly of that one textile material which is covered by the heading which occurs last in numerical order among those which equally merit consideration.
 
-(B)     For the purposes of the above rule:
+(B) For the purposes of the above rule:
 
-(a)     Gimped horsehair yarn (heading 51.10) and metallised yarn (heading 56.05) are to be treated as a single textile material the weight of which is to be taken as the aggregate of the weights of its components; for the classification of woven fabrics, metal thread is to be regarded as a textile material;
+(a) Gimped horsehair yarn (heading 51.10) and metallised yarn (heading 56.05) are to be treated as a single textile material the weight of which is to be taken as the aggregate of the weights of its components; for the classification of woven fabrics, metal thread is to be regarded as a textile material;
 
-(b)     The choice of appropriate heading shall be effected by determining first the Chapter and then the applicable heading within that Chapter, disregarding any materials not classified in that Chapter;
+(b) The choice of appropriate heading shall be effected by determining first the Chapter and then the applicable heading within that Chapter, disregarding any materials not classified in that Chapter;
 
-(c)     When both Chapters 54 and 55 are involved with any other Chapter, Chapters 54 and 55 are to be treated as a single Chapter;
+(c) When both Chapters 54 and 55 are involved with any other Chapter, Chapters 54 and 55 are to be treated as a single Chapter;
 
-(d)     Where a Chapter or heading refers to goods of different textile materials, such materials are to be treated as a single textile material.
+(d) Where a Chapter or heading refers to goods of different textile materials, such materials are to be treated as a single textile material.
 
-(C)     The provisions of paragraphs (A) and (B) above apply also to the yarns referred to in Note 3, 4, 5 or 6 below.
+(C) The provisions of paragraphs (A) and (B) above apply also to the yarns referred to in Note 3, 4, 5 or 6 below.
 
 3. - (A) For the purposes of this Section, and subject to the exceptions in paragraph (B) below, yarns (single, multiple (folded) or cabled) of the following descriptions are to be treated as “twine, cordage, ropes and cables”:
 
-(a)     Of silk or waste silk, measuring more than 20,000 decitex
+(a) Of silk or waste silk, measuring more than 20,000 decitex
 
-(b)     Of man-made fibres (including yarn of two or more monofilaments of Chapter 54), measuring more than 1   0,000 decitex;
+(b) Of man-made fibres (including yarn of two or more monofilaments of Chapter 54), measuring more than 1   0,000 decitex;
 
-(c)     Of true hemp or flax :
+(c) Of true hemp or flax :
 
-(i)      Polished or glazed, measuring 1,429 decitex or more; or
+(i) Polished or glazed, measuring 1,429 decitex or more; or
 
-(ii)     Not polished or glazed, measuring more than 20,000 decitex;
+(ii) Not polished or glazed, measuring more than 20,000 decitex;
 
-(d)     Of coir, consisting of three or more plies;
+(d) Of coir, consisting of three or more plies;
 
-(e)     Of other vegetable fibres, measuring more than 20,000 decitex; or
+(e) Of other vegetable fibres, measuring more than 20,000 decitex; or
 
-(f)      Reinforced with metal thread.
+(f) Reinforced with metal thread.
 
-(B)     Exceptions :
+(B) Exceptions :
 
-(a)     Yarn of wool or other animal hair and paper yarn, other than yarn reinforced with metal thread;
+(a) Yarn of wool or other animal hair and paper yarn, other than yarn reinforced with metal thread;
 
-(b)     Man-made filament tow of Chapter 55 and multifilament yarn without twist or with a twist of less than 5 turns per metre of Chapter 54;
+(b) Man-made filament tow of Chapter 55 and multifilament yarn without twist or with a twist of less than 5 turns per metre of Chapter 54;
 
-(c)     Silk worm gut of heading 50.06, and monofilaments of Chapter 54;
+(c) Silk worm gut of heading 50.06, and monofilaments of Chapter 54;
 
-(d)     Metallised yarn of heading 56.05; yarn reinforced with metal thread is subject to paragraph (A) (f) above; and
+(d) Metallised yarn of heading 56.05; yarn reinforced with metal thread is subject to paragraph (A) (f) above; and
 
-(e)     Chenille yarn, gimped yarn and loop wale-yarn of heading 56.06.
+(e) Chenille yarn, gimped yarn and loop wale-yarn of heading 56.06.
 
 4. - (A)For the purposes of this Chapters 50, 51, 52, 54 and 55, the expression “put up for retail sale” in relation to yarn means, subject to the exceptions in paragraph (B) below, yarn (single, multiple (folded) or cabled) put up:
 
-(a)     On cards, reels, tubes or similar supports, of a weight (including support) not exceeding:
+(a) On cards, reels, tubes or similar supports, of a weight (including support) not exceeding:
 
-(i)      85 g in the case of silk, waste silk or man-made filament yarn; or
+(i) 85 g in the case of silk, waste silk or man-made filament yarn; or
 
-(ii)     125 g in other cases;
+(ii) 125 g in other cases;
 
-(b)     In balls, hanks or skeins of a weight not exceeding:
+(b) In balls, hanks or skeins of a weight not exceeding:
 
-(i)      85 g in the case of man-made filament yarn of less than 3,000 decitex, silk or silk waste;
+(i) 85 g in the case of man-made filament yarn of less than 3,000 decitex, silk or silk waste;
 
-(ii)     125 g in the case of all other yarns of less than 2,000 decitex; or
+(ii) 125 g in the case of all other yarns of less than 2,000 decitex; or
 
-(iii)    500 g in other cases;
+(iii) 500 g in other cases;
 
-(c)     In hanks or skeins comprising several smaller hanks or skeins separated by dividing threads which render them independent one of the other, each of uniform weight not exceeding:
+(c) In hanks or skeins comprising several smaller hanks or skeins separated by dividing threads which render them independent one of the other, each of uniform weight not exceeding:
 
-(i)      85 g in the case of silk, waste silk or man-made filament yarn; or
+(i) 85 g in the case of silk, waste silk or man-made filament yarn; or
 
-(ii)     125 g in other cases.
+(ii) 125 g in other cases.
 
-(B)     Exceptions :
+(B) Exceptions :
 
-(a)     Single yarn of any textile material, except:
+(a) Single yarn of any textile material, except:
 
-(i)      Single yarn of wool or fine animal hair, unbleached; and
+(i) Single yarn of wool or fine animal hair, unbleached; and
 
-(ii)     Single yarn of wool or fine animal hair, unbleached, dyed or printed, measuring more than 5,000 decitex;
+(ii) Single yarn of wool or fine animal hair, unbleached, dyed or printed, measuring more than 5,000 decitex;
 
-(b)     Multiple (folded) or cabled yarn, unbleached :
+(b) Multiple (folded) or cabled yarn, unbleached :
 
-(i)      Of silk or waste silk, however put up; or
+(i) Of silk or waste silk, however put up; or
 
-(ii)     Of other textile material except wool or fine animal hair, in hanks or skeins;
+(ii) Of other textile material except wool or fine animal hair, in hanks or skeins;
 
-(c)     Multiple (folded) or cabled yarn of silk or waste silk, bleached, dyed or printed, measuring 133 decitex or less; and
+(c) Multiple (folded) or cabled yarn of silk or waste silk, bleached, dyed or printed, measuring 133 decitex or less; and
 
-(d)     Single, multiple (folded) or cabled yarn of any textile material:
+(d) Single, multiple (folded) or cabled yarn of any textile material:
 
-(i)      In cross-reeled hanks or skeins; or
+(i) In cross-reeled hanks or skeins; or
 
-(ii)     Put up on supports or in some other manner indicating its use in the textile industry (for example, on cops, twisting mill tubes, pirns, conical bobbins or spindles, or reeled in the form of cocoons for embroidery looms)
+(ii) Put up on supports or in some other manner indicating its use in the textile industry (for example, on cops, twisting mill tubes, pirns, conical bobbins or spindles, or reeled in the form of cocoons for embroidery looms)
 
 5. -    For the purposes of headings 52.04, 54.01 and 55.08 the expression “sewing thread” means multiple (folded) or cabled yarn:
 
-(a)     Put up on supports (for example, reels, tubes) of a weight (including support) not exceeding 1,000 g;
+(a) Put up on supports (for example, reels, tubes) of a weight (including support) not exceeding 1,000 g;
 
-(b)     Dressed for use as sewing thread; and
+(b) Dressed for use as sewing thread; and
 
-(c)     With a final “Z” twist.
+(c) With a final “Z” twist.
 
 6. -    For the purposes of this Section, the expression “high tenacity yarn” means having a tenacity, expressed in cN/tex (centinewtons per tex), greater than the following Single yarn of nylon or other polyamides, or of polyesters … 60 cN/tex Multiple (folded) or cabled yarn of nylon or other polyamides, or of polyesters .. 53 cN/tex Single, multiple (folded) or cabled yarn of Viscose rayon …27 cN/tex.
 
 7. -    For the purposes of this Section, the expression “made up” means:
 
-(a)     Cut otherwise than into squares or rectangles;
+(a) Cut otherwise than into squares or rectangles;
 
-(b)     Produced in the finished state, ready for use (or merely needing separation by cutting dividing threads) without sewing or other working (for example, certain dusters, towels, table cloths, scarf squares, blankets);
+(b) Produced in the finished state, ready for use (or merely needing separation by cutting dividing threads) without sewing or other working (for example, certain dusters, towels, table cloths, scarf squares, blankets);
 
-(c)     Hemmed or with rolled edges, or with a knotted fringe at any of the edges, but excluding fabrics the cut edges of which have been prevented from unraveling by whipping or by other simple means;
+(c) Hemmed or with rolled edges, or with a knotted fringe at any of the edges, but excluding fabrics the cut edges of which have been prevented from unraveling by whipping or by other simple means;
 
-(d)     Cut to size and having undergone a process of drawn thread work;
+(d) Cut to size and having undergone a process of drawn thread work;
 
-(e)     Assembled by sewing, gumming or otherwise (other than piece goods consisting of two or more lengths of identical material joined end to end and piece goods composed of two or more textiles assembled in layers, whether or not padded);
+(e) Assembled by sewing, gumming or otherwise (other than piece goods consisting of two or more lengths of identical material joined end to end and piece goods composed of two or more textiles assembled in layers, whether or not padded);
 
-(f)      Knitted or crocheted to shape, whether presented as separate items or in the form of a number of items in the length.
+(f) Knitted or crocheted to shape, whether presented as separate items or in the form of a number of items in the length.
 
 8. -    For the purposes of Chapter 50 to 60:
 
-(a)     Chapters 50 to 55 and 60 and, except where the context otherwise requires, Chapters 56 to 59 do not apply to goods made up within the meaning of Note 7 above; and
+(a) Chapters 50 to 55 and 60 and, except where the context otherwise requires, Chapters 56 to 59 do not apply to goods made up within the meaning of Note 7 above; and
 
-(b)     Chapters 50 to 55 and 60 do not apply to goods of Chapters 56 to 59.
+(b) Chapters 50 to 55 and 60 do not apply to goods of Chapters 56 to 59.
 
 9. -    The woven fabrics of Chapters 50 to 55 include fabrics consisting of layers of parallel textile yarns superimposed on each other at acute or right angles. These layers are bonded at the intersections of the yarns by an adhesive or by thermal bonding.
 
@@ -9410,79 +9410,79 @@ Subheading Notes.
 
 1. -    In this Section and, where applicable, throughout the Nomenclature, the following expressions have the meanings hereby assigned to them:
 
-(a)     Elastomeric yarn
+(a) Elastomeric yarn
 
 Filamentyarn, including monofilament, of synthetic textile materials, other than textured yarn, which does not break on being extended to three times its original length and which returns, after being extended to twice its original length, within a period of five minutes, to a length not greater than one and a half times its original length.
 
-(b)     Unbleached yarn
+(b) Unbleached yarn
 
 Yarn which:
 
-(i)      has the natural colour of its constituent fibres and has not been bleached, dyed (whether or not in the mass) or printed; or
+(i) has the natural colour of its constituent fibres and has not been bleached, dyed (whether or not in the mass) or printed; or
 
-(ii)     is of indeterminate colour (“grey yarn”), manufactured from garneted stock.
+(ii) is of indeterminate colour (“grey yarn”), manufactured from garneted stock.
 
 Such yarn may have been treated with a colourless dressing or fugitive dye (which disappears after simple washing with soap) and, in the case of man-made fibres, treated in the mass with delustring agents (for example, titanium dioxide).
 
-(c)     Bleached yarn
+(c) Bleached yarn
 
 Yarn which :
 
-(i)      has undergone a bleaching process, is made of bleached fibres or, unless the context otherwise requires, has been dyed white (whether or not in the mass) or treated with a white dressing;
+(i) has undergone a bleaching process, is made of bleached fibres or, unless the context otherwise requires, has been dyed white (whether or not in the mass) or treated with a white dressing;
 
-(ii)     consists of a mixture of unbleached and bleached fibres; or
+(ii) consists of a mixture of unbleached and bleached fibres; or
 
-(iii)    is multiple (folded) or cabled and consists of unbleached and bleached yarns.
+(iii) is multiple (folded) or cabled and consists of unbleached and bleached yarns.
 
-(d)     Coloured (dyed or printed) yarn
+(d) Coloured (dyed or printed) yarn
 
 Yarn which :
 
-(i)      is dyed (whether or not in the mass) other than white or in a fugitive colour, or printed, or made from dyed or printed fibres;
+(i) is dyed (whether or not in the mass) other than white or in a fugitive colour, or printed, or made from dyed or printed fibres;
 
-(ii)     consists of a mixture of dyed fibres of different colours or of a mixture of unbleached or bleached fibres with coloured fibres (marl or mixture yarns), or is printed in of one or more colours at intervals to give the impression of dots;
+(ii) consists of a mixture of dyed fibres of different colours or of a mixture of unbleached or bleached fibres with coloured fibres (marl or mixture yarns), or is printed in of one or more colours at intervals to give the impression of dots;
 
-(iii)    is obtained from slivers or rovings which have been printed; or
+(iii) is obtained from slivers or rovings which have been printed; or
 
-(iv)    is multiple (folded) or cabled and consists of unbleached or bleached yarn and coloured yarn.
+(iv) is multiple (folded) or cabled and consists of unbleached or bleached yarn and coloured yarn.
 
 The above definitions also apply, mutats mutandis, to monofilament and to strip or the like of chapter 54.
 
-(e)     Unbleached woven fabric
+(e) Unbleached woven fabric
 
 Wovenfabric made from unbleached yarn and which has not been bleached, dyed or printed. Such fabric may have been treated with a colourless dressing or a fugitive dye.
 
-(f)      Bleached woven fabric
+(f) Bleached woven fabric
 
 Wovenfabric which:
 
-(i)      has been bleached or, unless the context otherwise requires, dyed white or treated with a white dressing, in the piece;
+(i) has been bleached or, unless the context otherwise requires, dyed white or treated with a white dressing, in the piece;
 
-(ii)     consists of bleached yarn; or
+(ii) consists of bleached yarn; or
 
-(iii)    consists of unbleached and bleached yarn.
+(iii) consists of unbleached and bleached yarn.
 
-(g)     Dyed woven fabric
+(g) Dyed woven fabric
 
 Wovenfabric which:
 
-(i)      is dyed a single uniform colour other than white (unless the context otherwise requires) or has been treated with a coloured finish other than white (unless the context otherwise requires), in the piece; or
+(i) is dyed a single uniform colour other than white (unless the context otherwise requires) or has been treated with a coloured finish other than white (unless the context otherwise requires), in the piece; or
 
-(ii)     consists of coloured yarn of a single uniform colour.
+(ii) consists of coloured yarn of a single uniform colour.
 
-(h)     Woven fabric of yarns of different colours
+(h) Woven fabric of yarns of different colours
 
 Wovenfabric (other than printed woven fabrics) which:
 
-(i)      consists of yarns of different colours or yarns of different shades of the Bsame colour (other than the natural colour of the constituent fibres);
+(i) consists of yarns of different colours or yarns of different shades of the Bsame colour (other than the natural colour of the constituent fibres);
 
-(ii)     consists of unbleached or bleached yarn and coloured yarn; o
+(ii) consists of unbleached or bleached yarn and coloured yarn; o
 
-(iii)    consists of marl or mixture yarns.
+(iii) consists of marl or mixture yarns.
 
 In all cases, the yarn used in selvedges and piece ends is not taken into consideration).
 
-(i)      Printed woven fabric
+(i) Printed woven fabric
 
 Wovenfabric which has been printed in the piece, whether or not made from yarns of different colours. (The following are also regarded as printed woven fabrics: woven fabrics bearing designs made, for example, with a brush or spray gun, by means of transfer paper, by flocking or by the batik process).
 
@@ -9490,19 +9490,19 @@ The process of mercerization does not affect the classification of yarns or fabr
 
 Thedefinitions at (e) to (ij) above apply, mutatis mutandis, to knitted or crocheted fabrics.
 
-(j)      Plain weave
+(j) Plain weave
 
 A fabric construction in which each yarn of the weft passes alternately over and under successive yarns of the warp and each yarn of the warp passes alternately over and under successive yarns of the weft.
 
 2. - (A)Products of Chapter 56 to 63 containing two or more textile materials are to be regarded as consisting wholly of that textile material which would be selected under Note 2 to this Section for the classification of a product of Chapters 50 to 55 or of heading 58.09 consisting of the same textile materials
 
-(B)     For the application of this rule:
+(B) For the application of this rule:
 
-(a)     where appropriate, only the part which determines the classification under Interpretative Rule 3 shall be taken into account;
+(a) where appropriate, only the part which determines the classification under Interpretative Rule 3 shall be taken into account;
 
-(b)     in the case of textile products consisting of a ground fabric and a pile or looped surface no account shall be taken of the ground fabric;
+(b) in the case of textile products consisting of a ground fabric and a pile or looped surface no account shall be taken of the ground fabric;
 
-(c)     in the case of embroidery of heading 58.10 and goods thereof, only the ground fabric shall be taken into account. However, embroidery without visible ground, and goods thereof, shall be classified with reference to the embroidering threads alone.
+(c) in the case of embroidery of heading 58.10 and goods thereof, only the ground fabric shall be taken into account. However, embroidery without visible ground, and goods thereof, shall be classified with reference to the embroidering threads alone.
 
 HEADING/H.S. CODE DESCRIPTION SU NG                    DUTY RATE
 
@@ -9538,11 +9538,11 @@ Note.
 
 1. -    Throughout the Nomenclature:
 
-(a)     “Wool” means the natural fibre grown by sheep or lambs;
+(a) “Wool” means the natural fibre grown by sheep or lambs;
 
-(b)     “Fine animal hair” means the hair of alpaca, llama, vicuna, camel, yak, Angora,Tibetan,Kashmir or similar goats (but not common goats), rabbit (includingAngora rabbit), hare, beaver, nutria or musk-rat;
+(b) “Fine animal hair” means the hair of alpaca, llama, vicuna, camel, yak, Angora,Tibetan,Kashmir or similar goats (but not common goats), rabbit (includingAngora rabbit), hare, beaver, nutria or musk-rat;
 
-(c)     “Coarse animal hair” means the hair of animals not mentioned above, excluding brush-making hair and bristles (heading 05.02) and horsehair (heading 05.03).
+(c) “Coarse animal hair” means the hair of animals not mentioned above, excluding brush-making hair and bristles (heading 05.02) and horsehair (heading 05.03).
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -10142,9 +10142,9 @@ Notes.
 
 1. -    Throughout the Nomenclature, the term “man-made fibres” means staple fibres and filaments of organic polymers produced by manufacturing processes, either:
 
-(a)     By polymerisation of organic monomers, such as polyamides, polyester, polyurethanes or polyvinyl derivatives; or
+(a) By polymerisation of organic monomers, such as polyamides, polyester, polyurethanes or polyvinyl derivatives; or
 
-(b)     By chemical transformation of natural organic polymers (for example, cellulose, casein, proteins or algae), such as viscose rayon, cellulose acetate, cupro or alginates.
+(b) By chemical transformation of natural organic polymers (for example, cellulose, casein, proteins or algae), such as viscose rayon, cellulose acetate, cupro or alginates.
 
 The terms “synthetic” and “artificial”, used in relation to fibres, means: synthetic: fibres as defined at (a); artificial: fibres as defined at (b).
 
@@ -10358,15 +10358,15 @@ Note.
 
 1. -    Headings 55.01 and 55.02 apply only to man-made filament tow, consisting of parallel filaments of a uniform length equal to the length of the tow, meeting the following specifications:
 
-(a)     Length of tow exceeding 2m;
+(a) Length of tow exceeding 2m;
 
-(b)     Twist less than 5 turns per metre;
+(b) Twist less than 5 turns per metre;
 
-(c)     Measuring per filament less than 67 decitex;
+(c) Measuring per filament less than 67 decitex;
 
-(d)     Synthetic filament tow only: the tow must be drawn, that is to say, be incapable of being stretched by more than 100% of its length;
+(d) Synthetic filament tow only: the tow must be drawn, that is to say, be incapable of being stretched by more than 100% of its length;
 
-(e)     Total measurement of tow more than 20,000 decitex.
+(e) Total measurement of tow more than 20,000 decitex.
 
 Tow of a length not exceeding 2 m is to be classified in heading 55.03 or 55.04.
 
@@ -10708,15 +10708,15 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Wadding, felt or nonwovens, impregnated, coated or covered with substances or preparations (for example, perfumes or cosmetics of Chapter 33, soaps or detergents of heading 34.01, polishes, creams, or similar preparations of heading 34.05, fabric softeners of heading 38.09) where the textile material is present merely as a carrying medium;
+(a) Wadding, felt or nonwovens, impregnated, coated or covered with substances or preparations (for example, perfumes or cosmetics of Chapter 33, soaps or detergents of heading 34.01, polishes, creams, or similar preparations of heading 34.05, fabric softeners of heading 38.09) where the textile material is present merely as a carrying medium;
 
-(b)     Textile products of heading 58.11;
+(b) Textile products of heading 58.11;
 
-(c)     Natural or artificial abrasive powder or grain, on a backing of felt or nonwovens (heading 68.05);
+(c) Natural or artificial abrasive powder or grain, on a backing of felt or nonwovens (heading 68.05);
 
-(d)     Agglomerated or reconstituted mica, on a backing of felt or nonwovens (heading 68.14); or
+(d) Agglomerated or reconstituted mica, on a backing of felt or nonwovens (heading 68.14); or
 
-(e)     Metal foil on a backing of felt or nonwovens (Section XV).
+(e) Metal foil on a backing of felt or nonwovens (Section XV).
 
 2. -    The term “felt” includes needleloom felt and fabrics consisting of a web of textile fibres the cohesion of which has been enhanced by a stitch-bonding process using fibres from the web itself.
 
@@ -10726,11 +10726,11 @@ Heading56.03 also includes nonwovens in which plastics or rubber forms the bondi
 
 Headings56.02 and 56.03 do not, however, cover:
 
-(a)     Felt impregnated, coated, covered or laminated with plastics or rubber, containing 50% or less by weight or textile material or felt completely embedded in plastics or rubber (Chapter 39 or 40);
+(a) Felt impregnated, coated, covered or laminated with plastics or rubber, containing 50% or less by weight or textile material or felt completely embedded in plastics or rubber (Chapter 39 or 40);
 
-(b)     Nonwovens, either completely embedded in plastics or rubber, or entirely coated or covered on both sides with such materials, provided that such coating or covering can be seen with the naked eye with no account being taken of any resulting change of colour (Chapter 39 or 40); or
+(b) Nonwovens, either completely embedded in plastics or rubber, or entirely coated or covered on both sides with such materials, provided that such coating or covering can be seen with the naked eye with no account being taken of any resulting change of colour (Chapter 39 or 40); or
 
-(c)     Plates, sheets or strip of cellular plastics or cellular rubber combined with felt or nonwovens, where the textile material is present merely for reinforcing purposes (Chapter 39 or 40).
+(c) Plates, sheets or strip of cellular plastics or cellular rubber combined with felt or nonwovens, where the textile material is present merely for reinforcing purposes (Chapter 39 or 40).
 
 4. -    Heading 56.04 does not cover textile yarn, or strip or the like of heading 54.04 or 54.05, in which the impregnation, coating or covering cannot be seen with the naked eye (usually Chapters 50 to 55); for the purpose of this provision, no account should be taken of any resulting change of colour.
 
@@ -10934,11 +10934,11 @@ Notes.
 
 5. -    For the purposes of heading 58.06, the expression “narrow woven fabrics” means:
 
-(a)     Woven fabrics of a width not exceeding 30 cm, whether woven; as such or cut from wider pieces, provided with selvedges (woven, gummed or otherwise made) on both edges;
+(a) Woven fabrics of a width not exceeding 30 cm, whether woven; as such or cut from wider pieces, provided with selvedges (woven, gummed or otherwise made) on both edges;
 
-(b)     Tubular woven fabrics of a flattened width not exceeding 30 cm; and
+(b) Tubular woven fabrics of a flattened width not exceeding 30 cm; and
 
-(c)     Bias binding with folded edges, of a width when unfolded not exceeding 30 cm.
+(c) Bias binding with folded edges, of a width when unfolded not exceeding 30 cm.
 
 Narrowwoven fabrics with woven fringes are to be classified in heading 58.08.
 
@@ -11076,21 +11076,21 @@ Notes.
 
 2. -    Heading 59.03 applies to:
 
-(a)     Textile fabrics, impregnated, coated, covered, or laminated with plastics, whatever the weight per square metre and whatever the nature of the plastic material (compact or cellular), other than:
+(a) Textile fabrics, impregnated, coated, covered, or laminated with plastics, whatever the weight per square metre and whatever the nature of the plastic material (compact or cellular), other than:
 
-(1)     Fabrics in which the impregnation, coating or covering cannot be seen with the naked eye (usually Chapters 50 to 55, 58 or 60); for the purpose of this provision, no account should be taken of any resulting change of colour;
+(1) Fabrics in which the impregnation, coating or covering cannot be seen with the naked eye (usually Chapters 50 to 55, 58 or 60); for the purpose of this provision, no account should be taken of any resulting change of colour;
 
-(2)     Products which cannot, without fracturing, be bent manually around a cylinder of a diameter of 7 mm, at a temperature between 15 ºC and 30 ºC (usually Chapter 39);
+(2) Products which cannot, without fracturing, be bent manually around a cylinder of a diameter of 7 mm, at a temperature between 15 ºC and 30 ºC (usually Chapter 39);
 
-(3)     Products in which the textile fabric is either completely embedded in plastics or entirely coated or covered on both sides with such materials, provided that such coating or covering can be seen with the naked eye with no account being taken of any resulting change of colour (Chapter 39);
+(3) Products in which the textile fabric is either completely embedded in plastics or entirely coated or covered on both sides with such materials, provided that such coating or covering can be seen with the naked eye with no account being taken of any resulting change of colour (Chapter 39);
 
-(4)     Fabrics partially coated or partially covered with plastics and bearing designs resulting from these treatments (usually Chapters 50 to 55, 58 or 60);
+(4) Fabrics partially coated or partially covered with plastics and bearing designs resulting from these treatments (usually Chapters 50 to 55, 58 or 60);
 
-(5)     Plates, sheets or strip of cellular plastics, combined with textile fabric, where the textile fabric is present merely for reinforcing purposes (Chapter 39); or
+(5) Plates, sheets or strip of cellular plastics, combined with textile fabric, where the textile fabric is present merely for reinforcing purposes (Chapter 39); or
 
-(6)     Textile products of heading 58.11;
+(6) Textile products of heading 58.11;
 
-(b)     Fabrics made from yarn, strip or the like, impregnated, coated, covered or sheathed with plastics, of heading 56.04.
+(b) Fabrics made from yarn, strip or the like, impregnated, coated, covered or sheathed with plastics, of heading 56.04.
 
 3. -    For the purposes of heading 59.05, the expression “textile wall coverings” applies to products in rolls, of a width of not less than 45 cm, suitable for wall or ceiling decoration, consisting of a textile surface which has been fixed on a backing or has been treated on the back (impregnated or coated to permit pasting).
 
@@ -11098,59 +11098,59 @@ Thisheading does not, however, apply to wall coverings consisting of textile flo
 
 4. -    For the purposes of heading 59.06, the expression “rubberized textile fabrics” means:
 
-(a)     Textile fabrics impregnated, coated, covered or laminated with rubber,
+(a) Textile fabrics impregnated, coated, covered or laminated with rubber,
 
-(i)      Weighing not more than 1,500 g/m2; or
+(i) Weighing not more than 1,500 g/m2; or
 
-(ii)     Weighing more than 1,500 g/m2 and containing more than 50% by weight of textile materials;
+(ii) Weighing more than 1,500 g/m2 and containing more than 50% by weight of textile materials;
 
-(b)     Fabrics made from yarn, strip or the like, impregnated, coated, covered or sheathed with rubber, of heading 56.04; and
+(b) Fabrics made from yarn, strip or the like, impregnated, coated, covered or sheathed with rubber, of heading 56.04; and
 
-(c)     Fabrics composed of parallel textile yarns agglomerated with rubber, irrespective of their weight per square metre.
+(c) Fabrics composed of parallel textile yarns agglomerated with rubber, irrespective of their weight per square metre.
 
 Thisheading does not, however, apply to plates, sheets or strip of cellular rubber, combined with textile fabric, where the textile fabric is present merely for reinforcing purposes (Chapter 40), or textile products of heading 58.11.
 
 5. - Heading 59.07 does not apply to :
 
-(a)     Fabrics in which the impregnation, coating or covering cannot be seen with the naked eye (usually Chapters 50 to 55, 58 or 60); for the purpose of this provision, no account should be taken of any resulting change of colour;
+(a) Fabrics in which the impregnation, coating or covering cannot be seen with the naked eye (usually Chapters 50 to 55, 58 or 60); for the purpose of this provision, no account should be taken of any resulting change of colour;
 
-(b)     Fabrics painted with designs (other than painted canvas being theatrical scenery, studio back-cloths or the like);
+(b) Fabrics painted with designs (other than painted canvas being theatrical scenery, studio back-cloths or the like);
 
-(c)     Fabrics partially covered with flock, dust, powdered cork or the like and bearing designs resulting from these treatments; however, imitation pile fabrics remain classified in this heading;
+(c) Fabrics partially covered with flock, dust, powdered cork or the like and bearing designs resulting from these treatments; however, imitation pile fabrics remain classified in this heading;
 
-(d)     Fabrics finished with normal dressings having a basis of amylaceous or similar substances;
+(d) Fabrics finished with normal dressings having a basis of amylaceous or similar substances;
 
-(e)     Wood veneered on a backing of textile fabrics (heading 44.08);
+(e) Wood veneered on a backing of textile fabrics (heading 44.08);
 
-(f)      Natural or artificial abrasive powder or grain, on a backing of textile fabrics (heading 68.05);
+(f) Natural or artificial abrasive powder or grain, on a backing of textile fabrics (heading 68.05);
 
-(g)     Agglomerated or reconstituted mica, on a backing of textile fabrics (heading 68.14); or
+(g) Agglomerated or reconstituted mica, on a backing of textile fabrics (heading 68.14); or
 
-(h)     Metal foil on a backing of textile fabrics (Section XV).
+(h) Metal foil on a backing of textile fabrics (Section XV).
 
 6. -    Heading 59.10 does not apply to:
 
-(a)     Transmission or conveyor belting, of textile material, of a thickness of less than 3mm; or
+(a) Transmission or conveyor belting, of textile material, of a thickness of less than 3mm; or
 
-(b)     Transmission or conveyor belts of belting of textile fabric impregnated, coated, covered or laminated with rubber or made from textile yarn or cord impregnated, coated, covered or sheathed with rubber (heading 40.10).
+(b) Transmission or conveyor belts of belting of textile fabric impregnated, coated, covered or laminated with rubber or made from textile yarn or cord impregnated, coated, covered or sheathed with rubber (heading 40.10).
 
 7. -    Heading 59.11 applies to the following goods, which do not fall in any other heading of Section XI):
 
-(a)     Textile products in the piece, cut to length or simply cut to rectangular (including square) shape (other than those having the character of the products of headings 59.08 to 59.10), the following only:
+(a) Textile products in the piece, cut to length or simply cut to rectangular (including square) shape (other than those having the character of the products of headings 59.08 to 59.10), the following only:
 
-(i)      Textile fabrics, felt and felt-lined woven fabrics, coated, covered or laminated with rubber, leather or other material, of a kind used for card clothing, and similar fabrics of a kind used for other technical purposes, including narrow fabrics made of velvet impregnated with rubber, for covering weaving spindles (weaving beams);
+(i) Textile fabrics, felt and felt-lined woven fabrics, coated, covered or laminated with rubber, leather or other material, of a kind used for card clothing, and similar fabrics of a kind used for other technical purposes, including narrow fabrics made of velvet impregnated with rubber, for covering weaving spindles (weaving beams);
 
-(ii)     Bolting cloth;
+(ii) Bolting cloth;
 
-(iii)    Straining cloth of a kind used in oil presses or the like, of textile material or of human hair;
+(iii) Straining cloth of a kind used in oil presses or the like, of textile material or of human hair;
 
-(iv)    Flat woven textile fabrics with multiple warp or weft, whether or not felted, impregnated or coated, of a kind used in machinery or for other technical purposes;
+(iv) Flat woven textile fabrics with multiple warp or weft, whether or not felted, impregnated or coated, of a kind used in machinery or for other technical purposes;
 
-(v)     Textile fabrics reinforced with metal, of a kind used for technical purposes;
+(v) Textile fabrics reinforced with metal, of a kind used for technical purposes;
 
-(vi)    Cords, braids and the like, whether or not coated, impregnated or reinforced with metal, of a kind used in industry as packing or lubricating materials;
+(vi) Cords, braids and the like, whether or not coated, impregnated or reinforced with metal, of a kind used in industry as packing or lubricating materials;
 
-(b)     Textile articles (other than those of headings 59.08 to 59.10) of a kind used for technical purposes (for example, textile fabrics and felts, endless or fitted with linking devices, of kind used in paper-making or similar machines (for example, for pulp or asbestos-cement), gaskets, washers, polishing discs and other machinery parts).
+(b) Textile articles (other than those of headings 59.08 to 59.10) of a kind used for technical purposes (for example, textile fabrics and felts, endless or fitted with linking devices, of kind used in paper-making or similar machines (for example, for pulp or asbestos-cement), gaskets, washers, polishing discs and other machinery parts).
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE5
 
@@ -11228,11 +11228,11 @@ Notes.
 
 1. -    This Chapter does not cover :
 
-(a)     Crochet lace of heading 58.04;
+(a) Crochet lace of heading 58.04;
 
-(b)     Labels, badges or similar articles, knitted or crocheted, of heading 58.07; or
+(b) Labels, badges or similar articles, knitted or crocheted, of heading 58.07; or
 
-(c)     Knitted or crocheted fabrics, impregnated, coated, covered or laminated, of Chapter 59. However, knitted or crocheted pile fabrics, impregnated, coated, covered or laminated, remain classified in heading 60.01.
+(c) Knitted or crocheted fabrics, impregnated, coated, covered or laminated, of Chapter 59. However, knitted or crocheted pile fabrics, impregnated, coated, covered or laminated, remain classified in heading 60.01.
 
 2. -    This Chapter also includes fabrics made of metal thread and of a kind used in apparel, as furnishing fabrics or for similar purposes.
 
@@ -11370,15 +11370,15 @@ Notes.
 
 2. -    This Chapter does not cover :
 
-(a)     Goods of heading 62.12;
+(a) Goods of heading 62.12;
 
-(b)     Worn clothing or other worn articles of heading 63.09; or
+(b) Worn clothing or other worn articles of heading 63.09; or
 
-(c)     Orthopaedic appliances, surgical belts, trusses or the like (heading 90.21).
+(c) Orthopaedic appliances, surgical belts, trusses or the like (heading 90.21).
 
 3. -    For the purposes of headings 61.03 and 61.04 :
 
-(a)     The term “suit” means a set of garments composed of two or three pieces made up, in respect of their outer surface, in identical fabric and comprising :
+(a) The term “suit” means a set of garments composed of two or three pieces made up, in respect of their outer surface, in identical fabric and comprising :
 
 - one suit coat or jacket the outer shell of which, exclusive of sleeves, consists of four or more panels, designed to cover the upper part of the body, possibly with a tailored waistcoat in addition whose front is made from the same fabric as the outer surface of the other components of the set and whose back is made from the same fabric as the lining of the suit coat or jacket; and
 
@@ -11398,7 +11398,7 @@ The term “suit” includes the following sets of garments, whether or not they
 
 imitationsilk lapels.
 
-(b)     The term “ensemble” means a set of garments (other than suits and articles of heading 61.07, 61.08 or 61.09), composed of several pieces made up in identical fabric, put up for retail sale, and comprising :
+(b) The term “ensemble” means a set of garments (other than suits and articles of heading 61.07, 61.08 or 61.09), composed of several pieces made up in identical fabric, put up for retail sale, and comprising :
 
 - one garment designed to cover the upper part of the body, with the exception of pullovers which may form a second upper garment in the sole context of twin sets, and of waistcoats which may also form a second upper garment, and
 
@@ -11412,15 +11412,15 @@ All of the components of an ensemble must be of the same fabric construction, st
 
 6. -    For the purposes of heading 61.11 :
 
-(a)     The expression “babies’ garments and clothing accessories” means articles for young children of a body height not exceeding 86cm; it also covers babies’ napkins;
+(a) The expression “babies’ garments and clothing accessories” means articles for young children of a body height not exceeding 86cm; it also covers babies’ napkins;
 
-(b)     Articles which are, prima facie, classifiable both in heading 61.11 and in other headings of this Chapter are to be classified in heading 61.11.
+(b) Articles which are, prima facie, classifiable both in heading 61.11 and in other headings of this Chapter are to be classified in heading 61.11.
 
 7. -    For the purposes of heading 61.12, “ski suits” means garments or sets of garments which, by their general appearance and texture, are identifiable as intended to be worn principally for skiing (cross-country or alpine). They consist either of :
 
-(a)     a “ski overall”, that is, a one-piece garment designed to cover the upper and the lower parts of the body; in addition to sleeves and a collar the ski overall may have pockets or footstraps; or
+(a) a “ski overall”, that is, a one-piece garment designed to cover the upper and the lower parts of the body; in addition to sleeves and a collar the ski overall may have pockets or footstraps; or
 
-(b)     a “ski ensemble”, that is, a set of garments composed of two or three pieces, put up for retail sale and comprising:
+(b) a “ski ensemble”, that is, a set of garments composed of two or three pieces, put up for retail sale and comprising:
 
 - one garment such as an anorak, wind-cheater, wind-jacket or similar article, closed by a slide fast (zipper), possibly with a waistcoat in addition, and
 
@@ -11804,13 +11804,13 @@ Notes.
 
 2. -    This Chapter does not cover:
 
-(a)     Worn clothing or other worn articles of heading 63.09; or
+(a) Worn clothing or other worn articles of heading 63.09; or
 
-(b)     Orthopaedic appliances, surgical belts, trusses or the like (heading 90.21).
+(b) Orthopaedic appliances, surgical belts, trusses or the like (heading 90.21).
 
 3. -    For the purposes of headings 62.03 and 62.04:
 
-(a)     The term “suit” means a set of garments composed of two or three pieces made up, in respect of their outer surface, in identical fabrics and comprising:
+(a) The term “suit” means a set of garments composed of two or three pieces made up, in respect of their outer surface, in identical fabrics and comprising:
 
 - one suit coat or jacket the outer shell of which, exclusive of sleeves, consists of four or more panels, designed to cover the upper part of the body, possibly with a tailored waistcoat in addition whose front is made from the same fabric as the outer surface of the other components of the set and whose back is made from the same fabric as the lining of the suit coat or jacket; and
 
@@ -11828,7 +11828,7 @@ The term “suit” includes the following sets of garments, whether or not they
 
 - dinner jacket suits, in which the jacket is similar in style to an ordinary jacket (though perhaps revealing more of the shirt front), but has shiny silk or imitation silk lapels;
 
-(b)     The term “ensemble” means a set of garments (other than suits and articles of heading 62.07 or 62.08) composed of several pieces made up in identical fabric, put up for retail sale, and comprising:
+(b) The term “ensemble” means a set of garments (other than suits and articles of heading 62.07 or 62.08) composed of several pieces made up in identical fabric, put up for retail sale, and comprising:
 
 - one garment designed to cover the upper part of the body, with the exception of waistcoats which may also form a second upper garment, and
 
@@ -11838,17 +11838,17 @@ All of the components of an ensemble must be of the same fabric construction, st
 
 4. -    For the purposes of heading 62.09:
 
-(a)     The expression “babies’ garments and clothing accessories” means articles for young children of a body height not exceeding 86 cm; it also covers babies’ napkins;
+(a) The expression “babies’ garments and clothing accessories” means articles for young children of a body height not exceeding 86 cm; it also covers babies’ napkins;
 
-(b)     Articles which are, prima facie, classifiable both in heading 62.09 and in other headings of this Chapter are to be classified in heading 62.09.
+(b) Articles which are, prima facie, classifiable both in heading 62.09 and in other headings of this Chapter are to be classified in heading 62.09.
 
 5. -    Garments which are, prima facie, classifiable both in heading 62.10 and in other headings of this Chapter, excluding heading 62.09, are to be classified in heading 62.10.
 
 6. -    For the purposes of heading 62.11, “ski suits” means garments or sets of garments which, by their general appearance and texture, are identifiable as intended to be worn principally for skiing (cross-country or alpine). They consist either of:
 
-(a)     A “ski overall”, that is, a one-piece garment designed to cover the upper and the lower parts of the body; in addition to sleeves and a collar the ski overall may have pockets or footstraps; or
+(a) A “ski overall”, that is, a one-piece garment designed to cover the upper and the lower parts of the body; in addition to sleeves and a collar the ski overall may have pockets or footstraps; or
 
-(b)     a “ski ensemble”, that is, a set of garments composed of two or three pieces, put up for retail sale and comprising:
+(b) a “ski ensemble”, that is, a set of garments composed of two or three pieces, put up for retail sale and comprising:
 
 - one garment such as an anorak, wind-cheater, wind-jacket or similar article, closed by a slide fastener (zipper), possibly with a waistcoat in addition, and
 
@@ -12202,33 +12202,33 @@ Other made up textile articles; sets; worn clothing and worn textile articles; r
 
 Notes.
 
-1.       Sub-Chapter 1 applies only to made up articles, of any textile fabric.
+1. Sub-Chapter 1 applies only to made up articles, of any textile fabric.
 
-2.       Sub-Chapter 1 does not cover:
+2. Sub-Chapter 1 does not cover:
 
-(a)     Goods of Chapters 56 to 62; or
+(a) Goods of Chapters 56 to 62; or
 
-(b)     Worn clothing or other worn articles of heading 63.09.
+(b) Worn clothing or other worn articles of heading 63.09.
 
-3.       Heading 63.09 applies only to the following goods:
+3. Heading 63.09 applies only to the following goods:
 
-(a)     Articles of textile materials:
+(a) Articles of textile materials:
 
-(i)      Clothing and clothing accessories, and parts thereof;
+(i) Clothing and clothing accessories, and parts thereof;
 
-(ii)     Blankets and traveling rugs;
+(ii) Blankets and traveling rugs;
 
-(iii)    Bed linen, table linen, toilet linen and kitchen linen;
+(iii) Bed linen, table linen, toilet linen and kitchen linen;
 
-(iv)    Furnishing articles, other than carpets of headings 57.01 to 57.05 and tapestries of heading 58.05;
+(iv) Furnishing articles, other than carpets of headings 57.01 to 57.05 and tapestries of heading 58.05;
 
 (b)Footwear and headgear of any material other than asbestos.
 
 In order to be classified in this heading, the articles mentioned above must comply with both of the following requirements:
 
-(i)      they must show signs of appreciable wear, and
+(i) they must show signs of appreciable wear, and
 
-(ii)     they must be presented in bulk or in bales, sacks or similar packing.
+(ii) they must be presented in bulk or in bales, sacks or similar packing.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -12446,39 +12446,39 @@ Notes.
 
 1. -    This Chapter does not cover :
 
-(a)     Disposable foot or shoe coverings of flimsy material (for example, paper, sheeting of plastics) without applied soles. These products are classified according to their constituent material;
+(a) Disposable foot or shoe coverings of flimsy material (for example, paper, sheeting of plastics) without applied soles. These products are classified according to their constituent material;
 
-(b)     Footwear of textile materials, without an outer sole glued, sewn or otherwise affixed or applied to the upper (Section XI);
+(b) Footwear of textile materials, without an outer sole glued, sewn or otherwise affixed or applied to the upper (Section XI);
 
-(c)     Worn footwear of heading 63.09;
+(c) Worn footwear of heading 63.09;
 
-(d)     Articles of asbestos (heading 68.12);
+(d) Articles of asbestos (heading 68.12);
 
-(e)     Orthopaedic footwear or other orthopaedic appliances, or parts thereof (heading 90.21); or
+(e) Orthopaedic footwear or other orthopaedic appliances, or parts thereof (heading 90.21); or
 
-(f)      Toy footwear or skating boots with ice or roller skates attached; shin-guards or similar protective sportswear (Chapter 95).
+(f) Toy footwear or skating boots with ice or roller skates attached; shin-guards or similar protective sportswear (Chapter 95).
 
 2. -    For the purposes of heading 64.06, the term “parts” does not include pegs, protectors, eyelets, hooks, buckles, ornaments, braid, laces, pompons or other trimmings (which are to be classified in their appropriate headings) or buttons or other goods of heading 96.06.
 
 3. -    For the purposes of this Chapter :
 
-(a)     the terms “rubber” and “plastics” include woven fabrics or other textile products with an external layer of rubber or plastics being visible to the naked eye; for the purpose of this provision, no account should be taken of any resulting change of colour; and
+(a) the terms “rubber” and “plastics” include woven fabrics or other textile products with an external layer of rubber or plastics being visible to the naked eye; for the purpose of this provision, no account should be taken of any resulting change of colour; and
 
-(b)     the term “leather” refers to the goods of headings 41.07 and 41.12 to 41.14.
+(b) the term “leather” refers to the goods of headings 41.07 and 41.12 to 41.14.
 
 4. -    Subject to Note 3 to this Chapter:
 
-(a)     the material of the upper shall be taken to be the constituent material having the greatest external surface area, no account being taken of accessories or reinforcements such as ankle patches, edging, ornamentation, buckles, tabs, eyelet stays or similar attachments;
+(a) the material of the upper shall be taken to be the constituent material having the greatest external surface area, no account being taken of accessories or reinforcements such as ankle patches, edging, ornamentation, buckles, tabs, eyelet stays or similar attachments;
 
-(b)     The constituent material of the outer sole shall be taken to be the material having the greatest surface area in contact with the ground, no account being taken of accessories or reinforcements such as spikes, bars, nails, protectors or similar attachments.
+(b) The constituent material of the outer sole shall be taken to be the material having the greatest surface area in contact with the ground, no account being taken of accessories or reinforcements such as spikes, bars, nails, protectors or similar attachments.
 
 Subheading Note.
 
 1. -    For the purposes of subheading 6402.12, 6402.19, 6403.12, 6403.19 and 6404.11, the expression “sports footwear” applies only to :
 
-(a)     footwear which is designed for a sporting activity and has, or has provision for the attachment of, spikes, sprigs, stops, clips, bars or the like;
+(a) footwear which is designed for a sporting activity and has, or has provision for the attachment of, spikes, sprigs, stops, clips, bars or the like;
 
-(b)     skating boots, ski-boots and cross-country ski footwear, snowboard boots, wrestling boots, boxing boots and cycling shoes
+(b) skating boots, ski-boots and cross-country ski footwear, snowboard boots, wrestling boots, boxing boots and cycling shoes
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -12722,11 +12722,11 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Worn headgear of heading 63.09;
+(a) Worn headgear of heading 63.09;
 
-(b)     Asbestos headgear (heading 68.12); or
+(b) Asbestos headgear (heading 68.12); or
 
-(c)     Dolls’ hats, other toy hats or carnival articles of Chapter 95.
+(c) Dolls’ hats, other toy hats or carnival articles of Chapter 95.
 
 2. -    Heading 65.02 does not cover hat-shapes made by sewing, other than those obtained simply by sewing strips in spirals.
 
@@ -12772,11 +12772,11 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Measure walking-sticks or the like (heading 90.17);
+(a) Measure walking-sticks or the like (heading 90.17);
 
-(b)     Firearm-sticks, sword-sticks, loaded walking-sticks or the like (Chapter 93); or
+(b) Firearm-sticks, sword-sticks, loaded walking-sticks or the like (Chapter 93); or
 
-(c)     Goods of Chapter 95 (for example, toy umbrellas, toy sun umbrellas).
+(c) Goods of Chapter 95 (for example, toy umbrellas, toy sun umbrellas).
 
 2. -    Heading 66.03 does not cover parts, trimmings or accessories of textile material, or covers, tassels, thongs, umbrella cases or the like, of any material. Such goods presented with, but not fitted to, articles of heading 66.01 or 66.02 are to ben classified separately and are not to be treated as forming part of those articles.
 
@@ -12812,31 +12812,31 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Straining cloth of human hair (heading 59.11);
+(a) Straining cloth of human hair (heading 59.11);
 
-(b)     Floral motifs of lace, of embroidery or other textile fabric (Section XI);
+(b) Floral motifs of lace, of embroidery or other textile fabric (Section XI);
 
-(c)     Footwear (Chapter 64);
+(c) Footwear (Chapter 64);
 
-(d)     Headgear or hair-nets (Chapter 65);
+(d) Headgear or hair-nets (Chapter 65);
 
-(e)     Toys, sports requisites or carnival articles (Chapter 95); or
+(e) Toys, sports requisites or carnival articles (Chapter 95); or
 
-(f)      Feather dusters, powder-puffs or hair sieves (Chapter 96).
+(f) Feather dusters, powder-puffs or hair sieves (Chapter 96).
 
 2. -    Heading 67.01 does not cover:
 
-(a)     Articles in which feathers or down constitute only filling or padding (for example, bedding of heading 94.04);
+(a) Articles in which feathers or down constitute only filling or padding (for example, bedding of heading 94.04);
 
-(b)     Articles of apparel or clothing accessories in which feathers or down constitute no more than mere trimming or padding; or
+(b) Articles of apparel or clothing accessories in which feathers or down constitute no more than mere trimming or padding; or
 
-(c)     Artificial flowers or foliage or parts thereof or made up articles of heading 67.02.
+(c) Artificial flowers or foliage or parts thereof or made up articles of heading 67.02.
 
 3. -    Heading 67.02 does not cover:
 
-(a)     Articles of glass (Chapter 70); or
+(a) Articles of glass (Chapter 70); or
 
-(b)     Artificial flowers, foliage or fruit of pottery, stone, metal, wood or other materials, obtained in one piece by moulding, forging, carving, stamping or other process, or consisting of parts assembled otherwise than by binding, glueing, fitting into one another or similar methods.
+(b) Artificial flowers, foliage or fruit of pottery, stone, metal, wood or other materials, obtained in one piece by moulding, forging, carving, stamping or other process, or consisting of parts assembled otherwise than by binding, glueing, fitting into one another or similar methods.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -12876,31 +12876,31 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Goods of Chapter 25;
+(a) Goods of Chapter 25;
 
-(b)     Coated impregnated or covered paper and paperboard of heading 48.10 or 48.11 (for example, paper coated with mica powder or graphite, bituminised or asphalted paper and paperboard);
+(b) Coated impregnated or covered paper and paperboard of heading 48.10 or 48.11 (for example, paper coated with mica powder or graphite, bituminised or asphalted paper and paperboard);
 
-(c)     Coated, impregnated or covered textile fabric of Chapter 56 or 59 (for example, fabric coated or covered with mica powder, bituminised or asphalted fabric);
+(c) Coated, impregnated or covered textile fabric of Chapter 56 or 59 (for example, fabric coated or covered with mica powder, bituminised or asphalted fabric);
 
-(d)     Articles of Chapter 71;
+(d) Articles of Chapter 71;
 
-(e)     Tools or parts of tools, of Chapter 82;
+(e) Tools or parts of tools, of Chapter 82;
 
-(f)      Lithographic stones of heading 84.42;
+(f) Lithographic stones of heading 84.42;
 
-(g)     Electrical insulators (heading 85.46) or fittings of insulating material of heading 85.47;
+(g) Electrical insulators (heading 85.46) or fittings of insulating material of heading 85.47;
 
-(h)     Dental burrs (heading 90.18);
+(h) Dental burrs (heading 90.18);
 
-(i)      Articles of Chapter 91 (for example, clocks and clock cases);
+(i) Articles of Chapter 91 (for example, clocks and clock cases);
 
-(j)      Articles of Chapter 94 (for example, furniture, lamps and lighting fittings, prefabricated buildings);
+(j) Articles of Chapter 94 (for example, furniture, lamps and lighting fittings, prefabricated buildings);
 
-(k)     Articles of Chapter 95 (for example, toys, games and sports requisites);
+(k) Articles of Chapter 95 (for example, toys, games and sports requisites);
 
-(m)    Articlesof heading 96.02, if made of materials specified in Note 2 (b) to Chapter 96, or of heading 96.06 (for example, buttons), 96.09 (for example, slate pencils), or 96.10 (for example, drawing slates); or
+(m) Articlesof heading 96.02, if made of materials specified in Note 2 (b) to Chapter 96, or of heading 96.06 (for example, buttons), 96.09 (for example, slate pencils), or 96.10 (for example, drawing slates); or
 
-(n)     Articles of Chapter 97 (for example, works of art).
+(n) Articles of Chapter 97 (for example, works of art).
 
 2. -    In heading 68.02 the expression “worked monumental or building stone” applies not only to the varieties of stone referred to in heading 25.15 or 25.16 but also to all other natural stone (for example, quartzite, flint, dolomite and steatite) similarly worked; it does not, however, apply to slate
 
@@ -13060,29 +13060,29 @@ Headings69.04 to 69.14 apply only to such products other than those classifiable
 
 2. -    This Chapter does not cover:
 
-(a)     Products of heading 28.44;
+(a) Products of heading 28.44;
 
-(b)     Articles of heading 68.04;
+(b) Articles of heading 68.04;
 
-(c)     Articles of Chapter 71 (for example, imitation jewellery);
+(c) Articles of Chapter 71 (for example, imitation jewellery);
 
-(d)     Cermets of heading 81.13;
+(d) Cermets of heading 81.13;
 
-(e)     Articles of Chapter 82;
+(e) Articles of Chapter 82;
 
-(f)      Electrical insulators (heading 85.46) or fittings of insulating material of heading 85.47;
+(f) Electrical insulators (heading 85.46) or fittings of insulating material of heading 85.47;
 
-(g)     Artificial teeth (heading 90.21);
+(g) Artificial teeth (heading 90.21);
 
-(h)     Articles of Chapter 91 (for example, clocks and clock cases);
+(h) Articles of Chapter 91 (for example, clocks and clock cases);
 
-(i)      Articles of Chapter 94 (for example, furniture, lamps and lighting fittings, prefabricated buildings);
+(i) Articles of Chapter 94 (for example, furniture, lamps and lighting fittings, prefabricated buildings);
 
-(j)      Articles of Chapter 95 (for example, toys, games and sports requisites);
+(j) Articles of Chapter 95 (for example, toys, games and sports requisites);
 
-(k)     Articles of heading 96.06 (for example, buttons) or of heading 96.14 (for example, smoking pipes); or
+(k) Articles of heading 96.06 (for example, buttons) or of heading 96.14 (for example, smoking pipes); or
 
-(l)      Articles of Chapter 97 (for example, works of art).
+(l) Articles of Chapter 97 (for example, works of art).
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -13186,35 +13186,35 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Goods of heading 32.07 (for example, vitrifiable enamels and glazes, glass frit, other glass in the form of powder, granules or flakes);
+(a) Goods of heading 32.07 (for example, vitrifiable enamels and glazes, glass frit, other glass in the form of powder, granules or flakes);
 
-(b)     Articles of Chapter 71 (for example, imitation jewellery);
+(b) Articles of Chapter 71 (for example, imitation jewellery);
 
-(c)     Optical fibre cables of heading 85.44, electrical insulators (heading 85.46) or fittings of insulating material of heading 85.47;
+(c) Optical fibre cables of heading 85.44, electrical insulators (heading 85.46) or fittings of insulating material of heading 85.47;
 
-(d)     Optical fibres, optically worked optical elements, hypodermic syringes, artificial eyes, thermometers, barometers, hydrometers or other articles of Chapter 90;
+(d) Optical fibres, optically worked optical elements, hypodermic syringes, artificial eyes, thermometers, barometers, hydrometers or other articles of Chapter 90;
 
-(e)     Lamps or lighting fittings, illuminated signs, illuminated name-plates or the like, having a permanently fixed light source, or parts thereof of heading 94.05;
+(e) Lamps or lighting fittings, illuminated signs, illuminated name-plates or the like, having a permanently fixed light source, or parts thereof of heading 94.05;
 
-(f)      Toys, games, sports requisites, Christmas tree ornaments or other articles of Chapter 95 (excluding glass eyes without mechanisms for dolls or for other articles of Chapter 95); or
+(f) Toys, games, sports requisites, Christmas tree ornaments or other articles of Chapter 95 (excluding glass eyes without mechanisms for dolls or for other articles of Chapter 95); or
 
-(g)     Buttons, fitted vacuum flasks, scent or similar sprays or other articles of Chapter 96.
+(g) Buttons, fitted vacuum flasks, scent or similar sprays or other articles of Chapter 96.
 
 2. -    For the purposes of headings 70.03, 70.04 and 70.05:
 
-(a)     glass is not regarded as “worked” by reason of any process it has undergone beforeannealing;
+(a) glass is not regarded as “worked” by reason of any process it has undergone beforeannealing;
 
-(b)     cutting to shape does not affect the classification of glass in sheets;
+(b) cutting to shape does not affect the classification of glass in sheets;
 
-(c)     the expression “absorbent, reflecting or non-reflecting layer” means a microscopically thin coating or metal or of a chemical compound (for example, metal oxide) which absorbs, for example, infra-red light or improves the reflecting qualities of the glass while still allowing it to retain a degree of transparency or translucency; or which prevents light from being reflected on the surface of the glass.
+(c) the expression “absorbent, reflecting or non-reflecting layer” means a microscopically thin coating or metal or of a chemical compound (for example, metal oxide) which absorbs, for example, infra-red light or improves the reflecting qualities of the glass while still allowing it to retain a degree of transparency or translucency; or which prevents light from being reflected on the surface of the glass.
 
 3. -    The products referred to in heading 70.06 remain classified in that heading whether or not they have the character of articles.
 
 4. -    For the purposes of heading 70.19, the expression “glass wool” means:
 
-(a)     Mineral wools with a silica (SiO2) content not less than 60% by weight;
+(a) Mineral wools with a silica (SiO2) content not less than 60% by weight;
 
-(b)     Mineral wools with a silica (SiO2) content less than 60% but with an alkaline oxide (K20 or Na20) content exceeding 5% by weight or a boric oxide (B203) content exceeding 2% by weight.
+(b) Mineral wools with a silica (SiO2) content less than 60% but with an alkaline oxide (K20 or Na20) content exceeding 5% by weight or a boric oxide (B203) content exceeding 2% by weight.
 
 Mineralwools which do not comply with the above specifications fall in heading 68.06.
 
@@ -13430,87 +13430,87 @@ Chapter 71
 
 Natural or cultured pearls, precious or semi-precious stones, metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin Notes.
 
-1.       - Subject to Note 1 (a) to Section VI and except as provided below, all articles consisting wholly or partly:
+1. - Subject to Note 1 (a) to Section VI and except as provided below, all articles consisting wholly or partly:
 
-(a)     Of natural or cultured pearls or of precious or semi-precious stones (natural, synthetic or reconstructed), or
+(a) Of natural or cultured pearls or of precious or semi-precious stones (natural, synthetic or reconstructed), or
 
-(b)     Of precious metal or of metal clad with precious metal, are to be classified in this Chapter.
+(b) Of precious metal or of metal clad with precious metal, are to be classified in this Chapter.
 
 2.
 
-(a)     Heading 71.13, 71.14 and 71.15 do not cover articles in which precious metal or metal clad with precious metal is present as minor constituents only, such as minor fittings or minor ornamentation (for example, monograms, ferrules and rims), and paragraph (b) of the foregoing Note does not apply to such articles
+(a) Heading 71.13, 71.14 and 71.15 do not cover articles in which precious metal or metal clad with precious metal is present as minor constituents only, such as minor fittings or minor ornamentation (for example, monograms, ferrules and rims), and paragraph (b) of the foregoing Note does not apply to such articles
 
-(b)     Heading 71.16 does not cover articles containing precious metal or metal clad with precious metal (other than as minor constituents).
+(b) Heading 71.16 does not cover articles containing precious metal or metal clad with precious metal (other than as minor constituents).
 
-3.       - This Chapter does not cover:
+3. - This Chapter does not cover:
 
-(a)     Amalgams of precious metal, or colloidal precious metal (heading 28.43);
+(a) Amalgams of precious metal, or colloidal precious metal (heading 28.43);
 
-(b)     Sterile surgical suture materials, dental fillings or other goods of Chapter 30;
+(b) Sterile surgical suture materials, dental fillings or other goods of Chapter 30;
 
-(c)     Goods of Chapter 32 (for example, lustres);
+(c) Goods of Chapter 32 (for example, lustres);
 
-(d)     Supported catalysts (heading 38.15);
+(d) Supported catalysts (heading 38.15);
 
-(e)     Articles of heading 42.02 or 42.03 referred to in Note 2 (B) to Chapter 42;
+(e) Articles of heading 42.02 or 42.03 referred to in Note 2 (B) to Chapter 42;
 
-(f)      Articles of heading 43.03 or 43.04;
+(f) Articles of heading 43.03 or 43.04;
 
-(g)     Goods of Section XI (textiles and textile articles);
+(g) Goods of Section XI (textiles and textile articles);
 
-(h)     Footwear, headgear or other articles of Chapter 64 or 65;
+(h) Footwear, headgear or other articles of Chapter 64 or 65;
 
-(ij)     Umbrellas, walking-sticks or other articles of Chapter 66;
+(ij) Umbrellas, walking-sticks or other articles of Chapter 66;
 
-(k)     Abrasive goods of heading 68.04 or 68.05 or Chapter 82, containing dust or powder of precious or semi-precious stones (natural or synthetic); articles of Chapter 82 with a working part of precious or semi precious stones (natural, synthetic or reconstructed); machinery, mechanical appliances or electrical goods, or parts thereof, of Section XVI. However, articles and parts thereof, wholly of precious or semi-precious stones (natural, synthetic or reconstructed) remain classified in this Chapter, except unmounted worked sapphires and diamonds for styli (heading 85.22); (*) The underlined portion of this Note constitutes an optional text.
+(k) Abrasive goods of heading 68.04 or 68.05 or Chapter 82, containing dust or powder of precious or semi-precious stones (natural or synthetic); articles of Chapter 82 with a working part of precious or semi precious stones (natural, synthetic or reconstructed); machinery, mechanical appliances or electrical goods, or parts thereof, of Section XVI. However, articles and parts thereof, wholly of precious or semi-precious stones (natural, synthetic or reconstructed) remain classified in this Chapter, except unmounted worked sapphires and diamonds for styli (heading 85.22); (*) The underlined portion of this Note constitutes an optional text.
 
-(l)      Articles of Chapter 90, 91 or 92 (scientific instruments, clocks and watches, musical instruments);
+(l) Articles of Chapter 90, 91 or 92 (scientific instruments, clocks and watches, musical instruments);
 
-(m)    Arms or parts thereof (Chapter 93);
+(m) Arms or parts thereof (Chapter 93);
 
-(n)     Articles covered by Note 2 to Chapter 95;
+(n) Articles covered by Note 2 to Chapter 95;
 
-(o)     Articles classified in Chapter 96 by virtue of Note 4 to that Chapter; or
+(o) Articles classified in Chapter 96 by virtue of Note 4 to that Chapter; or
 
-(p)     Original sculptures or statuary (heading 97.03), collectors’ pieces (heading 97.05) or antiques of an age exceeding one hundred years (heading 97.06), other than natural or cultured pearls or precious or semi-precious stones.
+(p) Original sculptures or statuary (heading 97.03), collectors’ pieces (heading 97.05) or antiques of an age exceeding one hundred years (heading 97.06), other than natural or cultured pearls or precious or semi-precious stones.
 
 4. - (a) The expression “precious metal” means silver, gold and platinum.
 
-(b)     The expression “platinum” means platinum, iridium, osmium, palladium, rhodium and ruthenium.
+(b) The expression “platinum” means platinum, iridium, osmium, palladium, rhodium and ruthenium.
 
-(c)     The expression “precious or semi-precious stones” does not include any of the substances specified in Note 2(b) to Chapter 96.
+(c) The expression “precious or semi-precious stones” does not include any of the substances specified in Note 2(b) to Chapter 96.
 
-5.       - For the purposes of this Chapter, any alloy (including a sintered mixture and an inter-metallic compound) containing precious metal is to be treated as an alloy of precious metal if any one precious metal constitutes as much as 2%, by weight, of  the alloy. Alloys of precious metal are to be classified according to the following rules:
+5. - For the purposes of this Chapter, any alloy (including a sintered mixture and an inter-metallic compound) containing precious metal is to be treated as an alloy of precious metal if any one precious metal constitutes as much as 2%, by weight, of  the alloy. Alloys of precious metal are to be classified according to the following rules:
 
-(a)      alloycontaining 2% or more, by weight, of platinum is to be treated as an alloy of platinum;
+(a) alloycontaining 2% or more, by weight, of platinum is to be treated as an alloy of platinum;
 
-(b)     An alloy containing 2% or more, by weight, of gold but no platinum, or less than 2%, by weight, of platinum,  to be treated as an alloy of gold;
+(b) An alloy containing 2% or more, by weight, of gold but no platinum, or less than 2%, by weight, of platinum,  to be treated as an alloy of gold;
 
-(c)     Other alloys containing 2% or more, by weight, of silver are to be treated as alloys of silver.
+(c) Other alloys containing 2% or more, by weight, of silver are to be treated as alloys of silver.
 
 6        - Except where the context otherwise requires, any reference in the Nomenclature to precious metal or to any particular precious metal includes a reference to alloys treated as alloys of precious metal or of the particular metal in accordance with the rules in Note 5 above, but not to metal clad with precious metal or to base metal or non-metals plated with precious metal.
 
-7.       - Throughout the Nomenclature the expression “metal clad with precious metal” means material made with a base of metal upon one or more surfaces of which there is affixed by soldering, brazing, welding, hot-rolling or similar mechanical means a covering of precious metal. Except where the context otherwise requires, the expression also covers base metal inlaid with precious metal.
+7. - Throughout the Nomenclature the expression “metal clad with precious metal” means material made with a base of metal upon one or more surfaces of which there is affixed by soldering, brazing, welding, hot-rolling or similar mechanical means a covering of precious metal. Except where the context otherwise requires, the expression also covers base metal inlaid with precious metal.
 
-8.       - Subject to Note 1 (a) to Section VI, goods answering to a description in heading 71.12 are to be classified in that heading and in no other heading of the Nomenclature.
+8. - Subject to Note 1 (a) to Section VI, goods answering to a description in heading 71.12 are to be classified in that heading and in no other heading of the Nomenclature.
 
-9.        Forthe purposes of heading 71.13, the expression “articles of jewellery” means:
+9. Forthe purposes of heading 71.13, the expression “articles of jewellery” means:
 
-(a)     Any small objects of personal adornment (gem-set or not) (for example, rings, bracelets, necklaces, brooches, ear-rings, watch-chains, fobs, pendants, tie-pins, cuff-links, dress-studs, religious or other medals and insignia); and
+(a) Any small objects of personal adornment (gem-set or not) (for example, rings, bracelets, necklaces, brooches, ear-rings, watch-chains, fobs, pendants, tie-pins, cuff-links, dress-studs, religious or other medals and insignia); and
 
-(b)     Articles of personal use of a kind normally carried in the pocket, in the handbag or on the person (such as cigarette cases, powder boxes, chain purses, cachou boxes).
+(b) Articles of personal use of a kind normally carried in the pocket, in the handbag or on the person (such as cigarette cases, powder boxes, chain purses, cachou boxes).
 
-10.     - For the purposes of heading 71.14, the expression “articles of goldsmiths’ or silversmiths’ wares” includes such articles as ornaments, tableware, toilet-ware, smokers” requisites and other articles of household, office or religious use.
+10. - For the purposes of heading 71.14, the expression “articles of goldsmiths’ or silversmiths’ wares” includes such articles as ornaments, tableware, toilet-ware, smokers” requisites and other articles of household, office or religious use.
 
-11.     - For the purposes of heading 71.17, the expression “imitation jewellery” means articles of jewellery within the meaning of paragraph (a) of Note 9 above (but not including buttons or other articles of heading 96.06, or dress-combs, hair-slides or the like, or hairpins, of heading 96.15), not incorporating natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed) nor (except as plating or as minor constituents) precious metal or metal clad with precious metal.
+11. - For the purposes of heading 71.17, the expression “imitation jewellery” means articles of jewellery within the meaning of paragraph (a) of Note 9 above (but not including buttons or other articles of heading 96.06, or dress-combs, hair-slides or the like, or hairpins, of heading 96.15), not incorporating natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed) nor (except as plating or as minor constituents) precious metal or metal clad with precious metal.
 
 Subheading Notes.
 
-1.       - For the purposes of subheadings 7106.10, 7108.11, 7110.11, 7110.21, 7110.31 and 7110.41, the expressions “powder” and “in powder form” mean products of which 90% or more by weight passes through a sieve having a mesh aperture of 0.5mm.
+1. - For the purposes of subheadings 7106.10, 7108.11, 7110.11, 7110.21, 7110.31 and 7110.41, the expressions “powder” and “in powder form” mean products of which 90% or more by weight passes through a sieve having a mesh aperture of 0.5mm.
 
-2.       - Notwithstanding the provisions of Chapter Note 4 (b), for the purposes of subheadings 7110.11 and 7110.19, the expression “platinum” does not include iridium, osmium, palladium, rhodium or ruthenium.
+2. - Notwithstanding the provisions of Chapter Note 4 (b), for the purposes of subheadings 7110.11 and 7110.19, the expression “platinum” does not include iridium, osmium, palladium, rhodium or ruthenium.
 
-3.        For the classification of alloys in the subheadings of heading 71.10, each alloy is to be classified with that metal, platinum, palladium, rhodium, iridium, osmium or ruthenium which predominates by weight over each other of these metals.
+3. For the classification of alloys in the subheadings of heading 71.10, each alloy is to be classified with that metal, platinum, palladium, rhodium, iridium, osmium or ruthenium which predominates by weight over each other of these metals.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -13692,79 +13692,79 @@ BASE METALS AND ARTICLES OF BASE METAL
 
 Notes.
 
-1.       - This Section does not cover:
+1. - This Section does not cover:
 
-(a)     Prepared paints, inks or other products with a basis of metallic flakes or powder (heading 32.07 to 32.10, 32.12, 32.13 or 32.15);
+(a) Prepared paints, inks or other products with a basis of metallic flakes or powder (heading 32.07 to 32.10, 32.12, 32.13 or 32.15);
 
-(b)     Ferro-cerium or other pyrophoric alloys (heading 36.06);
+(b) Ferro-cerium or other pyrophoric alloys (heading 36.06);
 
-(c)     Headgear or parts thereof of heading 65.06 or 65.07;
+(c) Headgear or parts thereof of heading 65.06 or 65.07;
 
-(d)     Umbrella frames or other articles of heading 66.03;
+(d) Umbrella frames or other articles of heading 66.03;
 
-(e)     Goods of Chapter 71 (for example, precious metal alloys, base metal clad with precious metal, imitation jewellery);
+(e) Goods of Chapter 71 (for example, precious metal alloys, base metal clad with precious metal, imitation jewellery);
 
-(f)      Articles of Section XVI (machinery, mechanical appliances and electrical goods);
+(f) Articles of Section XVI (machinery, mechanical appliances and electrical goods);
 
-(g)     Assembled railway or tramway track (heading 86.08) or other articles of Section XVII (vehicles, ships and boats, aircraft);
+(g) Assembled railway or tramway track (heading 86.08) or other articles of Section XVII (vehicles, ships and boats, aircraft);
 
-(h)     Instruments or apparatus of Section XVIII, including clock or watch springs;
+(h) Instruments or apparatus of Section XVIII, including clock or watch springs;
 
-(ij)     Lead shot prepared for ammunition (heading 93.06) or other articles of Section XIX (arms and ammunition);
+(ij) Lead shot prepared for ammunition (heading 93.06) or other articles of Section XIX (arms and ammunition);
 
-(k)     Articles of Chapter 94 (for example, furniture, mattress supports, lamps and lighting fittings, illuminated signs, prefabricated buildings);
+(k) Articles of Chapter 94 (for example, furniture, mattress supports, lamps and lighting fittings, illuminated signs, prefabricated buildings);
 
-(l)      Articles of Chapter 95 (for example, toys, games, sports requisites);
+(l) Articles of Chapter 95 (for example, toys, games, sports requisites);
 
-(m)    Handsieves, buttons, pens, pencil-holders, pen nibs or other articles of Chapter 96 (miscellaneous manufactured articles); or
+(m) Handsieves, buttons, pens, pencil-holders, pen nibs or other articles of Chapter 96 (miscellaneous manufactured articles); or
 
-(n)     Articles of Chapter 97 (for example, works of art).
+(n) Articles of Chapter 97 (for example, works of art).
 
-2.       - Throughout the Nomenclature, the expression “parts of general use” means:
+2. - Throughout the Nomenclature, the expression “parts of general use” means:
 
-(a)     Articles of heading 73.07, 73.12, 73.15, 73.17 or 73.18 and similar articles of other base metal;
+(a) Articles of heading 73.07, 73.12, 73.15, 73.17 or 73.18 and similar articles of other base metal;
 
-(b)     Springs and leaves for springs, of base metal, other than clock or watch springs (heading 91.14); and
+(b) Springs and leaves for springs, of base metal, other than clock or watch springs (heading 91.14); and
 
-(c)     Articles of headings 83.01, 83.02, 83.08, 83.10 and frames and mirrors, of base metal, of heading 83.06.
+(c) Articles of headings 83.01, 83.02, 83.08, 83.10 and frames and mirrors, of base metal, of heading 83.06.
 
 In Chapters 73 to 76 and 78 to 82 (but not in heading 73.15) references to parts of goods do not include references to parts of general use as defined above. Subject to the preceding paragraph and to Note 1 to Chapter 83, the articles of Chapter 82 or 83 are excluded from Chapters 72 to 76 and 78 to 81.
 
-3.       - Throughout the Nomenclature, the expression “base metals” means: iron and steel, copper, nickel, aluminium, lead, zinc, tin, tungsten (wolfram), molybdenum, tantalum, magnesium, cobalt, bismuth, cadmium, titanium, zirconium, antimony, manganese, beryllium, chromium, germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium and thallium.
+3. - Throughout the Nomenclature, the expression “base metals” means: iron and steel, copper, nickel, aluminium, lead, zinc, tin, tungsten (wolfram), molybdenum, tantalum, magnesium, cobalt, bismuth, cadmium, titanium, zirconium, antimony, manganese, beryllium, chromium, germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium and thallium.
 
-4.       - Throughout the Nomenclature, the term “cermets” means products containing a microscopic heterogeneous combination of a metallic component and a ceramic component. The term “cermets” includes sintered metal carbides (metal carbides sintered with a metal).
+4. - Throughout the Nomenclature, the term “cermets” means products containing a microscopic heterogeneous combination of a metallic component and a ceramic component. The term “cermets” includes sintered metal carbides (metal carbides sintered with a metal).
 
-5.       - Classification of alloys (other than ferro-alloys and master alloys as defined in Chapters 72 and 74):
+5. - Classification of alloys (other than ferro-alloys and master alloys as defined in Chapters 72 and 74):
 
-(a)     An alloy of base metals is to be classified as an alloy of the metal which predominates by weight over each of the other metals;
+(a) An alloy of base metals is to be classified as an alloy of the metal which predominates by weight over each of the other metals;
 
-(b)     An alloy composed of base metals of this Section and of elements not falling within this Section is to be treated as an alloy of base metals of this Section if the total weight of such metals equals or exceeds the total weight of the other elements present;
+(b) An alloy composed of base metals of this Section and of elements not falling within this Section is to be treated as an alloy of base metals of this Section if the total weight of such metals equals or exceeds the total weight of the other elements present;
 
-(c)     In this Section the term “alloys” includes sintered mixtures of metal powders, heterogeneous intimate mixtures obtained by melting (other than cermets) and intermetallic compounds.
+(c) In this Section the term “alloys” includes sintered mixtures of metal powders, heterogeneous intimate mixtures obtained by melting (other than cermets) and intermetallic compounds.
 
-6.       - Unless the context otherwise requires, any reference in the Nomenclature to a base metal includes a reference to alloys which, by virtue of Note 5 above, are to be classified as alloys of that metal.
+6. - Unless the context otherwise requires, any reference in the Nomenclature to a base metal includes a reference to alloys which, by virtue of Note 5 above, are to be classified as alloys of that metal.
 
-7.       - Classification of composite articles:
+7. - Classification of composite articles:
 
 Except where the headings otherwise require, articles of base metal (including  articles of mixed materials treated as articles of base metal under the Interpretative Rules) containing two or more base metals are to be treated as articles of the base metal predominating by weight over each of the other metals.
 
 For this purpose:
 
-(a)     Iron and steel, or different kinds of iron or steel, are regarded as one and the same metal;
+(a) Iron and steel, or different kinds of iron or steel, are regarded as one and the same metal;
 
-(b)     An alloy is regarded as being entirely composed of that metal as an alloy of which, by virtue of Note 5, it is classified; and
+(b) An alloy is regarded as being entirely composed of that metal as an alloy of which, by virtue of Note 5, it is classified; and
 
-(c)     A cermet of heading 81.13 is regarded as a single base metal.
+(c) A cermet of heading 81.13 is regarded as a single base metal.
 
-8.       - In this Section, the following expressions have the meanings hereby assigned to them:
+8. - In this Section, the following expressions have the meanings hereby assigned to them:
 
-(a)     Waste and scrap Metal waste and scrap from the manufacture or mechanical working of metals, and metal goods definitely not usable as such because of breakage, cutting-up, wear or other reasons.
+(a) Waste and scrap Metal waste and scrap from the manufacture or mechanical working of metals, and metal goods definitely not usable as such because of breakage, cutting-up, wear or other reasons.
 
-(b)     Powders Products of which 90% or more by weight passes through a sieve having a mesh aperture of 1 mm. Chapter 72  Iron and steel  Notes.
+(b) Powders Products of which 90% or more by weight passes through a sieve having a mesh aperture of 1 mm. Chapter 72  Iron and steel  Notes.
 
-1.       - In this Chapter and, in the case of Notes (d), (e) and (f) throughout the Nomenclature, the following expressions have the meanings hereby assigned to them:
+1. - In this Chapter and, in the case of Notes (d), (e) and (f) throughout the Nomenclature, the following expressions have the meanings hereby assigned to them:
 
-(a)     Pig iron Iron-carbon alloys not usefully malleable, containing more than 2% by weight of carbon and which may contain by weight one or more other elements within the following limits
+(a) Pig iron Iron-carbon alloys not usefully malleable, containing more than 2% by weight of carbon and which may contain by weight one or more other elements within the following limits
 
 - not more than 10% of chromium
 
@@ -13776,9 +13776,9 @@ For this purpose:
 
 - a total of not more than 10% of other elements.
 
-(b)     Spiegeleisen Iron-carbon alloys containing by weight more than 6% but not more than 30% of manganese and otherwise conforming to the specification at (a) above.
+(b) Spiegeleisen Iron-carbon alloys containing by weight more than 6% but not more than 30% of manganese and otherwise conforming to the specification at (a) above.
 
-(c)     Ferro-alloys Alloys in pigs, blocks, lumps or similar primary forms, in forms obtained by continuous casting and also in granular or powder forms, whether or not agglomerated, commonly used as an additive in the manufacture of other alloys or as de-oxidants, de-sulphurising agents or for similar uses in ferrous metallurgy and generally not usefully malleable, containing by weight 4% or more of the element iron and one or more of the following:
+(c) Ferro-alloys Alloys in pigs, blocks, lumps or similar primary forms, in forms obtained by continuous casting and also in granular or powder forms, whether or not agglomerated, commonly used as an additive in the manufacture of other alloys or as de-oxidants, de-sulphurising agents or for similar uses in ferrous metallurgy and generally not usefully malleable, containing by weight 4% or more of the element iron and one or more of the following:
 
 - more than 10% of chromium
 
@@ -13790,9 +13790,9 @@ For this purpose:
 
 - a total of more than 10% of other elements, excluding carbon, subject to a maximum content of 10% in the case of copper.
 
-(d)     Steel Ferrous materials other than those of heading 72.03 which (with the exception of certain types produced in the form of castings) are usefully malleable and which contain by weight 2% or less of carbon. However, chromium steels may contain higher proportions of carbon. Alloy steels containing, by weight, 1.2% or less of carbon and 10.5% or more of chromium, with or without other elements.
+(d) Steel Ferrous materials other than those of heading 72.03 which (with the exception of certain types produced in the form of castings) are usefully malleable and which contain by weight 2% or less of carbon. However, chromium steels may contain higher proportions of carbon. Alloy steels containing, by weight, 1.2% or less of carbon and 10.5% or more of chromium, with or without other elements.
 
-(f)      Other alloy steel Steels not complying with the definition of stainless steel and containing by weight one or more of the following elements in the proportion shown:
+(f) Other alloy steel Steels not complying with the definition of stainless steel and containing by weight one or more of the following elements in the proportion shown:
 
 - 0.3% or more of aluminium
 
@@ -13826,15 +13826,15 @@ For this purpose:
 
 - 0.1% or more of other elements (except sulphur, phosphorus, carbon and nitrogen), taken separately.
 
-(g)     Remelting scrap ingots of iron or steel Products roughly cast in the form of ingots without feeder-heads or hot tops, or of pigs, having obvious surface faults and not complying with the chemical composition of pig iron, spiegeleisen or ferro-alloys.
+(g) Remelting scrap ingots of iron or steel Products roughly cast in the form of ingots without feeder-heads or hot tops, or of pigs, having obvious surface faults and not complying with the chemical composition of pig iron, spiegeleisen or ferro-alloys.
 
-(h)     Granules Products of which less than 90% by weight passes through a sieve with a mesh aperture of 1 mm and of which 90% or more by weight passes through a sieve with a mesh aperture of 5 mm.
+(h) Granules Products of which less than 90% by weight passes through a sieve with a mesh aperture of 1 mm and of which 90% or more by weight passes through a sieve with a mesh aperture of 5 mm.
 
-(i)      Semi-finished products Continuous cast products of solid section, whether or not subjected to primary hot-rolling; and Other products of solid section, which have not been further worked than subjected to primary hot rolling or roughly shaped by forging, including blanks for angles, shapes or sections. These products are not presented in coils.
+(i) Semi-finished products Continuous cast products of solid section, whether or not subjected to primary hot-rolling; and Other products of solid section, which have not been further worked than subjected to primary hot rolling or roughly shaped by forging, including blanks for angles, shapes or sections. These products are not presented in coils.
 
-(j)      Flat-rolled products Rolled products of solid rectangular (other than square) cross-section, which do not conform to the definition at
+(j) Flat-rolled products Rolled products of solid rectangular (other than square) cross-section, which do not conform to the definition at
 
-(k)     above in the form of:
+(k) above in the form of:
 
 - coils of successively superimposed layers, or
 
@@ -13842,29 +13842,29 @@ For this purpose:
 
 thethickness. Flat-rolled products include those with patterns in relief derived  directly from rolling (for example,      grooves, ribs, chequers, tears, buttons, lozenges) and those which have been perforated, corrugated or polished, provided that they do not thereby assume the character of articles or products of other headings. Flat-rolled products of a shape other than rectangular or square of any size, are to be classified as products of a width of 600 mm or more, provided that they do not assume the character of articles or products of other headings.
 
-(l)      Bars and rods, hot-rolled, in irregularly wound coils Hot-rolled products in irregularly wound coils, which have a solid crosssection  (including squares), triangles or other convex polygons (including “flattened circles” and modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). These products may have indentations, ribs, grooves or other deformations produced during the rolling process (reinforcing bars and rods).
+(l) Bars and rods, hot-rolled, in irregularly wound coils Hot-rolled products in irregularly wound coils, which have a solid crosssection  (including squares), triangles or other convex polygons (including “flattened circles” and modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). These products may have indentations, ribs, grooves or other deformations produced during the rolling process (reinforcing bars and rods).
 
-(m)    Otherbars and rods Products which do not conform to any of the definitions at (ij), (k) or (l) above or to the definition of wire, which have a uniform solid cross-section along their whole length in the shape of circles, segments of circles, ovals, rectangles (including squares), triangles or other convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). These products may:
+(m) Otherbars and rods Products which do not conform to any of the definitions at (ij), (k) or (l) above or to the definition of wire, which have a uniform solid cross-section along their whole length in the shape of circles, segments of circles, ovals, rectangles (including squares), triangles or other convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). These products may:
 
-a.       have indentations, ribs, grooves or other deformations produced during the rolling process (reinforcing bars and rods);
+a. have indentations, ribs, grooves or other deformations produced during the rolling process (reinforcing bars and rods);
 
-b.       be twisted after rolling.
+b. be twisted after rolling.
 
-(n)     Angles, shapes and sections Products having a uniform solid cross-section along their whole length which do not conform to any of the definitions at (ij), (k), (l) or (m) above or to the definition of wire. Chapter 72 does not include products of heading 73.01 or 73.02.
+(n) Angles, shapes and sections Products having a uniform solid cross-section along their whole length which do not conform to any of the definitions at (ij), (k), (l) or (m) above or to the definition of wire. Chapter 72 does not include products of heading 73.01 or 73.02.
 
-(o)     Wire Cold-formed products in coils, of any uniform solid cross-section along their whole length, which do not conform to the definition of flat-rolled products.
+(o) Wire Cold-formed products in coils, of any uniform solid cross-section along their whole length, which do not conform to the definition of flat-rolled products.
 
-(p)     Hollow drill bars and rods Hollow bars and rods of any cross-section, suitable for drills, of which the greatest external dimension of the cross-section exceeds 15 mm but does not exceed 52 mm, and of which the greatest internal dimension does not exceed one half of the greatest external dimension. Hollow bars and rods of iron or steel not conforming to this definition are to be classified in heading 73.04.
+(p) Hollow drill bars and rods Hollow bars and rods of any cross-section, suitable for drills, of which the greatest external dimension of the cross-section exceeds 15 mm but does not exceed 52 mm, and of which the greatest internal dimension does not exceed one half of the greatest external dimension. Hollow bars and rods of iron or steel not conforming to this definition are to be classified in heading 73.04.
 
 2. -    Ferrous metals clad with another ferrous metal are to be classified as products of the ferrous metal predominating by weight.
 
-3.       - Iron or steel products obtained by electrolytic deposition, by pressure casting or by sintering are to be classified, according to their form, their composition and their appearance, in the headings of this Chapter appropriate to similar hot-rolled products.
+3. - Iron or steel products obtained by electrolytic deposition, by pressure casting or by sintering are to be classified, according to their form, their composition and their appearance, in the headings of this Chapter appropriate to similar hot-rolled products.
 
 Subheading Notes.
 
-1.       - In this Chapter, the following expressions have the meanings hereby assigned to them:
+1. - In this Chapter, the following expressions have the meanings hereby assigned to them:
 
-(a)     Alloy pig iron iron containing, by weight, one or more of the following elements in the specified proportions:
+(a) Alloy pig iron iron containing, by weight, one or more of the following elements in the specified proportions:
 
 - more than 0.2% of chromium
 
@@ -13874,7 +13874,7 @@ Subheading Notes.
 
 - more than 0.1% of any of the following elements: aluminium, molybdenum, titanium, tungsten (wolfram), vanadium.
 
-(b)     Non-alloy free-cutting steel Non-alloy steel containing, by weight, one or more of the following elements in the specified proportions:
+(b) Non-alloy free-cutting steel Non-alloy steel containing, by weight, one or more of the following elements in the specified proportions:
 
 - 0.08% or more of sulphur
 
@@ -13886,13 +13886,13 @@ Subheading Notes.
 
 - more than 0.05% of bismuth.
 
-(c)     Silicon-electrical steelAlloy steels containing by weight at least 0.6% but not more than 6% of
+(c) Silicon-electrical steelAlloy steels containing by weight at least 0.6% but not more than 6% of
 
 silicon and not more than 0.08% of carbon. They may also contain by weight not more than 1% of aluminium but no other element in a proportion that would give the steel the characteristics of another alloy steel.
 
-(d)     High speed steel Alloy steels containing, with or without other elements, at least two of the three elements molybdenum, tungsten and vanadium with a combined content by weight of 7% or more, 0.6% or more of carbon and 3 to 6% of chromium.
+(d) High speed steel Alloy steels containing, with or without other elements, at least two of the three elements molybdenum, tungsten and vanadium with a combined content by weight of 7% or more, 0.6% or more of carbon and 3 to 6% of chromium.
 
-(e)     Silico-manganese steel Alloy steels containing by weight:
+(e) Silico-manganese steel Alloy steels containing by weight:
 
 - not more than 0.7% of carbon,
 
@@ -13900,7 +13900,7 @@ silicon and not more than 0.08% of carbon. They may also contain by weight not m
 
 - 0.6% or more but not more than 2.3% of silicon, but no other element in a proportion that would give the steel the characteristics of another alloy steel.
 
-2.       - For the classification of ferro-alloys in the subheadings of heading 72.02 the
+2. - For the classification of ferro-alloys in the subheadings of heading 72.02 the
 
 following rule should be observed; A ferro-alloy is considered as binary and classified under the relevant subheading (if it exists) if only one of the alloy elements exceeds the minimum percentage laid down in Chapter Note 1 (c); by analogy, it is considered respectively as ternary or quaternary if two or three alloy elements exceed the minimum percentage. For the application of this rule, the unspecified “other elements” referred to in
 
@@ -14432,7 +14432,7 @@ Articles of iron or steel Notes.
 
 1        - In this Chapter the expression “cast iron” applies to products obtained by casting in which iron predominates by weight over each of the other elements and which do not comply with the chemical composition of steel as defined in Note 1 (d) to Chapter 72.
 
-2.       - In this Chapter the word “wire” means hot or cold-formed products of any crosssectional shape, of which no cross-sectional dimension exceeds 16mm.
+2. - In this Chapter the word “wire” means hot or cold-formed products of any crosssectional shape, of which no cross-sectional dimension exceeds 16mm.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -14850,31 +14850,31 @@ Other e lements*, each. 0.3
 
 *Other elements are, for example, A1, Be, Co, Fe, Mn, Ni, Si.
 
-(b)     Copper alloys
+(b) Copper alloys
 
 Metallicsubstances other than unrefined copper in which copper predominates by weight over each of the other elements, provided that:
 
-(i)      the content by weight of at least one of the other elements is greater than the limit specified in the foregoing table; or
+(i) the content by weight of at least one of the other elements is greater than the limit specified in the foregoing table; or
 
-(ii)     the total content by weight of such other elements exceed 2.5%
+(ii) the total content by weight of such other elements exceed 2.5%
 
-(c)     Master alloys
+(c) Master alloys
 
 Alloyscontaining with other elements more than 10% by weight of copper, not usefully malleable and commonly used as an additive in the manufacture of other alloys or as de-oxidants, de-sulphurising agents or for similar uses in the metallurgy of non-ferrous metals.
 
 However,copper phosphide (phosphor copper) containing more than 15% by weight of phosphorus falls in heading 28.48.
 
-(d)     Bars and rods
+(d) Bars and rods
 
 Rolled,extruded, drawn or forged products, nor in coils, which have a uniform solid cross-section along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) cross-section exceeds one-tenth of the width. The expression also covers cast or sintered products, of the same forms and dimensions, which have been subsequently worked after production (otherwise than by simple trimming or de-scaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
 Wire-barsand billets with their ends tapered or otherwise worked simple to facilitate their entry into machines for converting them into, for example, drawing stock (wire-rod) or tubes, are however to be taken to be unwrought copper of heading 74.03.
 
-(e)     Profiles
+(e) Profiles
 
 Rolled,extruded, drawn, forged or formed products, coiled or not, of a uniform crosssection along their whole length, which do not conform to any of the definitions of bars, rods, wire, plates, sheets, strip, foil, tubes or pipes. The expression also covers cast or sintered products, of the same forms, which have been subsequently worked after production (otherwise than by simple trimming or de-scaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(f)      Wire
+(f) Wire
 
 Rolled,extruded or drawn products, in coils, which have a uniform solid cross-section along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length.
 
@@ -14882,7 +14882,7 @@ Thethickness of such products which have a rectangular (including “modified re
 
 In the case of heading 74.14, however, the term “wire” applies only to products, whether or not in coils, of any cross-sectional shape, of which no cross-sectional dimension exceeds 6mm.
 
-(g)     Plates, sheets, strip and foil
+(g) Plates, sheets, strip and foil
 
 Flat-surfacedproducts (other than the unwrought products of heading 74.03), coiled or not, of solid rectangular (other than square) cross-section with or without rounded corners (including “modified rectangles” of which two opposite sides are convex arcs, the other two sides being straight, of equal and parallel) of a uniform thickness, which are:
 
@@ -14892,7 +14892,7 @@ Flat-surfacedproducts (other than the unwrought products of heading 74.03), coil
 
 Headings74.09 and 74.10 apply, inter alia, to plates, sheets, strip and foil with patterns (for example, grooves, ribs, chequers, tears, buttons, lozenges) and to such products which have been perforated, corrugated, polished or coated, provided that they do not thereby assume the character of articles or products of other headings.
 
-(h)     Tubes and pipes
+(h) Tubes and pipes
 
 Hollowproducts, coiled or not, which have a uniform cross-section with only one enclosed void along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons, and which have a uniform wall thickness.
 
@@ -14902,7 +14902,7 @@ Subheading Note.
 
 1. -    In this Chapter the following expressions have the meanings hereby assigned to them:
 
-(a).    Copper-zinc base alloys (brasses)
+(a). Copper-zinc base alloys (brasses)
 
 Alloys of copper and zinc, with or without other elements. When other elements are present:
 
@@ -14912,7 +14912,7 @@ Alloys of copper and zinc, with or without other elements. When other elements a
 
 - any tin content by weight is less than 3% (see copper-tin alloys bronzes).
 
-(b)     Copper-tin based alloys (bronzes)
+(b) Copper-tin based alloys (bronzes)
 
 Alloys of copper and tin, with or without other elements. When other elements are present, tin predominates by weight over each of such other elements, except that when the tin content is 3 % or more the zinc content by weight may exceed that of tin but must be less than 10%.
 
@@ -15118,19 +15118,19 @@ Note.
 
 1. –    In this Chapter the following expressions have the meanings hereby assigned to them:
 
-(a.)    Bars and rods
+(a.) Bars and rods
 
 Rolled,extruded, drawn or forged products, not in coils, which have a uniform solid cross-section along their whole length in the shape of circles, ovals, rectangles (including squares, equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) cross-section exceeds onetenth of the width. The expression also covers cast or sintered products, of the same forms and dimensions, which have been subsequently worked after production (otherwise than by simple trimming or de-scaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(b.)    Profiles
+(b.) Profiles
 
 Rolled,extruded, drawn, forged or formed products, coiled or not, of a uniform cross-section along their whole length, which do not conform to any of the definitions of bars, rods, wire, plates, sheets, strip, foil, tubes or pipes. The expression also covers cast or sintered products, of the same forms, which have been subsequently worked after production (otherwise than by simple trimming or descaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(c.)    Wire
+(c.) Wire
 
 Rolled,extruded or drawn products, in coils, which have a uniform solid crosssection along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) cross-section exceeds onetenth of the width.
 
-(d.)    Plates, sheets, strip and foil
+(d.) Plates, sheets, strip and foil
 
 Flat-surfacedproducts (other than the unwrought products or heading 75.02), coiled or not, of solid rectangular (other than square) cross-section with or without rounded corners (including “modified rectangles” of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel) of a uniform thickness, which are:
 
@@ -15140,7 +15140,7 @@ Flat-surfacedproducts (other than the unwrought products or heading 75.02), coil
 
 Heading 75.06 applies, inter alia, to plates, sheets, strip and foil with patterns (for example, grooves, ribs, chequers, tears, buttons, lozenges) and to such products which have been perforated, corrugated, polished or coated, provided that they do not thereby assume the character or articles or products of other headings.
 
-(e)     Tubes and pipes
+(e) Tubes and pipes
 
 Hollowproducts, coiled or not, which have a uniform cross-section with only one enclosed void along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral wall thickness. Products with a rectangular (including square), equilateral triangular, or regular convex polygonal cross-section, which may have corners rounded along their whole length, are also to be considered as tubes and pipes provided the inner and outer cross-sections are concentric and have the same form and orientation. Tubes and  pipes of the foregoing cross-sections may be polished, coated, bent, threaded, drilled, waisted, expanded, cone-shaped or fitted with flanges, collars or rings.
 
@@ -15148,13 +15148,13 @@ Subheading Notes.
 
 1. -    In this chapter the following expressions have the meanings hereby assigned to them:
 
-(a)     Nickel, not alloyed
+(a) Nickel, not alloyed
 
 Metalcontaining by weight at least 99 % of nickel plus cobalt, provided that :
 
-(i)      the cobalt content by weight does not exceed 1.5 %, and
+(i) the cobalt content by weight does not exceed 1.5 %, and
 
-(ii)     the content by weight of any element does not exceed the limit specified in the following table:
+(ii) the content by weight of any element does not exceed the limit specified in the following table:
 
 TABLE – Other elements
 
@@ -15166,15 +15166,15 @@ O Oxygen                                 0.4
 
 Otherelements, each 0.3
 
-(b)     Nickel alloys
+(b) Nickel alloys
 
 Metallicsubstances in which nickel predominates by weight over each of the other elements provided that :
 
-(i)      the content by weight of cobalt exceeds 1.5 %,
+(i) the content by weight of cobalt exceeds 1.5 %,
 
-(ii)     the content by weight of at least one of the other elements is greater than the limit specified in the foregoing table, or
+(ii) the content by weight of at least one of the other elements is greater than the limit specified in the foregoing table, or
 
-(iii)    the total content by weight of elements other than nickel plus cobalt exceeds 1 %.
+(iii) the total content by weight of elements other than nickel plus cobalt exceeds 1 %.
 
 2 -     Notwithstanding the provisions of Chapter Note 1 (c), for the purposes of subheading 7508.10 the term “wire” applies only to products, whether or not in coils, of any cross-sectional shape, of which no cross-sectional dimension exceeds 6mm.
 
@@ -15244,17 +15244,17 @@ Note.
 
 Rolled,extruded, drawn or forged products, not in coils, which have a uniform solid cross-section along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) crosssection exceeds one-tenth of the width. The expression also covers cast or sintered products, of the same forms and dimensions, which have been subsequently worked after production (otherwise than by simple trimming or de-scaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(b)     Profiles
+(b) Profiles
 
 Rolled,extruded, drawn, forged or formed products, coiled or not, of a uniform cross-section along their whole length, which do not conform to any of the definitions of bars, rods, wire, plates, sheets, strip, foil, tubes or pipes.
 
 The expression also covers cast or sintered products, of the same forms, which have been subsequently worked after production (otherwise than by simple trimming or de-scaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(c)     Wire
+(c) Wire
 
 Rolled,extruded or drawn products, in coils, which have a uniform solid crosssection along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) cross-section exceeds onetenth of the width.
 
-(d)     Plates, sheets, strip and foil
+(d) Plates, sheets, strip and foil
 
 Flat-surfacedproducts (other than the unwrought products or heading 76.01),coiled or not, of solid rectangular (other than square) cross-section with or without rounded corners (including “modified rectangles” of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel) of a uniform thickness, which are :
 
@@ -15264,7 +15264,7 @@ Flat-surfacedproducts (other than the unwrought products or heading 76.01),coile
 
 Heading76.06 and 76.07 apply, inter alia, to plates, sheets, strip and foil with patterns (for example, grooves, ribs, chequers, tears, buttons, lozenges) and to such products which have been perforated, corrugated, polished or coated, provided that they do not thereby assume the character or articles or products of other headings.
 
-(e)     Tubes and pipes
+(e) Tubes and pipes
 
 Hollowproducts, coiled or not, which have a uniform cross-section with only one enclosed void along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons, and which have a uniform wall thickness. Products with a rectangular (including square), equilateral triangular or regular convex polygonal cross-section, which may have corners rounded along their whole length, are also to be considered as tubes and pipes provided the inner and outer cross-sections are concentric and have the same form and orientation. Tubes and pipes of the foregoing cross-sections may be polished, coated, bent, threaded, drilled, waisted, expanded, cone-shaped or fitted with flanges, collars or rings.
 
@@ -15272,7 +15272,7 @@ Subheading Notes.
 
 1. -    In this chapter the following expressions have the meanings hereby assigned to them:
 
-(a)     Aluminium, not alloyed
+(a) Aluminium, not alloyed
 
 Metalcontaining by weight at least 99 % of aluminum, provided that the content by weight of any other element does not exceed the limit specified in the following table.
 
@@ -15282,17 +15282,17 @@ ElementLimiting content % by weight
 
 Fe + Si (iron plus silicon) Other elements (1) each 1 0.1 (2)
 
-(1)     Other elements are, for example Cr, Cu, Mg, Mn, Ni, Zn.
+(1) Other elements are, for example Cr, Cu, Mg, Mn, Ni, Zn.
 
-(2)     Copper is permitted in a proportion greater than 0.1 % but not more than 0.2%, provided that neither the chromium nor manganese content exceeds 0.05%
+(2) Copper is permitted in a proportion greater than 0.1 % but not more than 0.2%, provided that neither the chromium nor manganese content exceeds 0.05%
 
-(b)     Aluminum alloys
+(b) Aluminum alloys
 
 Metallicsubstances in which aluminium predominates by weight over each of the elements, provided that:
 
-(i)      the content by weight of at least one of the other elements or of iron plus silicon taken together is greater than the limit specified in the foregoing table; or
+(i) the content by weight of at least one of the other elements or of iron plus silicon taken together is greater than the limit specified in the foregoing table; or
 
-(ii)     the total content by weight of such other elements exceeds 1 %
+(ii) the total content by weight of such other elements exceeds 1 %
 
 2. -    Notwithstanding the provisions of Chapter Note 1 (c), for the purposes of subheading
 
@@ -15450,19 +15450,19 @@ Note.
 
 1. -    In this Chapter the following expressions have the meanings hereby assigned to them:
 
-(a)     Bars and rods
+(a) Bars and rods
 
 Rolled,extruded, drawn or forged products, not in coils, which have a uniform solid cross-section along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) cross-section exceeds one-tenth of the width. The expression also covers cast or sintered products, of the same forms and dimensions, which have been subsequently worked after production (otherwise than by simple trimming or descaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(b)     Profiles
+(b) Profiles
 
 Rolled,extruded, drawn, forged or formed products, coiled or not, of a uniform crosssection along their whole length, which do not conform to any of the definitions of bars, rods, wire, plates, sheets, strip, foil, tubes or pipes. The expression also covers cast or sintered products, of the same forms, which have been subsequently worked after production (otherwise than by simple trimming or de-scaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(c)     Wire
+(c) Wire
 
 Rolled,extruded or drawn products, in coils, which have a uniform solid crosssection along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) cross-section exceeds onetenth of the width.
 
-(d)     Plates, sheets, strip and foil Flat-surfaced products (other than the unwrought products or heading 78.01), coiled or not, of solid rectangular (other than square) cross-section with or without rounded corners (including “modified rectangles” of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel) of a uniform thickness, which are:
+(d) Plates, sheets, strip and foil Flat-surfaced products (other than the unwrought products or heading 78.01), coiled or not, of solid rectangular (other than square) cross-section with or without rounded corners (including “modified rectangles” of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel) of a uniform thickness, which are:
 
 - of rectangular (including square) shape with a thickness not exceeding onetenth of the width,
 
@@ -15508,19 +15508,19 @@ Note.
 
 1. -    In this Chapter the following expressions have the meanings hereby assigned to them:
 
-(a)     Bars and rods
+(a) Bars and rods
 
 Rolled,extruded, drawn or forged products, not in coils, which have a uniform solid cross-section along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) cross-section exceeds one-tenth of the width. The expression also covers cast or sintered products, of the same forms and dimensions, which have been subsequently worked after production (otherwise than by simple trimming or descaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(b)     Profiles
+(b) Profiles
 
 Rolled,extruded, drawn, forged or formed products, coiled or not, of a uniform crosssection along their whole length, which do not conform to any of the definitions of bars, rods, wire, plates, sheets, strip, foil, tubes or pipes. The expression also covers cast or sintered products, of the same forms, which have been subsequently worked after production (otherwise than by simple trimming or de-scaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(c)     Wire
+(c) Wire
 
 Rolled,extruded or drawn products, in coils, which have a uniform solid crosssection along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) cross-section exceeds onetenth of the width.
 
-(d)     Plates, sheets, strip and foil
+(d) Plates, sheets, strip and foil
 
 Flat-surfacedproducts (other than the unwrought products or heading 79.01), coiled or not, of solid rectangular (other than square) cross-section with or without rounded corners (including “modified rectangles” of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel) of a uniform thickness, which are:
 
@@ -15530,7 +15530,7 @@ Flat-surfacedproducts (other than the unwrought products or heading 79.01), coil
 
 Heading79.05 applies, inter alia, to plates, sheets, strip and foil with patterns (for example, grooves, ribs, chequers, tears, buttons, lozenges) and to such products which have been perforated, corrugated, polished or coated, provided that they do not thereby assume the character or articles or products of other headings.
 
-(e)     Tubes and pipes
+(e) Tubes and pipes
 
 Hollowproducts, coiled or not, which have a uniform cross-section with only one enclosed void along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons, and which have a uniform wall thickness. Products with a rectangular (including square), equilateral triangular or regular convex polygonal cross-section, which may have corners rounded along their whole length, are also to be considered as tubes and pipes provided the inner and outer cross-sections are concentric and have the same form and orientation. TubesM and pipes of the foregoing cross-sections may be polished, coated, bent, threaded, drilled, waisted, expanded, cone-shaped or fitted with flanges, collars or rings.
 
@@ -15540,11 +15540,11 @@ Subheading Notes.
 
 1. -    In this chapter the following expressions have the meanings hereby assigned to them:
 
-(a)     Zinc, not alloyed
+(a) Zinc, not alloyed
 
 Metalcontaining by weight at least 97.5% of zinc.
 
-(b)     Zinc alloys
+(b) Zinc alloys
 
 Metallicsubstances in which zinc predominates by weight over each of the other elements, provided that the total content by weight of such other elements exceeds 2.5%.
 
@@ -15588,19 +15588,19 @@ Note.
 
 1. -    In this Chapter the following expressions have the meanings hereby assigned to them:
 
-(a)     Bars and rods
+(a) Bars and rods
 
 Rolled,extruded, drawn or forged products, not in coils, which have a uniform solid crosssection along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) crosssection exceeds one-tenth of the width. The expression also covers cast or sintered products, of the same forms and dimensions, which have been subsequently worked after production (otherwise than by simple trimming or de-scaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(b)     Profiles
+(b) Profiles
 
 Rolled,extruded, drawn, forged or formed products, coiled or not, of a uniform crosssection along their whole length, which do not conform to any of the definitions of bars, rods, wire, plates, sheets, strip, foil, tubes or pipes. The expression also covers cast or sintered products, of the same forms, which have been subsequently worked after production (otherwise than by simple trimming or de-scaling), provided that they have not thereby assumed the character of articles or products of other headings.
 
-(c)     Wire
+(c) Wire
 
 Rolled,extruded or drawn products, in coils, which have a uniform solid cross-section along their whole length in the shape of circles, ovals, rectangles (including squares), equilateral triangles or regular convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). Products with a rectangular (including square), triangular or polygonal cross-section may have corners rounded along their whole length. The thickness of such products which have a rectangular (including “modified rectangular”) cross-section exceeds one-tenth of the width.
 
-(d)     Plates, sheets, strip and foil
+(d) Plates, sheets, strip and foil
 
 Flat-surfacedproducts (other than the unwrought products or heading 80.01), coiled or not, of solid rectangular (other than square) cross-section with or without rounded corners (including “modified rectangles” of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel) of a uniform thickness, which are:
 
@@ -15632,13 +15632,13 @@ Bi Bismuth                                   �
 
 Cu Coppers                                        0.4
 
-(b)     Tin alloys
+(b) Tin alloys
 
 Metallicsubstances in which tin predominates by weight over each of the other elements, provided that:
 
-(i)      the total content by weight of such other elements exceeds 1%; or
+(i) the total content by weight of such other elements exceeds 1%; or
 
-(ii)     the content by weight of either bismuth or copper is equal to or greater than the limit specified in the foregoing table.
+(ii) the content by weight of either bismuth or copper is equal to or greater than the limit specified in the foregoing table.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -15822,13 +15822,13 @@ Notes.
 
 1. -    Apart from blow lamps, portable forges, grinding wheels with frameworks, manicure and pedicure sets, and goods of heading 82.09, this Chapter covers only articles with a blade, working edge, working surface or other working part of :
 
-(a)     Base metal;
+(a) Base metal;
 
-(a)     Metal carbides or cermets;
+(a) Metal carbides or cermets;
 
-(b)     Precious or semi-precious stones (natural, synthetic or reconstructed) on a support of base metal, metal carbide or cermet; or
+(b) Precious or semi-precious stones (natural, synthetic or reconstructed) on a support of base metal, metal carbide or cermet; or
 
-(c)     Abrasive materials on a support of base metal, provided that the articles have cutting teeth, flutes, grooves, or the like, of base metal, which retain their identity and function after the application of the abrasive.
+(c) Abrasive materials on a support of base metal, provided that the articles have cutting teeth, flutes, grooves, or the like, of base metal, which retain their identity and function after the application of the abrasive.
 
 2. -    Parts of base metal of the articles of this Chapter are to be classified with the articles of which they are parts, except parts separately specified as such and tool-holders for hand tools (heading 84.66). However, parts of general used as defined in Note 2 to Section XV are in all cases excluded from this Chapter.
 
@@ -16152,45 +16152,45 @@ Notes.
 
 1. -    This Section does not cover :
 
-(a)     Transmission or conveyor belts or belting, of plastics of Chapter 39, or of vulcanised rubber (heading 40.10): or other articles of a kind used in machinery or mechanical or electrical appliances or for other technical uses, of vulcanised rubber other than hard rubber (heading 40.16);
+(a) Transmission or conveyor belts or belting, of plastics of Chapter 39, or of vulcanised rubber (heading 40.10): or other articles of a kind used in machinery or mechanical or electrical appliances or for other technical uses, of vulcanised rubber other than hard rubber (heading 40.16);
 
-(b)     Articles of leather or of composition leather (heading 42.04) or of furskin (heading 43.03), of a kind used in machinery or mechanical appliances or for other technical uses;
+(b) Articles of leather or of composition leather (heading 42.04) or of furskin (heading 43.03), of a kind used in machinery or mechanical appliances or for other technical uses;
 
-(c)     Bobbins, spools, cops, cones, cores, reels or similar supports, of any material (for example, Chapter 39, 40, 44 or 48 or Section XV);
+(c) Bobbins, spools, cops, cones, cores, reels or similar supports, of any material (for example, Chapter 39, 40, 44 or 48 or Section XV);
 
-(d)     Perforated cards for Jacquard or similar machines (for example, Chapter 39 or 48 or section XV);
+(d) Perforated cards for Jacquard or similar machines (for example, Chapter 39 or 48 or section XV);
 
-(e)     Transmission or conveyor belts or belting, of textile material (heading 59.10), or other articles of textile materials for technical uses (heading 59.11);
+(e) Transmission or conveyor belts or belting, of textile material (heading 59.10), or other articles of textile materials for technical uses (heading 59.11);
 
-(f)      Precious or semi-precious stones (natural, synthetic or reconstructed) of headings 71.02 to 71.04, or articles wholly of such stones of heading 71.16, except unmounted worked sapphires and diamonds for styli (heading 85.22);
+(f) Precious or semi-precious stones (natural, synthetic or reconstructed) of headings 71.02 to 71.04, or articles wholly of such stones of heading 71.16, except unmounted worked sapphires and diamonds for styli (heading 85.22);
 
-(g)     Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV, or similar goods of plastics (Chapter 39);
+(g) Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV, or similar goods of plastics (Chapter 39);
 
-(h)     Drill pipe (heading 73.04);
+(h) Drill pipe (heading 73.04);
 
-(ij)     Endless belts of metal wire or strip (Section XV);
+(ij) Endless belts of metal wire or strip (Section XV);
 
-(k)     Articles of Chapter 82 or 83;
+(k) Articles of Chapter 82 or 83;
 
-(l)      Articles of Section XVII;
+(l) Articles of Section XVII;
 
-(m)    Articles of Chapter 90;
+(m) Articles of Chapter 90;
 
-(n)     Clocks, watches or other articles of Chapter 91;
+(n) Clocks, watches or other articles of Chapter 91;
 
-(o)     Interchangeable tools of heading 82.07 or brushes of a kind used as parts of machines (heading 96.03); similar interchangeable tools are to be classified according to the constituent material of their working part (for example, in Chapter 40, 42, 43, 45 or 59 or heading 68.04 or 69.09);
+(o) Interchangeable tools of heading 82.07 or brushes of a kind used as parts of machines (heading 96.03); similar interchangeable tools are to be classified according to the constituent material of their working part (for example, in Chapter 40, 42, 43, 45 or 59 or heading 68.04 or 69.09);
 
-(p)     Articles of Chapter 95; or
+(p) Articles of Chapter 95; or
 
-(q)     Typewriter or similar ribbons, whether or not on spools or in cartridges (classified according to their constituent material, or in heading 96.12 if inked or otherwise prepared for giving impressions).
+(q) Typewriter or similar ribbons, whether or not on spools or in cartridges (classified according to their constituent material, or in heading 96.12 if inked or otherwise prepared for giving impressions).
 
 2. -    Subject to Note 1 of this section, Note 1 to Chapter 84 and to Note 1 to Chapter 85, parts of machines (not being parts of the articles of heading 84.84, 85.44, 85.45, 85.46 or 85.47) are to be classified according to the following rules:
 
-(a)     Parts which are goods included in any of the headings of Chapter 84 or 85 (other than headings 84.09, 84.31, 84.48, 84.66, 84.73, 84.85, 85.03, 85.22, 85.29, 85.38 and 85.48) are in all cases to be classified in their respective headings;
+(a) Parts which are goods included in any of the headings of Chapter 84 or 85 (other than headings 84.09, 84.31, 84.48, 84.66, 84.73, 84.85, 85.03, 85.22, 85.29, 85.38 and 85.48) are in all cases to be classified in their respective headings;
 
-(b)     Other parts, if suitable for use solely or principally with a particular kind of machine, or with a number of machines of the same heading (including a machine of heading 84.79 or 85.43) are to be classified with the machines of that kind or inheading 84.09, 84.31, 84.48, 84.66, 84.73, 85.03, 85.22, 85.29 or 85.38 as appropriate. However, parts which are equally suitable for use principally with the goods of headings 85.17 and 85.25 to 85.28 are to be classified in heading 85.17;
+(b) Other parts, if suitable for use solely or principally with a particular kind of machine, or with a number of machines of the same heading (including a machine of heading 84.79 or 85.43) are to be classified with the machines of that kind or inheading 84.09, 84.31, 84.48, 84.66, 84.73, 85.03, 85.22, 85.29 or 85.38 as appropriate. However, parts which are equally suitable for use principally with the goods of headings 85.17 and 85.25 to 85.28 are to be classified in heading 85.17;
 
-(c)     All other parts are to be classified in heading 84.09, 84.31, 84.48, 84.66, 84.73, 85.03, 85.22, 85.29 or 85.38 as appropriate or, failing that, in heading 84.85 or 85.48.
+(c) All other parts are to be classified in heading 84.09, 84.31, 84.48, 84.66, 84.73, 85.03, 85.22, 85.29 or 85.38 as appropriate or, failing that, in heading 84.85 or 85.48.
 
 3. -    Unless the context otherwise requires, composite machines consisting of two or more machines fitted together to form a whole and other machines designed for the purpose of performing two or more complementary or alternative functions are to be classified as if consisting only of that component or as being that machine which performs the principal function.
 
@@ -16206,37 +16206,37 @@ Notes.
 
 1. -    This chapter does not cover :
 
-(a)     Millstones, grindstones or other articles of Chapter 68;
+(a) Millstones, grindstones or other articles of Chapter 68;
 
-(b)     Machinery or appliances (for example, pumps) of ceramic material and ceramic parts of machinery or appliances of any material (Chapter 69);
+(b) Machinery or appliances (for example, pumps) of ceramic material and ceramic parts of machinery or appliances of any material (Chapter 69);
 
-(c)     Laboratory glassware (heading 70.17); machinery, appliances or other articles for technical uses or parts thereof, of glass (heading 70.19 or 70.20);
+(c) Laboratory glassware (heading 70.17); machinery, appliances or other articles for technical uses or parts thereof, of glass (heading 70.19 or 70.20);
 
-(d)     Articles of heading 73.21 or 73.22 or similar articles of other base metals (Chapters 74 to 76 or 78 to 81);
+(d) Articles of heading 73.21 or 73.22 or similar articles of other base metals (Chapters 74 to 76 or 78 to 81);
 
-(e)     Electro-mechanical domestic appliances of heading 85.09; digital cameras of heading 85.25; or
+(e) Electro-mechanical domestic appliances of heading 85.09; digital cameras of heading 85.25; or
 
-(f)      Hand-operated mechanical floor sweepers, not motorised (heading 96.03).
+(f) Hand-operated mechanical floor sweepers, not motorised (heading 96.03).
 
 2. -    Subject to the operation of Note 3 to Section XVI, a machine or appliance which answers to a description in one or more of the headings 84.01 to 84.24 and at the same time to a description in one or other of the headings 84.25 to 84.80 is to be classified under the appropriate heading of the former group and not the latter.
 
 Heading84.19 does not, however, cover:
 
-(a)     Germination plant, incubators or brooders (heading 84.36);
+(a) Germination plant, incubators or brooders (heading 84.36);
 
-(b)     Grain dampening machines (heading 84.37);
+(b) Grain dampening machines (heading 84.37);
 
-(c)     Diffusing apparatus for sugar juice extraction (heading 84.38);
+(c) Diffusing apparatus for sugar juice extraction (heading 84.38);
 
-(d)     Machinery for the heat-treatment of textile yarns, fabrics or made up textile articles (heading 84.51); or
+(d) Machinery for the heat-treatment of textile yarns, fabrics or made up textile articles (heading 84.51); or
 
-(e)     Machinery or plant, designed for mechanical operation, in which a change of temperature, even if necessary, is subsidiary.
+(e) Machinery or plant, designed for mechanical operation, in which a change of temperature, even if necessary, is subsidiary.
 
 Heading84.22 does not cover:
 
-(a)     Sewing machines for closing bags or similar containers (heading 84.52); or
+(a) Sewing machines for closing bags or similar containers (heading 84.52); or
 
-(b)     Office machinery of heading 84.72.
+(b) Office machinery of heading 84.72.
 
 Heading84.24 does not cover:
 
@@ -16246,37 +16246,37 @@ Ink-jetprinting machines (heading 84.43 or 84.71)
 
 4. -    Heading 84.57 applies only to machine-tools for working metal, other than lathes (including turning centres), which can carry out different types of machining operations either:
 
-(a)     by automatic tool change from a magazine or the like in conformity with a machining programme (machining centres).
+(a) by automatic tool change from a magazine or the like in conformity with a machining programme (machining centres).
 
-(b)     by the automatic use, simultaneously or sequentially, of different unit heads working on a fixed position work piece (unit construction machines, single station), or
+(b) by the automatic use, simultaneously or sequentially, of different unit heads working on a fixed position work piece (unit construction machines, single station), or
 
-(c)     by the automatic transfer of the work piece to different unit heads (multi-station transfer machines).
+(c) by the automatic transfer of the work piece to different unit heads (multi-station transfer machines).
 
 5. - (A) For the purposes of heading 84.71, the expression “automatic data processing machines” means:
 
-(a)     Digital machines, capable of (1) storing the processing program or programs and at least the data immediately necessary for the execution of the program;
+(a) Digital machines, capable of (1) storing the processing program or programs and at least the data immediately necessary for the execution of the program;
 
-(2)     being freely programmed in accordance with the requirements of the user; (3) performing arithmetical computations specified by the user; and, (4) executing, without human intervention, a processing program which requires them to modify their execution, by logical decision during the processing run;
+(2) being freely programmed in accordance with the requirements of the user; (3) performing arithmetical computations specified by the user; and, (4) executing, without human intervention, a processing program which requires them to modify their execution, by logical decision during the processing run;
 
-(b)     Analogue machines capable of simulating mathematical models and comprising at least : analogue elements, control elements and programming elements;
+(b) Analogue machines capable of simulating mathematical models and comprising at least : analogue elements, control elements and programming elements;
 
-(c)     Hybrid machines consisting of either a digital machine with analogue elements or an analogue machine with digital elements.
+(c) Hybrid machines consisting of either a digital machine with analogue elements or an analogue machine with digital elements.
 
-(B)     Automatic data processing machines may be in the form of systems consisting of a variable number of separate units. Subject to paragraph (E) below, a unit is to be regarded as being a part of a complete system if it meets all of the following conditions:
+(B) Automatic data processing machines may be in the form of systems consisting of a variable number of separate units. Subject to paragraph (E) below, a unit is to be regarded as being a part of a complete system if it meets all of the following conditions:
 
-(a)     It is of a kind solely or principally used in an automatic data processing system;
+(a) It is of a kind solely or principally used in an automatic data processing system;
 
-(b)     It is connectable to the central processing unit either directly or through one
+(b) It is connectable to the central processing unit either directly or through one
 
 or more other units; and
 
-(c)     It is able to accept or deliver data in a form (codes or signals) which can be used by the system.
+(c) It is able to accept or deliver data in a form (codes or signals) which can be used by the system.
 
-(C)     Separately presented units of an automatic data processing machine are top be classified in heading 84.71.
+(C) Separately presented units of an automatic data processing machine are top be classified in heading 84.71.
 
-(D)    Printers,keyboards, X-Y co-ordinate input devices and disk storage units which satisfy the conditions of paragraphs (B) (b) and (B) (c) above, are in all cases to be classified as units of heading 84.71.
+(D) Printers,keyboards, X-Y co-ordinate input devices and disk storage units which satisfy the conditions of paragraphs (B) (b) and (B) (c) above, are in all cases to be classified as units of heading 84.71.
 
-(E)     Machines performing a specific function other than data processing and incorporating or working in conjunction with an automatic data processing machine are to be classified in the headings appropriate to their respective functions or, failing that, in residual headings.
+(E) Machines performing a specific function other than data processing and incorporating or working in conjunction with an automatic data processing machine are to be classified in the headings appropriate to their respective functions or, failing that, in residual headings.
 
 6. -    Heading 84.82 applies, inter alia, to polished steel balls, the maximum and minimum diameters of which do not differ from the nominal diameter by more than 1 % or by more than 0.05mm, which ever is less.
 
@@ -17658,7 +17658,7 @@ HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
 84.75Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware.
 
-8475.1000.00-Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes  ……………………………………….  kg 0
+8475.1000.00-Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes  ………………………………………. kg 0
 
 -Machinesfor manufacturing or hot working glass or glassware :
 
@@ -17840,19 +17840,19 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Electrically warmed blankets, bed pads, foot-muffs or the like; electrically warmed clothing, footwear or ear pads or other electrically warmed articles worn on or about the person;
+(a) Electrically warmed blankets, bed pads, foot-muffs or the like; electrically warmed clothing, footwear or ear pads or other electrically warmed articles worn on or about the person;
 
-(b)     Articles of glass of heading 70.11; or
+(b) Articles of glass of heading 70.11; or
 
-(c)     Electrically heated furniture of Chapter 94
+(c) Electrically heated furniture of Chapter 94
 
 2. -    Headings 85.01 to 85.04 do not apply to goods described in heading 85.11, 85.12, 85.40, 85.41 or 85.42. However, metal tank mercury arc rectifiers remain classified in heading No. 85.04.
 
 3. -    Heading 85.09 covers only the following electro-mechanical machines of the kind commonly used for domestic purposes:
 
-(a)     Vacuum cleaners, including dry and wet vacuum cleaners’ floor polishers, food grinders and mixers , and fruit or vegetable juice extractors, of any weight;
+(a) Vacuum cleaners, including dry and wet vacuum cleaners’ floor polishers, food grinders and mixers , and fruit or vegetable juice extractors, of any weight;
 
-(b)     Other machines provided the weight of such machines does not exceed 20kg.
+(b) Other machines provided the weight of such machines does not exceed 20kg.
 
 The heading does not, however, apply to fans or ventilating or recycling hoods incorporating a fan, whether or not fitted with filters (heading 84.14), centrifugal clothesdryers (heading 84.21), dish washing machines (heading 84.22), household washing machines (heading 84.50), roller or other ironing machines (heading 84.20 or 84.51), sewing machines (heading 84.52), electric scissors (heading 84.67) or to electrothermic appliances (heading 85.16).
 
@@ -17864,17 +17864,17 @@ Thin-orthick-film circuits comprising passive and active elements obtained durin
 
 5. -    For the purposes of headings 85.41 and 85.42:
 
-(A)     “Diodes, transistors and similar semiconductor devices” are semiconductor devices the operation of which depends on variations in resistively on the application of an electric field;
+(A) “Diodes, transistors and similar semiconductor devices” are semiconductor devices the operation of which depends on variations in resistively on the application of an electric field;
 
-(B)     “Electronic integrated circuits and microassemblies” are:
+(B) “Electronic integrated circuits and microassemblies” are:
 
-(a)     Monolithic integrated circuits in which the circuit elements (diodes, transistors, capacitors, interconnections, etc.) are created in the mass (essentially) and on the surface of a semiconductor material (doped silicon, for example) and are inseparably associated;
+(a) Monolithic integrated circuits in which the circuit elements (diodes, transistors, capacitors, interconnections, etc.) are created in the mass (essentially) and on the surface of a semiconductor material (doped silicon, for example) and are inseparably associated;
 
-(b)     Hybrid integrated circuits in which passive elements (resistors, capacitors, interconnections, etc.), obtained by thin-or thick-film technology, and active elements (diodes, transistors, monolithic integrated circuits, etc.), obtained by semiconductor technology, are combined to all intents and purposes indivisibly, on a single insulating substrate (glass, ceramic, etc.).
+(b) Hybrid integrated circuits in which passive elements (resistors, capacitors, interconnections, etc.), obtained by thin-or thick-film technology, and active elements (diodes, transistors, monolithic integrated circuits, etc.), obtained by semiconductor technology, are combined to all intents and purposes indivisibly, on a single insulating substrate (glass, ceramic, etc.).
 
 Thesecircuits may also include discrete components;
 
-(c)     Microassemblies of the moulded module, micromodule or similar types, consisting or discrete, active or both active and passive, components which are combined and interconnected.
+(c) Microassemblies of the moulded module, micromodule or similar types, consisting or discrete, active or both active and passive, components which are combined and interconnected.
 
 For the classification of the articles defined in this Note, headings 85.41 and 85.42 shall take precedence over any other heading in the Nomenclature which might cover them by reference to, in particular, their function.
 
@@ -18768,45 +18768,45 @@ Notes.
 
 2. -    The expressions “parts” and “parts and accessories” do not apply to the following articles, whether or not they are identifiable as for the goods of this Section:
 
-(a)     Joints, washers or the like of any material (classified according to their constituent material or in heading 84.84) or other articles of vulcanized rubber other than hard rubber (heading 40.16);
+(a) Joints, washers or the like of any material (classified according to their constituent material or in heading 84.84) or other articles of vulcanized rubber other than hard rubber (heading 40.16);
 
-(b)     Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39);
+(b) Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39);
 
-(c)     Articles of Chapter 82 (tools);
+(c) Articles of Chapter 82 (tools);
 
-(d)     Articles of heading 83.06;
+(d) Articles of heading 83.06;
 
-(e)     Machines or apparatus of heading 84.01 to 84.79, or parts thereof; articles of heading 84.81 or 84.82 or, provided they constitute integral parts of engines or motors, articles of heading 84.83;
+(e) Machines or apparatus of heading 84.01 to 84.79, or parts thereof; articles of heading 84.81 or 84.82 or, provided they constitute integral parts of engines or motors, articles of heading 84.83;
 
-(f)      Electrical machinery or equipment (Chapter 85);
+(f) Electrical machinery or equipment (Chapter 85);
 
-(g)     Articles of Chapter 90;
+(g) Articles of Chapter 90;
 
-(h)     Articles of Chapter 91;
+(h) Articles of Chapter 91;
 
-(ij)     Arms (Chapter 93);
+(ij) Arms (Chapter 93);
 
-(k)     Lamps or lighting fittings of heading 94.05; or
+(k) Lamps or lighting fittings of heading 94.05; or
 
-(l)      Brushes of a kind used as parts of vehicles (heading 96.03).
+(l) Brushes of a kind used as parts of vehicles (heading 96.03).
 
 3. -    References in Chapters 86 to 88 to “parts” or “accessories” do not apply to parts or accessories which are not suitable for use solely or principally with the articles of those Chapters. A part or accessory which answers to a description in two or more of the headings of those Chapters is to be classified under that heading which corresponds to the principal use of that part or accessory.
 
 4. -    For the purposes of this Section:
 
-(a)     Vehicles specially constructed to travel on both road and rail are classified under the appropriate heading of Chapter 87;
+(a) Vehicles specially constructed to travel on both road and rail are classified under the appropriate heading of Chapter 87;
 
-(b)     Amphibious motor vehicles are classified under the appropriate heading of Chapter 87;
+(b) Amphibious motor vehicles are classified under the appropriate heading of Chapter 87;
 
-(c)     Aircraft specially constructed so that they can also be used as road vehicles are classified under the appropriate heading of Chapter 88.
+(c) Aircraft specially constructed so that they can also be used as road vehicles are classified under the appropriate heading of Chapter 88.
 
 5. -    Air-cushion vehicles are to be classified within this Section with the vehicles to which they are most akin as follows :
 
-(a)     In Chapter 86 if designed to travel on a guide-tract (hovertrains);
+(a) In Chapter 86 if designed to travel on a guide-tract (hovertrains);
 
-(b)     In Chapter 87 if designed to travel over land or over both land and water;
+(b) In Chapter 87 if designed to travel over land or over both land and water;
 
-(c)     In Chapter 89 if designed to travel over water, whether or not able to land on beaches or landing-stages or also able to travel over ice. Parts and accessories of air-cushion vehicles are to be classified in the same way as those of vehicles of the heading in which the air-cushion vehicles are classified under the above provisions. Hovertrain track fixtures and fittings are to be classified as railway track fixtures and fittings, and signalling, safety or traffic control equipment for hovertrain transport systems as signalling, safety or traffic control equipment for railways.
+(c) In Chapter 89 if designed to travel over water, whether or not able to land on beaches or landing-stages or also able to travel over ice. Parts and accessories of air-cushion vehicles are to be classified in the same way as those of vehicles of the heading in which the air-cushion vehicles are classified under the above provisions. Hovertrain track fixtures and fittings are to be classified as railway track fixtures and fittings, and signalling, safety or traffic control equipment for hovertrain transport systems as signalling, safety or traffic control equipment for railways.
 
 Chapter 86
 
@@ -18816,29 +18816,29 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Railway or tramway sleepers of wood or of concrete, or concrete guide-track sections for hovertrains (heading 44.06 or 68.10);
+(a) Railway or tramway sleepers of wood or of concrete, or concrete guide-track sections for hovertrains (heading 44.06 or 68.10);
 
-(b)     Railway or tramway track construction material of iron or steel of heading 73.02; or
+(b) Railway or tramway track construction material of iron or steel of heading 73.02; or
 
-(c)     Electrical signalling, safety or traffic control equipment of heading 85.30.
+(c) Electrical signalling, safety or traffic control equipment of heading 85.30.
 
 2. -    Heading 86.07 applies, inter alia, to:
 
-(a)     Axles, wheels, wheel sets (running gear), metal tyres, hoops and hubs and other parts of wheels;
+(a) Axles, wheels, wheel sets (running gear), metal tyres, hoops and hubs and other parts of wheels;
 
-(b)     Frames, underframes, bogies and bissel-bogies;
+(b) Frames, underframes, bogies and bissel-bogies;
 
-(c)     Axle boxes; brake gear;
+(c) Axle boxes; brake gear;
 
-(d)     Buffers for rolling-stock; hooks and other coupling gear and corridor connections;
+(d) Buffers for rolling-stock; hooks and other coupling gear and corridor connections;
 
-(e)     Coachwork.
+(e) Coachwork.
 
 3. -    Subject to the provisions of Note 1 above, heading 86.08 applies, inter alia, to:
 
-(a)     Assembled track, turntables, platform buffers, loading gauges;
+(a) Assembled track, turntables, platform buffers, loading gauges;
 
-(b)     Semaphores, mechanical signal discs, level crossing control gear, signal and point controls, and other mechanical (including electro-mechanical) signaling, safety or traffic control equipment, whether or not fitted for electric lighting, for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields.
+(b) Semaphores, mechanical signal discs, level crossing control gear, signal and point controls, and other mechanical (including electro-mechanical) signaling, safety or traffic control equipment, whether or not fitted for electric lighting, for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -19336,37 +19336,37 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Articles of a kind used in machines, appliances or for other technical uses, of vulcanized rubber other than hard rubber (heading 40.16), of leather or of composition leather (heading 42.04) or of textile material (heading 59.11);
+(a) Articles of a kind used in machines, appliances or for other technical uses, of vulcanized rubber other than hard rubber (heading 40.16), of leather or of composition leather (heading 42.04) or of textile material (heading 59.11);
 
-(b)     Supporting belts or other support articles of textile material, whose intended effect on the organ to be supported or held derives solely from their elasticity (for example, maternity belts, thoracic support bandages, abdominal support bandages, supports for joints or muscles) (Section XI);
+(b) Supporting belts or other support articles of textile material, whose intended effect on the organ to be supported or held derives solely from their elasticity (for example, maternity belts, thoracic support bandages, abdominal support bandages, supports for joints or muscles) (Section XI);
 
-(c)     Refractory goods of heading 69.03; ceramic wares for laboratory, chemical or other technical uses, of heading 69.09;
+(c) Refractory goods of heading 69.03; ceramic wares for laboratory, chemical or other technical uses, of heading 69.09;
 
-(d)     Glass mirrors, not optically worked, of heading 70.09, or mirrors of base metal or of precious metal, not being optical elements (heading 83.06 or Chapter 71);
+(d) Glass mirrors, not optically worked, of heading 70.09, or mirrors of base metal or of precious metal, not being optical elements (heading 83.06 or Chapter 71);
 
-(e)     Goods of heading 70.07, 70.08, 70.11, 70.14, 70.15 or 70.17;
+(e) Goods of heading 70.07, 70.08, 70.11, 70.14, 70.15 or 70.17;
 
-(f)      Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV) or similar goods of plastics (Chapter 39);
+(f) Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV) or similar goods of plastics (Chapter 39);
 
-(g)     Pumps incorporating measuring devices, of heading 84.13; weight-operated counting or checking machinery, or separately presented weights for balances (heading 84.23); lifting or handling machinery (heading 84.25 to 84.28); paper or paperboard cutting machines of all kinds (heading 84.41); fittings for adjusting work or tools on machine-tools, of heading 84.66, including fittings with optical devices for reading the scale (for example, “optical” dividing heads) but not those which are in themselves essentially optical for reading the scale (for example, “optical” dividing heads) but not those which are in themselves essentially optical instruments (for example, alignment telescope); calculating machines (heading 84.70); valves or other appliances of heading 84.81;
+(g) Pumps incorporating measuring devices, of heading 84.13; weight-operated counting or checking machinery, or separately presented weights for balances (heading 84.23); lifting or handling machinery (heading 84.25 to 84.28); paper or paperboard cutting machines of all kinds (heading 84.41); fittings for adjusting work or tools on machine-tools, of heading 84.66, including fittings with optical devices for reading the scale (for example, “optical” dividing heads) but not those which are in themselves essentially optical for reading the scale (for example, “optical” dividing heads) but not those which are in themselves essentially optical instruments (for example, alignment telescope); calculating machines (heading 84.70); valves or other appliances of heading 84.81;
 
-(h)     Searchlights or spotlights of a kind used for cycles or motor vehicles (heading 85.12); portable electric lamps of heading 85.13; cinematographic sound recording, reproducing or re-recording apparatus (heading 85.19 or 85.20); sound-heads (heading 85.22); still image video cameras, other video camera recorders and digital cameras (heading 85.25); radar apparatus, radio navigational aid apparatus or radio remote control apparatus (heading 85.26); numerical control apparatus of heading 85.37; sealed beam lamp units of heading 85.39; optical fibre cables of heading 85.44;
+(h) Searchlights or spotlights of a kind used for cycles or motor vehicles (heading 85.12); portable electric lamps of heading 85.13; cinematographic sound recording, reproducing or re-recording apparatus (heading 85.19 or 85.20); sound-heads (heading 85.22); still image video cameras, other video camera recorders and digital cameras (heading 85.25); radar apparatus, radio navigational aid apparatus or radio remote control apparatus (heading 85.26); numerical control apparatus of heading 85.37; sealed beam lamp units of heading 85.39; optical fibre cables of heading 85.44;
 
-(ij)     Searchlights or spotlights of heading 94.05;
+(ij) Searchlights or spotlights of heading 94.05;
 
-(k)     Articles of Chapter 95;
+(k) Articles of Chapter 95;
 
-(l)      Capacity measures, which are to be classified according to their constituent material; or
+(l) Capacity measures, which are to be classified according to their constituent material; or
 
-(m)    Spools,reels or similar supports (which are to be classified according to their constituent material, for example, in heading 39.23 or Section XV).
+(m) Spools,reels or similar supports (which are to be classified according to their constituent material, for example, in heading 39.23 or Section XV).
 
 2. -    Subject to Note 1 above, parts and accessories for machines, apparatus, instruments or articles of this Chapter are to be classified according to the following rules:
 
-(a)     Parts and accessories which are goods included in any of the headings of this Chapter or of Chapter 84, 85 or 91 (other than heading 84.85, 85.48 or 90.33) are in all cases to be classified in their respective headings;
+(a) Parts and accessories which are goods included in any of the headings of this Chapter or of Chapter 84, 85 or 91 (other than heading 84.85, 85.48 or 90.33) are in all cases to be classified in their respective headings;
 
-(b)     Other parts and accessories, if suitable for use solely or principally with a particular kind of machine, instrument or apparatus, or with a number of machines, instruments or apparatus of the same heading (including a machine, instrument or apparatus of heading 90.10, 90.13 or 90.31) are to be classified with the machines, instruments or apparatus of that kind;
+(b) Other parts and accessories, if suitable for use solely or principally with a particular kind of machine, instrument or apparatus, or with a number of machines, instruments or apparatus of the same heading (including a machine, instrument or apparatus of heading 90.10, 90.13 or 90.31) are to be classified with the machines, instruments or apparatus of that kind;
 
-(c)     All other parts and accessories are to be classified in heading 90.33.
+(c) All other parts and accessories are to be classified in heading 90.33.
 
 3. -    The provisions of Note 4 to Section XVI apply also to this Chapter.
 
@@ -19382,9 +19382,9 @@ Notes.
 
 7. -    Heading 90.32 applies only to:
 
-(a)     Instruments and apparatus for automatically controlling the flow, level, pressure or other variables of liquids or gases, or for automatically controlling temperature, whether or not their operation depends on an electrical phenomenon which varies according to the factor to be automatically controlled, which are designed to bring this factor to, and maintain it at, a desired value, stabilished against disturbances, by constantly or periodically measuring its actual value; and
+(a) Instruments and apparatus for automatically controlling the flow, level, pressure or other variables of liquids or gases, or for automatically controlling temperature, whether or not their operation depends on an electrical phenomenon which varies according to the factor to be automatically controlled, which are designed to bring this factor to, and maintain it at, a desired value, stabilished against disturbances, by constantly or periodically measuring its actual value; and
 
-(b)     Automatic regulators of electrical quantities and instruments or apparatus for automatically controlling non-electrical quantities the operation of which depends on an electrical phenomenon varying according to the factor to be controlled, which are designed to bring this factor to, and maintain it at, a desired value, stabilished against disturbances, by constantly or periodically measuring its actual value.
+(b) Automatic regulators of electrical quantities and instruments or apparatus for automatically controlling non-electrical quantities the operation of which depends on an electrical phenomenon varying according to the factor to be controlled, which are designed to bring this factor to, and maintain it at, a desired value, stabilished against disturbances, by constantly or periodically measuring its actual value.
 
 HEADING/H.S. CODE DESCRIPTION SU NG DUTY RATE
 
@@ -19924,13 +19924,13 @@ Notes.
 
 (SectionXV), or similar goods of plastics (Chapter 39) or of precious metal or metal clad with precious metal (generally heading 71.15); clock or watch springs are, however, to be classified as clock or watch parts (heading 91.14);
 
-(d)     Bearing balls (heading 73.26 or 84.82, as the case may be);
+(d) Bearing balls (heading 73.26 or 84.82, as the case may be);
 
-(e)     Articles of heading 84.12 constructed to work without an escapement;
+(e) Articles of heading 84.12 constructed to work without an escapement;
 
-(f)      Ball bearings (heading 84.82); or
+(f) Ball bearings (heading 84.82); or
 
-(g)     Articles of Chapter 85, not yet assembled together or with other components into watch or clock movements or into articles suitable for use solely or principally as parts of such movements (Chapter 85).
+(g) Articles of Chapter 85, not yet assembled together or with other components into watch or clock movements or into articles suitable for use solely or principally as parts of such movements (Chapter 85).
 
 2. -    Heading 91.01 covers only watches with case wholly of precious metal or of metal clad with precious metal, or of the same materials combined with natural or cultured pearls, or precious or semi-precious stones (natural, synthetic or reconstructed) of headings 71.01 to 71.04. Watches with case of base metal inlaid with precious metal fall in heading 91.02.
 
@@ -20112,15 +20112,15 @@ Notes.
 
 1. -    This Chapter does not cover :
 
-(a)     Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39);
+(a) Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39);
 
-(b)     Microphones, amplifiers, loud-speakers, head-phones, switches, stroboscopes or other accessory instruments, apparatus or equipment of Chapter 85 or 90, for use with but not incorporated in or housed in the same cabinet as instruments of this Chapter;
+(b) Microphones, amplifiers, loud-speakers, head-phones, switches, stroboscopes or other accessory instruments, apparatus or equipment of Chapter 85 or 90, for use with but not incorporated in or housed in the same cabinet as instruments of this Chapter;
 
-(c)     Toy instruments or apparatus (heading 95.03);
+(c) Toy instruments or apparatus (heading 95.03);
 
-(d)     Brushes for cleaning musical instruments (heading 96.03); or
+(d) Brushes for cleaning musical instruments (heading 96.03); or
 
-(e)     Collectors’ pieces or antiques (heading 97.05 or 97.06).
+(e) Collectors’ pieces or antiques (heading 97.05 or 97.06).
 
 2. -    Bows and sticks and similar devices used in playing the musical instruments of heading 92.02 or 92.06 presented with such instruments in numbers normal thereto and clearly intended for use therewith, are to be classified in the same heading as the relative instruments.
 
@@ -20204,17 +20204,17 @@ Notes.
 
 1. -    This Chapter does not cover :
 
-(a)     Goods of Chapter 36 (for example, percussion caps, detonators, signaling flares);
+(a) Goods of Chapter 36 (for example, percussion caps, detonators, signaling flares);
 
-(b)     Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39);
+(b) Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39);
 
-(c)     Armoured fighting vehicles (heading 87.10);
+(c) Armoured fighting vehicles (heading 87.10);
 
-(d)     Telescopic sights or other optical devices suitable for use with arms, unless mounted on a firearm or presented with the firearms on which they are designed to be mounted (Chapter 90);
+(d) Telescopic sights or other optical devices suitable for use with arms, unless mounted on a firearm or presented with the firearms on which they are designed to be mounted (Chapter 90);
 
-(e)     Bows, arrows, fencing foils or toys (Chapter 95); or
+(e) Bows, arrows, fencing foils or toys (Chapter 95); or
 
-(f)      Collectors’ pieces or antiques (heading 97.05 or 97.06).
+(f) Collectors’ pieces or antiques (heading 97.05 or 97.06).
 
 2. -    In heading 93.06, the reference to “parts thereof” does not include radio or radar apparatus of heading 85.26
 
@@ -20292,39 +20292,39 @@ Notes.
 
 1. -    This Chapter does not cover :
 
-(a)     Pneumatic or water mattresses, pillows or cushions, of Chapter 39, 40 or 63;
+(a) Pneumatic or water mattresses, pillows or cushions, of Chapter 39, 40 or 63;
 
-(b)     Mirrors designed for placing on the floor or ground (for example, cheval-glasses (swing-mirrors) of heading 70.09;
+(b) Mirrors designed for placing on the floor or ground (for example, cheval-glasses (swing-mirrors) of heading 70.09;
 
-(c)     Articles of Chapter 71;
+(c) Articles of Chapter 71;
 
-(d)     Parts of general use as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39), or safes of heading 83.03;
+(d) Parts of general use as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39), or safes of heading 83.03;
 
-(e)     Furniture specially designed as parts of refrigerating or freezing equipment of heading 84.18; furniture specially designed for sewing machines (heading 84.52);
+(e) Furniture specially designed as parts of refrigerating or freezing equipment of heading 84.18; furniture specially designed for sewing machines (heading 84.52);
 
-(f)      Lamps or lighting fittings of Chapter 85;
+(f) Lamps or lighting fittings of Chapter 85;
 
-(g)     Furniture specially designed as parts of apparatus of heading 85.18 (heading 85.18), of headings 85.19 to 85.21 (heading 85.22) or of headings 85.25 to 85.28 (heading 85.29);
+(g) Furniture specially designed as parts of apparatus of heading 85.18 (heading 85.18), of headings 85.19 to 85.21 (heading 85.22) or of headings 85.25 to 85.28 (heading 85.29);
 
-(h)     Articles of heading 87.14;
+(h) Articles of heading 87.14;
 
-(ij)     Dentists’ chairs incorporating dental appliances of heading 90.18 or dentists’ spittoons (heading 90.18);
+(ij) Dentists’ chairs incorporating dental appliances of heading 90.18 or dentists’ spittoons (heading 90.18);
 
-(k)     Articles of Chapter 91 (for example, clocks and clock cases); or
+(k) Articles of Chapter 91 (for example, clocks and clock cases); or
 
-(l)      Toy furniture or toy lamps or lighting fittings (heading 95.03), billiard tables or other furniture specially constructed for games (heading 95.04), furniture for conjuring tricks or decorations (other than electric garlands) such as Chinese lanterns (heading 95.05).
+(l) Toy furniture or toy lamps or lighting fittings (heading 95.03), billiard tables or other furniture specially constructed for games (heading 95.04), furniture for conjuring tricks or decorations (other than electric garlands) such as Chinese lanterns (heading 95.05).
 
 2. -    The articles (other than parts) referred to in heading 94.01 to 94.03 are to be classified in those headings only if they are designed for placing on the floor or ground.
 
 Thefollowing are, however, to be classified in the above-mentioned headings even if they are designed to be hung, to be fixed to the wall or to stand one on the other :
 
-(a)     Cupboards, bookcases, other shelved furniture and unit furniture;
+(a) Cupboards, bookcases, other shelved furniture and unit furniture;
 
-(b)     Seats and beds
+(b) Seats and beds
 
 3. - (a)In heading 94.01 to 94.03 references to parts of goods do not include references to sheets or slabs (whether or not cut to shape but not combined with other parts) of glass (including mirrors), marble or other stone or of any other material referred to in Chapter 68 or 69.
 
-(b)     Goods described in heading 94.04, presented separately, are not to be classified in heading 94.01, 94.02 94.03 as parts of goods.
+(b) Goods described in heading 94.04, presented separately, are not to be classified in heading 94.01, 94.02 94.03 as parts of goods.
 
 4. -    For the purposes of heading 94.06, the expression “prefabricated buildings” means buildings which are finished in the factory or put up as elements, presented together, to be assembled on site, such as housing or worksite accommodation, offices, schools, shops, sheds, garages or similar buildings.
 
@@ -20444,45 +20444,45 @@ Notes.
 
 1. -    This Chapter does not cover:
 
-(a)     Christmas tree candles (heading 34.06);
+(a) Christmas tree candles (heading 34.06);
 
-(b)     Fireworks or other pyrotechnic articles of heading 36.04;
+(b) Fireworks or other pyrotechnic articles of heading 36.04;
 
-(c)     Yarns, monofilament, cords or gut or the like for fishing, cut to length but not made up into fishing lines, of Chapter 39, heading 42.06 or Section XI;
+(c) Yarns, monofilament, cords or gut or the like for fishing, cut to length but not made up into fishing lines, of Chapter 39, heading 42.06 or Section XI;
 
-(d)     Sports bags or other containers of heading 42.02, 43.03 or 43.04;
+(d) Sports bags or other containers of heading 42.02, 43.03 or 43.04;
 
-(e)     Sports clothing or fancy dress, of textiles, of Chapter 61 or 62;
+(e) Sports clothing or fancy dress, of textiles, of Chapter 61 or 62;
 
-(f)      Textile flags or bunting, or sails for boats, sailboards or land craft, of Chapter 63;
+(f) Textile flags or bunting, or sails for boats, sailboards or land craft, of Chapter 63;
 
-(g)     Sports footwear (other than skating boots with ice or roller skates attached) of Chapter 64, or sports headgear of Chapter 65;
+(g) Sports footwear (other than skating boots with ice or roller skates attached) of Chapter 64, or sports headgear of Chapter 65;
 
-(h)     Walking-sticks, whips, riding-crops or the like (heading 66.02) or parts thereof (heading 66.03);
+(h) Walking-sticks, whips, riding-crops or the like (heading 66.02) or parts thereof (heading 66.03);
 
-(ij)     Unmounted glass eyes for dolls or other toy, of heading 70.18;
+(ij) Unmounted glass eyes for dolls or other toy, of heading 70.18;
 
-(k)     Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39);
+(k) Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39);
 
-(l)      Bells, gongs or the like of heading 83.06;
+(l) Bells, gongs or the like of heading 83.06;
 
-(m)    Pumpsfor liquids (heading 84.13), filtering or purifying machinery and apparatus for liquids or gases (heading 84.21), electric motors (heading 85.01), electric transformers (heading 85.04) or radio remote control apparatus (heading 85.26);
+(m) Pumpsfor liquids (heading 84.13), filtering or purifying machinery and apparatus for liquids or gases (heading 84.21), electric motors (heading 85.01), electric transformers (heading 85.04) or radio remote control apparatus (heading 85.26);
 
-(n)     Sports vehicles (other than bobsleighs, toboggans and the like) of Section XVII;
+(n) Sports vehicles (other than bobsleighs, toboggans and the like) of Section XVII;
 
-(o)     Children’s bicycles (heading 87.12);
+(o) Children’s bicycles (heading 87.12);
 
-(p)     Sports craft such as canoes and skiffs (Chapter 89), or their means of propulsion (Chapter 44 for such articles made of wood);
+(p) Sports craft such as canoes and skiffs (Chapter 89), or their means of propulsion (Chapter 44 for such articles made of wood);
 
-(q)     Spectacles, goggles or the like, for sports or outdoor games (heading 90.04);
+(q) Spectacles, goggles or the like, for sports or outdoor games (heading 90.04);
 
-(r)      Decoy calls or whistles (heading 92.08);
+(r) Decoy calls or whistles (heading 92.08);
 
-(s)     Arms or other articles of Chapter 93;
+(s) Arms or other articles of Chapter 93;
 
-(t)      Electric garlands of all kinds (heading 94.05); or
+(t) Electric garlands of all kinds (heading 94.05); or
 
-(u)     Racket strings, tents or other camping goods, or gloves, mittens and mitts (classified according to their constituent material).
+(u) Racket strings, tents or other camping goods, or gloves, mittens and mitts (classified according to their constituent material).
 
 2. -    This Chapter includes articles in which natural or cultured pearls, precious or semiprecious stones (natural, synthetic or reconstructed), precious metal or metal clad with precious metal constitute only minor constituents.
 
@@ -20624,35 +20624,35 @@ Notes.
 
 1. -    This Chapter does not cover :
 
-(a)     Pencils for cosmetic or toilet uses (Chapter 33);
+(a) Pencils for cosmetic or toilet uses (Chapter 33);
 
-(b)     Articles of Chapter 66 (for example, parts of umbrellas or walking-sticks);
+(b) Articles of Chapter 66 (for example, parts of umbrellas or walking-sticks);
 
-(c)     Imitation jewellery (heading 71.17);
+(c) Imitation jewellery (heading 71.17);
 
-(d)     Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39);
+(d) Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39);
 
-(e)     Cutlery or other articles of Chapter 82 with handles or other parts of carving or moulding materials; heading 96.01 or 96.02 applies, however, to separately presented handles or other parts of such articles;
+(e) Cutlery or other articles of Chapter 82 with handles or other parts of carving or moulding materials; heading 96.01 or 96.02 applies, however, to separately presented handles or other parts of such articles;
 
-(f)      rticles of Chapter 90 (for example, spectacle frames (heading 90.03), mathematical drawing pens (heading 90.17), brushes of a kind specialised for use in dentistry or for medical, surgical or veterinary purposes (heading 90.18);
+(f) rticles of Chapter 90 (for example, spectacle frames (heading 90.03), mathematical drawing pens (heading 90.17), brushes of a kind specialised for use in dentistry or for medical, surgical or veterinary purposes (heading 90.18);
 
-(g)     Articles of Chapter 91 (for example, clock or watch cases);
+(g) Articles of Chapter 91 (for example, clock or watch cases);
 
-(h)     Musical instruments or parts or accessories thereof (Chapter 92);
+(h) Musical instruments or parts or accessories thereof (Chapter 92);
 
-(ij)     Articles of Chapter 93 (arms and parts thereof);
+(ij) Articles of Chapter 93 (arms and parts thereof);
 
-(k)     Articles of Chapter 94 (for example, furniture, lamps and lighting fittings);
+(k) Articles of Chapter 94 (for example, furniture, lamps and lighting fittings);
 
-(l)      Articles of Chapter 95 (toys, games, sports requisites); or
+(l) Articles of Chapter 95 (toys, games, sports requisites); or
 
-(m)    Works of art, collectors’ pieces or antiques (Chapter 97).
+(m) Works of art, collectors’ pieces or antiques (Chapter 97).
 
 2. -    In heading 96.02 the expression “vegetable or mineral carving material” means :
 
-(a)     Hard seeds, pips, hulls and nuts and similar vegetable materials of a kind used for carving (for example, corozo and dom);
+(a) Hard seeds, pips, hulls and nuts and similar vegetable materials of a kind used for carving (for example, corozo and dom);
 
-(b)     Amber, meerschaum, agglomerated amber and agglomerated meerschaum, jet and mineral substitutes for jet.
+(b) Amber, meerschaum, agglomerated amber and agglomerated meerschaum, jet and mineral substitutes for jet.
 
 3. -    In heading 96.03 the expression “prepared knots and tufts for broom or brush making” applies only to unmounted knots and tufts of animal hair, vegetable fibre or other material, which are ready for incorporation without divisions in brooms or brushes, or which require only such further minor processes as trimming to shape at the top, to render them ready for such incorporation.
 
@@ -20810,19 +20810,19 @@ Notes.
 
 1. -    This Chapter does not cover
 
-(a)     Unused postage or revenue stamps, postal stationery (stamped paper) or the like, of heading 49.07;
+(a) Unused postage or revenue stamps, postal stationery (stamped paper) or the like, of heading 49.07;
 
-(b)     Theatrical scenery, studio back-cloths or the like, of painted canvas (heading 59.07) except if they may be classified in heading 97.06; or
+(b) Theatrical scenery, studio back-cloths or the like, of painted canvas (heading 59.07) except if they may be classified in heading 97.06; or
 
-(c)     Pearls, natural or cultured, or precious or semi-precious stones (heading 71.01 to 71.03).
+(c) Pearls, natural or cultured, or precious or semi-precious stones (heading 71.01 to 71.03).
 
 2. -    For the purposes of heading 97.02, the expression “original engravings, prints and lithographs” means impressions produced directly, in black and white or in colour, of one or of several plates wholly executed by hand by the artist, irrespective of the process or of the material employed by him, but not including any mechanical or photomechanical process.
 
 3. -    Heading 97.03 does not apply to mass-produced reproductions or works of conventional craftsmanship of a commercial character, even if these articles are designed or created by artists.
 
-4. (a)           Subject to Note 1 to 3 above, articles of this Chapter are to be classified in this Chapter and not in any other Chapter of the Nomenclature.
+4. (a) Subject to Note 1 to 3 above, articles of this Chapter are to be classified in this Chapter and not in any other Chapter of the Nomenclature.
 
-(b)     Heading 97.06 does not apply to articles of the preceding headings of this Chapter.
+(b) Heading 97.06 does not apply to articles of the preceding headings of this Chapter.
 
 5. -    Frames around paintings, drawings, pastels, collages or similar decorative plaques, engravings, prints of lithographs are to be classified with those articles, provided they are of a kind and of a value normal to those articles. Frames which are not of a kind or of a value normal to the articles referred to in this Note are to be classified separately.
 
@@ -20848,37 +20848,37 @@ SCHEDULE 2
 
 EXEMPTIONFROM IMPORT DUTY
 
-1.       `Airlines registered in Nigeria and providing commercial services are also entitled to duty-free importation of their craft. They should however pay duty on their imported spare parts and components:
+1. `Airlines registered in Nigeria and providing commercial services are also entitled to duty-free importation of their craft. They should however pay duty on their imported spare parts and components:
 
-(1)     air-conditioning plant;
+(1) air-conditioning plant;
 
-(2)     catering equipment;
+(2) catering equipment;
 
-(3)     engine starting trolleys;
+(3) engine starting trolleys;
 
-(4)     freight hoists;
+(4) freight hoists;
 
-(5)     fuelling plants;
+(5) fuelling plants;
 
-(6)     inspection platforms;
+(6) inspection platforms;
 
-(7)     instruments;
+(7) instruments;
 
-(8)     materials for internal or external renovation or re-decoration;
+(8) materials for internal or external renovation or re-decoration;
 
-(9)     passenger gangways;
+(9) passenger gangways;
 
-(10)   tools (including machine tools) and machinery (other than vehicles).
+(10) tools (including machine tools) and machinery (other than vehicles).
 
-2.       Films, film-strips, microfilms, newsreel, slides and similar visual and auditory material of educational, scientific or cultural character imported by the United Nations, any of its specialized Agencies or an approved education or scienceorganization.
+2. Films, film-strips, microfilms, newsreel, slides and similar visual and auditory material of educational, scientific or cultural character imported by the United Nations, any of its specialized Agencies or an approved education or scienceorganization.
 
-3.       Fuel, lubricants and similar products, which the Minister is satisfied are necessary for and will be used solely in the operation of:
+3. Fuel, lubricants and similar products, which the Minister is satisfied are necessary for and will be used solely in the operation of:
 
-1.       ircraft of the armed forces of a foreign power; or
+1. ircraft of the armed forces of a foreign power; or
 
-2.       civil aircraft registered in a country recognized by the FederalRepublic of Nigeria.
+2. civil aircraft registered in a country recognized by the FederalRepublic of Nigeria.
 
-4.       Goods Imported for the President, Commander-in-Chief of the Armed Forces:
+4. Goods Imported for the President, Commander-in-Chief of the Armed Forces:
 
 All goods imported for the official and personal use of the President, Commanderin-
 
@@ -20886,21 +20886,21 @@ Chief of the Armed Forces of the Federal Republic of Nigeria, or any person for 
 
 Providedthat the foregoing provisions of this paragraph shall not apply to goods which the Minister is satisfied are produced locally to the required standard and readily obtainable.
 
-5.       Goods Imported for Consular Officers: All goods imported for the official and personal use of a Consular Officer or for the use of any member of the family of a Consular Officer, where the Government of the country he represents grants a like privilege to Nigerian Consular Officers in that country:
+5. Goods Imported for Consular Officers: All goods imported for the official and personal use of a Consular Officer or for the use of any member of the family of a Consular Officer, where the Government of the country he represents grants a like privilege to Nigerian Consular Officers in that country:
 
 For the purposes of this paragraph, the expression “Consular Officer”
 
-(a)     means a Consular Officer de carriere who is recognized as a Consular Officer by the Government of the country he represents and is a national of that country; and
+(a) means a Consular Officer de carriere who is recognized as a Consular Officer by the Government of the country he represents and is a national of that country; and
 
-(b)     includes in relation to any country which is declared by the President, Commander-in-Chief of the Armed Forces of the Federal Republic of Nigeria to be a country with the Government of which a convention making provision in that behalf has been conducted, a person who:
+(b) includes in relation to any country which is declared by the President, Commander-in-Chief of the Armed Forces of the Federal Republic of Nigeria to be a country with the Government of which a convention making provision in that behalf has been conducted, a person who:
 
-(i)      is employed by the Government at a Consulate otherwise than on domestic duties:
+(i) is employed by the Government at a Consulate otherwise than on domestic duties:
 
-(ii)     is a national of that country;
+(ii) is a national of that country;
 
-(iii)    is not otherwise engaged in gainful occupation in Nigeria; and
+(iii) is not otherwise engaged in gainful occupation in Nigeria; and
 
-(iv)    if not a permanent employee of that Government, was not resident in Nigeria at the time when his employment at the Consulate began.
+(iv) if not a permanent employee of that Government, was not resident in Nigeria at the time when his employment at the Consulate began.
 
 Theprovisions of this paragraph shall be deemed to have had effect from the date from which any convention or agreement is entered into between the Government of the Federal Republic of Nigeria and the foreign government concerned:
 
@@ -20908,7 +20908,7 @@ Providedthat where any vehicle imported into Nigeria under this paragraph has th
 
 Nigeriawithout consent of the Federal Government.
 
-6.       Diplomatic Privileged Importations
+6. Diplomatic Privileged Importations
 
 Thefurniture and effects (which expression shall include a motor vehicle) of any person, not being a Nigerian who is an official of an organization declared by notice in the Gazette to be an organization of which the Government for one or more sovereign powers are members at the time that such person first takes up his post in Nigeria:
 
@@ -20916,51 +20916,51 @@ Providedthat where any vehicle imported into Nigeria under this paragraph has th
 
 Nigeriawithout the consent of the Federal Government.
 
-7.       Goods obtained free as technical assistance from donor international bodies/countries.
+7. Goods obtained free as technical assistance from donor international bodies/countries.
 
-8.       Passengers Baggage
+8. Passengers Baggage
 
-(1)     Personal and household effects, the property accompanying a passenger
+(1) Personal and household effects, the property accompanying a passenger
 
-(2)     Personal and household effects, the property of a passenger landed at any Customs Port, Customs Airport or Customs station within two months of the arrival of the passenger within such further period as the Minister may allow, to the extend permitted by the Minister and subject to any conditions imposed by it; and
+(2) Personal and household effects, the property of a passenger landed at any Customs Port, Customs Airport or Customs station within two months of the arrival of the passenger within such further period as the Minister may allow, to the extend permitted by the Minister and subject to any conditions imposed by it; and
 
-(3)     Personal and household effects excluding jewellery, photographic equipment, electronics and other luxury goods of a citizen of Nigeria who had been resident in a place outside the limits of the jurisdiction of Nigeria for not less than 9 months.
+(3) Personal and household effects excluding jewellery, photographic equipment, electronics and other luxury goods of a citizen of Nigeria who had been resident in a place outside the limits of the jurisdiction of Nigeria for not less than 9 months.
 
 Providedthat “baggage” shall not be interpreted to include any vehicle or any goods intended for sale, barter or exchange.
 
-9.       Life Saving Appliances.
+9. Life Saving Appliances.
 
-10.     Military Hardware and Uniforms
+10. Military Hardware and Uniforms
 
-(1)     All hardware imported officially for the use of the Nigerian Army, the Nigerian Navy or the Nigerian Air Force (other than alcoholic and nonalcoholic drinks, tobacco goods and products of food industry and as appropriate, any parts of such goods).
+(1) All hardware imported officially for the use of the Nigerian Army, the Nigerian Navy or the Nigerian Air Force (other than alcoholic and nonalcoholic drinks, tobacco goods and products of food industry and as appropriate, any parts of such goods).
 
-(2)     Accoutrements and Uniforms, the property of Officers of the Nigerian Army, the Nigerian Navy, the Nigerian Air Force, Nigerian Police or Nigeria Customs Service imported by such officers for their PERSONAL
+(2) Accoutrements and Uniforms, the property of Officers of the Nigerian Army, the Nigerian Navy, the Nigerian Air Force, Nigerian Police or Nigeria Customs Service imported by such officers for their PERSONAL
 
 USE ON DUTY as required by the regulations of their respective services.
 
 Providedthat the foregoing provisions of this paragraph shall not apply to goods, which the Minister is satisfied, are produced locally to the required standard and are readily obtainable.
 
-11.     Arms and Ammunition imported by the Nigeria Police Force.
+11. Arms and Ammunition imported by the Nigeria Police Force.
 
-12.     In this Schedule, except otherwise provided, Minister means the Minister charged with responsibility for matters relating to Budget. the arrival of the passenger within such further period as the Minister may allow, to the extend permitted by the Minister and subject to any conditions imposed by it; and
+12. In this Schedule, except otherwise provided, Minister means the Minister charged with responsibility for matters relating to Budget. the arrival of the passenger within such further period as the Minister may allow, to the extend permitted by the Minister and subject to any conditions imposed by it; and
 
-(3)     Personal and household effects excluding jewellery, photographic equipment, electronics and other luxury goods of a citizen of Nigeria who had been resident in a place outside the limits of the jurisdiction of Nigeria for not less than 9 months.
+(3) Personal and household effects excluding jewellery, photographic equipment, electronics and other luxury goods of a citizen of Nigeria who had been resident in a place outside the limits of the jurisdiction of Nigeria for not less than 9 months.
 
 Providedthat “baggage” shall not be interpreted to include any vehicle or any goods intended for sale, barter or exchange.
 
-9.       Life Saving Appliances.
+9. Life Saving Appliances.
 
-10.     Military Hardware and Uniforms
+10. Military Hardware and Uniforms
 
-(1)     All hardware imported officially for the use of the Nigerian Army, the Nigerian Navy or the Nigerian Air Force (other than alcoholic and nonalcoholic drinks, tobacco goods and products of food industry and as appropriate, any parts of such goods).
+(1) All hardware imported officially for the use of the Nigerian Army, the Nigerian Navy or the Nigerian Air Force (other than alcoholic and nonalcoholic drinks, tobacco goods and products of food industry and as appropriate, any parts of such goods).
 
-(2)     Accoutrements and Uniforms, the property of Officers of the Nigerian Army, the Nigerian Navy, the Nigerian Air Force, Nigerian Police or Nigeria Customs Service imported by such officers for their PERSONAL USE ON DUTY as required by the regulations of their respective services.
+(2) Accoutrements and Uniforms, the property of Officers of the Nigerian Army, the Nigerian Navy, the Nigerian Air Force, Nigerian Police or Nigeria Customs Service imported by such officers for their PERSONAL USE ON DUTY as required by the regulations of their respective services.
 
 Providedthat the foregoing provisions of this paragraph shall not apply to goods, which the Minister is satisfied, are produced locally to the required standard and are readily obtainable.
 
-11.     Arms and Ammunition imported by the Nigeria Police Force.
+11. Arms and Ammunition imported by the Nigeria Police Force.
 
-12.     In this Schedule, except otherwise provided, Minister means the Minister charged with responsibility for matters relating to Budget.
+12. In this Schedule, except otherwise provided, Minister means the Minister charged with responsibility for matters relating to Budget.
 
 SCHEDULE 3
 
@@ -20972,45 +20972,45 @@ ThisCircular supercedes our earlier circular Ref. No. 12237/S.25/V/172 dated 25t
 
 The revised import prohibition list (Trade) and other Fiscal Policy Measures are as follows:
 
-1.       Live or Dead Birds including Frozen Poultry – H.S. Codes 0105.1100 – 0105.9900, 0106.0000,0207.1000 – 0207.3900, and 0210.9000.
+1. Live or Dead Birds including Frozen Poultry – H.S. Codes 0105.1100 – 0105.9900, 0106.0000,0207.1000 – 0207.3900, and 0210.9000.
 
-2.       Pork and Pork Products, beef and beef products, mutton, lamb and Goat Meat – H.S Codes 0201, 0202, 0203,0204, 0206, 0210, 0504,0511, 1601 and 1602.
+2. Pork and Pork Products, beef and beef products, mutton, lamb and Goat Meat – H.S Codes 0201, 0202, 0203,0204, 0206, 0210, 0504,0511, 1601 and 1602.
 
-3.       Bird’s eggs – H.S. Code 0407.0000
+3. Bird’s eggs – H.S. Code 0407.0000
 
-4.       Flowers (Plastic and Fresh) – H.S. Codes 0603.1000 – 0603.9000, 6702.1000 – 6702.9000.
+4. Flowers (Plastic and Fresh) – H.S. Codes 0603.1000 – 0603.9000, 6702.1000 – 6702.9000.
 
-5.       Cassava/Cassava products – H.S Codes 0714.1000, 1106.2000, 1108.1400 and 1903.0000.
+5. Cassava/Cassava products – H.S Codes 0714.1000, 1106.2000, 1108.1400 and 1903.0000.
 
-6.       Fresh and dried fruits – H.S. Codes 0801.1100 – 0814.0000.
+6. Fresh and dried fruits – H.S. Codes 0801.1100 – 0814.0000.
 
-7.       Maize – H.S. Code 1005.1000 – 1005.9000, Sorghum –H.S. Code 1007.0000, Millet – H.S. Code 1008.1000 -9000.
+7. Maize – H.S. Code 1005.1000 – 1005.9000, Sorghum –H.S. Code 1007.0000, Millet – H.S. Code 1008.1000 -9000.
 
-8.       Wheat Flour – H.S. Code 1101.0000, Maize flour, Cereal groats, Meal and Pellets – H. S Code 1102. 1000 – 1103. 2000
+8. Wheat Flour – H.S. Code 1101.0000, Maize flour, Cereal groats, Meal and Pellets – H. S Code 1102. 1000 – 1103. 2000
 
-9.       Vegetable Oils and Fats – H.S. Code 1507.1000 to 1516.2000 (but excluding linseed and castor oils, Hydrogenated vegetable fats used as Industrial raw materials and Olive Oil in bottles) H.S. Code 1515.1100 – 1515.1900, 1515.3000, 1515.9000, 1516.2000 and 1509.1000 – 9000.
+9. Vegetable Oils and Fats – H.S. Code 1507.1000 to 1516.2000 (but excluding linseed and castor oils, Hydrogenated vegetable fats used as Industrial raw materials and Olive Oil in bottles) H.S. Code 1515.1100 – 1515.1900, 1515.3000, 1515.9000, 1516.2000 and 1509.1000 – 9000.
 
-10.     Sugar Confectionaries (other than Chocolate) – H.S. Code 1704.1000 – 1704.9000.Chocolates are excluded because they are not locally produced.
+10. Sugar Confectionaries (other than Chocolate) – H.S. Code 1704.1000 – 1704.9000.Chocolates are excluded because they are not locally produced.
 
-11.     Cocoa butter, powder and cakes – H.S. Codes 1802-1803.2000, 1805.0000,1806.1000-1806.2000 and 1804.0000.
+11. Cocoa butter, powder and cakes – H.S. Codes 1802-1803.2000, 1805.0000,1806.1000-1806.2000 and 1804.0000.
 
-12.     Spaghetti/Noodles – H.S. Codes 1902.1100 – 1902.3000 (but excluding Lasagne, Gnocchi, Ravioli and Cannelloni.)
+12. Spaghetti/Noodles – H.S. Codes 1902.1100 – 1902.3000 (but excluding Lasagne, Gnocchi, Ravioli and Cannelloni.)
 
-13.     Biscuits – H.S. codes 1905.3000 – 1905.9000.
+13. Biscuits – H.S. codes 1905.3000 – 1905.9000.
 
-14.     Fruit Juice in retail packs – H.S. Code 2009.1100 – 2009.9000
+14. Fruit Juice in retail packs – H.S. Code 2009.1100 – 2009.9000
 
-15.     Waters, including mineral waters and aerated waters, not containing added sugar or sweetening matter or flavoured, ice-snow - H. S. Code 2201.1000 - 2201.9000
+15. Waters, including mineral waters and aerated waters, not containing added sugar or sweetening matter or flavoured, ice-snow - H. S. Code 2201.1000 - 2201.9000
 
-16.     Waters, including mineral waters and aerated Waters, containing added sugar or sweetening matter or flavoured, and other non-alcoholic beverages - H.S. Code 2202.1000 – 2202.9000 (but excluding power or health drinks (Liquid Dietary Supplements) e.g. Power Horse, Red Ginseng, Aloe Vera Gel etc.)
+16. Waters, including mineral waters and aerated Waters, containing added sugar or sweetening matter or flavoured, and other non-alcoholic beverages - H.S. Code 2202.1000 – 2202.9000 (but excluding power or health drinks (Liquid Dietary Supplements) e.g. Power Horse, Red Ginseng, Aloe Vera Gel etc.)
 
-17.     Beer (Bottled, Canned or otherwise packed) – H.S. Code 2203.0000 and 2206.0000.
+17. Beer (Bottled, Canned or otherwise packed) – H.S. Code 2203.0000 and 2206.0000.
 
-18.     Bentonites and Barytes – H.S. Codes 2508.1100 – 2508.1900 and 2511.1100 – 2511.1900.
+18. Bentonites and Barytes – H.S. Codes 2508.1100 – 2508.1900 and 2511.1100 – 2511.1900.
 
-19.     Bagged cement – H. S. Code 2523.2990 (excluding white cement).
+19. Bagged cement – H. S. Code 2523.2990 (excluding white cement).
 
-20.     Medicaments falling under Headings 3003 & 3004 as indicated below:
+20. Medicaments falling under Headings 3003 & 3004 as indicated below:
 
 [a]     Paracetamol tablets and Syrups
 
@@ -21048,7 +21048,7 @@ The revised import prohibition list (Trade) and other Fiscal Policy Measures are
 
 [o]     Intravenous Fluids (Dextrose, Normal Saline etc]
 
-21.     Pharmaceutical, drugs/Regulated products – H.S. Codes 3001.1000- 3006.6000 imported through all land borders and some Air and sea ports except:
+21. Pharmaceutical, drugs/Regulated products – H.S. Codes 3001.1000- 3006.6000 imported through all land borders and some Air and sea ports except:
 
 [I]      Apapa Area 1 Port, Lagos
 
@@ -21066,27 +21066,27 @@ The revised import prohibition list (Trade) and other Fiscal Policy Measures are
 
 22      Waste Pharmaceuticals H. S. Code 3006.8000
 
-23.     Toothpastes of all kinds – H.S. Code 3306.1000
+23. Toothpastes of all kinds – H.S. Code 3306.1000
 
-24.     Finished Soaps and Detergents – H.S. Code 3401.1100 – 3402.9000 (but excluding all raw materials which shall also attract 10% duty rate).
+24. Finished Soaps and Detergents – H.S. Code 3401.1100 – 3402.9000 (but excluding all raw materials which shall also attract 10% duty rate).
 
-25.     Mosquito Repellant Coils – H.S. Code 3808.1100; Disinfectant and Germicides – H. S. Code 3808.4000 – 3808.9000.
+25. Mosquito Repellant Coils – H.S. Code 3808.1100; Disinfectant and Germicides – H. S. Code 3808.4000 – 3808.9000.
 
-26.     Sanitary Wares of plastics - H.S. Code 3922.1000 – 3922.9000 and Domestic articles and wares of plastics - H.S. Code 3924.1000 – 3924.9000.[Excluding Baby feeding bottles.]
+26. Sanitary Wares of plastics - H.S. Code 3922.1000 – 3922.9000 and Domestic articles and wares of plastics - H.S. Code 3924.1000 – 3924.9000.[Excluding Baby feeding bottles.]
 
-27.     Tooth Picks – H.S. Codes 3926.9000 and 4421.9000.
+27. Tooth Picks – H.S. Codes 3926.9000 and 4421.9000.
 
-28.     Rethreaded and used Pneumatic tyres – H.S. Codes 4012.1000 – 4012.9000.
+28. Rethreaded and used Pneumatic tyres – H.S. Codes 4012.1000 – 4012.9000.
 
-29.     Corrugated Paper and Paper Boards – H.S. Code 4808.1000, all forms of paper cartons, boxes and cases – H.S. Code 4819.1000 – 4819.2000.
+29. Corrugated Paper and Paper Boards – H.S. Code 4808.1000, all forms of paper cartons, boxes and cases – H.S. Code 4819.1000 – 4819.2000.
 
 30      Envelopes – H. S. Code 4817.1000, Diaries – H.S. Code 4820.1000, Greeting Cards – H.S. Code 4909.0000 and Calendars – H.S. Code 4910.0000.
 
-31.     Toilet paper, cleansing or facial tissues, towel and similar sanitary articles – H.S. Code 4818.1000 – 4818.9000 & 5601.1000 –5601.3000.
+31. Toilet paper, cleansing or facial tissues, towel and similar sanitary articles – H.S. Code 4818.1000 – 4818.9000 & 5601.1000 –5601.3000.
 
-32.     Exercise Books – H.S. Codes 4820.2000.
+32. Exercise Books – H.S. Codes 4820.2000.
 
-33.     Textile Fabrics of all types and articles thereof and yarn chapters 50-63 but excluding:
+33. Textile Fabrics of all types and articles thereof and yarn chapters 50-63 but excluding:
 
 [a]     Nylon tyre cord – H.S. Code 5902.1000 –5902.9000
 
@@ -21146,29 +21146,29 @@ The revised import prohibition list (Trade) and other Fiscal Policy Measures are
 
 [c]     Polypropylene yarn and High Tenacity yarn of Nylon - H.S. Code 5402.1000, 5402.3100, 5402.3200, 5402.3900, 5402.4100, 5402.4900, 5402.5100, 5402.5900, 5402.6100 and 5402.6900
 
-34.     All types of Foot wears and Bags including suitcases of leather and plastics – H.S. Codes 6401.1000 – 6405.9000 and 4202.1100 – 4202.9900 (but excluding safety shoes used in oil Industries, Sports shoes, all Completely knocked down (CKD ) and parts of footwears, bags and suitcases, for a period of two years only).
+34. All types of Foot wears and Bags including suitcases of leather and plastics – H.S. Codes 6401.1000 – 6405.9000 and 4202.1100 – 4202.9900 (but excluding safety shoes used in oil Industries, Sports shoes, all Completely knocked down (CKD ) and parts of footwears, bags and suitcases, for a period of two years only).
 
-35.     Cutlasses, Axes, Pick axes, spades, shovels and similar tools – H.S. Codes 8201.1000 – 8201.9000.
+35. Cutlasses, Axes, Pick axes, spades, shovels and similar tools – H.S. Codes 8201.1000 – 8201.9000.
 
-36.     Used Compressors – H.S. Code 8414.3000, Used Air Conditioners – H.S. Code 8415.1000 – 8415.9000 and Used Fridges/Freezers – H.S. Code 8418.1000 – 8418.6900.
+36. Used Compressors – H.S. Code 8414.3000, Used Air Conditioners – H.S. Code 8415.1000 – 8415.9000 and Used Fridges/Freezers – H.S. Code 8418.1000 – 8418.6900.
 
-37.     Used Motor Vehicles above eight (8) years from the year of manufacture – H.S. Code 8703.1000 – 8703.9000. Need for further clarification,
+37. Used Motor Vehicles above eight (8) years from the year of manufacture – H.S. Code 8703.1000 – 8703.9000. Need for further clarification,
 
-38.     Fully built and CKD Bicycles, Frames, Forks, Rims and Mudguards, H.S.
+38. Fully built and CKD Bicycles, Frames, Forks, Rims and Mudguards, H.S.
 
 Codes8712.0000, 8714.9100, 8714.9200 and 8714.9900. Bonafide Assemblers are to import other parts not banned and source their Rims, Frames, forks and Mudguards locally.
 
-39.     Wheel Barrows – H. S. Code 8716.8000
+39. Wheel Barrows – H. S. Code 8716.8000
 
-40.     Furniture – H.S. Code 9401.1000 – 9401.9000 and 9403.1000 – 9404.9000, But excluding Stadium Chairs and all fittings & accessories used in furniture making, falling in other chapters of the nomenclature e.g. Chap. 83.
+40. Furniture – H.S. Code 9401.1000 – 9401.9000 and 9403.1000 – 9404.9000, But excluding Stadium Chairs and all fittings & accessories used in furniture making, falling in other chapters of the nomenclature e.g. Chap. 83.
 
-41.     Electric generating sound proof casings – H.S. Code 9406.0000 but excluding other prefabricated buildings.
+41. Electric generating sound proof casings – H.S. Code 9406.0000 but excluding other prefabricated buildings.
 
-42.     Gaming Machines – H.S. Code 9504.3000.
+42. Gaming Machines – H.S. Code 9504.3000.
 
-43.     Ball Point Pens – H.S. Code 9608.1000.
+43. Ball Point Pens – H.S. Code 9608.1000.
 
-44.     Hollow Glass Bottles of a capacity exceeding 150mls (0.15 litres) of a kind used for packaging of beverages by breweries and other beverage and drink companies – H.S. Code 7010.9100 – 7010.9300.
+44. Hollow Glass Bottles of a capacity exceeding 150mls (0.15 litres) of a kind used for packaging of beverages by breweries and other beverage and drink companies – H.S. Code 7010.9100 – 7010.9300.
 
 SCHEDULE 4
 
@@ -21178,91 +21178,91 @@ GOODS: THE IMPORTATION OF WHICH IS ABSOLUTELY PROHIBITED
 
 ABSOLUTEPROHIBITION (OTHER THAN TRADE)
 
-1.       Air pistols
+1. Air pistols
 
-2.       Airmail photographic printing paper
+2. Airmail photographic printing paper
 
-3.       Base or counterfeit coin of any country
+3. Base or counterfeit coin of any country
 
-4.       Beads composed of inflammable celluloid or other similar substances
+4. Beads composed of inflammable celluloid or other similar substances
 
-5.       Blank invoices
+5. Blank invoices
 
-6.       Coupons for foreign football pools or other betting arrangements
+6. Coupons for foreign football pools or other betting arrangements
 
-7.       Cowries
+7. Cowries
 
-8.       Exhausted tea or tea mixed with other substances. For the purposes of this item, “exhausted tea” means any tea which has been deprived of its proper quality, strength or virtue by steeping, infusion, decoction or other means.
+8. Exhausted tea or tea mixed with other substances. For the purposes of this item, “exhausted tea” means any tea which has been deprived of its proper quality, strength or virtue by steeping, infusion, decoction or other means.
 
-9.       Implements appertaining to the reloading of cartridges.
+9. Implements appertaining to the reloading of cartridges.
 
-10.     Indecent or obscene prints, paintings, books, cards, engravings or any indecent or obscene articles.
+10. Indecent or obscene prints, paintings, books, cards, engravings or any indecent or obscene articles.
 
-11.     Manilas
+11. Manilas
 
-12.     Matches made with white phosphorous
+12. Matches made with white phosphorous
 
-13.     Materials of any description with a design which, considering the purpose for which any such material is intended to be used, is likely in the opinion of the President to create a breach of the peace or to offend the religious views of any class of persons in Nigeria.
+13. Materials of any description with a design which, considering the purpose for which any such material is intended to be used, is likely in the opinion of the President to create a breach of the peace or to offend the religious views of any class of persons in Nigeria.
 
-14.     Meat, vegetables or other provisions declared by a health officer to be unfit for human consumption.
+14. Meat, vegetables or other provisions declared by a health officer to be unfit for human consumption.
 
-15.     Piece goods and all other textiles including wearing apparel, hardware of all kinds crockery and china or earthenware goods bearing inscriptions (whether in Roman or Arabic characters) from the Koran or from the traditions and commentaries on the Koran.
+15. Piece goods and all other textiles including wearing apparel, hardware of all kinds crockery and china or earthenware goods bearing inscriptions (whether in Roman or Arabic characters) from the Koran or from the traditions and commentaries on the Koran.
 
-16.     Pistols disguised in any form.
+16. Pistols disguised in any form.
 
-17.     Second-hand clothing.
+17. Second-hand clothing.
 
-18.     Silver or metal alloy coins not being legal tender in Nigeria.
+18. Silver or metal alloy coins not being legal tender in Nigeria.
 
-19.     Spirits-
+19. Spirits-
 
-(1)     Other than-
+(1) Other than-
 
-(a)     alcoholic bitters, liqueurs, cordials and mixtures admitted as such in his discretion by the Comptroller-General and which are not deemed to be injurious spirits within the meaning of any enactment or law relating to liquor or liquor licensing;
+(a) alcoholic bitters, liqueurs, cordials and mixtures admitted as such in his discretion by the Comptroller-General and which are not deemed to be injurious spirits within the meaning of any enactment or law relating to liquor or liquor licensing;
 
-(b)     brandy, i.e. a spirit-
+(b) brandy, i.e. a spirit-
 
-(i)      distilled in grape-growing countries from fermented grape juice and from no other materials; and
+(i) distilled in grape-growing countries from fermented grape juice and from no other materials; and
 
-(ii)     stored in wood for a period of three years;
+(ii) stored in wood for a period of three years;
 
-(c)     drugs and medicinal spirits admitted as such in his discretion by the Comptroller-General:
+(c) drugs and medicinal spirits admitted as such in his discretion by the Comptroller-General:
 
-(d)     gin, i.e. a spirit-
+(d) gin, i.e. a spirit-
 
-(i)      produced by distillation from a mixed mash of cereal grains only saccharified by the diastase of malt and then flavoured by re-distillation with juniper berries and other vegetable ingredients and of a brand which has been notified as an approved brand by notice in the Gazette and in containers labeled with the name and address of the owner of the brand; or
+(i) produced by distillation from a mixed mash of cereal grains only saccharified by the diastase of malt and then flavoured by re-distillation with juniper berries and other vegetable ingredients and of a brand which has been notified as an approved brand by notice in the Gazette and in containers labeled with the name and address of the owner of the brand; or
 
-(ii)     produced by distillation at least three times in a pot-still from mixed mash or barley, rye and maize saccharified by the diastase of malt and then rectified by re-distillation in a pot-still after the addition of juniper berries and other vegetable materials;
+(ii) produced by distillation at least three times in a pot-still from mixed mash or barley, rye and maize saccharified by the diastase of malt and then rectified by re-distillation in a pot-still after the addition of juniper berries and other vegetable materials;
 
-(e)     methylated or denatured spirit, i.e.-
+(e) methylated or denatured spirit, i.e.-
 
-(i)      mineralized methylated spirit mixed as follows:- to every ninety parts by volume of spirits nine and one-half parts by volume of wood naphtha and one-half of one part by volume of crude pyridine and to every 455 litres of the mixture 1.7 litres of mineral naphtha or petroleum oil and not less than 0.7 grammes by weight of powdered aniline dye (methyl violet) and so in proportion for any quantity less than 455 litres; and
+(i) mineralized methylated spirit mixed as follows:- to every ninety parts by volume of spirits nine and one-half parts by volume of wood naphtha and one-half of one part by volume of crude pyridine and to every 455 litres of the mixture 1.7 litres of mineral naphtha or petroleum oil and not less than 0.7 grammes by weight of powdered aniline dye (methyl violet) and so in proportion for any quantity less than 455 litres; and
 
-(ii)     industrial methylated spirits imported under licence from the Comptroller-General and mixed as follows:- to every ninety-five parts by volume of spirits five parts by volume of wood naphtha and also one-half of one part by volume of the mixture; and
+(ii) industrial methylated spirits imported under licence from the Comptroller-General and mixed as follows:- to every ninety-five parts by volume of spirits five parts by volume of wood naphtha and also one-half of one part by volume of the mixture; and
 
-(iii)    spirits denatured for a particular purpose in such manner as the Comptroller-General in any special circumstance may permit;
+(iii) spirits denatured for a particular purpose in such manner as the Comptroller-General in any special circumstance may permit;
 
-(f)      Perfumed spirits
+(f) Perfumed spirits
 
-(g)     rum, i.e. a spirit
+(g) rum, i.e. a spirit
 
-(i)      distilled direct from sugar-cane products in sugar-cane growing countries; and
+(i) distilled direct from sugar-cane products in sugar-cane growing countries; and
 
-(ii)     Stored in wood for a period of three years.
+(ii) Stored in wood for a period of three years.
 
-(h)     spirits imported for medical or scientific purposes, subject to such conditions as the Comptroller-General may prescribe;
+(h) spirits imported for medical or scientific purposes, subject to such conditions as the Comptroller-General may prescribe;
 
-(i)      spirits totally unfit for use as potable spirits admitted to entry as such in the discretion by the Comptroller-General; and
+(i) spirits totally unfit for use as potable spirits admitted to entry as such in the discretion by the Comptroller-General; and
 
-(j)      whisky, i.e. a spirit-
+(j) whisky, i.e. a spirit-
 
-(i)      obtained by distillation from a mash or cereal grains saccharified by the diastase of malt; and
+(i) obtained by distillation from a mash or cereal grains saccharified by the diastase of malt; and
 
-(ii)     stored in wood for a period of three years.
+(ii) stored in wood for a period of three years.
 
-(2)     Containing more than forty-eight and one-half per centum of pure alcohol by volume except denatured, medicated and perfumed spirits, and such other spirits which the Comptroller-General, in his discretion, may allow to be imported subject to such conditions as he may see fit to impose.
+(2) Containing more than forty-eight and one-half per centum of pure alcohol by volume except denatured, medicated and perfumed spirits, and such other spirits which the Comptroller-General, in his discretion, may allow to be imported subject to such conditions as he may see fit to impose.
 
-(3)     Weapons of any description which in the opinion of the Comptroller- General are designed for the discharge of any noxious liquid, gas or other similar substance and any ammunition containing or in the opinion of the Comptroller-General or adapted to contain any noxious liquid, gas or other similar substances.
+(3) Weapons of any description which in the opinion of the Comptroller- General are designed for the discharge of any noxious liquid, gas or other similar substance and any ammunition containing or in the opinion of the Comptroller-General or adapted to contain any noxious liquid, gas or other similar substances.
 
 SCHEDULE 5
 
@@ -21270,31 +21270,31 @@ GOODSLIABLE TO EXCISE DUTY
 
 Serial H.S. Code Description Duty Rate No.
 
-1.       2203.0000.00 Beer and stout 20
+1. 2203.0000.00 Beer and stout 20
 
-2.       2204.1000.00 -2206.0000.00 Wines 40
+2. 2204.1000.00 -2206.0000.00 Wines 40
 
-3.       2208.2200.00 -2208.9000.00 Spirits 40
+3. 2208.2200.00 -2208.9000.00 Spirits 40
 
-4.       2402.1000.00 -2402.9000.00, 2403.1000.00 -2403.9900.00 Cigarettes and Tobacco 40
+4. 2402.1000.00 -2402.9000.00, 2403.1000.00 -2403.9900.00 Cigarettes and Tobacco 40
 
 SCHEDULE 6
 
 EXPORTPROHIBITION LIST
 
-1.       Maize (H.S. 1005.1000.00 – 1005.9000.00)
+1. Maize (H.S. 1005.1000.00 – 1005.9000.00)
 
-2.       Unprocessed Rubber Latex and Lump (H.S. 4001.1000.00 – 4001.3000.00)
+2. Unprocessed Rubber Latex and Lump (H.S. 4001.1000.00 – 4001.3000.00)
 
-3.       Raw Hide/Skin including Wet Blue and unprocessed Leather (H.S. 4101.2000.00 – 4106.9200.00)
+3. Raw Hide/Skin including Wet Blue and unprocessed Leather (H.S. 4101.2000.00 – 4106.9200.00)
 
-4.       Timber, Rough/Sawn (H.S. 4401.1000.00, 4403.1000.00 – 4403.9000.00, 4407.1000.00 – 4407.9900.00)
+4. Timber, Rough/Sawn (H.S. 4401.1000.00, 4403.1000.00 – 4403.9000.00, 4407.1000.00 – 4407.9900.00)
 
-5.       Scrap Metal (Chapter 72 – 81)
+5. Scrap Metal (Chapter 72 – 81)
 
-6.       Artifacts & Antinquities
+6. Artifacts & Antinquities
 
-7.       Wildlife Animal classified as endangered spicies and their products e.g. Crocodile, Elephant, Lizard etc.
+7. Wildlife Animal classified as endangered spicies and their products e.g. Crocodile, Elephant, Lizard etc.
 
 SCHEDULE 7
 
@@ -21302,11 +21302,11 @@ GOODSEXEMPTED FROM EXCISE DUTY
 
 Thefollowing goods are exempted from excise duty –
 
-(a)     goods exported;
+(a) goods exported;
 
-(b)     goods used in the manufacture of other excisable products where excise duty will be paid on the final products; and
+(b) goods used in the manufacture of other excisable products where excise duty will be paid on the final products; and
 
-(c)     goods which have become spoilt or otherwise unfit for use prior to delivery from the entered premises and so certified by the appropriate health officer or otherwise so established to the satisfaction of the Comptroller General of Customs and Excise.
+(c) goods which have become spoilt or otherwise unfit for use prior to delivery from the entered premises and so certified by the appropriate health officer or otherwise so established to the satisfaction of the Comptroller General of Customs and Excise.
 
 SCHEDULE 8
 
@@ -21314,19 +21314,19 @@ VALUE OF GOODS FOR THE PURPOSES OF EXCISE DUTY
 
 The value of goods liable to excise duty shall be: –
 
-(a)     the price declared by the manufacturer to be the price, exclusive of excise duty and before reduction of trade discounts, at which the goods liable to duty are ordinarily sold by him ex-factory; or
+(a) the price declared by the manufacturer to be the price, exclusive of excise duty and before reduction of trade discounts, at which the goods liable to duty are ordinarily sold by him ex-factory; or
 
-(b)     the distributor’s wholesale price, where the manufacturer is a distributor or where the manufacturer and the distributor are associated companies; or
+(b) the distributor’s wholesale price, where the manufacturer is a distributor or where the manufacturer and the distributor are associated companies; or
 
-(c)     the retail price, where the associated company or the manufacturer sells retail; or
+(c) the retail price, where the associated company or the manufacturer sells retail; or
 
-(d)     if it appears to the Board that the price so declared is less than the cost of manufacture of the goods and all profits taken or to be taken by the manufacturer in respect thereof, a sum which, in the opinion of the Board is equal to such cost together with such profit; or
+(d) if it appears to the Board that the price so declared is less than the cost of manufacture of the goods and all profits taken or to be taken by the manufacturer in respect thereof, a sum which, in the opinion of the Board is equal to such cost together with such profit; or
 
-(e)     in the case of cigarettes:-
+(e) in the case of cigarettes:-
 
-(i)      the manufacturer’s net ex-factory price excludes excise; or
+(i) the manufacturer’s net ex-factory price excludes excise; or
 
-(ii)     if it appears to the Board that the price so declared is less than the cost of manufacture of the cigarettes together with the excise duty thereon; and all profits taken or to be taken by the manufacturer in respect thereof, then a sum which in the opinion of the Board is equal to such costs together with such excise duty and profits.
+(ii) if it appears to the Board that the price so declared is less than the cost of manufacture of the cigarettes together with the excise duty thereon; and all profits taken or to be taken by the manufacturer in respect thereof, then a sum which in the opinion of the Board is equal to such costs together with such excise duty and profits.
 
 INTERNATIONALCONVENTION ON
 
@@ -21368,21 +21368,21 @@ DEFINITIONS
 
 For the purpose of this Convention:
 
-(a)     the “Harmonized Commodity Description and Coding System”, hereinafter referred to as the “Harmonized System”, means the Nomenclature comprising the headings and sub-headings and their related numerical codes, the Section, Chapter and Subheading Notes and the General Rules for the interpretation of the Harmonized System, set out in the Annex to this Convention;
+(a) the “Harmonized Commodity Description and Coding System”, hereinafter referred to as the “Harmonized System”, means the Nomenclature comprising the headings and sub-headings and their related numerical codes, the Section, Chapter and Subheading Notes and the General Rules for the interpretation of the Harmonized System, set out in the Annex to this Convention;
 
-(b)     “Customs tariff nomenclature” means the nomenclature established under the legislation of a Contracting Party for the purposes of levying duties of Customs on imported goods;
+(b) “Customs tariff nomenclature” means the nomenclature established under the legislation of a Contracting Party for the purposes of levying duties of Customs on imported goods;
 
-(c)     “statistical nomenclatures” means goods nomenclatures established by a Contracting Party for the collection of data for import and export trade statistics;
+(c) “statistical nomenclatures” means goods nomenclatures established by a Contracting Party for the collection of data for import and export trade statistics;
 
-(d)     “combined tariff/statistical nomenclature” means a nomenclature, integrating Customs tariff and statistical nomenclatures, legally required by a Contracting Party for the declaration of goods at importation;
+(d) “combined tariff/statistical nomenclature” means a nomenclature, integrating Customs tariff and statistical nomenclatures, legally required by a Contracting Party for the declaration of goods at importation;
 
-(e)     “the Convention establishing the Council” means the Convention establishing a Customs Co-operation Council, done at Brussels on 15th December, 1950;
+(e) “the Convention establishing the Council” means the Convention establishing a Customs Co-operation Council, done at Brussels on 15th December, 1950;
 
-(f)      “the Council” means the Customs Co-operation Council referred to in paragraph (e) above;
+(f) “the Council” means the Customs Co-operation Council referred to in paragraph (e) above;
 
-(g)     “the Secretary-General” means the Secretary-General of the Council;
+(g) “the Secretary-General” means the Secretary-General of the Council;
 
-(h)     the term “ratification” means ratification, acceptance or approval.
+(h) the term “ratification” means ratification, acceptance or approval.
 
 ARTICLE 2
 
@@ -21394,41 +21394,41 @@ ARTICLE 3
 
 OBLIGATIONSOF CONTRACTING PARTIES
 
-1.       Subject to the exceptions enumerated in Article 4:
+1. Subject to the exceptions enumerated in Article 4:
 
-(a)     Each Contracting Party undertakes, except as provided in sub-paragraph (c) of this paragraph, that from the date on which this Convention enters into force in respect of it, its Customs tariff and statistical nomenclatures shall be in conformity with the Harmonized System. It thus undertakes that, in respect of its Customs tariff and statistical nomenclatures:
+(a) Each Contracting Party undertakes, except as provided in sub-paragraph (c) of this paragraph, that from the date on which this Convention enters into force in respect of it, its Customs tariff and statistical nomenclatures shall be in conformity with the Harmonized System. It thus undertakes that, in respect of its Customs tariff and statistical nomenclatures:
 
-(i)      it shall use all the headings and sub-headings of the Harmonized System without addition or modification, together with their related numerical codes;
+(i) it shall use all the headings and sub-headings of the Harmonized System without addition or modification, together with their related numerical codes;
 
-(ii)     it shall apply the General Rules for the interpretation of the Harmonized System and all the Section, Chapter and sub-heading Notes, and shall not modify the scope of the Sections, Chapters, headings or sub-headings of the Harmonized System; and
+(ii) it shall apply the General Rules for the interpretation of the Harmonized System and all the Section, Chapter and sub-heading Notes, and shall not modify the scope of the Sections, Chapters, headings or sub-headings of the Harmonized System; and
 
-(iii)    it shall follow the numerical sequence of the Harmonized System.
+(iii) it shall follow the numerical sequence of the Harmonized System.
 
-(b)     Each Contracting Party shall also make publicly available its import and export trade statistics in conformity with the six-digit codes of the Harmonized System, or on the initiative of the Contracting Party, beyond that level, to the extent that publication is not precluded for exceptional reasons such as commercial confidentiality or national security;
+(b) Each Contracting Party shall also make publicly available its import and export trade statistics in conformity with the six-digit codes of the Harmonized System, or on the initiative of the Contracting Party, beyond that level, to the extent that publication is not precluded for exceptional reasons such as commercial confidentiality or national security;
 
-(c)     Nothing in this Article shall require a Contracting Party to use the sub-headings of the Harmonized System in its Customs tariff nomenclature provided that it meets the obligations at (a), (i), (a) (ii) and (a) (iii) above in a combined tariff/statistical nomenclature.
+(c) Nothing in this Article shall require a Contracting Party to use the sub-headings of the Harmonized System in its Customs tariff nomenclature provided that it meets the obligations at (a), (i), (a) (ii) and (a) (iii) above in a combined tariff/statistical nomenclature.
 
-2.       In complying with the undertakings at paragraph 1 (a) of this Article, each Contracting Party may make such textual adaptations as may be necessary to give effect to the Harmonized System in its domestic law.
+2. In complying with the undertakings at paragraph 1 (a) of this Article, each Contracting Party may make such textual adaptations as may be necessary to give effect to the Harmonized System in its domestic law.
 
-3.       Nothing in this Article shall prevent a Contracting Party from establishing, in its Customs tariff or statistical nomenclatures, sub-divisions classifying goods beyond the level of the Harmonized System, provided that any such sub-division is added and coded at a level beyond that of the six-digit numerical code set out in the Annex to this Convention.
+3. Nothing in this Article shall prevent a Contracting Party from establishing, in its Customs tariff or statistical nomenclatures, sub-divisions classifying goods beyond the level of the Harmonized System, provided that any such sub-division is added and coded at a level beyond that of the six-digit numerical code set out in the Annex to this Convention.
 
 ARTICLE 4
 
 ### PARTIALAPPLICATION BY DEVELOPING COUNTRIES
 
-1.       Any developing country Contracting Party may delay its application of some or all of the subheadings of the Harmonized System for such period as may be necessary, having regard to its pattern of international trade or its administrative resources.
+1. Any developing country Contracting Party may delay its application of some or all of the subheadings of the Harmonized System for such period as may be necessary, having regard to its pattern of international trade or its administrative resources.
 
-2.       A developing country Contracting Party which elects to apply the Harmonized System partially under the provisions of this Article agrees to make its best efforts towards the application of the full six-digit Harmonized System within five years of the date on which this Convention enters into force in respect of it or within such further period as it may consider necessary having regard to the provisions of paragraph 1 of this Article.
+2. A developing country Contracting Party which elects to apply the Harmonized System partially under the provisions of this Article agrees to make its best efforts towards the application of the full six-digit Harmonized System within five years of the date on which this Convention enters into force in respect of it or within such further period as it may consider necessary having regard to the provisions of paragraph 1 of this Article.
 
-3.       A developing country Contracting Party which elects to apply the Harmonized System partially under the provisions o this Article shall apply all or none of the two-dash subheadings of any one one-dash sub-heading or all or non of the one-dash sub-headings of any one heading.
+3. A developing country Contracting Party which elects to apply the Harmonized System partially under the provisions o this Article shall apply all or none of the two-dash subheadings of any one one-dash sub-heading or all or non of the one-dash sub-headings of any one heading.
 
 In such cases of partial application, the sixth digit or the fifth and sixth digits of that part of the Harmonized System code not applied shall be replaced by “0” or “00” respectively.
 
-4.       A developing country which elects to apply the Harmonized System partially under the provisions of this Article shall on becoming a Contracting Party notify the Secretary- General of those sub-headings which it will not apply on the date when this Convention enters into force in respect of it and shall also notify the Secretary-General of those sub-headings which it applies thereafter.
+4. A developing country which elects to apply the Harmonized System partially under the provisions of this Article shall on becoming a Contracting Party notify the Secretary- General of those sub-headings which it will not apply on the date when this Convention enters into force in respect of it and shall also notify the Secretary-General of those sub-headings which it applies thereafter.
 
-5.       A developing country which elects to apply the Harmonized System partially under the provisions of this Article may on becoming a Contracting Party notify the Secretary- General that it formally undertakes to apply the full six-digit Harmonized System within three years of the date when this Convention enters into force in respect of it.
+5. A developing country which elects to apply the Harmonized System partially under the provisions of this Article may on becoming a Contracting Party notify the Secretary- General that it formally undertakes to apply the full six-digit Harmonized System within three years of the date when this Convention enters into force in respect of it.
 
-6.       Any developing country Contracting Party which partially applies the Harmonized System under the provisions of this Articles shall be relieved from its obligations under Article 3 in relation to the sub-headings not applied.
+6. Any developing country Contracting Party which partially applies the Harmonized System under the provisions of this Articles shall be relieved from its obligations under Article 3 in relation to the sub-headings not applied.
 
 ARTICLE 5
 
@@ -21440,55 +21440,55 @@ ARTICLE 6
 
 HARMONIZEDSYSTEM COMMITTEE
 
-1.       There shall be established under this Convention a Committee to be known as the Harmonized System Committee, composed of representatives from each of the Contracting Parties.
+1. There shall be established under this Convention a Committee to be known as the Harmonized System Committee, composed of representatives from each of the Contracting Parties.
 
-2.       It shall normally meet at least twice each year.
+2. It shall normally meet at least twice each year.
 
-3.       Its meetings shall be convened by the Secretary-General and, unless the Contracting Parties otherwise decide, shall be held at the Headquarters of the Council.
+3. Its meetings shall be convened by the Secretary-General and, unless the Contracting Parties otherwise decide, shall be held at the Headquarters of the Council.
 
-4.       In the Harmonized System Committee each Contracting Party shall have the right to one vote; nevertheless, for the purposes of this Convention and without prejudice to any future Convention, where a Customs or Economic Union as well as one or more of its Member States are Contracting Parties such Contracting Parties shall together exercise only one vote.
+4. In the Harmonized System Committee each Contracting Party shall have the right to one vote; nevertheless, for the purposes of this Convention and without prejudice to any future Convention, where a Customs or Economic Union as well as one or more of its Member States are Contracting Parties such Contracting Parties shall together exercise only one vote.
 
 Similarly,where all the Member States of a Customs or Economic Union which is eligible to become a Contracting Party under the provisions of Article 11 (b) become Contracting Parties, they shall together exercise only one vote.
 
-5.       The Harmonized System Committee shall elect its own Chairman and one or more Vice- Chairman.
+5. The Harmonized System Committee shall elect its own Chairman and one or more Vice- Chairman.
 
-6.       It shall draw up its own Rules of Procedure by decision taken by not less than twothirds of the votes attributed to its members. The Rules of Procedure so drawn up shall be approved by the Council.
+6. It shall draw up its own Rules of Procedure by decision taken by not less than twothirds of the votes attributed to its members. The Rules of Procedure so drawn up shall be approved by the Council.
 
-7.       It shall invite such inter-governmental other international organization as it may consider appropriate to participate as observers in its work.
+7. It shall invite such inter-governmental other international organization as it may consider appropriate to participate as observers in its work.
 
-8.       It shall set up Sub-Committees or Working parties as needed, having regard, in particular, to the provisions of paragraph 1 (a) of Article 7, and it shall determine the membership, voting rights and rules of Procedure for such Sub-Committees or Working Parties.
+8. It shall set up Sub-Committees or Working parties as needed, having regard, in particular, to the provisions of paragraph 1 (a) of Article 7, and it shall determine the membership, voting rights and rules of Procedure for such Sub-Committees or Working Parties.
 
 ARTICLE 7
 
 FUNCTIONSOF THE COMMITTEE
 
-1.       The Harmonized System Committee, having regard to the provisions of Article 8, shall have the following functions:
+1. The Harmonized System Committee, having regard to the provisions of Article 8, shall have the following functions:
 
-(a)     to proposed such amendments to this Convention as may be considered desirable, having regards, in particular, to the needs of users and to changes in technology or in patterns of international trade;
+(a) to proposed such amendments to this Convention as may be considered desirable, having regards, in particular, to the needs of users and to changes in technology or in patterns of international trade;
 
-(a)     to prepare Explanatory Notes, Classification Opinions or other advice as guides to the interpretation of the Harmonized System;
+(a) to prepare Explanatory Notes, Classification Opinions or other advice as guides to the interpretation of the Harmonized System;
 
-(b)     prepare recommendations to secure uniformity in the interpretation and application of the Harmonized System;
+(b) prepare recommendations to secure uniformity in the interpretation and application of the Harmonized System;
 
-(c)     to collate and circulate information concerning the application of the Harmonized System;
+(c) to collate and circulate information concerning the application of the Harmonized System;
 
-(d)     on its own initiative or on request, to furnish information or guidance on any matters concerning the classification of goods in the Harmonized System to Contracting Parties, to Members of the Council and to such inter-governmental or other international organizations as the Committee may consider appropriate;
+(d) on its own initiative or on request, to furnish information or guidance on any matters concerning the classification of goods in the Harmonized System to Contracting Parties, to Members of the Council and to such inter-governmental or other international organizations as the Committee may consider appropriate;
 
-(e)     to present Reports to each Session of the Council concerning its activities, including proposed amendments, Explanatory Notes, Classification Opinions and other advice;
+(e) to present Reports to each Session of the Council concerning its activities, including proposed amendments, Explanatory Notes, Classification Opinions and other advice;
 
-(f)      to exercise such other powers and functions in relation to the Harmonized System as the Council or the Contracting Parties may deem necessary.
+(f) to exercise such other powers and functions in relation to the Harmonized System as the Council or the Contracting Parties may deem necessary.
 
-2.       Administrative decisions of the Harmonized System Committee having budgetary implications shall be subject to approval by the Council.
+2. Administrative decisions of the Harmonized System Committee having budgetary implications shall be subject to approval by the Council.
 
 ARTICLE 8
 
 ROLE OF THE COUNCIL
 
-1.       The Council shall examine proposals for amendment of this Convention, prepared by the Harmonized System Committee, and recommend them to the Contracting Parties under the procedure of Article 16 unless any Council Member which is a Contracting Party to this Convention requests that the proposals or any part thereof be referred to the Committee for reexamination.
+1. The Council shall examine proposals for amendment of this Convention, prepared by the Harmonized System Committee, and recommend them to the Contracting Parties under the procedure of Article 16 unless any Council Member which is a Contracting Party to this Convention requests that the proposals or any part thereof be referred to the Committee for reexamination.
 
-2.       The Explanatory Notes, Classification Opinions, other advice on the interpretation of the Harmonized System and recommendations to secure uniformity in the interpretation and application of the Harmonized System, prepared during a session of the Harmonized System Committee under the provisions of paragraph 1 of Article 7, shall be deemed to be approved by the Council if, not later than the end of the second month following the month during which that session was closed, no Contracting Party to this Convention has notified the Secretary-General that it requests that such matter be referred to the Council
+2. The Explanatory Notes, Classification Opinions, other advice on the interpretation of the Harmonized System and recommendations to secure uniformity in the interpretation and application of the Harmonized System, prepared during a session of the Harmonized System Committee under the provisions of paragraph 1 of Article 7, shall be deemed to be approved by the Council if, not later than the end of the second month following the month during which that session was closed, no Contracting Party to this Convention has notified the Secretary-General that it requests that such matter be referred to the Council
 
-3.       Where a matter is referred to the Council under the provisions of paragraph 2 of this Article, the Council shall approve such Explanatory Notes, Classification Opinions, other advice or recommendations, unless any Council Member which is a Contracting Party to this Convention requests that they be referred in whole or part to the Committee for re-examination.
+3. Where a matter is referred to the Council under the provisions of paragraph 2 of this Article, the Council shall approve such Explanatory Notes, Classification Opinions, other advice or recommendations, unless any Council Member which is a Contracting Party to this Convention requests that they be referred in whole or part to the Committee for re-examination.
 
 ARTICLE 9
 
@@ -21500,13 +21500,13 @@ ARTICLE 10
 
 SETTLEMENTOF DISPUTES
 
-1.       Any dispute between Contracting Parties concerning the interpretation or application of this Convention shall, so far as possible, be settled by negotiation between them.
+1. Any dispute between Contracting Parties concerning the interpretation or application of this Convention shall, so far as possible, be settled by negotiation between them.
 
-2.       Any dispute which is not so settled shall be referred by the Parties to the dispute to the Harmonized System Committee which shall thereupon consider the dispute and make recommendations for its settlement.
+2. Any dispute which is not so settled shall be referred by the Parties to the dispute to the Harmonized System Committee which shall thereupon consider the dispute and make recommendations for its settlement.
 
-3.       If the Harmonized System Committee is unable to settle the dispute, it shall refer the matter to the Council which shall make recommendations in conformity with Article III (e) of the Convention establishing the Council.
+3. If the Harmonized System Committee is unable to settle the dispute, it shall refer the matter to the Council which shall make recommendations in conformity with Article III (e) of the Convention establishing the Council.
 
-4.       The Parties to the dispute may agree in advance to accept the recommendations of the Committee or the Council as binding.
+4. The Parties to the dispute may agree in advance to accept the recommendations of the Committee or the Council as binding.
 
 ARTICLE 11
 
@@ -21514,43 +21514,43 @@ ELIGIBILITYTO BECOME A CONTRACTING PARTY
 
 The following are eligible to become Contracting Parties to this Convention:
 
-(a)     Member state of the Council;
+(a) Member state of the Council;
 
-(b)     Customs or Economic Unions to which competence has been transferred to enter into treaties in respect of some or all of the matters governed by this Convention; and
+(b) Customs or Economic Unions to which competence has been transferred to enter into treaties in respect of some or all of the matters governed by this Convention; and
 
-(c)     Any other state to which an invitation to that effect has been addressed by the Secretary-General at the Direction of the Council.
+(c) Any other state to which an invitation to that effect has been addressed by the Secretary-General at the Direction of the Council.
 
 ARTICLE 12
 
 PROCEDUREFOR BECOMING A CONTRACTING PARTY
 
-1.       Any eligible State or Customs or Economic Union may become a Contracting Party to this Convention;
+1. Any eligible State or Customs or Economic Union may become a Contracting Party to this Convention;
 
-(a)     by signing it without reservation of ratification;
+(a) by signing it without reservation of ratification;
 
-(b)     by depositing an instrument of ratification after having signed the Convention subject to ratification or;
+(b) by depositing an instrument of ratification after having signed the Convention subject to ratification or;
 
-(c)     by acceding to it after the Convention has ceased to be open for signature.
+(c) by acceding to it after the Convention has ceased to be open for signature.
 
-2.       This Convention shall be open for signature until 31st December, 1986 at the Headquarters of the Council in Brussels by the States and Customs or Economic Unions referred to in Article 11. Thereafter, it shall be open for their accession.
+2. This Convention shall be open for signature until 31st December, 1986 at the Headquarters of the Council in Brussels by the States and Customs or Economic Unions referred to in Article 11. Thereafter, it shall be open for their accession.
 
-3.       The instruments of ratification or accession shall be deposited with the Secretary- General.
+3. The instruments of ratification or accession shall be deposited with the Secretary- General.
 
 ARTICLE 13
 
 ENTRY INTO FORCE
 
-1.       This Convention shall enter into force on the first of January which falls at least twelve months but not more than twenty-four months after a minimum of seventeen States or Customs or Economic Unions referred to in Article 11 above have signed it without reservation of ratification or have deposited their instruments of ratification or accession, but not before 1st January, 1987.
+1. This Convention shall enter into force on the first of January which falls at least twelve months but not more than twenty-four months after a minimum of seventeen States or Customs or Economic Unions referred to in Article 11 above have signed it without reservation of ratification or have deposited their instruments of ratification or accession, but not before 1st January, 1987.
 
-2.       For any State or Customs or Economic Union signing without reservation of ratification, ratifying or acceding to this Convention after the minimum number specified in paragraph 1 of this Article is reached, this Convention shall enter into force on the first of January which falls at least twelve months but not more than twenty-four months after it has signed the Convention without reservation of ratification or has deposited its instrument of ratification or accession, unless it specifies an earlier date. However, the date of entry into force under the provisions of this paragraph shall not be earlier than the date of entry into force provided for in paragraph 1 of this Article.
+2. For any State or Customs or Economic Union signing without reservation of ratification, ratifying or acceding to this Convention after the minimum number specified in paragraph 1 of this Article is reached, this Convention shall enter into force on the first of January which falls at least twelve months but not more than twenty-four months after it has signed the Convention without reservation of ratification or has deposited its instrument of ratification or accession, unless it specifies an earlier date. However, the date of entry into force under the provisions of this paragraph shall not be earlier than the date of entry into force provided for in paragraph 1 of this Article.
 
 ARTICLE 14
 
 APPLICATIONBY DEPENDENT TERRITORIES
 
-1.       Any State may, at the time of becoming a Contracting Party to this Convention, or at any time thereafter, declare by notification given to the Secretary-General that the Convention shall extend to all or any of the territories for whose international relations it is responsible named in its notification. Such notification shall take effect on the first of January which falls at least twelve months but not more than twenty-four months after the date of the receipt thereof by the Secretary-General, unless an earlier date is specified in the notification. However, this Convention shall not apply to such territories before it has entered into force for the State concerned.
+1. Any State may, at the time of becoming a Contracting Party to this Convention, or at any time thereafter, declare by notification given to the Secretary-General that the Convention shall extend to all or any of the territories for whose international relations it is responsible named in its notification. Such notification shall take effect on the first of January which falls at least twelve months but not more than twenty-four months after the date of the receipt thereof by the Secretary-General, unless an earlier date is specified in the notification. However, this Convention shall not apply to such territories before it has entered into force for the State concerned.
 
-2.       This Convention shall cease to have effect for a named territory on the date when the Contracting Party ceases to be responsible for the international relations of that territory or on such earlier date as may be notified to the Secretary-General under the procedure ofm Article 15
+2. This Convention shall cease to have effect for a named territory on the date when the Contracting Party ceases to be responsible for the international relations of that territory or on such earlier date as may be notified to the Secretary-General under the procedure ofm Article 15
 
 ARTICLE 15
 
@@ -21562,21 +21562,21 @@ ARTICLE 16
 
 AMENDMENT PROCEDURE
 
-1.       The Council may recommend amendments to this Convention to the Contracting Parties.
+1. The Council may recommend amendments to this Convention to the Contracting Parties.
 
-2.       Any Contracting Party may notify the Secretary-General of an objection to a recommended amendment and may subsequently withdraw such objection within the period specified in paragraph 3 of this Article.
+2. Any Contracting Party may notify the Secretary-General of an objection to a recommended amendment and may subsequently withdraw such objection within the period specified in paragraph 3 of this Article.
 
-3.       Any recommended amendment shall be deemed to be accepted six months after the date of its notification by the Secretary-General provided that there is no objection outstanding at the end of this period.
+3. Any recommended amendment shall be deemed to be accepted six months after the date of its notification by the Secretary-General provided that there is no objection outstanding at the end of this period.
 
-4.       Accepted amendments shall enter into force for all Contracting Parties on one of the following dates:
+4. Accepted amendments shall enter into force for all Contracting Parties on one of the following dates:
 
-(a)     Where the recommended amendment is notified before 1st April, the date shall be the first of January of the second year following the date of such notification, or
+(a) Where the recommended amendment is notified before 1st April, the date shall be the first of January of the second year following the date of such notification, or
 
-(b)     Where the recommended amendment is notified on or after 1st April, the date shall be the first January of the third year following the date of such notification.
+(b) Where the recommended amendment is notified on or after 1st April, the date shall be the first January of the third year following the date of such notification.
 
-5.       The statistical nomenclatures of each Contracting Party and its Customs tariff nomenclature or, in the case provided for under paragraph 1 (c) of Article 3, it combined tariff/statistical nomenclature, shall be brought into conformity with the amended Harmonized System on the date specified in paragraph 4 of this Article.
+5. The statistical nomenclatures of each Contracting Party and its Customs tariff nomenclature or, in the case provided for under paragraph 1 (c) of Article 3, it combined tariff/statistical nomenclature, shall be brought into conformity with the amended Harmonized System on the date specified in paragraph 4 of this Article.
 
-6.       Any State or Customs or Economic Union signing without reservation of ratification, ratifying or acceding to this Convention shall be deemed to have accepted any amendments thereto which, at the date when it becomes a Contracting Party, have entered into force or have been accepted under the provisions of paragraph 3 of this article.
+6. Any State or Customs or Economic Union signing without reservation of ratification, ratifying or acceding to this Convention shall be deemed to have accepted any amendments thereto which, at the date when it becomes a Contracting Party, have entered into force or have been accepted under the provisions of paragraph 3 of this article.
 
 ARTICLE 17
 
@@ -21584,11 +21584,11 @@ RIGHTS OF CONTRACTING PARTIES IN RESPECT OF THE HARMONIZED SYSTEM
 
 On any matter affecting the Harmonized System, paragraph 4 of Article 6, Article 8 and paragraph 2 of Article 16 shall confer rights on a Contracting Party:
 
-(a)     in respect of all parts of the Harmonized System which it applies under the provisions of this Convention; or
+(a) in respect of all parts of the Harmonized System which it applies under the provisions of this Convention; or
 
-(b)     until the date when this Convention enters into force in respect of it in accordance with the provisions of Article 13, in respect of all parts of the Harmonized System which it is obligated to apply at that date under the provisions of this Convention; or
+(b) until the date when this Convention enters into force in respect of it in accordance with the provisions of Article 13, in respect of all parts of the Harmonized System which it is obligated to apply at that date under the provisions of this Convention; or
 
-(c)     in respect of all parts of the Harmonized System, provided that it has formally undertaken to apply the full six-digit Harmonized System within the period of three years referred to in paragraph 5 of Article 4 and until the expiration of that period.
+(c) in respect of all parts of the Harmonized System, provided that it has formally undertaken to apply the full six-digit Harmonized System within the period of three years referred to in paragraph 5 of Article 4 and until the expiration of that period.
 
 ARTICLE 18
 
@@ -21602,21 +21602,21 @@ NOTIFICATIONSBY THE SECRETARY-GENERAL
 
 TheSecretary-General shall notify Contracting Parties, other signatory States, Member States of the Council which are not Contracting Parties to this Convention, and the Secretary- General of the United Nations, of the following:
 
-(a)     Notification under Article 4;
+(a) Notification under Article 4;
 
-(b)     Signatures, ratifications and accessions as referred to in Article 12;
+(b) Signatures, ratifications and accessions as referred to in Article 12;
 
-(c)     The date on which the Convention shall enter into force in accordance with Article 13;
+(c) The date on which the Convention shall enter into force in accordance with Article 13;
 
-(d)     Notifications under Article 14;
+(d) Notifications under Article 14;
 
-(e)     Denunciations under Article 15;
+(e) Denunciations under Article 15;
 
-(f)      Amendments to the Convention recommended under Article 16;
+(f) Amendments to the Convention recommended under Article 16;
 
-(g)     Objections in respect of recommended amendments under Article 16, and, where appropriate, their withdrawal; and
+(g) Objections in respect of recommended amendments under Article 16, and, where appropriate, their withdrawal; and
 
-(h)     Amendments accepted under Article 16, and the date of their entry into force.
+(h) Amendments accepted under Article 16, and the date of their entry into force.
 
 ARTICLE 20
 
@@ -21642,9 +21642,9 @@ EXPLANATORY NOTE
 
 The Act:-
 
-(a)     repeals the Customs Excise Tariff e.t.c. (Consolidation) Decree 1995 as amended and
+(a) repeals the Customs Excise Tariff e.t.c. (Consolidation) Decree 1995 as amended and
 
-(b)     makes provisions for the imposition of ad valorem customs and excise duties payable on goods imported and manufactured in Nigeria basing its classification on the new Harmonized System of Customs Tariff.
+(b) makes provisions for the imposition of ad valorem customs and excise duties payable on goods imported and manufactured in Nigeria basing its classification on the new Harmonized System of Customs Tariff.
 
 PROTOCOL OF AMENDMENT TO THE INTERNATIONAL CONVENTION ON THE HARMONIZED COMMODITY DESCRIPTION AND CODING SYSTEM (done at Brussels on 24 June 1986 )
 
@@ -21656,13 +21656,13 @@ Article 1
 
 Paragraph 1 of Article 13 of the International Convention on the Harmonized Commodity Description and Coding system done at Brussels on 14 June 1983 (hereinafter referred to as “ the Convention” ) shall be replaced by the following text :
 
-1.       “This Convention shall enter into force on the earlier first of January which falls at least three months after a minimum of seventeen States or Customs or Economic Unions referred to in Article 11 above have signed it without reservation of ratification or have deposited their instrument of ratification accession, but not before 1 January 1988.”
+1. “This Convention shall enter into force on the earlier first of January which falls at least three months after a minimum of seventeen States or Customs or Economic Unions referred to in Article 11 above have signed it without reservation of ratification or have deposited their instrument of ratification accession, but not before 1 January 1988.”
 
 Article 2
 
-A.       The present protocol, shall enter into force simultaneously with the Convention provided that minimum of seventeen States or Customs or Economic Unions referred to in Article 11 of the Convention have deposited their instruments of acceptance of the Protocol with the Secretary General of the Customs Co-operation Council. However, no State or Customs or Economic Union may deposit its instrument of acceptance of the present Protocol unless it has previously signed or signs at the same time the Convention without reservation of ratification or has previously deposited or deposits at the same time its instrument of ratification of, or of accession to, the Convention.
+A. The present protocol, shall enter into force simultaneously with the Convention provided that minimum of seventeen States or Customs or Economic Unions referred to in Article 11 of the Convention have deposited their instruments of acceptance of the Protocol with the Secretary General of the Customs Co-operation Council. However, no State or Customs or Economic Union may deposit its instrument of acceptance of the present Protocol unless it has previously signed or signs at the same time the Convention without reservation of ratification or has previously deposited or deposits at the same time its instrument of ratification of, or of accession to, the Convention.
 
-B.       Any State or Customs or Economic Union becoming a Contracting Party to the Convention after the entry into force of the present Protocol under paragraph A above shall be a Contracting Party to the Convention as amended by the Protocol.
+B. Any State or Customs or Economic Union becoming a Contracting Party to the Convention after the entry into force of the present Protocol under paragraph A above shall be a Contracting Party to the Convention as amended by the Protocol.
 
 RECOMMENDATIONSCONCERNING THE AMENDMENT OF THE HARMONIZED SYSTEM
 
@@ -21686,95 +21686,95 @@ OTHER GOODS AND SERVICES EXEMPTED FROM VAT, UNDER THE VAT DECREE NO. 102 OF 1993
 
 SCHEDULE II OF THE CUSTOMS AND EXCISE TARIFF
 
-(a)     EXEMPTED DIPLOMATIC GOODS (Based on Federal Government Duty Free Concessions)
+(a) EXEMPTED DIPLOMATIC GOODS (Based on Federal Government Duty Free Concessions)
 
-1.       Aircrafts, their parts and ancillary equipment (air-conditioning plant, catering equipment, engine starting trolleys etc.)
+1. Aircrafts, their parts and ancillary equipment (air-conditioning plant, catering equipment, engine starting trolleys etc.)
 
-2.       Films of educational, scientific and cultural character imported by United Nations or any of its Agencies;
+2. Films of educational, scientific and cultural character imported by United Nations or any of its Agencies;
 
-3.       Fuel, lubricants and similar products to be used solely in the operation of aircraft of the armed forces or civil aircraft registered in a country recognized by Nigeria;
+3. Fuel, lubricants and similar products to be used solely in the operation of aircraft of the armed forces or civil aircraft registered in a country recognized by Nigeria;
 
-4.       Goods imported by voluntary organization e.g. Nigerian Red Cross Society;
+4. Goods imported by voluntary organization e.g. Nigerian Red Cross Society;
 
-5.       Goods for donation to charity;
+5. Goods for donation to charity;
 
-6.       Goods imported for the President, Commander-in-Chief of the Armed Forces of Nigeria;
+6. Goods imported for the President, Commander-in-Chief of the Armed Forces of Nigeria;
 
-7.       Goods imported for Consular Officers;
+7. Goods imported for Consular Officers;
 
-8.       Diplomatic Privileged Importations;
+8. Diplomatic Privileged Importations;
 
-9.       Technical assistance (Based on Customs Personal Effect Standards);
+9. Technical assistance (Based on Customs Personal Effect Standards);
 
-10.     Passengers’ baggage (e.g. passengers’ personal and household accompanying luggage);
+10. Passengers’ baggage (e.g. passengers’ personal and household accompanying luggage);
 
-11.     Patterns and samples, cut, mutilated, spoiled or otherwise rendered unmerchantable (based on Customs Standard);
+11. Patterns and samples, cut, mutilated, spoiled or otherwise rendered unmerchantable (based on Customs Standard);
 
-12.     Personal effects;
+12. Personal effects;
 
-13.     Scientific specimens, imported for public exhibition, study or research;
+13. Scientific specimens, imported for public exhibition, study or research;
 
-14.     Foodstuff;
+14. Foodstuff;
 
-15.     Church and Mosque equipment;
+15. Church and Mosque equipment;
 
-16.     Life-saving vehicles appliances including ambulances;
+16. Life-saving vehicles appliances including ambulances;
 
-17.     Medicinal preparations;
+17. Medicinal preparations;
 
-18.     Specialised Hospital and surgical equipment;
+18. Specialised Hospital and surgical equipment;
 
-19.     Military hardware and uniform;
+19. Military hardware and uniform;
 
-20.     Arms and Ammunition imported by the Nigeria Police Force;
+20. Arms and Ammunition imported by the Nigeria Police Force;
 
-21.     Plant and machinery imported for use by companies located within the Export Processing Zone (EPZ);
+21. Plant and machinery imported for use by companies located within the Export Processing Zone (EPZ);
 
-22.     Imported goods intended for duty free shops;
+22. Imported goods intended for duty free shops;
 
-23.     Goods and services consumed by Diplomats, Embassies, Foreign Missions which have reciprocal agreements with Nigeria;
+23. Goods and services consumed by Diplomats, Embassies, Foreign Missions which have reciprocal agreements with Nigeria;
 
-24.     Goods donated or obtained free under a technical assistance programme from donor international bodies or countries;
+24. Goods donated or obtained free under a technical assistance programme from donor international bodies or countries;
 
-25.     Plant, machinery and equipment purchased for gas utilization in the downstream sector of petroleum operations; and
+25. Plant, machinery and equipment purchased for gas utilization in the downstream sector of petroleum operations; and
 
-26.     Tractors, ploughs, agricultural equipment and implements purchased for agricultural projects.
+26. Tractors, ploughs, agricultural equipment and implements purchased for agricultural projects.
 
-(b)     List of Services Exempted From VAT.
+(b) List of Services Exempted From VAT.
 
-1.       Medical and health care services;
+1. Medical and health care services;
 
-2.       Services rendered by Community Banks, People’s Bank and Mortgage Institutions (interest earnings on loans by commercial bank and premiums paid to insurance companies are not Vatable;
+2. Services rendered by Community Banks, People’s Bank and Mortgage Institutions (interest earnings on loans by commercial bank and premiums paid to insurance companies are not Vatable;
 
-3.       Performance conducted by educational institutions as part of learning;
+3. Performance conducted by educational institutions as part of learning;
 
-4.       Social services (orphanages, charities, and fire fighting);
+4. Social services (orphanages, charities, and fire fighting);
 
-5.       Pure postal service (excluding giro services);
+5. Pure postal service (excluding giro services);
 
-6.       Religious services;
+6. Religious services;
 
-7.       Non-commercial cultural services;
+7. Non-commercial cultural services;
 
-8.       Overseas air transportation;
+8. Overseas air transportation;
 
-9.       Public telephone (coin operated) and telegram services. This does not include private telephone or telephone used for business or commercial purposes.
+9. Public telephone (coin operated) and telegram services. This does not include private telephone or telephone used for business or commercial purposes.
 
-(c)     Other Exempted Goods and Services which by Inference Fall within Categories
+(c) Other Exempted Goods and Services which by Inference Fall within Categories
 
-(a)     and (b) above.
+(a) and (b) above.
 
-1.       Edible or table salt;
+1. Edible or table salt;
 
-2.       Water;
+2. Water;
 
-3.       Salary or wages from employment or directors’ emolument from appointment;
+3. Salary or wages from employment or directors’ emolument from appointment;
 
-4.       Hobby activities;
+4. Hobby activities;
 
-5.       Private transactions, for example, the occasional sale of domestic or household articles, furnishing, personal effects or private motor vehicles, and
+5. Private transactions, for example, the occasional sale of domestic or household articles, furnishing, personal effects or private motor vehicles, and
 
-6.       House rent (i.e. rent on residential accommodation only).__
+6. House rent (i.e. rent on residential accommodation only).__
 
 ## Reference
 

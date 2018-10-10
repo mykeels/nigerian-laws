@@ -6,7 +6,7 @@ SECTION
 
 1.`       Enforcement of provisions of African Charter on Human and Peoples' rights.
 
-2.         Short title.
+2. Short title.
 
 SCHEDULE
 
@@ -34,9 +34,9 @@ Every individual shall be entitled to the enjoyment of the rights and freedom re
 
 Article 3
 
-1.     Every individual shall be equal before the law.
+1. Every individual shall be equal before the law.
 
-2.     Every individual shall be entitled to equal protection of the law.
+2. Every individual shall be entitled to equal protection of the law.
 
 Article 4
 
@@ -52,17 +52,17 @@ Every individual shall have the right to liberty and to the security of his pers
 
 Article 7
 
-1.     Every individual shall have the right to have his cause heard. This comprises:
+1. Every individual shall have the right to have his cause heard. This comprises:
 
-(a)    The right to an appeal to competent national organs against acts of violating his Fundamental rights as recognised and guaranteed by conventions, laws, regulations and customs in Force;
+(a) The right to an appeal to competent national organs against acts of violating his Fundamental rights as recognised and guaranteed by conventions, laws, regulations and customs in Force;
 
-(b)    The right to be presumed innocent until proved guilty by a competent court or tribunal;
+(b) The right to be presumed innocent until proved guilty by a competent court or tribunal;
 
-(c)    The right to defence, including the right to be defended by counsel of his choice;
+(c) The right to defence, including the right to be defended by counsel of his choice;
 
-(d)    The right to be tried within a reasonable time by an impartial court or tribunal.
+(d) The right to be tried within a reasonable time by an impartial court or tribunal.
 
-2.  No one may be condemned for an act or omission which did not constitute a legally punishable offence at the time it was committed. No penalty may be inflicted for an offence for which no provision was made at the time it was committed. Punishment is personal and can be imposed only on the offender.
+2. No one may be condemned for an act or omission which did not constitute a legally punishable offence at the time it was committed. No penalty may be inflicted for an offence for which no provision was made at the time it was committed. Punishment is personal and can be imposed only on the offender.
 
 Article 8
 
@@ -70,15 +70,15 @@ Freedom of conscience, the profession and free practice of religion shall be gua
 
 Article 9
 
-1.     Every individual shall have the right to receive information.
+1. Every individual shall have the right to receive information.
 
-2.     Every individual shall have the right to express and disseminate his opinions within the law.
+2. Every individual shall have the right to express and disseminate his opinions within the law.
 
 Article 10
 
-1.     Every individual shall have the right to free association provided that he abides by the law.
+1. Every individual shall have the right to free association provided that he abides by the law.
 
-2.     Subject to the obligation of solidarity provided for in Article 29 no one may be compelled to join an association.
+2. Subject to the obligation of solidarity provided for in Article 29 no one may be compelled to join an association.
 
 Article 11
 
@@ -86,23 +86,23 @@ Every individual shall have the right to assemble freely with others. The exerci
 
 Article 12
 
-1.     Every individual shall have the right to freedom of movement and residence within the borders of a State provided he abides by the law.
+1. Every individual shall have the right to freedom of movement and residence within the borders of a State provided he abides by the law.
 
-2.     Every individual shall have the right to leave any country including his own, and to return to his country. This right may only be subject to restrictions, provided for by law for the protection of national security, law and order, public health or morality.
+2. Every individual shall have the right to leave any country including his own, and to return to his country. This right may only be subject to restrictions, provided for by law for the protection of national security, law and order, public health or morality.
 
-3.     Every individual shall have the right, when persecuted to seek and obtain asylum in other countries in accordance with the laws of those countries and international conventions.
+3. Every individual shall have the right, when persecuted to seek and obtain asylum in other countries in accordance with the laws of those countries and international conventions.
 
-4.     A non-national legally admitted in a territory of a State Party to the present Charter, may only be expelled from it by virtue of a decision taken in accordance with the law.
+4. A non-national legally admitted in a territory of a State Party to the present Charter, may only be expelled from it by virtue of a decision taken in accordance with the law.
 
-5.     The mass expulsion of non-nationals shall be prohibited. Mass expulsion shall be that which is aimed at national, racial, ethnic or religious groups.
+5. The mass expulsion of non-nationals shall be prohibited. Mass expulsion shall be that which is aimed at national, racial, ethnic or religious groups.
 
 Article 13
 
-1.     Every citizen shall have the right to participate freely in the government of his country, either directly or through freely chosen representatives in accordance with provisions of the law.
+1. Every citizen shall have the right to participate freely in the government of his country, either directly or through freely chosen representatives in accordance with provisions of the law.
 
-2.     Every citizen shall have the right of equal access to the public service of his country.
+2. Every citizen shall have the right of equal access to the public service of his country.
 
-3.     Every individual shall have the right of access to public property and services in strict equality of all persons before the law.
+3. Every individual shall have the right of access to public property and services in strict equality of all persons before the law.
 
 Article 14
 
@@ -114,27 +114,27 @@ Every individual shall have the right to work under equitable and satisfactory c
 
 Article 16
 
-1.     Every individual shall have the right to enjoy the best attainable state of physical and mental health.
+1. Every individual shall have the right to enjoy the best attainable state of physical and mental health.
 
-2.     States Parties to the present Charter shall take the necessary measures to protect the health of their people and to ensure that they receive medical attention when they are sick.
+2. States Parties to the present Charter shall take the necessary measures to protect the health of their people and to ensure that they receive medical attention when they are sick.
 
 Article 17
 
-1.     Every individual shall have the right to education.
+1. Every individual shall have the right to education.
 
-2.     Every individual may freely, take part in the cultural life of his community.
+2. Every individual may freely, take part in the cultural life of his community.
 
-3.     The promotion and protection of morals and traditional values recognised by the community shall be the duty of the State.
+3. The promotion and protection of morals and traditional values recognised by the community shall be the duty of the State.
 
 Article 18
 
-1.     The family shall be the natural unit and basis of society. It shall be protected by the State which shall take care of its physical health and morals.
+1. The family shall be the natural unit and basis of society. It shall be protected by the State which shall take care of its physical health and morals.
 
-2.     The State shall have the duty to assist the family which is the custodian of morals and traditional values recognised by the community.
+2. The State shall have the duty to assist the family which is the custodian of morals and traditional values recognised by the community.
 
-3.     The State shall ensure the elimination of discrimination against women and also ensure the protection of the rights of the woman and the child as stipulated in international declarations and conventions.
+3. The State shall ensure the elimination of discrimination against women and also ensure the protection of the rights of the woman and the child as stipulated in international declarations and conventions.
 
-4.     The aged and the disabled shall also have the right to special measures of protection in keeping with their physical or moral needs.
+4. The aged and the disabled shall also have the right to special measures of protection in keeping with their physical or moral needs.
 
 Article 19
 
@@ -142,39 +142,39 @@ All peoples shall be equal. They shall enjoy the same respect and shall have the
 
 Article 20
 
-1.     All peoples shall have right to existence. They shall have the unquestionable and inalienable right to self-determination. They shall freely determine their political status and shall pursue their economic and social development according to the policy they have freely chosen.
+1. All peoples shall have right to existence. They shall have the unquestionable and inalienable right to self-determination. They shall freely determine their political status and shall pursue their economic and social development according to the policy they have freely chosen.
 
-2.     Colonised or oppressed people shall have the right to free themselves from the bonds of domination by resorting to any means recognised by the international community.
+2. Colonised or oppressed people shall have the right to free themselves from the bonds of domination by resorting to any means recognised by the international community.
 
-3.     All peoples shall have the right to the assistance of the States Parties to the present Charter in their liberation struggle against foreign domination, be it political, economic or cultural.
+3. All peoples shall have the right to the assistance of the States Parties to the present Charter in their liberation struggle against foreign domination, be it political, economic or cultural.
 
 Article 21
 
-1.     All peoples shall freely dispose of their wealth and natural resources. This right shall be exercised in the exclusive interest of the people. In no case shall a people be deprived of it.
+1. All peoples shall freely dispose of their wealth and natural resources. This right shall be exercised in the exclusive interest of the people. In no case shall a people be deprived of it.
 
-2.     In case of spoliation the disposed people shall have the right to the lawful recovery of its property as well as to an adequate compensation.
+2. In case of spoliation the disposed people shall have the right to the lawful recovery of its property as well as to an adequate compensation.
 
-3.     The free disposal of wealth and natural resources shall be exercised without prejudice to the obligation of promoting international economic co-operation based on mutual respect, equitable exchange and the principle of international law.
+3. The free disposal of wealth and natural resources shall be exercised without prejudice to the obligation of promoting international economic co-operation based on mutual respect, equitable exchange and the principle of international law.
 
-4.     States Parties to the present Charter shall individually and collectively exercise the right to free disposal of their wealth and natural resources with a view to strengthening African Unity and solidarity.
+4. States Parties to the present Charter shall individually and collectively exercise the right to free disposal of their wealth and natural resources with a view to strengthening African Unity and solidarity.
 
-5.     States Parties to the present Charter shall undertake to eliminate all forms of foreign economic exploitation particularly that practised by international monopolies so as to enable their peoples to fully benefit from the advantage derived from their national resources.
+5. States Parties to the present Charter shall undertake to eliminate all forms of foreign economic exploitation particularly that practised by international monopolies so as to enable their peoples to fully benefit from the advantage derived from their national resources.
 
 Article 22
 
-1.     All peoples shall have the right to their economic, social and cultural development with due regard to their freedom and identity and in the equal enjoyment of the common heritage of mankind.
+1. All peoples shall have the right to their economic, social and cultural development with due regard to their freedom and identity and in the equal enjoyment of the common heritage of mankind.
 
-2.     States shall have the duty, individually or collectively to ensure the exercise of the right to development.
+2. States shall have the duty, individually or collectively to ensure the exercise of the right to development.
 
 Article 23
 
-1.      All peoples shall have the right to national and international peace and security. The principles of solidarity and friendly relations implicitly affirmed by the Charter of the United Nations and reaffirmed by that of the Organisation of African Unity shall govern relations between States.
+1. All peoples shall have the right to national and international peace and security. The principles of solidarity and friendly relations implicitly affirmed by the Charter of the United Nations and reaffirmed by that of the Organisation of African Unity shall govern relations between States.
 
-2.     For the purpose of strengthening peace, solidarity and friendly relations, States Parties to the present Charter shall ensure that:
+2. For the purpose of strengthening peace, solidarity and friendly relations, States Parties to the present Charter shall ensure that:
 
-(a)    Any individual enjoying the right of asylum under Article 12 of the present Charter   shallnot engage in subversive activities against his country of origin or any other State Party to the present Charter;
+(a) Any individual enjoying the right of asylum under Article 12 of the present Charter   shallnot engage in subversive activities against his country of origin or any other State Party to the present Charter;
 
-(b)    Their territories shall not be used as bases for subversive or terrorist activities against the people of any other State Party to the present Charter.
+(b) Their territories shall not be used as bases for subversive or terrorist activities against the people of any other State Party to the present Charter.
 
 Article 24
 
@@ -190,9 +190,9 @@ States Parties to the present Charter shall have the duty to guarantee the indep
 
 Article 27
 
-1.      Every individual shall have duties towards his family and society, the State and other legally recognised communities and the international community.
+1. Every individual shall have duties towards his family and society, the State and other legally recognised communities and the international community.
 
-2.     The rights and freedom of each individual shall be exercised with due regard to the rights of others, collective security, morality and common interest.
+2. The rights and freedom of each individual shall be exercised with due regard to the rights of others, collective security, morality and common interest.
 
 Article 28
 
@@ -202,21 +202,21 @@ Article 29
 
 The individual shall also have the duty:
 
-1.     To preserve the harmonious development of the family and to work for the cohesion and respect of the family; to respect his parents at all times, to maintain them in case of need;
+1. To preserve the harmonious development of the family and to work for the cohesion and respect of the family; to respect his parents at all times, to maintain them in case of need;
 
-2.     To serve his national community by placing his physical and intellectual abilities at its service;
+2. To serve his national community by placing his physical and intellectual abilities at its service;
 
-3.     Not to compromise the security of the State whose national or resident he is;
+3. Not to compromise the security of the State whose national or resident he is;
 
-4.     To preserve and strengthen social and national solidarity, particularly when the latter is threatened;
+4. To preserve and strengthen social and national solidarity, particularly when the latter is threatened;
 
-5.     To preserve and strengthen the national independence and the territorial integrity of his country and to contribute to its defence in accordance with the law;
+5. To preserve and strengthen the national independence and the territorial integrity of his country and to contribute to its defence in accordance with the law;
 
-6.     To work to the best of his abilities and competence, and to pay taxes imposed by law in the interest of the society;
+6. To work to the best of his abilities and competence, and to pay taxes imposed by law in the interest of the society;
 
-7.     To preserve and strengthen positive African cultural values in his relations with other members of the society, in the spirit of tolerance, dialogue and consultation and, in general, to contribute to the promotion of the moral well being of society;
+7. To preserve and strengthen positive African cultural values in his relations with other members of the society, in the spirit of tolerance, dialogue and consultation and, in general, to contribute to the promotion of the moral well being of society;
 
-8.     To contribute to the best of his abilities, at all times and at all levels, to the promotion and achievement of African Unity.
+8. To contribute to the best of his abilities, at all times and at all levels, to the promotion and achievement of African Unity.
 
 ### Part II
 
@@ -232,9 +232,9 @@ An African Commission on Human and Peoples' Rights, hereinafter called "the Comm
 
 Article 31
 
-1.     The Commission shall consist of eleven members chosen from amongst African personalities of the highest reputation, known for their high morality, integrity, impartiality and competence in matters of human and peoples' rights; particular consideration being given to persons having legal experience.
+1. The Commission shall consist of eleven members chosen from amongst African personalities of the highest reputation, known for their high morality, integrity, impartiality and competence in matters of human and peoples' rights; particular consideration being given to persons having legal experience.
 
-2.     The members of the Commission shall serve in their personal capacity.
+2. The members of the Commission shall serve in their personal capacity.
 
 Article 32
 
@@ -250,9 +250,9 @@ Each State Party to the present Charter may not nominate more than two candidate
 
 Article 35
 
-1.     The Secretary-General of the Organisation of African Unity shall invite States Parties to the present Charter at least four months before the elections to nominate candidates.
+1. The Secretary-General of the Organisation of African Unity shall invite States Parties to the present Charter at least four months before the elections to nominate candidates.
 
-2.     The Secretary-General of the Organisation of African Unity shall make an alphabetical list of the persons thus nominated and communicate it to the Heads of State and Government at least one month before the elections.
+2. The Secretary-General of the Organisation of African Unity shall make an alphabetical list of the persons thus nominated and communicate it to the Heads of State and Government at least one month before the elections.
 
 Article 36
 
@@ -268,11 +268,11 @@ After their election, the members of the Commission shall make a solemn declarat
 
 Article 39
 
-1.     In case of death or resignation of a member of the Commission, the Chairman of the Commission shall immediately inform the Secretary-General of the Organisation of African Unity, who shall declare the seat vacant from the date of death or from the date on which the resignation takes effect.
+1. In case of death or resignation of a member of the Commission, the Chairman of the Commission shall immediately inform the Secretary-General of the Organisation of African Unity, who shall declare the seat vacant from the date of death or from the date on which the resignation takes effect.
 
-2.     If, in the unanimous opinion of other members of the Commission, a member has stopped discharging his duties for any reason other than a temporary absence, the Chairman of the Commission shall inform the Secretary-General of the Organisation of African Unity, who shall then declare the seat vacant.
+2. If, in the unanimous opinion of other members of the Commission, a member has stopped discharging his duties for any reason other than a temporary absence, the Chairman of the Commission shall inform the Secretary-General of the Organisation of African Unity, who shall then declare the seat vacant.
 
-3.     In each of the cases anticipated above, the Assembly of Heads of State and Government shall replace the member whose seat became vacant for the remaining period of his term unless the period is less than six months.
+3. In each of the cases anticipated above, the Assembly of Heads of State and Government shall replace the member whose seat became vacant for the remaining period of his term unless the period is less than six months.
 
 Article 40
 
@@ -284,15 +284,15 @@ The Secretary-General of the Organisation of African Unity shall appoint the Sec
 
 Article 42
 
-1.     The Commission shall elect its Chairman and Vice-Chairman for a two year period. They shall be eligible for re-election.
+1. The Commission shall elect its Chairman and Vice-Chairman for a two year period. They shall be eligible for re-election.
 
-2.     The Commission shall lay down its rules of procedure.
+2. The Commission shall lay down its rules of procedure.
 
-3.     Seven members shall form the quorum.
+3. Seven members shall form the quorum.
 
-4.     In case of an equality of votes, the Chairman shall have a casting vote.
+4. In case of an equality of votes, the Chairman shall have a casting vote.
 
-5.     The Secretary-General may attend the meetings of the Commission.
+5. The Secretary-General may attend the meetings of the Commission.
 
 He shall neither participate in deliberations nor shall he be entitled to vote. The Chairman of the Commission may, however, invite him to speak.
 
@@ -312,19 +312,19 @@ Article 45
 
 The functions of the Commission shall be-
 
-1.     To promote Human and Peoples' Rights and in particular:
+1. To promote Human and Peoples' Rights and in particular:
 
-(a)    To collect documents, undertake studies and researches on African problems in the field of human and peoples' rights, organise seminars, symposia and conferences, disseminate information, encourage national and local institutions concerned with human and peoples' rights, and should the case arise, give more its views or make recommendations to Governments;
+(a) To collect documents, undertake studies and researches on African problems in the field of human and peoples' rights, organise seminars, symposia and conferences, disseminate information, encourage national and local institutions concerned with human and peoples' rights, and should the case arise, give more its views or make recommendations to Governments;
 
-(b)   To formulate and lay down, principles and rules aimed at solving legal problems relating to human and peoples' rights and fundamental freedom upon which African Governments may base their legislations;
+(b) To formulate and lay down, principles and rules aimed at solving legal problems relating to human and peoples' rights and fundamental freedom upon which African Governments may base their legislations;
 
-(c)    Co-operate with other African and International institutions concerned with promotion and protection of human and peoples' rights;
+(c) Co-operate with other African and International institutions concerned with promotion and protection of human and peoples' rights;
 
-2.     Ensure the protection of human and peoples' rights under conditions laid down by the present Charter.
+2. Ensure the protection of human and peoples' rights under conditions laid down by the present Charter.
 
-3.      Interprete all the provisions of the present Charter at the request of a State Party, an institution of the OAU or an African organisation recognised by the OAU.
+3. Interprete all the provisions of the present Charter at the request of a State Party, an institution of the OAU or an African organisation recognised by the OAU.
 
-4.     Perform any other tasks which may be entrusted to it by the Assembly of Heads of State and Government.
+4. Perform any other tasks which may be entrusted to it by the Assembly of Heads of State and Government.
 
 Chapter III
 
@@ -354,9 +354,9 @@ The Commission can only deal with a matter submitted to it after making sure tha
 
 Article 51
 
-1.     The Commission may ask the States concerned to provide it with all relevant information.
+1. The Commission may ask the States concerned to provide it with all relevant information.
 
-2.     When the Commission is considering the matter, States concerned may be represented before it and submit written or oral representations.
+2. When the Commission is considering the matter, States concerned may be represented before it and submit written or oral representations.
 
 Article 52
 
@@ -382,19 +382,19 @@ Article 56
 
 Communications relating to human and peoples' rights referred to in Article 55 received by the Commission shall be considered if they:
 
-1.     Indicate their authors even if the latter request anonymity;
+1. Indicate their authors even if the latter request anonymity;
 
-2.     Are compatible with the Charter of the Organisation of African with the present Charter;
+2. Are compatible with the Charter of the Organisation of African with the present Charter;
 
-3.     Are not written in disparaging or insulting language directed against concerned and its institutions or to the Organisation of African Unity
+3. Are not written in disparaging or insulting language directed against concerned and its institutions or to the Organisation of African Unity
 
-4.     Are not based exclusively on news disseminated through the mass media;
+4. Are not based exclusively on news disseminated through the mass media;
 
-5.     Are sent after exhausting local remedies, if any, unless it is obvious that this procedure is unduly prolonged;
+5. Are sent after exhausting local remedies, if any, unless it is obvious that this procedure is unduly prolonged;
 
-6.     Are submitted within a reasonable period from the time local remedies are exhausted or from the date the Commission is seized of the matter; and
+6. Are submitted within a reasonable period from the time local remedies are exhausted or from the date the Commission is seized of the matter; and
 
-7.     Do not deal with cases which have been settled by these States involved in accordance with the principles of the Charter of the United Nations, or the Charter of the Organisation of African Unity or the provisions of the present Charter.
+7. Do not deal with cases which have been settled by these States involved in accordance with the principles of the Charter of the United Nations, or the Charter of the Organisation of African Unity or the provisions of the present Charter.
 
 Article 57
 
@@ -402,19 +402,19 @@ Prior to any substantive consideration, all communications shall be brought to t
 
 Article 58
 
-1.     When it appears after deliberations of the Commission that one or more communications apparently relate to special cases which reveal the existence of a series of serious or massive violations of human and peoples' rights, the Commission shall draw the attention of the Assembly of Heads of State and Government to these special cases.
+1. When it appears after deliberations of the Commission that one or more communications apparently relate to special cases which reveal the existence of a series of serious or massive violations of human and peoples' rights, the Commission shall draw the attention of the Assembly of Heads of State and Government to these special cases.
 
-2.     The Assembly of Heads of State and Government may then request the Commission to undertake an in-depth study of these cases and make a factual report, accompanied by its finding and recommendations.
+2. The Assembly of Heads of State and Government may then request the Commission to undertake an in-depth study of these cases and make a factual report, accompanied by its finding and recommendations.
 
-3.     A case of emergency duly noticed by the Commission shall be submitted by the latter to the Chairman of the Assembly of Heads of State and Government who may request an in-depth study.
+3. A case of emergency duly noticed by the Commission shall be submitted by the latter to the Chairman of the Assembly of Heads of State and Government who may request an in-depth study.
 
 Article 59
 
-1.     All measures taken within the provisions of the present Charter shall remain confidential until such a time as the Assembly of Heads of State and Government shall otherwise decide.
+1. All measures taken within the provisions of the present Charter shall remain confidential until such a time as the Assembly of Heads of State and Government shall otherwise decide.
 
-2.     However, the report shall be published by the Chairman of the Commission upon the decision of the Assembly of Heads of State and Government.
+2. However, the report shall be published by the Chairman of the Commission upon the decision of the Assembly of Heads of State and Government.
 
-3.     The report on the activities of the Commission shall be published by its Chairman after it has been considered by the Assembly of Heads of State and Government.
+3. The report on the activities of the Commission shall be published by its Chairman after it has been considered by the Assembly of Heads of State and Government.
 
 Chapter IV
 
@@ -434,11 +434,11 @@ Each State Party shall undertake to submit every two years, from the date the pr
 
 Article 63
 
-1.     The present Charter shall be open to signature, ratification or adherence of the member states of the Organisation of African Unity.
+1. The present Charter shall be open to signature, ratification or adherence of the member states of the Organisation of African Unity.
 
-2.     The instruments of ratification or adherence to the present Charter shall be deposited with the Secretary-General of the Organisation of African Unity.
+2. The instruments of ratification or adherence to the present Charter shall be deposited with the Secretary-General of the Organisation of African Unity.
 
-3.     The present Charter shall come into force three months after the reception by the Secretary-General of the instruments of ratification or adherence of a simple majority of the member states of the Organisation of African Unity.
+3. The present Charter shall come into force three months after the reception by the Secretary-General of the instruments of ratification or adherence of a simple majority of the member states of the Organisation of African Unity.
 
 ### Part III
 
@@ -446,9 +446,9 @@ General Provisions
 
 Article 64
 
-1.     After the coming into force of the present Charter, members of the Commission shall be elected in accordance with the relevant Articles of the present Charter.
+1. After the coming into force of the present Charter, members of the Commission shall be elected in accordance with the relevant Articles of the present Charter.
 
-2.     The Secretary-General of the Organisation of African Unity shall convene the first meeting of the Commission at the Headquarters of the Organisation within three months of the constitution of the Commission. Thereafter, the Commission shall be convened by its Chairman whenever necessary but at least once a year.
+2. The Secretary-General of the Organisation of African Unity shall convene the first meeting of the Commission at the Headquarters of the Organisation within three months of the constitution of the Commission. Thereafter, the Commission shall be convened by its Chairman whenever necessary but at least once a year.
 
 Article 65
 

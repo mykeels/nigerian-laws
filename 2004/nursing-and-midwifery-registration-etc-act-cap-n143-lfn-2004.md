@@ -40,19 +40,19 @@ Lagos
 
 I, ……………………………………………………………………………………………………………………formerly registered as a nurse in Nigeria and holding Certificate of Registration No. ………………………… (which certificate *is forwarded along with this application/has previously been surrendered by me) hereby apply for my name to be restored to the Register of Nurses and state as follows:
 
-(a)      That I qualified as a Nurse on the …………….day of …………………………….20…………………
+(a) That I qualified as a Nurse on the …………….day of …………………………….20…………………
 
-(b)      That immediately before the removal of my name from the register I was employed as a…….…………………………………..in………………………………………………………………………..
+(b) That immediately before the removal of my name from the register I was employed as a…….…………………………………..in………………………………………………………………………..
 
 (here state the name of the institution)
 
-(c)      That on ………………………….day of ……………………………………20……………………………….. I was accused of……………………………………………………by …………………………………………………………
+(c) That on ………………………….day of ……………………………………20……………………………….. I was accused of……………………………………………………by …………………………………………………………
 
 (herestate the accuser)
 
-(d)      That an inquiry was conducted following which the Nursing Council of Nigeria directed the removal of my name from the Register of Nurses.
+(d) That an inquiry was conducted following which the Nursing Council of Nigeria directed the removal of my name from the Register of Nurses.
 
-(e)      That this application is being made for the following reason(s)
+(e) That this application is being made for the following reason(s)
 
 …………………………………………………………………………………………………………………………
 
@@ -82,25 +82,25 @@ I,theundersigned………………………………………………………�
 
 of…………………………………………………………………………………………………………………………………………….declarethat the following are the facts of my case and the grounds on which I seek the restoration to the Register of Nurses –
 
-1.       On the …… day of ………………………………………………20…………………… my name was duly entered in the Register of Nurses by virtue of the following qualification:…………………..
+1. On the …… day of ………………………………………………20…………………… my name was duly entered in the Register of Nurses by virtue of the following qualification:…………………..
 
 …………………………………………………………………………………………………………………………………………
 
-2.       At an enquiry held on the ……………………………..day of ………………………………20……………….. the Nursing and Midwifery Council of Nigeria directed my name to be removed from the Register and my certificate be cancelled.
+2. At an enquiry held on the ……………………………..day of ………………………………20……………….. the Nursing and Midwifery Council of Nigeria directed my name to be removed from the Register and my certificate be cancelled.
 
-3.       The offence(s) for which the Nursing Council directed the removal of my name and the cancellation of my certificates was/were*…………………………………………..………………….
+3. The offence(s) for which the Nursing Council directed the removal of my name and the cancellation of my certificates was/were*…………………………………………..………………….
 
 …………………………………………………………………………………………………………………………………………
 
-4.       Since the removal of my name from the Register, I have been residing at …………………
+4. Since the removal of my name from the Register, I have been residing at …………………
 
 …………………..and my occupation has been……………………………………………..……………………...
 
-(5)      It is my intention, if my name is restored to the Register to practice as a Nurse at -
+(5) It is my intention, if my name is restored to the Register to practice as a Nurse at -
 
 …………………………………………………………………………………………………………………………………………
 
-(6)      The grounds of my application are:
+(6) The grounds of my application are:
 
 …………………………………………………………………………………………………………………………………………
 
@@ -134,21 +134,21 @@ of……………………………………………………………………
 
 certify as:
 
-1.       That I have been acquainted with…………..……………………………………………………………………..
+1. That I have been acquainted with…………..……………………………………………………………………..
 
 (herestate name of Applicant)
 
 Since*…………………………………………………………………………………………………………………………
 
-2.       That thesaid…………………………………………………………………………………………………………………….
+2. That thesaid…………………………………………………………………………………………………………………….
 
 Is the person whose name formerly stood in the Nurses Register with the following address and qualification:
 
-(a)      Address…………………………………………………………………………………………………………………
+(a) Address…………………………………………………………………………………………………………………
 
-(b)      Qualification………………………………………………………………………………………………………….
+(b) Qualification………………………………………………………………………………………………………….
 
-3.       That I have read that of Form J relating to applicant’s grounds for her application and the statements therein contained are to the best of my knowledge, information and belief, true.
+3. That I have read that of Form J relating to applicant’s grounds for her application and the statements therein contained are to the best of my knowledge, information and belief, true.
 
 …………………………………………….
 

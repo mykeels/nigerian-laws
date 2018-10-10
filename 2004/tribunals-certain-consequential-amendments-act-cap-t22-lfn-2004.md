@@ -2,67 +2,67 @@
 
 ARRANGMENT OF SECTIONS
 
-1.     List of enactments amended and extent of amendment under this Act.
+1. List of enactments amended and extent of amendment under this Act.
 
-2.     Jurisdiction to try offences created under the listed enactments.
+2. Jurisdiction to try offences created under the listed enactments.
 
-3.     Treatment of part-heard pending matters (civil and criminal).
+3. Treatment of part-heard pending matters (civil and criminal).
 
-4.     Procedure for summary trial of criminal matters brought pursuant to the enactments
+4. Procedure for summary trial of criminal matters brought pursuant to the enactments
 
-5.     Commencement of civil and criminal proceedings.
+5. Commencement of civil and criminal proceedings.
 
-6.     Proceedings under the [Act] to be given accelerated hearing.
+6. Proceedings under the [Act] to be given accelerated hearing.
 
-7.     Right of appeal to the Court of Appeal.
+7. Right of appeal to the Court of Appeal.
 
-8.    Interpretation.
+8. Interpretation.
 
-9.    Citation.
+9. Citation.
 
 The [Federal Government] hereby [enacts] as follows: -
 
-1.   The enactments specified in the first column of Parts I and II of the Schedule to this Act are amended to the extent set out in the second column of those Parts of that Schedule.
+1. The enactments specified in the first column of Parts I and II of the Schedule to this Act are amended to the extent set out in the second column of those Parts of that Schedule.
 
 2. (1) The Federal High Court or the High Court of a State, as the case may be, shall have jurisdiction to try the offences created under the enactments specified in the Schedule to this Act.
 
-(2)  Accordingly,a Tribunal established in any of the enactments specified in the Schedule to this Act is hereby dissolved.
+(2) Accordingly,a Tribunal established in any of the enactments specified in the Schedule to this Act is hereby dissolved.
 
-(3)  A charge, claim or court process filed before a Tribunal established under any of the enactments specified in the Schedule to this Act shall be deemed to have been duly filed or served before the Federal High Court or High Court of a State, as the case may be and such charge, claim and court process shall be deemed amended as to title, venue and such other matter as may be appropriate to give effect to this subsection without further assurance than this Act.
+(3) A charge, claim or court process filed before a Tribunal established under any of the enactments specified in the Schedule to this Act shall be deemed to have been duly filed or served before the Federal High Court or High Court of a State, as the case may be and such charge, claim and court process shall be deemed amended as to title, venue and such other matter as may be appropriate to give effect to this subsection without further assurance than this Act.
 
-(4)  Any order, remand, decision or judgment ma de by a Tribunal before the commencement of this Act is hereby preserved.
+(4) Any order, remand, decision or judgment ma de by a Tribunal before the commencement of this Act is hereby preserved.
 
-(5)  A decision or ju4gement of a Tribunal made before the commencement of this Act shall be enforced in accordance with the procedure or law relating to the enforcement of a decision or judgment of the Tribunal before the commencement of this Act.
+(5) A decision or ju4gement of a Tribunal made before the commencement of this Act shall be enforced in accordance with the procedure or law relating to the enforcement of a decision or judgment of the Tribunal before the commencement of this Act.
 
-(6)  Where before the commencement of this Act, a matter has been concluded in a Tribunal and the Tribunal was for any reason whatsoever unable to deliver the judgment, the judgment may be delivered by a Judge of the Federal High Court or the High Court of a State, as the case may be:
+(6) Where before the commencement of this Act, a matter has been concluded in a Tribunal and the Tribunal was for any reason whatsoever unable to deliver the judgment, the judgment may be delivered by a Judge of the Federal High Court or the High Court of a State, as the case may be:
 
 Provided that the judgment shall have been written.
 
 3. (l) Where any part-heard matter is pending before any Tribunal on the date of the making of this Act the Judge -
 
-(a)  may, if the parties to the proceedings agree in a civil cause, adopt the proceedings of the Tribunal concerned;
+(a) may, if the parties to the proceedings agree in a civil cause, adopt the proceedings of the Tribunal concerned;
 
-(b)    shall,in a criminal case, try the matter de novo pursuant to this Act.
+(b) shall,in a criminal case, try the matter de novo pursuant to this Act.
 
-(2)    All new proceedings shall be brought before the Court in accordance with the rules of procedure of the Court concerned.
+(2) All new proceedings shall be brought before the Court in accordance with the rules of procedure of the Court concerned.
 
-4.     All criminal proceedings brought before the Court relating to a matter for which the Court has jurisdiction under this Act shall be tried summarily in accordance with section 33 of the Federal High Court Acts and rules of procedure made under that Act or under the equivalent section of the relevant High Court Law of the. State concerned and rules of procedure made under that Law.
+4. All criminal proceedings brought before the Court relating to a matter for which the Court has jurisdiction under this Act shall be tried summarily in accordance with section 33 of the Federal High Court Acts and rules of procedure made under that Act or under the equivalent section of the relevant High Court Law of the. State concerned and rules of procedure made under that Law.
 
-5.     A civil or criminal proceeding may be commenced and proceeded with in any division of the Federal High Court notwithstanding the place of commission of the offence or a cause of action.
+5. A civil or criminal proceeding may be commenced and proceeded with in any division of the Federal High Court notwithstanding the place of commission of the offence or a cause of action.
 
-6.             All proceedings pursuant to this Act shall be given accelerated hearing.
+6. All proceedings pursuant to this Act shall be given accelerated hearing.
 
 7. (1) A person convicted or against whom a judgment is given under this Act may, within 30 days of the conviction or judgement, appeal to the Court of Appeal.
 
-(2)    Thereshall be a right of appeal from a decision of the Court of Appeal to the Supreme Court.
+(2) Thereshall be a right of appeal from a decision of the Court of Appeal to the Supreme Court.
 
-8.             In this Act, unless the context otherwise requires –
+8. In this Act, unless the context otherwise requires –
 
 "Court" means the Federal High Court or the High Court of a State, as the case may be;
 
 "Tribunal" means a Tribunal established under any of the enactments specified in the Schedule to this Act.
 
-9.     This Act may be cited as the Tribunals (Certain Consequential Amendments, Etc.) Act 1999.
+9. This Act may be cited as the Tribunals (Certain Consequential Amendments, Etc.) Act 1999.
 
 Schedule
 

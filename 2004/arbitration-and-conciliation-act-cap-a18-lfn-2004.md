@@ -302,11 +302,11 @@ Arbitration agreement
 
 3. An arbitration agreement shall not be invalid by reason of death of any party thereto but shall, in such an event, by enforcement by or against the personal representative of the deceased.
 
-4.         (1) A court before which an action which is the subject of an arbitration agreement is brought shall, if any party so request not later than when submitting his first statement on the substance of the dispute, order a stay of proceedings and refer the parties to arbitration.
+4. (1) A court before which an action which is the subject of an arbitration agreement is brought shall, if any party so request not later than when submitting his first statement on the substance of the dispute, order a stay of proceedings and refer the parties to arbitration.
 
 (2) Where an action referred to in subsection (1) of this section has been brought before a court, arbitral proceedings may nevertheless be commenced or continued, and an award may be made by the arbitral tribunal while the matter is pending before the court.
 
-5.         (1) If any party to an arbitration agreement commences any action in any court with respect to any matter which is the subject of an arbitration agreement any party to the arbitration agreement may, at any time after appearance and before delivering any pleadings or taking any other steps in the proceedings, apply to the court to stay the proceedings.
+5. (1) If any party to an arbitration agreement commences any action in any court with respect to any matter which is the subject of an arbitration agreement any party to the arbitration agreement may, at any time after appearance and before delivering any pleadings or taking any other steps in the proceedings, apply to the court to stay the proceedings.
 
 (2) A court to which an application is made under subsection (1) of this section may, if it is satisfied-
 
@@ -316,9 +316,9 @@ Arbitration agreement
 
 Composition of Arbitral Tribunal
 
-6.         The parties to an arbitration agreement may determine the number of arbitrators to be appointed under the agreement, but where no such determination is made, the number of arbitrators shall be deemed to be there.
+6. The parties to an arbitration agreement may determine the number of arbitrators to be appointed under the agreement, but where no such determination is made, the number of arbitrators shall be deemed to be there.
 
-7.         (1) Subject to subsection (3) and (4) of this section, the parties may specify in the arbitration agreement the procedure to be followed in appointing an arbitrator.
+7. (1) Subject to subsection (3) and (4) of this section, the parties may specify in the arbitration agreement the procedure to be followed in appointing an arbitrator.
 
 (2) Where no procedure is specified under subsection (1) of this section-
 
@@ -342,7 +342,7 @@ Composition of Arbitral Tribunal
 
 (5) The court in exercising its power of appointment under subsection (2) and (3) of this section shall have due regard to any qualifications required of arbitrator by the arbitration agreement and such other consideration as are likely to secure the appointment of an independent and impartial arbitrator.
 
-8.         (1) Any person who knows of any circumstances likely to give rise to any justifiable doubts as to his impartiality or independence shall, when approached in connection with an appointment as an arbitrator, forthwith disclose such circumstances to the parties.
+8. (1) Any person who knows of any circumstances likely to give rise to any justifiable doubts as to his impartiality or independence shall, when approached in connection with an appointment as an arbitrator, forthwith disclose such circumstances to the parties.
 
 (2) The duty to disclose imposed under subsection (1) of this section shall continue after a person has been appointed as an arbitrator and subsist throughout the arbitral proceedings unless the arbitrator had previously disclosed the circumstances to the parties.
 
@@ -352,13 +352,13 @@ Composition of Arbitral Tribunal
 
 (c) If he does not possess the qualifications agreed by the parties
 
-9.         (1) The parties may determine the procedure to be followed in challenging an arbitrator.
+9. (1) The parties may determine the procedure to be followed in challenging an arbitrator.
 
 (2) Where no procedure is determined under subsection (1) of this section, a party who intends to challenge an arbitrator shall, within fifteen days of becoming aware of the constitution of the arbitral tribunal or becoming aware of any circumstances referred to in section 8 of this Act, send the arbitral tribunal a written statement of the reasons for the challenge.
 
 (3) Unless the arbitrator who has been challenged withdraws from office or the other party agrees to the challenge, the arbitral tribunal shall decide on the challenge.
 
-10.       (1) The mandate of the arbitrator shall terminate-
+10. (1) The mandate of the arbitrator shall terminate-
 
 (a) If he withdraws from office; or
 
@@ -372,7 +372,7 @@ Composition of Arbitral Tribunal
 
 (b) A party agrees to the termination of the mandate of an arbitrator, shall not be construed as implying the existence of any ground or circumstances referred to in subsection (1) of this section or section 8(1) of this Act.
 
-11.       Where the mandate of an arbitrator terminates-
+11. Where the mandate of an arbitrator terminates-
 
 (a) Under section 9 or 10 of this Act; or
 
@@ -386,7 +386,7 @@ A substitute arbitrator shall be appointed in accordance with the same rules and
 
 Jurisdiction of Arbitral Tribunal
 
-12.       (1) An arbitral tribunal shall be competent to rule on questions pertaining to its own jurisdiction and on any objections with respect to the existence or validity of an arbitration agreement.
+12. (1) An arbitral tribunal shall be competent to rule on questions pertaining to its own jurisdiction and on any objections with respect to the existence or validity of an arbitration agreement.
 
 (2) For purposes of subsection (1) of this section, an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract and a decision by the arbitral tribunal that the contract is null and void shall not entail ipso jure the validity of the arbitration clause.
 
@@ -398,7 +398,7 @@ Jurisdiction of Arbitral Tribunal
 
 (4) The arbitral tribunal may rule on any plea referred to it under subsection (3) of this section either as a preliminary question or in an award on the merits; and such ruling shall be final and binding.
 
-13.       Unless otherwise agreed by the parties, the arbitral tribunal may before or during an arbitral proceeding-
+13. Unless otherwise agreed by the parties, the arbitral tribunal may before or during an arbitral proceeding-
 
 (a) At the request of a party, order any party to take such interim measure of protection as the arbitral tribunal may consider necessary in respect of the subject matter of the dispute; and
 
@@ -406,33 +406,33 @@ Jurisdiction of Arbitral Tribunal
 
 Conduct of Arbitral Proceedings
 
-14.       In any arbitral proceedings, the arbitral tribunal shall ensure that the parties are accorded equal treatment and that each party is given full opportunity of presenting his case.
+14. In any arbitral proceedings, the arbitral tribunal shall ensure that the parties are accorded equal treatment and that each party is given full opportunity of presenting his case.
 
-15.       (1) The arbitral proceedings shall be in accordance with the procedure contained in the Arbitration Rules set out in the first schedule to this Act.
+15. (1) The arbitral proceedings shall be in accordance with the procedure contained in the Arbitration Rules set out in the first schedule to this Act.
 
 (2) Where the rules referred to in subsection (1) of this section contain no provision in respect of any matter related to or connected to any particular arbitral proceedings, the arbitral tribunal may, subject to this Act, conduct the arbitral proceedings in such a manner as it considers appropriate so as to ensure fair hearing.
 
 (3) There power conferred on the arbitral tribunal under subsection (2) of this section, shall include the power to determine admissibly, relevance, materiality and weight of any evidence placed before it.
 
-16.       (1) Unless otherwise agreed by the parties, the place of the arbitral proceedings shall be determined by the arbitral tribunal having regard to the circumstances of the case, including the convenience of the parties.
+16. (1) Unless otherwise agreed by the parties, the place of the arbitral proceedings shall be determined by the arbitral tribunal having regard to the circumstances of the case, including the convenience of the parties.
 
 (2) Notwithstanding the provisions of subsection (1) of this section and unless otherwise agreed by the parties, the arbitral tribunal may meet at any place it considers appropriate for consultation among its members, for hearing witnesses, experts or the parties, or for the inspection of documents, goods or other property.
 
-17.       Unless otherwise agreed by the parties, the arbitral proceedings in respect of a particular dispute shall commence on the date the request to refer the dispute to arbitration is received by the other party.
+17. Unless otherwise agreed by the parties, the arbitral proceedings in respect of a particular dispute shall commence on the date the request to refer the dispute to arbitration is received by the other party.
 
-18.       (1) The parties may by agreement determine the language or languages to be used in the arbitral proceedings, but where they do not do so, the arbitral tribunal shall determine the language or languages to be used bearing in mind the relevant circumstances of the case.
+18. (1) The parties may by agreement determine the language or languages to be used in the arbitral proceedings, but where they do not do so, the arbitral tribunal shall determine the language or languages to be used bearing in mind the relevant circumstances of the case.
 
 (2) Any language or languages agreed upon by the parties or determined by the arbitral tribunal under subsection (1) of this section, shall, unless, a contrary intention is expressed by the parties or the arbitral tribunal, be the language or languages to be used in any written statement by the parties, in any hearing, award, decision or any other communication in the course of the arbitration.
 
 (3) The arbitral tribunal may order that any documentary evidence shall be accompanied by a translation into the language or languages agreed upon by the parties or determined by the arbitral tribunal under subsection (1) of this section
 
-19.       (1) The claimant shall, within the period agreed upon by the parties or determined by the arbitral tribunal, state the facts supporting his points of claim, the points at issue and the relief at remedy sought by him, and the respondent shall state his point of defence in respect of those particulars, unless the parties have otherwise agreed on the required elements of the points of claim and of defence.
+19. (1) The claimant shall, within the period agreed upon by the parties or determined by the arbitral tribunal, state the facts supporting his points of claim, the points at issue and the relief at remedy sought by him, and the respondent shall state his point of defence in respect of those particulars, unless the parties have otherwise agreed on the required elements of the points of claim and of defence.
 
 (2) The parties may submit with their statements under subsection (1) of this section, all the documents they consider to be relevant or they may add a reference to the documents, or other evidence they hope to submit at the arbitral proceedings.
 
 (3) Unless otherwise agreed by the parties, a party may amend or supplement his claim or defence during his course of the arbitral proceedings if the arbitral tribunal considers it appropriate to allow such amendment or supplement having regard to the time that has elapsed before the making of the amendment or supplement.
 
-20.       (1) Subject to any contrary agreement by the parties, the arbitral tribunal shall decide whether the arbitral proceedings shall be conducted-
+20. (1) Subject to any contrary agreement by the parties, the arbitral tribunal shall decide whether the arbitral proceedings shall be conducted-
 
 (a) By holding oral hearings for the presentation of evidence or oral arguments; or
 
@@ -450,7 +450,7 @@ Conduct of Arbitral Proceedings
 
 (6) Any party to an arbitral proceedings may issue out a writ of subpoena ad testificandum or subpoena duces tecum, but no persons shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action
 
-21.       Unless otherwise agreed by the parties, if, without showing sufficient cause-
+21. Unless otherwise agreed by the parties, if, without showing sufficient cause-
 
 (a) The claimant fails to state his claim as required under section 19(1) of this Act, the arbitral tribunal shall terminate the proceedings; or
 
@@ -458,7 +458,7 @@ Conduct of Arbitral Proceedings
 
 (c) Any party fails to appear at a hearing or to produce documentary evidence, the arbitral tribunal may continue the proceedings and make an award
 
-22.       (1) Unless otherwise agreed by the parties, the arbitral tribunal may-
+22. (1) Unless otherwise agreed by the parties, the arbitral tribunal may-
 
 (a) Appoint one or more experts to report to it on specific issues to be determined by the arbitral tribunal;
 
@@ -470,7 +470,7 @@ Conduct of Arbitral Proceedings
 
 (4) The arbitral tribunal shall decide in accordance with the terms of the contract and shall take account of the usages of the trade application to the transaction.
 
-23.       (1) The court or the judge may order that writ of subpoena ad testificandum or of subpoena duces tecum shall issue to compel the attendance before any arbitral tribunal of a witness wherever he may be within Nigeria.
+23. (1) The court or the judge may order that writ of subpoena ad testificandum or of subpoena duces tecum shall issue to compel the attendance before any arbitral tribunal of a witness wherever he may be within Nigeria.
 
 (2) The court or a judge may also order a writ of habeas corpus ad testificandum shall issue to bring up a prisoner for examination before any arbitral tribunal.
 
@@ -478,11 +478,11 @@ Conduct of Arbitral Proceedings
 
 Making an Award and Termination of Proceedings
 
-24.       (1) In an arbitral tribunal compromising more than one arbitrator, any decision of the tribunal shall, unless otherwise agreed by the parties, be made by a majority of all its members.
+24. (1) In an arbitral tribunal compromising more than one arbitrator, any decision of the tribunal shall, unless otherwise agreed by the parties, be made by a majority of all its members.
 
 (2) In any arbitral tribunal, the presiding arbitrator may, if so authorised by the parties or all the members of the arbitral tribunal, decide questions relating to the procedure to be followed at the arbitral proceeding.
 
-25.       (1) If, during the arbitral proceedings, the parties settle the dispute, the arbitral tribunal shall terminate the arbitral proceedings, and shall, if requested by the parties and not objected to by the arbitral tribunal, the settlement in the form of an arbitral award on agreed terms.
+25. (1) If, during the arbitral proceedings, the parties settle the dispute, the arbitral tribunal shall terminate the arbitral proceedings, and shall, if requested by the parties and not objected to by the arbitral tribunal, the settlement in the form of an arbitral award on agreed terms.
 
 (2) An award on agreed terms recorded under subsection (1) of this section shall-
 
@@ -490,7 +490,7 @@ Making an Award and Termination of Proceedings
 
 (b) Have the same status and effect as any other award on the merits of case.
 
-26.       (1) Any award made by the arbitral tribunal shall be in writing and signed by the arbitrator or arbitrators.
+26. (1) Any award made by the arbitral tribunal shall be in writing and signed by the arbitrator or arbitrators.
 
 (2) Where the arbitral tribunal comprises of more than one arbitrator, the signatures of a majority of all the members of the arbitral tribunal shall suffice if the reason for the absence of any signature is stated.
 
@@ -504,7 +504,7 @@ Making an Award and Termination of Proceedings
 
 (4) A copy of the award made and signed by the arbitrators in accordance with and signed by the arbitrators in accordance with subsection (1) and (2) of this section, shall be delivered to each party.
 
-27.       (1) The arbitral proceedings shall terminate when the final award is made or when an order of the arbitral is issue under subsection (2) of this section.
+27. (1) The arbitral proceedings shall terminate when the final award is made or when an order of the arbitral is issue under subsection (2) of this section.
 
 (2) The arbitral tribunal shall issue an order for the termination of the arbitral proceedings when-
 
@@ -516,7 +516,7 @@ Making an Award and Termination of Proceedings
 
 (3) Subject to the provisions of section 28 and 29(2) of this Act, the mandate of the arbitral tribunal shall cease on termination of the arbitral proceedings.
 
-28.       (1) Unless another period has been agreed upon by the parties, a party may, within thirty days of the receipt of an award and with notice to the other party, request the arbitral tribunal-
+28. (1) Unless another period has been agreed upon by the parties, a party may, within thirty days of the receipt of an award and with notice to the other party, request the arbitral tribunal-
 
 (a) To correct in the award any errors in computation, any clerical or typographical errors or any errors of a similar nature;
 
@@ -536,7 +536,7 @@ Making an Award and Termination of Proceedings
 
 Recourse Against Award
 
-29.       (1) A party who is aggrieved by an arbitral award may within three months-
+29. (1) A party who is aggrieved by an arbitral award may within three months-
 
 (a) From the date of the award; or
 
@@ -546,13 +546,13 @@ Recourse Against Award
 
 (3) the court before which an application is brought under subsection (1) of this section may, at the request of a party where appropriate, suspend proceedings for such period as it may determine to afford the arbitral tribunal an opportunity to resume the arbitral proceedings or take such other action to eliminate the grounds for setting aside of the award.
 
-30.       (1) Where an arbitrator has mis-conducted himself, or where the arbitral proceedings, or award, has been improperly procured, the court may on application of a party set aside the award.
+30. (1) Where an arbitrator has mis-conducted himself, or where the arbitral proceedings, or award, has been improperly procured, the court may on application of a party set aside the award.
 
 (2) An arbitrator who has mis-conducted himself may on the application of any party be removed by the court.
 
 Recognition and Enforcement of Awards
 
-31.       (1) An arbitral award shall be recognised as binding and subject to this section 32 of this Act, shall, upon application in writing to the court, be enforced by the court.
+31. (1) An arbitral award shall be recognised as binding and subject to this section 32 of this Act, shall, upon application in writing to the court, be enforced by the court.
 
 (2) The party relying on an award or applying for its enforcement shall supply-
 
@@ -562,37 +562,37 @@ Recognition and Enforcement of Awards
 
 (3) An award may, by leave of the court or a judge, be enforced in the same manner as a judgement or order to the same effect.
 
-32.       Any of the parties to an arbitration agreement may request the court to refuse recognition or enforcement of the award. General
+32. Any of the parties to an arbitration agreement may request the court to refuse recognition or enforcement of the award. General
 
-33.       A party who knows-
+33. A party who knows-
 
 (a) That any provision of this Act from which the parties may not derogate; or
 
 (b) That any requirement under the arbitration agreement, has not been complied with and yet proceeds with the arbitration without stating his objection to non-compliance within the time limit provided therefore shall be deemed to have waived his right to object to the non-compliance.
 
-34.       A court shall not intervene in any matter governed by this Act except where so provided in this Act.
+34. A court shall not intervene in any matter governed by this Act except where so provided in this Act.
 
-35.       This Act shall not affect any other law by virtue of which certain disputes-
+35. This Act shall not affect any other law by virtue of which certain disputes-
 
 (a) May not be submitted to arbitration; or
 
 (b) May be submitted to arbitration only in accordance with the provisions of that or another law.
 
-36.       Notwithstanding the provisions of this Act the arbitral tribunal may, if it considers it necessary, extend the time specified for the performance of any act under this Act.
+36. Notwithstanding the provisions of this Act the arbitral tribunal may, if it considers it necessary, extend the time specified for the performance of any act under this Act.
 
 ### Part II
 
 Conciliation
 
-37.       Notwithstanding the other provisions of this Act, the parties to any agreement may seek amicable settlement of any dispute in relation to the agreement by conciliation under the provisions of this part of this Act.
+37. Notwithstanding the other provisions of this Act, the parties to any agreement may seek amicable settlement of any dispute in relation to the agreement by conciliation under the provisions of this part of this Act.
 
-38.       (1) A party who wishes to initiate conciliation shall send to the other party a written request to conciliate under the provisions of this Part of this Act.
+38. (1) A party who wishes to initiate conciliation shall send to the other party a written request to conciliate under the provisions of this Part of this Act.
 
 (2) Any request sent under subsection (10 of this section shall contain a brief statement setting out the subject of the dispute.
 
-39.       The conciliation proceedings shall commence on the date the request to conciliate is accepted by the subject of the dispute.
+39. The conciliation proceedings shall commence on the date the request to conciliate is accepted by the subject of the dispute.
 
-40.       Where the request to conciliate under section 38 of this Act has been accepted, the parties shall refer the dispute to a conciliation body consisting of one or three conciliators to be appointed-
+40. Where the request to conciliate under section 38 of this Act has been accepted, the parties shall refer the dispute to a conciliation body consisting of one or three conciliators to be appointed-
 
 (a) In the case of one conciliator, jointly by the parties;
 
@@ -602,11 +602,11 @@ Conciliation
 
 (ii) The third conciliator jointly by the parties.
 
-41.       (1) The conciliation body shall acquaint itself with the details of the case and procure such other information it may require for the purpose of settling the dispute.
+41. (1) The conciliation body shall acquaint itself with the details of the case and procure such other information it may require for the purpose of settling the dispute.
 
 (2) The parties may appear in person before the conciliation body and may have legal representation.
 
-42.       (1) After the conciliation body has examined the case and heard the parties, if necessary, it shall submit its terms of settlement to the parties.
+42. (1) After the conciliation body has examined the case and heard the parties, if necessary, it shall submit its terms of settlement to the parties.
 
 (2) If the parties agree to the term of settlement submitted under subsection (1) of this section, the conciliation body shall draw up and sign a record of settlement.
 
@@ -630,9 +630,9 @@ Application of this Part of this Act and Composition
 
 of Arbitral Tribunal, etc.
 
-43.       The provision of this Part of this Act shall apply solely to cases relating to international commercial arbitration and conciliation in addition to the other provisions of this Act.
+43. The provision of this Part of this Act shall apply solely to cases relating to international commercial arbitration and conciliation in addition to the other provisions of this Act.
 
-44.       (1) If a sole arbitrator is to be appointed, either party may propose to the other the names of one or more persons, one of whom will serve as the sole arbitrator.
+44. (1) If a sole arbitrator is to be appointed, either party may propose to the other the names of one or more persons, one of whom will serve as the sole arbitrator.
 
 (2) If within thirty days after receipt by a party of a proposal made in accordance with subsection (1) of this section the parties have not reached agreement on the choice of a sole arbitrator shall be appointed by the appointing authority.
 
@@ -658,7 +658,7 @@ of Arbitral Tribunal, etc.
 
 (10) Except as otherwise agreed by the parties, no person shall be disqualified from being appointed by reason of his nationality.
 
-45.       (1) A prospective arbitrator shall disclose to those who approach him in connection with his possible appointment and circumstances likely to give rise to justifiable doubt as to his impartiality or independence.
+45. (1) A prospective arbitrator shall disclose to those who approach him in connection with his possible appointment and circumstances likely to give rise to justifiable doubt as to his impartiality or independence.
 
 (2) An arbitrator, once appointed or chosen, shall disclose such circumstances as referred to in subsection (1) of this section to the parties unless they have already been informed by him of those circumstances.
 
@@ -684,13 +684,13 @@ of Arbitral Tribunal, etc.
 
 (10) If the appointing authority sustains the challenge, a substitute arbitrator shall be appointed or chosen pursuant to the procedure applicable to the appointment or choice of an arbitrator as provided in section 44 of this Act and in this section except that, when the procedure would call for the designation of an appointing authority, the appointment of the arbitrator shall be made by the appointing authority which decided on the challenge.
 
-46.       (1) Where an arbitrator dies or resigns during the course of an arbitral proceeding, a substitute arbitrator shall be appointed or chosen pursuant to the procedure provided for in section 44 and 45 of this Act that was applicable to the appointment or choice of the arbitrator being replaced.
+46. (1) Where an arbitrator dies or resigns during the course of an arbitral proceeding, a substitute arbitrator shall be appointed or chosen pursuant to the procedure provided for in section 44 and 45 of this Act that was applicable to the appointment or choice of the arbitrator being replaced.
 
 (2) Where an arbitrator fails to act or in the event of the de jure or de facto impossibility of his performing his functions, the procedure in respect of the challenge and replacement of an arbitrator as provided in section 44 and 45 of this Act shall apply.
 
 Making of Awards and Termination of proceedings
 
-47.       (1) the arbitral tribunal shall decide the dispute in accordance with the rules in force in the country whose laws the parties have chosen as applicable to the substance of the dispute .
+47. (1) the arbitral tribunal shall decide the dispute in accordance with the rules in force in the country whose laws the parties have chosen as applicable to the substance of the dispute .
 
 (2) Any designation of the law or legal system of a country shall, unless otherwise expressed, be construed as directly referring to the substantive law of that country and not to its conflict of law rules.
 
@@ -702,7 +702,7 @@ Making of Awards and Termination of proceedings
 
 (6) If the arbitration law of the country where the award is made requires that the award be filed or registered by the arbitral tribunal, the arbitral tribunal shall comply with this requirement within the period of time required by law.
 
-48.       The court may set aside an arbitral award-
+48. The court may set aside an arbitral award-
 
 (a) If the party making the application furnishes proof-
 
@@ -726,7 +726,7 @@ Making of Awards and Termination of proceedings
 
 (ii) That the award is against public policy of Nigeria.
 
-49.       (1) The arbitral tribunal shall fix costs of arbitration in its award and the term "cost" includes only-
+49. (1) The arbitral tribunal shall fix costs of arbitration in its award and the term "cost" includes only-
 
 (a) The fees of the arbitral tribunal to be stated separately as to each arbitrator and to be fixed by the tribunal itself;
 
@@ -746,7 +746,7 @@ Making of Awards and Termination of proceedings
 
 (5) In cases referred to in subsection (3) and (4) of this section when a party so requests and the appointing authority consents to perform the function, the arbitral tribunal shall fix its fees only after consultation with the appointing authority, which may make any comment it deems appropriate to the arbitral tribunal concerning the fees.
 
-50.       (1) The arbitral tribunal, on its establishment, may request each party to deposit an equal amount as an advance for the cost referred to in paragraph (a), (b) and (c) of this section 49(1) of this Act.
+50. (1) The arbitral tribunal, on its establishment, may request each party to deposit an equal amount as an advance for the cost referred to in paragraph (a), (b) and (c) of this section 49(1) of this Act.
 
 (2) During the course of the arbitral proceedings the arbitral tribunal may request supplementary deposits from the parties.
 
@@ -758,7 +758,7 @@ Making of Awards and Termination of proceedings
 
 Recognition and Enforcement of Awards
 
-51.       (1) An arbitral award shall, irrespective of the country in which it is made, be recognised as binding and subject to this section 32 of this Act, shall, upon application in writing to the court, be enforced by the court.
+51. (1) An arbitral award shall, irrespective of the country in which it is made, be recognised as binding and subject to this section 32 of this Act, shall, upon application in writing to the court, be enforced by the court.
 
 (2) The party relying on an award or applying for its enforcement shall supply
 
@@ -768,7 +768,7 @@ Recognition and Enforcement of Awards
 
 (c) Where the award or arbitration agreement is not made in the English language, a duly certified translation thereof into the English language.
 
-52.       (1) Any of the parties to an arbitration agreement may request the court to refuse recognition or enforcement of the award.
+52. (1) Any of the parties to an arbitration agreement may request the court to refuse recognition or enforcement of the award.
 
 (2) The court where recognition or enforcement of an award is sought or where application for refusal of recognition or enforcement thereof is brought may, irrespective of the country in which the award is made, refuse to recognise or enforce any award-
 
@@ -800,13 +800,13 @@ Recognition and Enforcement of Awards
 
 Application of Arbitration Rules set out in the First Schedule
 
-53.       Notwithstanding the provisions of this Act, the parties to an international commercial agreement may agree in writing that disputes in relation to the agreement shall be referred to arbitration in accordance with the Arbitration Rules set out in the First Schedule to this Act, or the UNCITRAL Arbitration Rules or any other international arbitration rule acceptable to the parties.
+53. Notwithstanding the provisions of this Act, the parties to an international commercial agreement may agree in writing that disputes in relation to the agreement shall be referred to arbitration in accordance with the Arbitration Rules set out in the First Schedule to this Act, or the UNCITRAL Arbitration Rules or any other international arbitration rule acceptable to the parties.
 
 Application of Convention on the recognition and Enforcement
 
 of Foreign Arbitral Awards
 
-54.       (1) Without prejudice to section 51 and 52 of this Act, where the recognition and enforcement of any award arising out of an international commercial arbitration are sought, the Convention on the Recognition and Enforcement of Foreign Awards (hereafter referred to as "the Convention") set out in the Second Schedule to this Act shall apply to any award made in Nigeria or in any contracting state:
+54. (1) Without prejudice to section 51 and 52 of this Act, where the recognition and enforcement of any award arising out of an international commercial arbitration are sought, the Convention on the Recognition and Enforcement of Foreign Awards (hereafter referred to as "the Convention") set out in the Second Schedule to this Act shall apply to any award made in Nigeria or in any contracting state:
 
 (a) Provided that such contracting state has reciprocal legislation recognising the enforcement of arbitral awards made in Nigeria in accordance with the provisions of the Convention;
 
@@ -816,13 +816,13 @@ of Foreign Arbitral Awards
 
 Conciliation
 
-55.       Notwithstanding the provisions of this Act, the parties to an international commercial agreement may agree in writing that disputes in relation to the agreement shall be settled by Conciliation Rules set out in the Third Schedule to this Act.
+55. Notwithstanding the provisions of this Act, the parties to an international commercial agreement may agree in writing that disputes in relation to the agreement shall be settled by Conciliation Rules set out in the Third Schedule to this Act.
 
 ### PART IV
 
 MISCELLANEOUS
 
-56.       (1) Unless otherwise agreed by the parties, any communication sent under or pursuant to this Act shall be deemed to have been received-
+56. (1) Unless otherwise agreed by the parties, any communication sent under or pursuant to this Act shall be deemed to have been received-
 
 (a) When it is delivered to the addressee personally or when it is delivered to his place of business, habitual residence or mailing address; or
 
@@ -832,7 +832,7 @@ MISCELLANEOUS
 
 (3) The provisions of this section shall not apply to communications in court proceedings.
 
-57.       (1) In this Act, unless the context otherwise requires-
+57. (1) In this Act, unless the context otherwise requires-
 
 "Arbitral tribunal" means a sole arbitrator or a panel of arbitrators;
 
@@ -878,7 +878,7 @@ MISCELLANEOUS
 
 (6) Where a provision of this Act, other than section 21(a) or 27(2)(a) refers to a claim, such claim includes a counter-claim, and where it refers to a defence, such defence includes a defence to such counter-claim.
 
-58.       This Act may be cited as the Arbitration and Conciliation Act and shall apply throughout the Federation
+58. This Act may be cited as the Arbitration and Conciliation Act and shall apply throughout the Federation
 
 Schedules
 
@@ -900,19 +900,19 @@ NOTICE, CALCULATION OF PERIODS OF TIME
 
 Article 2
 
-1.         For the purpose of these Rules, any notice, including a notification, communication or proposal, is deemed to have been received if it is physically delivered to the addressee or if it is delivered at his habitual residence, place of business or mailing address, or, if none of these can be found after making reasonable inquiry, then at the addressee’s last known residence or place of business. Notice shall be deemed to have been received on the day it is so delivered.
+1. For the purpose of these Rules, any notice, including a notification, communication or proposal, is deemed to have been received if it is physically delivered to the addressee or if it is delivered at his habitual residence, place of business or mailing address, or, if none of these can be found after making reasonable inquiry, then at the addressee’s last known residence or place of business. Notice shall be deemed to have been received on the day it is so delivered.
 
-2.         For the purposes of calculating a period of time under Rules, such period shall begin to run on the day following the day when a notice, notification, communication or proposal is received. If the last day of such period is an official holiday or a non-business day at the residence or place of business of the addressee, the period is extended until the first business day which follows. Official days or non-business days occurring during the running of the period of time are included in calculating the period.
+2. For the purposes of calculating a period of time under Rules, such period shall begin to run on the day following the day when a notice, notification, communication or proposal is received. If the last day of such period is an official holiday or a non-business day at the residence or place of business of the addressee, the period is extended until the first business day which follows. Official days or non-business days occurring during the running of the period of time are included in calculating the period.
 
 NOTICE OF ARBITRATION
 
 Article 3
 
-1.         The party initiating recourse to arbitration (hereinafter called the "claimant") shall give to the other party (hereinafter called the "respondent") a notice of arbitration.
+1. The party initiating recourse to arbitration (hereinafter called the "claimant") shall give to the other party (hereinafter called the "respondent") a notice of arbitration.
 
-2.         Arbitral proceedings shall be deemed to commence on the date on which the notice of arbitration is received by the respondent.
+2. Arbitral proceedings shall be deemed to commence on the date on which the notice of arbitration is received by the respondent.
 
-3.         The notice of arbitration shall include the following:
+3. The notice of arbitration shall include the following:
 
 (a) A demand that the dispute be referred to arbitration
 
@@ -928,7 +928,7 @@ Article 3
 
 (g) A proposal as to the number of arbitrators (i.e. one or three), if the parties have not previously agreed thereon.
 
-4.         The Notice of Arbitration may also include:
+4. The Notice of Arbitration may also include:
 
 (a) The proposals for the appointment of a sole arbitrator;
 
@@ -1514,13 +1514,13 @@ ROLE OF CONCILIATOR
 
 Article 7
 
-(1)        The conciliator assists the parties in an independent and an impartial manner in their attempt to reach an amicable settlement of their dispute.
+(1) The conciliator assists the parties in an independent and an impartial manner in their attempt to reach an amicable settlement of their dispute.
 
-(2)        The conciliator will be guided by principles of objectivity, fairness and justice, giving consideration to, among other things, the rights and obligations of the parties, the usages of trade concerned and the circumstances surrounding the dispute, including any previous business practices between the parties.
+(2) The conciliator will be guided by principles of objectivity, fairness and justice, giving consideration to, among other things, the rights and obligations of the parties, the usages of trade concerned and the circumstances surrounding the dispute, including any previous business practices between the parties.
 
-(3)        The conciliator may conduct the conciliation proceedings in such a manner as he considers appropriate, taking into account the circumstances of the case, the wishes the party may express, including any request by a party that the conciliator hear oral statements, and the need for a speedy settlement of the dispute.
+(3) The conciliator may conduct the conciliation proceedings in such a manner as he considers appropriate, taking into account the circumstances of the case, the wishes the party may express, including any request by a party that the conciliator hear oral statements, and the need for a speedy settlement of the dispute.
 
-(4)        The conciliator may, at any stage of the conciliation proceedings, make proposal for a settlement of the dispute. Such proposals need not be in writing and need not be accompanied by a statement of the reasons therefore.
+(4) The conciliator may, at any stage of the conciliation proceedings, make proposal for a settlement of the dispute. Such proposals need not be in writing and need not be accompanied by a statement of the reasons therefore.
 
 ADMINISTRATIVE ASSISTANCE
 
@@ -1532,9 +1532,9 @@ COMMUNICATION BETWEEN CONCILIATOR AND PARTIES
 
 Article 9
 
-(1)        The conciliator may invite the parties to meet with him or may communicate with them orally or in writing. He may meet or communicate with the parties together or with each of them separately.
+(1) The conciliator may invite the parties to meet with him or may communicate with them orally or in writing. He may meet or communicate with the parties together or with each of them separately.
 
-(2)        Unless the parties have agreed upon the place where meetings with the conciliator are to be held, such place will be determined by the conciliator after consulting with the parties having regard to the circumstances of the conciliation proceedings.
+(2) Unless the parties have agreed upon the place where meetings with the conciliator are to be held, such place will be determined by the conciliator after consulting with the parties having regard to the circumstances of the conciliation proceedings.
 
 DISCLOSURE OF INFORMATION
 
@@ -1558,11 +1558,11 @@ SETTLEMENT AGREEMENT
 
 Article 13
 
-(1)        When it appears to the conciliator that there exist elements of a settlement, which would be acceptable to the parties, he formulates the terms of a possible settlement and submits them to the parties for their observation. After receiving the observations of the parties, the conciliator may reformulate the terms of a possible settlement in the light of such observations.
+(1) When it appears to the conciliator that there exist elements of a settlement, which would be acceptable to the parties, he formulates the terms of a possible settlement and submits them to the parties for their observation. After receiving the observations of the parties, the conciliator may reformulate the terms of a possible settlement in the light of such observations.
 
-(2)        If the parties reach agreement on a settlement of the dispute, they draw up and sign a written settlement agreement. If requested by the parties the conciliator draws up, or assists the parties in drawing up, the settlement agreement.
+(2) If the parties reach agreement on a settlement of the dispute, they draw up and sign a written settlement agreement. If requested by the parties the conciliator draws up, or assists the parties in drawing up, the settlement agreement.
 
-(3)        The parties by signing the settlement agreement put an end to the dispute and are bound by the agreement.
+(3) The parties by signing the settlement agreement put an end to the dispute and are bound by the agreement.
 
 CONFIDENTIALITY
 
@@ -1576,13 +1576,13 @@ Article 15
 
 The conciliation proceedings are terminated:
 
-(a)        By the signing of the settlement agreement by the parties, on the date of the agreement; or
+(a) By the signing of the settlement agreement by the parties, on the date of the agreement; or
 
-(b)        By a written declaration of the conciliator, after consultation with the parties, to the effect that further efforts at conciliation are no longer justified, on the date of the declaration; or
+(b) By a written declaration of the conciliator, after consultation with the parties, to the effect that further efforts at conciliation are no longer justified, on the date of the declaration; or
 
-(c)        By a written declaration of the parties addressed to the conciliator to the effect that the conciliation proceedings are terminated, on the date of the declaration; or
+(c) By a written declaration of the parties addressed to the conciliator to the effect that the conciliation proceedings are terminated, on the date of the declaration; or
 
-(d)        By a written declaration of a party to the other and the conciliator, if appointed, to the effect that the conciliation proceedings are terminated on the date of the declaration.
+(d) By a written declaration of a party to the other and the conciliator, if appointed, to the effect that the conciliation proceedings are terminated on the date of the declaration.
 
 RESORT TO ARBITRAL OR JUDICIAL PROCEEDINGS
 
@@ -1594,17 +1594,17 @@ COSTS
 
 Article 17
 
-(1)        Upon termination of the conciliation proceedings, the conciliator fixes the cost of the conciliation and gives written notice thereof to the  parties.
+(1) Upon termination of the conciliation proceedings, the conciliator fixes the cost of the conciliation and gives written notice thereof to the  parties.
 
 The term "costs" include only
 
-(a)        The fee of the conciliator which shall be a reasonable amount;
+(a) The fee of the conciliator which shall be a reasonable amount;
 
-(b)        The travel and other expenses of the conciliator;
+(b) The travel and other expenses of the conciliator;
 
-(c)        The travel and other expenses of witnesses requested by the conciliator with the consent of the parties;
+(c) The travel and other expenses of witnesses requested by the conciliator with the consent of the parties;
 
-(d)        The cost of any assistance provided pursuant to Articles 4, paragraph 2(b), and 8 of these Rules.
+(d) The cost of any assistance provided pursuant to Articles 4, paragraph 2(b), and 8 of these Rules.
 
 (2) The costs, as defined above, are borne equally by the parties unless the settlement agreement provides for a different appointment. All other expenses incurred by a party are borne by the party.
 

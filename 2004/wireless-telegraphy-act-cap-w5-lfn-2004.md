@@ -4,11 +4,11 @@ Office and date of Issue of Licence
 
 (An officer of the Ministry of Communications duly authorised in that behalf)
 
-(g)    Under section 4 of the Wireless Telegraphy Act, it is an offence to use any station or apparatus for wireless telegraphy otherwise than under and in accordance with a licence granted by the Director-General. Breach of this provision may result in this licence being revoked and the offender being prosecuted.
+(g) Under section 4 of the Wireless Telegraphy Act, it is an offence to use any station or apparatus for wireless telegraphy otherwise than under and in accordance with a licence granted by the Director-General. Breach of this provision may result in this licence being revoked and the offender being prosecuted.
 
 Aeronautical ground station licence (general form) The conditions
 
-(f)     It is an offence under section 10 of the Wireless Telegraphy Act to send false distress signals and certain other misleading messages.
+(f) It is an offence under section 10 of the Wireless Telegraphy Act to send false distress signals and certain other misleading messages.
 
 29...............................................................................................................................................
 
@@ -16,11 +16,11 @@ Aeronautical ground station licence (general form) The conditions
 
 Call Sign ……………………………………………
 
-(j)     It is an offence under section 10 of the Wireless Telegraphy Act to send false distress signals and certain other misleading messages.
+(j) It is an offence under section 10 of the Wireless Telegraphy Act to send false distress signals and certain other misleading messages.
 
 (An officer of the Ministry of Communications duly authorised in that behalf
 
-Call Sign ..................................................   Air Registration..........................................................
+Call Sign .................................................. Air Registration..........................................................
 
 Except as provided below, correspondence about this licence shall be sent to the Ministry of Communications, Posts and Telecommunications Department, International Relations Division, Lagos.
 
@@ -36,11 +36,11 @@ Office and date of Issue of Licence
 
 (An officer of the Ministry of Communications duly authorised in that behalf)
 
-(g)    Under section 4 of the Wireless Telegraphy Act, it is an offence to use any station or apparatus for wireless telegraphy otherwise than under and in accordance with a licence granted by the Director-General. Breach of this provision may result in this licence being revoked and the offender being prosecuted.
+(g) Under section 4 of the Wireless Telegraphy Act, it is an offence to use any station or apparatus for wireless telegraphy otherwise than under and in accordance with a licence granted by the Director-General. Breach of this provision may result in this licence being revoked and the offender being prosecuted.
 
 Aeronautical ground station licence (general form) The conditions
 
-(f)     It is an offence under section 10 of the Wireless Telegraphy Act to send false distress signals and certain other misleading messages.
+(f) It is an offence under section 10 of the Wireless Telegraphy Act to send false distress signals and certain other misleading messages.
 
 29...............................................................................................................................................
 
@@ -48,11 +48,11 @@ Aeronautical ground station licence (general form) The conditions
 
 Call Sign ……………………………………………
 
-(j)     It is an offence under section 10 of the Wireless Telegraphy Act to send false distress signals and certain other misleading messages.
+(j) It is an offence under section 10 of the Wireless Telegraphy Act to send false distress signals and certain other misleading messages.
 
 (An officer of the Ministry of Communications duly authorised in that behalf
 
-Call Sign ..................................................   Air Registration..........................................................
+Call Sign .................................................. Air Registration..........................................................
 
 Except as provided below, correspondence about this licence shall be sent to the Ministry of Communications, Posts and Telecommunications Department, International Relations Division, Lagos.
 

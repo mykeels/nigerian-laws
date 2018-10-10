@@ -28,19 +28,19 @@ The [Federal Government] hereby enacts as follows:-
 
 1. (1) Notwithstanding anything contained in the Constitution of the Federal Republic of Nigeria 1979, as amended, or in any other enactment or law, the Federal Government, State Government and Local Government shall be responsible for collecting the taxes and levies listed in Part I, Part II and Part III of the Schedule to this Act, respectively.
 
-(2)    TheMinister of Finance may, on the advice of the Joint Tax Board and by Order published in the Gazette, amend the Schedule to this Act.
+(2) TheMinister of Finance may, on the advice of the Joint Tax Board and by Order published in the Gazette, amend the Schedule to this Act.
 
 1. (1) Notwithstanding anything contained in the Constitution of the Federal Republic of Nigeria 1979, as amended, or in any other enactment or law, no person, other than the appropriate tax authority, shall assess or collect, on behalf of the Government, any tax or levy listed in the Schedule to this. Act, and members of the Nigeria Police Force shall only be used in accordance with the provisions of the tax laws.
 
-(2)  No person, including a tax authority, shall mount a road block in any part of the Federation for the purpose of collecting any tax or levy.
+(2) No person, including a tax authority, shall mount a road block in any part of the Federation for the purpose of collecting any tax or levy.
 
-3.   A person who –
+3. A person who –
 
-(a)    collectsor levies any tax or levy; or
+(a) collectsor levies any tax or levy; or
 
-(b)  mounts a road block or causes a road block to be mounted for the purpose of collecting any tax or levy, in contravention of section 2 of this Act, is guilty of an offence and liable on conviction to a fine of N50,000 or imprisonment for 3 years or to both such fine and imprisonment.
+(b) mounts a road block or causes a road block to be mounted for the purpose of collecting any tax or levy, in contravention of section 2 of this Act, is guilty of an offence and liable on conviction to a fine of N50,000 or imprisonment for 3 years or to both such fine and imprisonment.
 
-4.   In this Act, unless the context otherwise requires –
+4. In this Act, unless the context otherwise requires –
 
 "Government" means the Federal, State or Local Government;
 
@@ -50,11 +50,11 @@ levy"includes any fee and charge,;
 
 "taxauthority" means –
 
-(a)  the Federal Board of Inland Revenue, the State Board of Internal Revenue or the Local Government Revenue Committee; or
+(a) the Federal Board of Inland Revenue, the State Board of Internal Revenue or the Local Government Revenue Committee; or
 
-(b)  a Ministry, Government department or any other Government body charged with responsibility for assessing or collecting the particular tax.
+(b) a Ministry, Government department or any other Government body charged with responsibility for assessing or collecting the particular tax.
 
-5.      This Act may be cited as the Taxes and Levies (Approved List for Collection) Act 1998.
+5. This Act may be cited as the Taxes and Levies (Approved List for Collection) Act 1998.
 
 Schedule
 
@@ -92,23 +92,23 @@ Stamp duties on bodies corporate and residents of the Federal Capital Territory,
 
 Personal income tax in respect of –
 
-(a)            members of the Armed Forces of the Federation;
+(a) members of the Armed Forces of the Federation;
 
-(b)            members of the Nigeria Police Force;
+(b) members of the Nigeria Police Force;
 
-(c)            residents of the Federal Capital Territory, Abuja; and
+(c) residents of the Federal Capital Territory, Abuja; and
 
-(d)           staffof the Ministry of Foreign Affairs and non- resident individuals.
+(d) staffof the Ministry of Foreign Affairs and non- resident individuals.
 
 ### Part II
 
 Taxes and Levies to be collected by the State Government
 
-1.   Personal Income Tax in respect of –
+1. Personal Income Tax in respect of –
 
-(a)    Pay-As-You-Earn(PAYE); and
+(a) Pay-As-You-Earn(PAYE); and
 
-(b)    directtaxation (Self Assessment).
+(b) directtaxation (Self Assessment).
 
 1.
 
@@ -134,17 +134,17 @@ Road taxes.
 
 Business premises registration fee in respect of –
 
-(a)    urbanareas as defined by each State, maximum of –
+(a) urbanareas as defined by each State, maximum of –
 
-(i)     N 10,000 for registration, and
+(i) N 10,000 for registration, and
 
-(ii)    N5,000per annum for renewal of registration; and
+(ii) N5,000per annum for renewal of registration; and
 
-(b)    ruralareas –
+(b) ruralareas –
 
-(i)             N2,000 for registration, and
+(i) N2,000 for registration, and
 
-(ii)            N1,000 per annum for renewal of registration.
+(ii) N1,000 per annum for renewal of registration.
 
 1.
 

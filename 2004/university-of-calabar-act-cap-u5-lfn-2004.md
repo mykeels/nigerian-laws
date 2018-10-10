@@ -42,35 +42,35 @@ Constitution and Functions of the University and its constituent bodies, etc.
 
 (3) The objects of the University shall be-
 
-(a)  to encourage the advancement of learning and to hold out to all persons with- out distinction of race, creed, sex or political conviction the opportunity of acquiring a higher and liberal education;
+(a) to encourage the advancement of learning and to hold out to all persons with- out distinction of race, creed, sex or political conviction the opportunity of acquiring a higher and liberal education;
 
 (b) to provide courses of instruction and other facilities for the pursuit of learning in all its branches, and to make those facilities available on proper terms to such persons as are equipped to benefit from them;
 
 (c) to encourage and promote scholarship and conduct research in all fields of learning and human endeavour;
 
-(d)        to relate its activities to the social, cultural and economic needs of the people of Nigeria; and
+(d) to relate its activities to the social, cultural and economic needs of the people of Nigeria; and
 
 (e) to undertake any other activities appropriate for a university of the highest standard.
 
 2. Constitution and Principal Officers of the University
 
-(1)  The University shall consist of--
+(1) The University shall consist of--
 
-(a)       a Chancellor;
+(a) a Chancellor;
 
-(b)       a Pro-Chancellor and a Council;
+(b) a Pro-Chancellor and a Council;
 
-(c)        a Vice-Chancellor and a Senate;
+(c) a Vice-Chancellor and a Senate;
 
-(d)       a body to be called Congregation;
+(d) a body to be called Congregation;
 
-(e)        a body to be called Convocation;
+(e) a body to be called Convocation;
 
-(f)        the campuses and colleges of the University;
+(f) the campuses and colleges of the University;
 
-(g)       the faculties, schools, institutes and other teaching and research units of the University;
+(g) the faculties, schools, institutes and other teaching and research units of the University;
 
-(h)      the persons holding the offices constituted by the First Schedule to this Act other than those mentioned in paragraphs (a) to (c) of this subsection;
+(h) the persons holding the offices constituted by the First Schedule to this Act other than those mentioned in paragraphs (a) to (c) of this subsection;
 
 [First Schedule.]
 
@@ -94,7 +94,7 @@ Constitution and Functions of the University and its constituent bodies, etc.
 
 (e) to hold examinations and grant degrees, diplomas, certificates and other distinctions to persons who have pursued a course of study approved by the University and have satisfied such other requirements as the University may lay down;
 
-(f) to grant honorary degrees, fellowships, or academic titles;
+(f) to grant honorary degrees, fellowships, or academic titles;
 
 (g) to demand and receive from any student or any other person attending the University for the purpose of instruction such fees as the University may, from time to time, determine subject to the overall directives of the Minister;
 
@@ -132,21 +132,21 @@ Constitution and Functions of the University and its constituent bodies, etc.
 
 The Council of the University shall consist of-
 
-(a)       the Pro-Chancellor;
+(a) the Pro-Chancellor;
 
-(b)       the Vice-Chancellor;
+(b) the Vice-Chancellor;
 
-(c)        the Deputy Vice-Chancellors;
+(c) the Deputy Vice-Chancellors;
 
-(d)       one person from the Ministry responsible for Education;
+(d) one person from the Ministry responsible for Education;
 
-(e)        nine persons representing a variety of interests and broadly representative of the whole Federation to be appointed by the President;
+(e) nine persons representing a variety of interests and broadly representative of the whole Federation to be appointed by the President;
 
-(f)         four persons appointed by the Senate from among its members;
+(f) four persons appointed by the Senate from among its members;
 
-(g)       two persons appointed by the Congregation from among its members;
+(g) two persons appointed by the Congregation from among its members;
 
-(h)       one person appointed by Convocation from among its members.
+(h) one person appointed by Convocation from among its members.
 
 6. Functions of the Council and its Finance and General Purposes Committee
 
@@ -174,13 +174,13 @@ The Council of the University shall consist of-
 
 (2) Without prejudice to the generality of subsection (l) of this section and subject as there mentioned, it shall in particular be the function of the Senate to make provision for-
 
-(a)  the establishment, organisation and control of campuses, colleges, faculties, departments, schools, institutes and other teaching and research units of the University, and the allocation of responsibility for different branches of learning;
+(a) the establishment, organisation and control of campuses, colleges, faculties, departments, schools, institutes and other teaching and research units of the University, and the allocation of responsibility for different branches of learning;
 
 (b)the organisation and control of courses of study at the University and of the examinations held in conjunction with those courses, including the appointment of examiners, both internal and external;
 
-(c) the award of degrees, and such other qualifications as may be prescribed, in connection with examinations held as aforesaid;
+(c) the award of degrees, and such other qualifications as may be prescribed, in connection with examinations held as aforesaid;
 
-(d) the making of recommendations to the Council with respect to the award to any person of an honorary fellowship or honorary degree or the title of professor emeritus;
+(d) the making of recommendations to the Council with respect to the award to any person of an honorary fellowship or honorary degree or the title of professor emeritus;
 
 (e) the establishment, organisation and control of halls of residence and similar institutions at the University;
 
@@ -220,7 +220,7 @@ Statutes of the University
 
 (1) Subject to this Act, the University may make statutes for any of the following purposes, that is to say-
 
-(a)       making provision with respect to the composition and constitution of any authority of the University;
+(a) making provision with respect to the composition and constitution of any authority of the University;
 
 (b) specifying and regulating the powers and duties of any authority of the University, and regulating any other matter connected with the University or any of its authorities;
 
@@ -254,9 +254,9 @@ Statutes of the University
 
 (4) A statute which-
 
-(a)       makes provision for or alters the composition or constitution of the Council, the Senate or any other authority of the University; or
+(a) makes provision for or alters the composition or constitution of the Council, the Senate or any other authority of the University; or
 
-(b)       provides for the establishment of a new campus or college or for the amendment or revocation of any statute whereby a campus or college is established, shall not come into operation unless it has been approved by the President.
+(b) provides for the establishment of a new campus or college or for the amendment or revocation of any statute whereby a campus or college is established, shall not come into operation unless it has been approved by the President.
 
 (5) For the purposes of subsection (2) of section 2 of the Interpretation Act, a statute shall be treated as being made on the date on which it is duly approved by the council after having been duly approved by the Senate, or on the date on which it is duly approved by the Senate after having been duly approved by the Council, as the case may be or, in the case of a statute falling within subsection (4) of this section, on the date on which it is approved by the President.
 
@@ -286,7 +286,7 @@ Supervision and discipline
 
 (a) to make available to the Visitor, and to any other persons conducting a visitation in pursuance of this section, such facilities and assistance as he or they may reasonably require for the purposes of visitation; and
 
-(b) to give effect to any instructions consistent with the provisions of this Act which may be given by the Visitor in consequence of a visitation.
+(b) to give effect to any instructions consistent with the provisions of this Act which may be given by the Visitor in consequence of a visitation.
 
 15. Removal of certain members of Council
 
@@ -304,9 +304,9 @@ Supervision and discipline
 
 (c) if he or any three members of the Council so request within the period of one month beginning with the date of the notice, make arrangements-
 
-(i)  for a joint committee of the Council and the Senate to investigate the matter and to report on it to the Council; and
+(i) for a joint committee of the Council and the Senate to investigate the matter and to report on it to the Council; and
 
-(ii)     for the person in question to be afforded an opportunity of appearing before and being heard by the Investigating Committee with respect to the matter, and if the council, after considering the report of the Investigating Committee, is satisfied that the person in question should be removed as aforesaid, the council may so remove him by an instrument in writing signed on the directions of the council.
+(ii) for the person in question to be afforded an opportunity of appearing before and being heard by the Investigating Committee with respect to the matter, and if the council, after considering the report of the Investigating Committee, is satisfied that the person in question should be removed as aforesaid, the council may so remove him by an instrument in writing signed on the directions of the council.
 
 (2) The Vice-Chancellor may, in a case of misconduct by a member of the staff which in the opinion of the Vice-Chancellor is prejudicial to the interests of the University, suspend such member and any such suspension shall forthwith be reported to the Council.
 
@@ -318,7 +318,7 @@ Supervision and discipline
 
 (c) conduct of a scandalous or other disgraceful nature which the Council considers to be such as to render the person concerned unfit to continue to hold his office; or
 
-(d)  conduct which the Council considers to be such as to constitute failure or inability of the person concerned to discharge the functions of his office or to comply with the terms and conditions of his service.
+(d) conduct which the Council considers to be such as to constitute failure or inability of the person concerned to discharge the functions of his office or to comply with the terms and conditions of his service.
 
 (4) Any person suspended pursuant to subsection (2) or (3) of this section shall be on half pay and the Council shall before the expiration of a period of three months after the date of such suspension consider the case against that person and come to a decision as to-
 
@@ -344,15 +344,15 @@ Supervision and discipline
 
 (1) Subject to the provisions of this section, where it appears to the Vice-Chancellor that any student of the University has been guilty of misconduct, the Vice-Chancellor may, without prejudice to any other disciplinary powers conferred on him by statute or regulations, direct-
 
-(a)        that the student shall not, during such period as may be specified in the direction, participate in such activities of the University, or make use of such facilities of the University, as may be so specified; or
+(a) that the student shall not, during such period as may be specified in the direction, participate in such activities of the University, or make use of such facilities of the University, as may be so specified; or
 
-(b)      that the activities of the student shall, during such period as may be specified in the direction, be restricted in such manner as may be so specified; or
+(b) that the activities of the student shall, during such period as may be specified in the direction, be restricted in such manner as may be so specified; or
 
-(c)        that the student be rusticated for such period as may be specified in the direction; or
+(c) that the student be rusticated for such period as may be specified in the direction; or
 
-(d)       that the student be expelled from the University.
+(d) that the student be expelled from the University.
 
-(2) Where a direction is given under subsection (1) (c) or (d) of this section in respect of any student, the student may, within the prescribed period and in the prescribed manner, appeal from the direction to the Council; and where such an appeal is brought, the Council shall, after causing such inquiry to be made in the matter as the council considers just, either confirm or set aside the direction or modify it in such manner as the Council thinks fit.
+(2) Where a direction is given under subsection (1) (c) or (d) of this section in respect of any student, the student may, within the prescribed period and in the prescribed manner, appeal from the direction to the Council; and where such an appeal is brought, the Council shall, after causing such inquiry to be made in the matter as the council considers just, either confirm or set aside the direction or modify it in such manner as the Council thinks fit.
 
 (3) The fact that an appeal from a direction is brought in pursuance of the last foregoing subsection shall not affect the question of the direction while the appeal is pending.
 
@@ -360,7 +360,7 @@ Supervision and discipline
 
 (5) Nothing in this section shall be construed as preventing the restriction or termination of a student's activities at the University otherwise than on the ground of misconduct.
 
-(6) It is hereby declared that a direction under subsection (l) (a) of this section may be combined with a direction under subsection (1) (b) of this section.
+(6) It is hereby declared that a direction under subsection (l) (a) of this section may be combined with a direction under subsection (1) (b) of this section.
 
 Miscellaneous and general
 
@@ -384,9 +384,9 @@ Except as may be otherwise provided by statute or by regulations, the quorum and
 
 (1) Any body of persons established by this Act shall, without prejudice to the generality of the powers of that body, have power to appoint committees, which need not consist exclusively of members of that body, and to authorise a committee established by it-
 
-(a)       to exercise, on its behalf, such of its functions as it may determine;
+(a) to exercise, on its behalf, such of its functions as it may determine;
 
-(b)       to co-opt members, and may direct whether or not co-opted members (if any) shall be entitled to vote in that committee.
+(b) to co-opt members, and may direct whether or not co-opted members (if any) shall be entitled to vote in that committee.
 
 (2) Any two or more such bodies may arrange for the holding of joint meetings of those bodies, or for the appointment of committees consisting of members of those bodies, for the purposes of considering any matter within the competence of those bodies or any of them, and either of dealing with it or of reporting on it to those bodies or any of them.
 
@@ -394,9 +394,9 @@ Except as may be otherwise provided by statute or by regulations, the quorum and
 
 (4) Nothing in the foregoing provisions of this section shall be construed as-
 
-(a)       enabling statutes to be made otherwise than in accordance with section 11 of this Act; or
+(a) enabling statutes to be made otherwise than in accordance with section 11 of this Act; or
 
-(b)      enabling the Senate to empower any other body to make regulations or to award degrees or other qualifications.
+(b) enabling the Senate to empower any other body to make regulations or to award degrees or other qualifications.
 
 (5) The Pro-Chancellor and the Vice-Chancellor shall be members of every committee of which the members are wholly or partly appointed by the Council (other than a committee appointed to inquire into the conduct of the officer in question); and the Vice-Chancellor shall be a member of every committee of which the members are wholly or partly appointed by the Senate.
 
@@ -410,9 +410,9 @@ Except as may be otherwise provided by statute or by regulations, the quorum and
 
 24. Special provisions relating to pension of professors A person who retires as a professor having served-
 
-(a)    a minimum period of fifteen years as a professor in the University or continuously in the service of a university in Nigeria up to the retiring age; and
+(a) a minimum period of fifteen years as a professor in the University or continuously in the service of a university in Nigeria up to the retiring age; and
 
-(b)      who during the period of service was absent from the University only on approved national or University assignments, shall be entitled to pension at a rate equivalent to his last annual salary and such allowances as the Council may, from time to time, determine as qualifying for pension and gratuity, in addition to any other retirement benefits to which he may be entitled.
+(b) who during the period of service was absent from the University only on approved national or University assignments, shall be entitled to pension at a rate equivalent to his last annual salary and such allowances as the Council may, from time to time, determine as qualifying for pension and gratuity, in addition to any other retirement benefits to which he may be entitled.
 
 25. MisceUaneous administrative provisions
 
@@ -432,7 +432,7 @@ Except as may be otherwise provided by statute or by regulations, the quorum and
 
 (8) Any notice or other instrument authorised to be served by virtue of this Act may, without prejudice to any other mode of service, be served by post.
 
-26. Interpretation
+26. Interpretation
 
 (1) In this Act, unless the context otherwise requires-
 
@@ -460,7 +460,7 @@ Except as may be otherwise provided by statute or by regulations, the quorum and
 
 "regulations" means regulations made by the Senate or Council;
 
-"Senate" means the Senate of the University established pursuant to section 2 (1) (c) of this Act;
+"Senate" means the Senate of the University established pursuant to section 2 (1) (c) of this Act;
 
 "statute" means a statute made by the University under section 10 of this Act and in accordance with the provisions of section 11 of this Act and "the statutes" mean all such statutes as are in force from time to time;
 
@@ -468,9 +468,9 @@ Except as may be otherwise provided by statute or by regulations, the quorum and
 
 "undergraduate" means a person in statu pupillari at the University, other than-
 
-(a)       a graduate; and
+(a) a graduate; and
 
-(b)      a person of such description as may be prescribed for the purposes of this definition;
+(b) a person of such description as may be prescribed for the purposes of this definition;
 
 "University" means the University of Calabar as incorporated and constituted by this Act.
 
@@ -508,27 +508,27 @@ The Vice-Chancellor
 
 (2) Where a vacancy occurs in the post of a Vice-Chancellor, the Council shall-
 
-(a)   advertise the vacancy in a reputable journal or a widely read newspaper in Nigeria, specifying-
+(a) advertise the vacancy in a reputable journal or a widely read newspaper in Nigeria, specifying-
 
 (i) the qualities of the persons who may apply for the post; and
 
-(ii)    the terms and conditions of service applicable to the post, and thereafter draw up a short list of suitable candidates for the post for consideration;
+(ii) the terms and conditions of service applicable to the post, and thereafter draw up a short list of suitable candidates for the post for consideration;
 
-(b) constitute a search team consisting of-
+(b) constitute a search team consisting of-
 
-(i)    a member of the Council, who is not a member of the Senate, as Chairman;
+(i) a member of the Council, who is not a member of the Senate, as Chairman;
 
-(ii)    two members of the Senate who are not members of the Council, one of whom shall be a professor;
+(ii) two members of the Senate who are not members of the Council, one of whom shall be a professor;
 
-(iii)     two members of Congregation who are not members of the Council, one of whom shall be a professor,to identify and nominate for consideration suitable persons who are not likely to apply for the post on their own volition because they feel that it is not proper to do so.
+(iii) two members of Congregation who are not members of the Council, one of whom shall be a professor,to identify and nominate for consideration suitable persons who are not likely to apply for the post on their own volition because they feel that it is not proper to do so.
 
 (3) A Joint Council and Senate selection board consisting of-
 
-(a) the Pro-Chancellor, as Chairman;
+(a) the Pro-Chancellor, as Chairman;
 
-(b) two members of the Council, not being members of the Senate;
+(b) two members of the Council, not being members of the Senate;
 
-(c) two members of the Senate who are professors, but who were not members of the search team, shall consider the candidates and persons on the short list drawn up under subparagraph (2) of this paragraph through an examination of their curriculum vitae and interaction with them, and recommend to the Council suitable candidates for further consideration.
+(c) two members of the Senate who are professors, but who were not members of the search team, shall consider the candidates and persons on the short list drawn up under subparagraph (2) of this paragraph through an examination of their curriculum vitae and interaction with them, and recommend to the Council suitable candidates for further consideration.
 
 (4) The Council shall select three candidates from among the candidates recommended to it under subparagraph (3) of this paragraph and may indicate its order of preference stating the reasons therefor and forward the names to the President.
 
@@ -538,15 +538,15 @@ The Vice-Chancellor
 
 (7) For the avoidance of doubt, the provisions of subparagraph (6) of this paragraph shall-
 
-(a)    only be applicable to those appointed to the office of Vice-Chancellor after 1 January, 1993;
+(a) only be applicable to those appointed to the office of Vice-Chancellor after 1 January, 1993;
 
-(b)    not confer on a person serving a first term of office as Vice-Chancellor before 1 January, 1993 any right to renewal of the appointment for a further term of four years.
+(b) not confer on a person serving a first term of office as Vice-Chancellor before 1 January, 1993 any right to renewal of the appointment for a further term of four years.
 
 (8) The Vice-Chancellor may be removed from office by the Visitor after due consultation with the Council and the Senate acting through the Minister of Education.
 
 Deputy Vice-Chancellors
 
-5. (1) There shall be for the University such number of Deputy Vice-Chancellors as the Council may, from time to time, deem necessary for the proper administration of the University.
+5. (1) There shall be for the University such number of Deputy Vice-Chancellors as the Council may, from time to time, deem necessary for the proper administration of the University.
 
 (2) Where a vacancy occurs in the post of Deputy Vice-Chancellor, the Vice-Chancellor shall forward to the Senate a list of two candidates for each post of Deputy Vice-Chancellor that is vacant.
 
@@ -554,21 +554,21 @@ Deputy Vice-Chancellors
 
 (4) A Deputy Vice-Chancellor shall-
 
-(a) assist the Vice-Chancellor in the performance of his functions;
+(a) assist the Vice-Chancellor in the performance of his functions;
 
 (b) act in the place of the Vice-Chancellor when the post of the Vice-Chancellor is vacant or if the Vice-Chancellor is, for any reason, absent or unable to perform his functions as Vice-Chancellor; and
 
-(c)     perform such other functions as the Vice-Chancellor or the Council may, from time to time, assign to him.
+(c) perform such other functions as the Vice-Chancellor or the Council may, from time to time, assign to him.
 
 (5) A Deputy Vice-Chancellor-
 
-(a)   shall hold office for a period of two years beginning from the effective date of his appointment and on such terms and conditions as may be "specified in his letter of appointment; and
+(a) shall hold office for a period of two years beginning from the effective date of his appointment and on such terms and conditions as may be "specified in his letter of appointment; and
 
-(b)  may be re-appointed for one further period of two years and no more.
+(b) may be re-appointed for one further period of two years and no more.
 
 Office of the Registrar
 
-6. (1) There shall be a Registrar, who shall be the Chief Administrative Officer of the University and shall be responsible to the Vice-Chancellor for the day-to-day administrative work of the University except as regards matters for which the Bursar is responsible in accordance with paragraph 7 (2) of this Schedule.
+6. (1) There shall be a Registrar, who shall be the Chief Administrative Officer of the University and shall be responsible to the Vice-Chancellor for the day-to-day administrative work of the University except as regards matters for which the Bursar is responsible in accordance with paragraph 7 (2) of this Schedule.
 
 (2) The person holding the office of the registrar shall by virtue of that office be Secretary to the Council, the Senate, Congregation and Convocation.
 
@@ -576,11 +576,11 @@ Office of the Registrar
 
 Other Principal Officers of the University
 
-7. (1) There shall be for the University the following principal officers, in addition to the registrar, that is-
+7. (1) There shall be for the University the following principal officers, in addition to the registrar, that is-
 
-(a) the Bursar; and
+(a) the Bursar; and
 
-(b) the University Librarian, who shall be appointed by the Council on the recommendation of the selection board constituted under paragraph 8 of this Schedule.
+(b) the University Librarian, who shall be appointed by the Council on the recommendation of the selection board constituted under paragraph 8 of this Schedule.
 
 (2) The Bursar shall be the Chief Financial Officer of the University and be responsible to the Vice-Chancellor for the day-to-day administration and control of the financial affairs of the University.
 
@@ -592,23 +592,23 @@ Other Principal Officers of the University
 
 Selection boardfor other principal officers
 
-8. (1) There shall be, for the University, a selection board for the appointment of principal officers, other than the Vice-Chancellor or Deputy Vice-Chancellor, which shall consist of-
+8. (1) There shall be, for the University, a selection board for the appointment of principal officers, other than the Vice-Chancellor or Deputy Vice-Chancellor, which shall consist of-
 
-(a) the Pro-Chancellor, as Chairman;
+(a) the Pro-Chancellor, as Chairman;
 
-(b) the Vice-Chancellor;
+(b) the Vice-Chancellor;
 
-(c) four members of the Council not being members of the Senate; and
+(c) four members of the Council not being members of the Senate; and
 
-(d) two members of the Senate.
+(d) two members of the Senate.
 
 (2) The functions, procedure and other matters relating to the selection board constituted under subparagraph (1) of this paragraph shall be as the Council may, from time to time, determine.
 
 Resignation and re-appointment
 
-9. (1) Any officer mentioned in the foregoing provisions of this Schedule may resign his office-
+9. (1) Any officer mentioned in the foregoing provisions of this Schedule may resign his office-
 
-(a) in the case of the Chancellor, by notice to the President; and
+(a) in the case of the Chancellor, by notice to the President; and
 
 (b) in any other case by notice to the Council and the Council shall immediately notify the Minister in the case of the Vice-Chancellor.
 
@@ -620,13 +620,13 @@ Transitional provisions as to property, functions, etc.
 
 Transfer of property to University
 
-1. Without prejudice to the generality of section 9 (1)  of this Act-
+1. Without prejudice to the generality of section 9 (1) of this Act-
 
-(a)   the reference in that subsection to property held by the provisional council shall include a reference to the right to receive and give a good discharge for any grants or contributions which may have been voted or promised to the provisional council;
+(a) the reference in that subsection to property held by the provisional council shall include a reference to the right to receive and give a good discharge for any grants or contributions which may have been voted or promised to the provisional council;
 
-(b)    all debts and liabilities of the provisional council outstanding shall become debts or liabilities of the University.
+(b) all debts and liabilities of the provisional council outstanding shall become debts or liabilities of the University.
 
-2. (1) All agreements, contracts, deeds and other instruments to which the provisional council was a party shall, so far as possible and subject to any necessary modifications, have effect as if the University had been a party thereto in place of the provisional council.
+2. (1) All agreements, contracts, deeds and other instruments to which the provisional council was a party shall, so far as possible and subject to any necessary modifications, have effect as if the University had been a party thereto in place of the provisional council.
 
 (2) Documents not falling within sub-paragraph (1) of this paragraph, including enactments, which refer whether specially or generally to the provisional council, shall be construed in accordance with that sub-paragraph so far as applicable.
 
@@ -662,17 +662,17 @@ ARTICLE
 
 The Council
 
-1. (1) The composition of Council shall be as provided in section 5 of this Act.
+1. (1) The composition of Council shall be as provided in section 5 of this Act.
 
-(2) Any member of the council holding office otherwise than in pursuance of section 5 (a), (b), (c) or (d) of this Act may, by notice to the Council, resign his office.
+(2) Any member of the council holding office otherwise than in pursuance of section 5 (a), (b), (c) or (d) of this Act may, by notice to the Council, resign his office.
 
-(3) A member of the Council holding office otherwise than in pursuance of section 5 (a), (b), (c) or (d) of this Act shall, unless he previously vacates it, vacate that office on the expiration of the period of four years beginning with effect from I August in the year in which he was appointed.
+(3) A member of the Council holding office otherwise than in pursuance of section 5 (a), (b), (c) or (d) of this Act shall, unless he previously vacates it, vacate that office on the expiration of the period of four years beginning with effect from I August in the year in which he was appointed.
 
-(4) Where a member of the Council holding office otherwise than in pursuance of section 5 (a), (b), (c) or (d) of this Act vacates office before the expiration of the period aforesaid, the body or person by whom he was appointed may appoint a successor to hold office for the residue of the term of his predecessor.
+(4) Where a member of the Council holding office otherwise than in pursuance of section 5 (a), (b), (c) or (d) of this Act vacates office before the expiration of the period aforesaid, the body or person by whom he was appointed may appoint a successor to hold office for the residue of the term of his predecessor.
 
 (5) A person ceasing to hold office as a member of the Council otherwise than by the removal for misconduct shall be eligible for re-appointment for only one further period of four years.
 
-(6) The quorum of the Council shall be seven, at least one of whom shall be a member appointed pursuant to section 5 (d), (e) or (h) of this Act.
+(6) The quorum of the Council shall be seven, at least one of whom shall be a member appointed pursuant to section 5 (d), (e) or (h) of this Act.
 
 (7) If the Pro-Chancellor is not present at a meeting of the Council, such other member of the Council present at the meeting as the Council may appoint as respects that meeting shall be the Chairman at that meeting, and subject to section 4 of the Act and the foregoing provisions of this paragraph, the Council may regulate its own procedure.
 
@@ -682,13 +682,13 @@ The Finance and General Purposes Committee
 
 2. (1) The Finance and General Purposes Committee of the Council shall consist of--
 
-(a)     the Pro-Chancellor, who shall be the Chairman of the committee at any meeting at which he is present;
+(a) the Pro-Chancellor, who shall be the Chairman of the committee at any meeting at which he is present;
 
-(b)    the Vice-Chancellor and Deputy Vice-Chancellor;
+(b) the Vice-Chancellor and Deputy Vice-Chancellor;
 
-(c)      six other members of the Council appointed by the Council, two of whom shall be selected from among the four members of the Council appointed by the Senate and one member appointed to Council by the congregation;
+(c) six other members of the Council appointed by the Council, two of whom shall be selected from among the four members of the Council appointed by the Senate and one member appointed to Council by the congregation;
 
-(d)     the Permanent Secretary, Federal Ministry of Education or, in his absence, such member of his Ministry as may be designated to represent him.
+(d) the Permanent Secretary, Federal Ministry of Education or, in his absence, such member of his Ministry as may be designated to represent him.
 
 (2) The quorum of the committee shall be five.
 
@@ -696,21 +696,21 @@ The Finance and General Purposes Committee
 
 The Senate
 
-3. (1) The Senate shall consist of-
+3. (1) The Senate shall consist of-
 
-(a) the Vice-Chancellor and the Deputy Vice-Chancellor;
+(a) the Vice-Chancellor and the Deputy Vice-Chancellor;
 
-(b) the deans of the several faculties;
+(b) the deans of the several faculties;
 
-(c) the directors of the several institutes;
+(c) the directors of the several institutes;
 
-(d) the professors;
+(d) the professors;
 
-(e) the librarian;
+(e) the librarian;
 
-(f)       the persons for the time being holding such appointments on the staff of the University as may be specified by the Vice-Chancellor; and
+(f) the persons for the time being holding such appointments on the staff of the University as may be specified by the Vice-Chancellor; and
 
-(g)   such teachers (of senior lecturer rank and above and not being more than two in respect of each faculty) as may be elected from among the members of each faculty, the total number thereof to be determined from time to time by the Senate.
+(g) such teachers (of senior lecturer rank and above and not being more than two in respect of each faculty) as may be elected from among the members of each faculty, the total number thereof to be determined from time to time by the Senate.
 
 (2) The Vice-Chancellor shall be the chairman at all meetings of the Senate when he is present; and in his absence such other member of the meeting shall be the chairman at the meeting.
 
@@ -730,17 +730,17 @@ The Senate
 
 Congregation
 
-4. (1) Congregation shall consist of-
+4. (1) Congregation shall consist of-
 
-(a) the Vice-Chancellor and the Deputy Vice-Chancellor;
+(a) the Vice-Chancellor and the Deputy Vice-Chancellor;
 
-(b) the full-time members of the academic staff;
+(b) the full-time members of the academic staff;
 
-(c) the Registrar;
+(c) the Registrar;
 
-(d) the Bursar; and
+(d) the Bursar; and
 
-(e) every member of the administrative staff who holds a degree of any university recognised for the purposes of this statute by the Vice-Chancellor, not being an honorary degree.
+(e) every member of the administrative staff who holds a degree of any university recognised for the purposes of this statute by the Vice-Chancellor, not being an honorary degree.
 
 (2) Subject to section 4 of the Act, the Vice-Chancellor shall be the Chairman at all meetings of Congregation when he is present; and in his absence such other member of Congregation present at the meeting, as Congregation may appoint for that meeting, shall be the chairman at the meeting.
 
@@ -748,9 +748,9 @@ Congregation
 
 (4) A certificate signed by the Vice-Chancellor specifying-
 
-(a)    the total number of members of Congregation for the purposes of any particular meeting or meetings of Congregation; or
+(a) the total number of members of Congregation for the purposes of any particular meeting or meetings of Congregation; or
 
-(b)     the names of persons who are members of Congregation during a particular period, shall be conclusive evidence of that number or, as the case may be, of the names of those persons.
+(b) the names of persons who are members of Congregation during a particular period, shall be conclusive evidence of that number or, as the case may be, of the names of those persons.
 
 (5) Subject to the foregoing provisions of this Article, Congregation may regulate its own procedure.
 
@@ -758,19 +758,19 @@ Congregation
 
 Convocation
 
-5. (l) Convocation shall consist of-
+5. (l) Convocation shall consist of-
 
-(a) the officers of the University mentioned in the First Schedule to the Act; [First Schedule.] (b) all teachers within the meaning of the Act; and
+(a) the officers of the University mentioned in the First Schedule to the Act; [First Schedule.] (b) all teachers within the meaning of the Act; and
 
-(c)  all other persons whose names are registered in accordance with paragraph (2) of this Article.
+(c) all other persons whose names are registered in accordance with paragraph (2) of this Article.
 
 (2) A person shall be entitled to have his name registered as a member of Convocation if-
 
-(a)     he is either a graduate of the University or a person satisfying such requirements as may be prescribed for the purposes of this paragraph; and
+(a) he is either a graduate of the University or a person satisfying such requirements as may be prescribed for the purposes of this paragraph; and
 
-(b) he applies for the registration of his name in the prescribed manner and pays the prescribed fees, and regulations shall provide for the establishment and maintenance of a register for the purposes of this paragraph and, subject to paragraph (3) below, may provide for the payment from time to time of further fees by persons whose names are on the register and for the removal from the register of the name of any person who fails to pay those fees.
+(b) he applies for the registration of his name in the prescribed manner and pays the prescribed fees, and regulations shall provide for the establishment and maintenance of a register for the purposes of this paragraph and, subject to paragraph (3) below, may provide for the payment from time to time of further fees by persons whose names are on the register and for the removal from the register of the name of any person who fails to pay those fees.
 
-(3) The person responsible for maintaining the register shall, without the payment of any fees, ensure that the names of all persons who are for the time being members of Convocation by virtue of paragraph (1) (a) or (b) of this Article are entered and retained on the register.
+(3) The person responsible for maintaining the register shall, without the payment of any fees, ensure that the names of all persons who are for the time being members of Convocation by virtue of paragraph (1) (a) or (b) of this Article are entered and retained on the register.
 
 (4) A person who reasonably claims that he is entitled to have his name on the register shall be entitled on demand to inspect the register, or a copy of the register at the principal offices of the University at all reasonable times.
 
@@ -788,21 +788,21 @@ Organisation of faculties and branches thereof
 
 6. Each faculty shall be divided into such number of branches as may be prescribed.
 
-7. (1)  There shall be established in respect of each faculty a faculty board, which, subject to the provisions of this statute, and subject to the directions of the Vice-Chancellor, shall-
+7. (1) There shall be established in respect of each faculty a faculty board, which, subject to the provisions of this statute, and subject to the directions of the Vice-Chancellor, shall-
 
-(a)    regulate the teaching and study of, and the conduct of examinations connected with, the subjects assigned to the faculty;
+(a) regulate the teaching and study of, and the conduct of examinations connected with, the subjects assigned to the faculty;
 
-(b)   deal with any other matter assigned to it by statute or by the Vice-Chancellor or  by the Senate; and                      (c)     advise the Vice-Chancellor or the Senate on any matter referred to it by the Vice-Chancellor or the Senate.
+(b) deal with any other matter assigned to it by statute or by the Vice-Chancellor or  by the Senate; and                      (c) advise the Vice-Chancellor or the Senate on any matter referred to it by the Vice-Chancellor or the Senate.
 
 (2) Each faculty board shall consist of-
 
-(a) the Vice-Chancellor;
+(a) the Vice-Chancellor;
 
-(b) the persons severally in charge of the branches of the faculty;
+(b) the persons severally in charge of the branches of the faculty;
 
-(c)    such of the teachers assigned to the faculty and having the prescribed qualifications as the board may determine; and
+(c) such of the teachers assigned to the faculty and having the prescribed qualifications as the board may determine; and
 
-(d)   such persons whether or not members of the University as the board may determine with the general or special approval of the Senate.
+(d) such persons whether or not members of the University as the board may determine with the general or special approval of the Senate.
 
 (3) The quorum of the board shall be eight members or one-quarter (whichever is greater) of the members for the time being of the board; and subject to the provisions of this statute and to any provision made by regulations in that behalf, the board may regulate its own procedure.
 
@@ -824,13 +824,13 @@ The Dean of the faculty
 
 Selection of Director of Works
 
-9. (1) When a vacancy occurs in the office of the Director of Works, a selection board shall be constituted by the Council and shall consist of-
+9. (1) When a vacancy occurs in the office of the Director of Works, a selection board shall be constituted by the Council and shall consist of-
 
-(a) the Pro-Chancellor;
+(a) the Pro-Chancellor;
 
-(b) the Vice-Chancellor;
+(b) the Vice-Chancellor;
 
-(c) two members appointed by the Council, not being members of the Senate; and
+(c) two members appointed by the Council, not being members of the Senate; and
 
 (d) two members appointed by the Senate.
 
@@ -838,25 +838,25 @@ Selection of Director of Works
 
 Creation of academic posts
 
-10. Recommendations for the creation of posts other than principal officers and that mentioned in article 9 of this Statute shall be made by the Senate to the Council through the Finance and General Purposes Committee.
+10. Recommendations for the creation of posts other than principal officers and that mentioned in article 9 of this Statute shall be made by the Senate to the Council through the Finance and General Purposes Committee.
 
 Appointment of academic staff
 
-11. Subject to the Act and the statutes, the filling of vacancies in academic posts (including newly created ones) shall be as prescribed from time to time by statutes.
+11. Subject to the Act and the statutes, the filling of vacancies in academic posts (including newly created ones) shall be as prescribed from time to time by statutes.
 
 Appointment of administrative and professional staff
 
-12. (1) The administrative and professional staff of the University, other than principal officers and that mentioned in article 9 of this Statute, shall be appointed by the Councilor on its behalf by the Vice-Chancellor or the Registrar in accordance with any delegation of powers made by the Council in that behalf.
+12. (1) The administrative and professional staff of the University, other than principal officers and that mentioned in article 9 of this Statute, shall be appointed by the Councilor on its behalf by the Vice-Chancellor or the Registrar in accordance with any delegation of powers made by the Council in that behalf.
 
 (2) In the case of administrative or professional staff who have close and important contacts with the academic staff, there shall be Senate participation in the process of selection.
 
 Interpretation
 
-13. In this Statute, the expression "the Act" means the University of Calabar Act and any expression defined in the Act has the same meaning in this Statute.
+13. In this Statute, the expression "the Act" means the University of Calabar Act and any expression defined in the Act has the same meaning in this Statute.
 
 Short title
 
-14. This Statute may be cited as University of Calabar Statute No. l.
+14. This Statute may be cited as University of Calabar Statute No. l.
 
 SUBSIDIARY LEGISLATION
 

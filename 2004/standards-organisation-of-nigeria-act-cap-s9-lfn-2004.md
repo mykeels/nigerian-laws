@@ -4,61 +4,61 @@ ARRANGEMENTOF SECTIONS
 
 StandardsOrganisation of Nigeria
 
-1.     Establishment of the Standards Organisation of Nigeria.
+1. Establishment of the Standards Organisation of Nigeria.
 
-2.     Power of the Minister to give directives to the Organisation.
+2. Power of the Minister to give directives to the Organisation.
 
-3.     The Standards Council of Nigeria.
+3. The Standards Council of Nigeria.
 
-4.     Functions of the Council, etc.
+4. Functions of the Council, etc.
 
-5.     Functions of the Organisation.
+5. Functions of the Organisation.
 
-6.     Standards library.
+6. Standards library.
 
-7.     Power to charge for services.
+7. Power to charge for services.
 
-8.     Qualificationand experience of Director-General.
+8. Qualificationand experience of Director-General.
 
-9.     Director-Generalto be administrative head of Organisation.
+9. Director-Generalto be administrative head of Organisation.
 
-10.    Specialresponsibilities of the Director-General.
+10. Specialresponsibilities of the Director-General.
 
-11.    Number of Directors and their duties.
+11. Number of Directors and their duties.
 
 Nigerian Industrial Standards, etc.
 
-12.    Procedure for establishment of industrial standards.
+12. Procedure for establishment of industrial standards.
 
-13.    Standards to be known as Nigerian Industrial Standards.
+13. Standards to be known as Nigerian Industrial Standards.
 
-14.    Certification marks.
+14. Certification marks.
 
-15.    Offences in relation to standards.
+15. Offences in relation to standards.
 
-16.    Power of the Minister to declare established standards as binding.
+16. Power of the Minister to declare established standards as binding.
 
-17.    Power of Director-General in relation to hazardous products.
+17. Power of Director-General in relation to hazardous products.
 
 Offences: General
 
-18.    Power to enter premises and obtain information.
+18. Power to enter premises and obtain information.
 
-19.    Offences.
+19. Offences.
 
-20.    Offences by bodies corporate.
+20. Offences by bodies corporate.
 
 Miscellaneousand supplementary
 
-21.    Reports.
+21. Reports.
 
-22.    Power to make test purchases.
+22. Power to make test purchases.
 
-23.    Power to make rules.
+23. Power to make rules.
 
-24.    Interpretation.
+24. Interpretation.
 
-25.    Short title.
+25. Short title.
 
 SCHEDULE
 
@@ -72,269 +72,269 @@ An Act to establish the Standards Organisation of Nigeria to standardize methods
 
 StandardsOrganisation of Nigeria
 
-1.     Establishment of the Standards Organisation of Nigeria
+1. Establishment of the Standards Organisation of Nigeria
 
-(1)    Thereis hereby established a body to be known as the Standards Organisation of Nigeria.
+(1) Thereis hereby established a body to be known as the Standards Organisation of Nigeria.
 
-(2)    TheOrganisation shall be a body corporate with perpetual succession and a common seal, and may sue and be sued in its corporate name.
+(2) TheOrganisation shall be a body corporate with perpetual succession and a common seal, and may sue and be sued in its corporate name.
 
-(3)    TheOrganisation shall consist of-
+(3) TheOrganisation shall consist of-
 
-(a)    Director-General of Standards;
+(a) Director-General of Standards;
 
-(b)    Directors;
+(b) Directors;
 
-(c)    Secretary of the Organisation; and
+(c) Secretary of the Organisation; and
 
-(d)    suchother staff as may be required to assist the Director-General in the performance of the duties of the Organisation under this Act.
+(d) suchother staff as may be required to assist the Director-General in the performance of the duties of the Organisation under this Act.
 
-(4)    TheDirector-General shall be appointed by the President on the recommendation of the Minister.
+(4) TheDirector-General shall be appointed by the President on the recommendation of the Minister.
 
-(5)    Theappointment, remunerations and other conditions of service of the Directors and other staff of the Organisation shall be as determined or prescribed by the Council after consultation with the Federal Civil Service Commission.
+(5) Theappointment, remunerations and other conditions of service of the Directors and other staff of the Organisation shall be as determined or prescribed by the Council after consultation with the Federal Civil Service Commission.
 
-2.     Power of the Minister to give directives to the Organisation
+2. Power of the Minister to give directives to the Organisation
 
-(1)    Subjectto the provisions of this Act, the Minister may give general or special directives to the Organisation and it shall be the duty of the Organisation to comply with and give effect to any such directives.
+(1) Subjectto the provisions of this Act, the Minister may give general or special directives to the Organisation and it shall be the duty of the Organisation to comply with and give effect to any such directives.
 
-(2)    TheOrganisation shall give to the Minister such information and returns relating to its activities as the Minister may, from time to time, require.
+(2) TheOrganisation shall give to the Minister such information and returns relating to its activities as the Minister may, from time to time, require.
 
-3.     The Standards Council of Nigeria
+3. The Standards Council of Nigeria
 
-(1)    Thereshall be as the governing body of the Organisation a council to be known as the Standards Council of Nigeria.
+(1) Thereshall be as the governing body of the Organisation a council to be known as the Standards Council of Nigeria.
 
-(2)    Theprovisions of the Schedule to this Act shall have effect with respect to the constitution and procedure of the Council and the other matters therein mentioned.
+(2) Theprovisions of the Schedule to this Act shall have effect with respect to the constitution and procedure of the Council and the other matters therein mentioned.
 
-4.     Functions of the Council, etc.
+4. Functions of the Council, etc.
 
-(1)    Thefunctions of the Council shall be-
+(1) Thefunctions of the Council shall be-
 
-(a)    toadvise the Federal Government generally on the national policy on standards, standards specifications, quality control and metrology;
+(a) toadvise the Federal Government generally on the national policy on standards, standards specifications, quality control and metrology;
 
-(b)    todesignate, establish and approve standards in respect of metrology, materials, commodities, structures and processes for the certification of products in commerce and industry throughout Nigeria;
+(b) todesignate, establish and approve standards in respect of metrology, materials, commodities, structures and processes for the certification of products in commerce and industry throughout Nigeria;
 
-(c)    toprovide the necessary measures for quality control of raw materials and products in conformity with the standard specification;
+(c) toprovide the necessary measures for quality control of raw materials and products in conformity with the standard specification;
 
-(d)    todetermine the overall policy of the Organisation, in particular with regard to the financial, operational, and administrative programmes of the Organisation and to ensure the implementation of the said policy; and
+(d) todetermine the overall policy of the Organisation, in particular with regard to the financial, operational, and administrative programmes of the Organisation and to ensure the implementation of the said policy; and
 
-(e)    tocarry out other functions imposed on it under this Act or any other written law.
+(e) tocarry out other functions imposed on it under this Act or any other written law.
 
-(2)    Subjectto this Act, the Minister may give the Council directions of a general character or relating generally to particular matters (but not to any individual or case) with regard to the exercise by the Council of its functions, and it shall be the duty of the Council to comply with the directions.
+(2) Subjectto this Act, the Minister may give the Council directions of a general character or relating generally to particular matters (but not to any individual or case) with regard to the exercise by the Council of its functions, and it shall be the duty of the Council to comply with the directions.
 
-5.     Functions of the Organisation
+5. Functions of the Organisation
 
-(1)    Subjectto subsection (1) of section 4, the Organisation shall carry out the following functions, that is-
+(1) Subjectto subsection (1) of section 4, the Organisation shall carry out the following functions, that is-
 
-(a)    toorganise tests and do everything necessary to ensure compliance with standards designated and approved by the Council;
+(a) toorganise tests and do everything necessary to ensure compliance with standards designated and approved by the Council;
 
-(b)    toundertake investigations as necessary into the quality of facilities, materials and products in Nigeria, and establish a quality assurance system including certification of factories, products and laboratories;
+(b) toundertake investigations as necessary into the quality of facilities, materials and products in Nigeria, and establish a quality assurance system including certification of factories, products and laboratories;
 
-(c)    toensure reference standards for calibration and verification of measures and measuring instruments;
+(c) toensure reference standards for calibration and verification of measures and measuring instruments;
 
-(d)    to compile an inventory of products requiring standardisation;
+(d) to compile an inventory of products requiring standardisation;
 
-(e)    to compile Nigerian standards specifications;
+(e) to compile Nigerian standards specifications;
 
-(f)     tofoster interest in the recommendation and maintenance of acceptable standards by industry and the general public;
+(f) tofoster interest in the recommendation and maintenance of acceptable standards by industry and the general public;
 
-(g)    todevelop methods for testing of materials, supplies and equipment including items purchased for use of departments of the Government of the Federation or a State and private establishments;
+(g) todevelop methods for testing of materials, supplies and equipment including items purchased for use of departments of the Government of the Federation or a State and private establishments;
 
-(h)    to register and regulate standards marks and specifications;
+(h) to register and regulate standards marks and specifications;
 
-(i)     to undertake preparation and distribution of standards samples;
+(i) to undertake preparation and distribution of standards samples;
 
-(j)     toestablish and maintain such number of laboratories or other institutions as may be necessary for the performance of its functions under this Act;
+(j) toestablish and maintain such number of laboratories or other institutions as may be necessary for the performance of its functions under this Act;
 
-(k)    to compile and publish general scientific or other data-
+(k) to compile and publish general scientific or other data-
 
-(i)     resulting from the performance of its functions under this Act; or
+(i) resulting from the performance of its functions under this Act; or
 
-(ii)    fromother sources when such data are of importance to scientific or manufacturing interests or to the general public and are not available elsewhere;
+(ii) fromother sources when such data are of importance to scientific or manufacturing interests or to the general public and are not available elsewhere;
 
-(l)     toadvise departments of the Government of the Federation or a State on specific problems relative to standards specifications:
+(l) toadvise departments of the Government of the Federation or a State on specific problems relative to standards specifications:
 
-(m)   tosponsor such national and international conferences as it may consider appropriate;
+(m) tosponsor such national and international conferences as it may consider appropriate;
 
-(n)    toco-ordinate all activities relative to its functions throughout Nigeria and to co-operate with corresponding national or international organisations in such fields of activity as it considers necessary with a view to securing uniformity in standards specifications; and
+(n) toco-ordinate all activities relative to its functions throughout Nigeria and to co-operate with corresponding national or international organisations in such fields of activity as it considers necessary with a view to securing uniformity in standards specifications; and
 
-(0)    toundertake any other activity likely to assist in the performance of the functions imposed on it under this Act.
+(0) toundertake any other activity likely to assist in the performance of the functions imposed on it under this Act.
 
-(2)    TheOrganisation shall undertake such research as may be necessary for the performance of its functions under this Act and for that purpose it shall have power to make use of research facilities available in other institutions, whether public or private upon such terms and conditions as may be agreed upon between the Organisation and the institution concerned.
+(2) TheOrganisation shall undertake such research as may be necessary for the performance of its functions under this Act and for that purpose it shall have power to make use of research facilities available in other institutions, whether public or private upon such terms and conditions as may be agreed upon between the Organisation and the institution concerned.
 
-6.     Standards library
+6. Standards library
 
 The Organisation shall assemble, maintain and extend a collection of books and publications and such other matter as it considers appropriate for a standards library of the highest standing and may make the facilities of the library available to such categories of persons as it thinks fit and upon such terms and conditions as it considers necessary.
 
-7.     Power to charge for services
+7. Power to charge for services
 
 For all comparisons, tests or investigations performed by the Organisation under this Act, except those performed for the Government of the Federation or a State, or such other public bodies or institutions as may be approved by the Council, a fee sufficient in each case to compensate the Organisation for the entire cost of the service rendered shall be charged according to a scale specified in rules made for that purpose by the Council.
 
-8.     Qualification and experience of Director-General
+8. Qualification and experience of Director-General
 
 Any person who may be appointed as the Director-General shall have such qualifications and experience as are appropriate for a person required to perform the functions conferred on the Director-General by or under this Act.
 
-9.     Director-General to be administrative head of Organisation
+9. Director-General to be administrative head of Organisation
 
 The Director-General shall be the chief executive of the Organisation and, subject to the Council's directives on financial, operational and administrative programmes, he shall be free to manage the Organisation in accordance with this Act and the Council shall not interfere with his methods or with the manner in which he employs the material and human resources of the Organisation in order to obtain results in accordance with this Act.
 
-10.   Special responsibilities of the Director-General
+10. Special responsibilities of the Director-General
 
 Without prejudice to the generality of section 9 of this Act, the Director-General shall have responsibility for-
 
-(a)    advisingthe Council in the formulation, implementation and review of national policies and programmes pertaining to standardisation, quality control of products, science of measurement and all matters relating to metrology;
+(a) advisingthe Council in the formulation, implementation and review of national policies and programmes pertaining to standardisation, quality control of products, science of measurement and all matters relating to metrology;
 
-(b)    co-ordinatingthe activities of the Directors appointed under this Act;
+(b) co-ordinatingthe activities of the Directors appointed under this Act;
 
-(c)    initiatingthe investigations to be conducted by the Organisation pursuant to the powers conferred by section 5 (l) (b) of this Act;
+(c) initiatingthe investigations to be conducted by the Organisation pursuant to the powers conferred by section 5 (l) (b) of this Act;
 
-(d)    representingthe Organisation at national and international levels in all maters relating to standardisation, quality control and metrology; and
+(d) representingthe Organisation at national and international levels in all maters relating to standardisation, quality control and metrology; and
 
-(e)    enforcingstandards and discharging the powers and duties of the Organisation.
+(e) enforcingstandards and discharging the powers and duties of the Organisation.
 
-11.   Number of Directors and their duties
+11. Number of Directors and their duties
 
 The number of Directors to be appointed pursuant to this Act shall be determined by the Council but such Directors shall be responsible to the Director-General and shall carry out such duties as may be determined by the Director-General.
 
 NigerianIndustrial Standards, etc.
 
-12.   Procedure for establishment of industrial standards
+12. Procedure for establishment of industrial standards
 
-(1)    Wheneverthe Council intends to establish industrial standards in pursuance of subsection (1) (b) ofsection 4 of this Act, it shall do so in accordance with the provisions of this section.
+(1) Wheneverthe Council intends to establish industrial standards in pursuance of subsection (1) (b) ofsection 4 of this Act, it shall do so in accordance with the provisions of this section.
 
-(2)    Beforeestablishing any industrial standard in pursuance of this section, the Council shall-
+(2) Beforeestablishing any industrial standard in pursuance of this section, the Council shall-
 
-(a)    informall parties having, in its opinion, substantial interests in the industrial standard in question;
+(a) informall parties having, in its opinion, substantial interests in the industrial standard in question;
 
-(b)    thereafterconstitute a committee to inquire into all the relevant aspect of the matter and make a report thereon, and in constituting the said committee, the Council shall ensure as wide a representation on the committee as possible including, where appropriate, representatives of the parties herein referred to.
+(b) thereafterconstitute a committee to inquire into all the relevant aspect of the matter and make a report thereon, and in constituting the said committee, the Council shall ensure as wide a representation on the committee as possible including, where appropriate, representatives of the parties herein referred to.
 
-(3)    Afterconsidering the report of the committee, the Council may establish the industrial standard if, in its opinion, that standard is of significance to the national economy and otherwise conforms with the objectives of this Act.
+(3) Afterconsidering the report of the committee, the Council may establish the industrial standard if, in its opinion, that standard is of significance to the national economy and otherwise conforms with the objectives of this Act.
 
-(4)    TheCouncil shall, in order to ensure that any industrial standard established under this section is still appropriate, have it reviewed from time to time and at least not less than once in every three years.
+(4) TheCouncil shall, in order to ensure that any industrial standard established under this section is still appropriate, have it reviewed from time to time and at least not less than once in every three years.
 
-(5)    TheCouncil shall have power to revise or revoke any industrial standard established under this section, and for that purpose, subsections (2) and (3) of this section shall apply in relation to the revision or revocation of an industrial standard as they apply in relation to the establishment thereof.
+(5) TheCouncil shall have power to revise or revoke any industrial standard established under this section, and for that purpose, subsections (2) and (3) of this section shall apply in relation to the revision or revocation of an industrial standard as they apply in relation to the establishment thereof.
 
-13.   Standards to be known as Nigerian Industrial Standards
+13. Standards to be known as Nigerian Industrial Standards
 
-(1)    Theindustrial standards established in pursuance of section 12 of this Act shall be called Nigerian Industrial Standards.
+(1) Theindustrial standards established in pursuance of section 12 of this Act shall be called Nigerian Industrial Standards.
 
-(2)    Industrialstandards other than those established in pursuance of section 12 of this Act shall not be called Nigerian Industrial Standards.
+(2) Industrialstandards other than those established in pursuance of section 12 of this Act shall not be called Nigerian Industrial Standards.
 
-14.   Certification marks
+14. Certification marks
 
-(1)    Wherethe Council, after the receipt of the report of a committee set up in accordance with the provisions of subsection (2) of section 12 of this Act, is satisfied that an item of manufacture is of particular importance or significance to the national economy, it may permit the manufacturer thereof (in this Act referred to as the "permitted manufacturer") to affix a special certification mark showing that the item of manufacture is one of those falling under the Nigerian Industrial Standards.
+(1) Wherethe Council, after the receipt of the report of a committee set up in accordance with the provisions of subsection (2) of section 12 of this Act, is satisfied that an item of manufacture is of particular importance or significance to the national economy, it may permit the manufacturer thereof (in this Act referred to as the "permitted manufacturer") to affix a special certification mark showing that the item of manufacture is one of those falling under the Nigerian Industrial Standards.
 
-(2)    TheCouncil may charge such fee as it thinks appropriate for every permit issued under this section.
+(2) TheCouncil may charge such fee as it thinks appropriate for every permit issued under this section.
 
-(3)    TheCouncil may revise, reallocate or revoke any permit issued under subsection (1) of this section in accordance with the procedure laid down in that subsection and the issue, revision, reallocation or revocation of every such permit shall be notified in the Federal Gazette.
+(3) TheCouncil may revise, reallocate or revoke any permit issued under subsection (1) of this section in accordance with the procedure laid down in that subsection and the issue, revision, reallocation or revocation of every such permit shall be notified in the Federal Gazette.
 
-(4)    Forthe purpose of this section, the references to item of manufacture include references to the packages, containers and invoices relative thereto.
+(4) Forthe purpose of this section, the references to item of manufacture include references to the packages, containers and invoices relative thereto.
 
-15.   Offences in relation to standards
+15. Offences in relation to standards
 
-(1)    Anyperson, other than the permitted manufacturer, who makes or sells or exposes for sale or uses for the purpose of advertising any material or document on or in which is portrayed-
+(1) Anyperson, other than the permitted manufacturer, who makes or sells or exposes for sale or uses for the purpose of advertising any material or document on or in which is portrayed-
 
-(a)    anindustrial standard in any way resembling or purporting to be any of the Nigerian Industrial Standards established in pursuance of this Act; or
+(a) anindustrial standard in any way resembling or purporting to be any of the Nigerian Industrial Standards established in pursuance of this Act; or
 
-(b)    a certification mark resembling or purporting to be a certification mark issued in pursuance of section 14 of this Act, shall be guilty of an offence and on conviction liable to a fine not exceeding NI ,000 or to imprisonment for a term not exceeding one year or to both such fine and imprisonment.
+(b) a certification mark resembling or purporting to be a certification mark issued in pursuance of section 14 of this Act, shall be guilty of an offence and on conviction liable to a fine not exceeding NI ,000 or to imprisonment for a term not exceeding one year or to both such fine and imprisonment.
 
-(2)    Wherea person is convicted under this section, the court may make such order as to the forfeiture or destruction of the material or document in issue at it may think appropriate in the circumstances.
+(2) Wherea person is convicted under this section, the court may make such order as to the forfeiture or destruction of the material or document in issue at it may think appropriate in the circumstances.
 
-16.   Power of the Minister to declare established standards as binding
+16. Power of the Minister to declare established standards as binding
 
-(1)    TheMinister may from time to time on the recommendation of the Council by-
+(1) TheMinister may from time to time on the recommendation of the Council by-
 
-(a)    Order published in the Federal Gazette; or
+(a) Order published in the Federal Gazette; or
 
-(b)    publication in any two national dailies having nation-wide circulation; or
+(b) publication in any two national dailies having nation-wide circulation; or
 
-(c)    noticeserved on any affected manufacturer, declare that an industrial standard established under section 12 of this Act shall be binding.
+(c) noticeserved on any affected manufacturer, declare that an industrial standard established under section 12 of this Act shall be binding.
 
-(2)    Anyindustrial standard declared and published in the Federal Gazette byvirtue of subsection (1) of this section shall be known as "Mandatory Industrial Standard".
+(2) Anyindustrial standard declared and published in the Federal Gazette byvirtue of subsection (1) of this section shall be known as "Mandatory Industrial Standard".
 
-(3)    Itshall be the duty of every manufacturer of any item of manufacture in respect of which a mandatory industrial standard has been declared to ensure that the item complies with (or was manufactured in accordance with) such standard which is for the time being in force.
+(3) Itshall be the duty of every manufacturer of any item of manufacture in respect of which a mandatory industrial standard has been declared to ensure that the item complies with (or was manufactured in accordance with) such standard which is for the time being in force.
 
-(4)    Ifany item of manufacture does not comply with a mandatory industrial standard, and that item is sold or delivered to any person with a view to its being sold to the public-
+(4) Ifany item of manufacture does not comply with a mandatory industrial standard, and that item is sold or delivered to any person with a view to its being sold to the public-
 
-(a)    the manufacturer of the item; and
+(a) the manufacturer of the item; and
 
-(b)    anyperson who sells, or is concerned in the sale of, the item knowing that it does not comply with such standard,
+(b) anyperson who sells, or is concerned in the sale of, the item knowing that it does not comply with such standard,
 
 shallbe guilty of an offence under this Act and shall be liable on conviction-
 
-(i)     inthe case of the manufacturer, to a fine not less than N 50,000 but not exceeding N100,000or to imprisonment for a term not exceeding five years or to both such fine and imprisonment;
+(i) inthe case of the manufacturer, to a fine not less than N 50,000 but not exceeding N100,000or to imprisonment for a term not exceeding five years or to both such fine and imprisonment;
 
-(ii)    inthe case of a seller, to a fine not less than N 5,000 but not exceeding N10,000 or to imprisonment for a term not exceeding two years or to both such fine or imprisonment.
+(ii) inthe case of a seller, to a fine not less than N 5,000 but not exceeding N10,000 or to imprisonment for a term not exceeding two years or to both such fine or imprisonment.
 
-(5)    Ifany item of manufacture does not comply with a mandatory industrial standard, and that item is sold or delivered to any person with a view to its being sold to the public, the manufacturer of that item shall be guilty of an offence under this Act and shall be liable on conviction to a fine not exceeding NI ,000 or to imprisonment for a term not exceeding one year or to both such fine and imprisonment.
+(5) Ifany item of manufacture does not comply with a mandatory industrial standard, and that item is sold or delivered to any person with a view to its being sold to the public, the manufacturer of that item shall be guilty of an offence under this Act and shall be liable on conviction to a fine not exceeding NI ,000 or to imprisonment for a term not exceeding one year or to both such fine and imprisonment.
 
-(6)    Inany criminal proceedings commenced against any person under this section, the production of a certificate signed by the Director-General or any other person duly authorised by the Director-General stating that an item of manufacture does not comply with the applicable mandatory industrial standard and describing the nature of the failure to comply with the mandatory industrial standard shall be sufficient evidence of such failure to comply.
+(6) Inany criminal proceedings commenced against any person under this section, the production of a certificate signed by the Director-General or any other person duly authorised by the Director-General stating that an item of manufacture does not comply with the applicable mandatory industrial standard and describing the nature of the failure to comply with the mandatory industrial standard shall be sufficient evidence of such failure to comply.
 
-(7)    Forthe purposes of the trial of any person charged with an offence under this section, any item of manufacture bearing the name or mark of that person shall, unless the contrary is proved, be presumed to have been manufactured by that person and the item shall be presumed to have been produced by him in the form in which it was found offered for sale.
+(7) Forthe purposes of the trial of any person charged with an offence under this section, any item of manufacture bearing the name or mark of that person shall, unless the contrary is proved, be presumed to have been manufactured by that person and the item shall be presumed to have been produced by him in the form in which it was found offered for sale.
 
-(8)    Whereany person is convicted of an offence under this section, the court may make such order as to the forfeiture or destruction of the item of manufacture in question as it  may think appropriate in the circumstances.
+(8) Whereany person is convicted of an offence under this section, the court may make such order as to the forfeiture or destruction of the item of manufacture in question as it  may think appropriate in the circumstances.
 
-17.   Powers of Director-General in relation to hazardous products
+17. Powers of Director-General in relation to hazardous products
 
-(1)    TheDirector-General may, upon being satisfied that the quality, purity or potency of any product (whether or not the subject of a mandatory industrial standard) is such as to be detrimental or hazardous to life and property, apply to the magistrate's court having jurisdiction in the area for an order-
+(1) TheDirector-General may, upon being satisfied that the quality, purity or potency of any product (whether or not the subject of a mandatory industrial standard) is such as to be detrimental or hazardous to life and property, apply to the magistrate's court having jurisdiction in the area for an order-
 
-(a)    toseize, destroy or prohibit any person from selling or offering for sale such product; or
+(a) toseize, destroy or prohibit any person from selling or offering for sale such product; or
 
-(b)    seal up the premises where such product is manufactured or stored; or
+(b) seal up the premises where such product is manufactured or stored; or
 
-(c)    directthe manufacturer to rectify the deficiency in the case of low product.
+(c) directthe manufacturer to rectify the deficiency in the case of low product.
 
-(2)    TheCourt may order that any product seized which in its opinion is hazardous or injurious to life shall be destroyed or disposed of in such manner as it thinks tit.
+(2) TheCourt may order that any product seized which in its opinion is hazardous or injurious to life shall be destroyed or disposed of in such manner as it thinks tit.
 
 Offences: General
 
-18.   Power to enter premises and obtain information
+18. Power to enter premises and obtain information
 
-(1)    Forthe purposes of carrying out the functions of the Organisation  under this Act, the Director-General and any other officer or servant of the Organisation authorised by the Director in writing-
+(1) Forthe purposes of carrying out the functions of the Organisation  under this Act, the Director-General and any other officer or servant of the Organisation authorised by the Director in writing-
 
-(a)    shallhave a right of access at all times to any building or other premises where an industrial or commercial undertaking is being carried on; and
+(a) shallhave a right of access at all times to any building or other premises where an industrial or commercial undertaking is being carried on; and
 
-(b)    mayby notice in writing served on any person carrying on an industrial or commercial undertaking require that person to furnish in such form as he may direct information on such matters as may be specified by him.
+(b) mayby notice in writing served on any person carrying on an industrial or commercial undertaking require that person to furnish in such form as he may direct information on such matters as may be specified by him.
 
-(2)    Anyarticle or item seized under this Act shall be kept or stored in such a place as the Director-General may direct and shall be returned to the owner if the court refuses to order forfeiture or destruction under section 17 (2) of this Act.
+(2) Anyarticle or item seized under this Act shall be kept or stored in such a place as the Director-General may direct and shall be returned to the owner if the court refuses to order forfeiture or destruction under section 17 (2) of this Act.
 
-(3)    A person required to furnish returns pursuant to subsection (1) of this section shall within two months from the notice comply with the notice.
+(3) A person required to furnish returns pursuant to subsection (1) of this section shall within two months from the notice comply with the notice.
 
 19. Offences
 
-(1)    Ifany person required to furnish returns pursuant to section 18 (1) of this Act fails to furnish those returns as required under this Act, he shall be guilty of an offence and liable on conviction to a fine not exceeding N400 or imprisonment for a term not exceeding six months or to both.
+(1) Ifany person required to furnish returns pursuant to section 18 (1) of this Act fails to furnish those returns as required under this Act, he shall be guilty of an offence and liable on conviction to a fine not exceeding N400 or imprisonment for a term not exceeding six months or to both.
 
-(2)    Ifa person in purported compliance with a requirement to furnish returns as aforesaid knowingly or recklessly makes any statement in the return which is false in a material particular, he shall be guilty of an offence and liable on conviction to a fine not exceeding N 200 or imprisonment for a term not exceeding three months or to both.
+(2) Ifa person in purported compliance with a requirement to furnish returns as aforesaid knowingly or recklessly makes any statement in the return which is false in a material particular, he shall be guilty of an offence and liable on conviction to a fine not exceeding N 200 or imprisonment for a term not exceeding three months or to both.
 
-(3)    Anyperson who wilfully obstructs, interferes with, assaults or resists any officer or servant of the Organisation in the execution of his duty under this Act or who aids, invites, induces or abets any other person to obstruct, interfere with, assault or resist any such officer or servant, shall be guilty of an offence and liable on conviction to a fine not exceeding N 200 or imprisonment for a period not exceeding three months or to both.
+(3) Anyperson who wilfully obstructs, interferes with, assaults or resists any officer or servant of the Organisation in the execution of his duty under this Act or who aids, invites, induces or abets any other person to obstruct, interfere with, assault or resist any such officer or servant, shall be guilty of an offence and liable on conviction to a fine not exceeding N 200 or imprisonment for a period not exceeding three months or to both.
 
-20.   Offences by bodies corporate
+20. Offences by bodies corporate
 
 Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of any director, manager, secretary or other official of the body corporate, or any person purporting to act in any such capacity, he, as well as the body corporate, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished.
 
 Miscellaneousand supplementary
 
-21.   Reports
+21. Reports
 
-(1)    TheCouncil shall as soon as possible after the end of each year submit to the Minister a report on the activities of the Council and the Organisation during the last preceding year.
+(1) TheCouncil shall as soon as possible after the end of each year submit to the Minister a report on the activities of the Council and the Organisation during the last preceding year.
 
-(2)    TheOrganisation may from time to time publish reports on any of its activities and when such reports are published the Organisation shall-
+(2) TheOrganisation may from time to time publish reports on any of its activities and when such reports are published the Organisation shall-
 
-(a)    distributecopies thereof free to departments of the Government of the Federation or a State and to such other bodies as may be approved by the Council; and
+(a) distributecopies thereof free to departments of the Government of the Federation or a State and to such other bodies as may be approved by the Council; and
 
-(b)    whereappropriate, make copies available for sale to the public and other interested parties, and such reports shall be in addition to any other publication made by it under this Act.
+(b) whereappropriate, make copies available for sale to the public and other interested parties, and such reports shall be in addition to any other publication made by it under this Act.
 
-22.   Power to make test purchases
+22. Power to make test purchases
 
 The Director-General or any other officer of the Organisation designated in that behalf shall have power to make such purchases of goods as may appear expedient for the purpose of determining whether or not the provisions of this Act are being complied with.
 
-23.   Power to make rules
+23. Power to make rules
 
-(1)    TheCouncil may make rules, not inconsistent with this Act, for the general and efficient conduct of the functions of the Organisation.
+(1) TheCouncil may make rules, not inconsistent with this Act, for the general and efficient conduct of the functions of the Organisation.
 
-(2)    Norules under subsection (1) of this section shall be made by the Council without the prior approval of the Minister, and thereafter they shall be published in the Federal Gazette.
+(2) Norules under subsection (1) of this section shall be made by the Council without the prior approval of the Minister, and thereafter they shall be published in the Federal Gazette.
 
-24.    Interpretation
+24. Interpretation
 
-(1)    Inthis Act, unless the context otherwise requires-
+(1) Inthis Act, unless the context otherwise requires-
 
 "chairman" meansthe chairman of the Council;
 
@@ -356,11 +356,11 @@ The Director-General or any other officer of the Organisation designated in that
 
 "State" means a State of the Federation.
 
-(2)    Inthis Act a reference to "officer or servant of the Organisation" isa reference to any person appointed in pursuance of section 1 of this Act.
+(2) Inthis Act a reference to "officer or servant of the Organisation" isa reference to any person appointed in pursuance of section 1 of this Act.
 
-(3)    Inthis Act, unless the context otherwise requires, a reference to a numbered section is a reference to the section so numbered in this Act.
+(3) Inthis Act, unless the context otherwise requires, a reference to a numbered section is a reference to the section so numbered in this Act.
 
-25.   Short title
+25. Short title
 
 This Act may be cited as the Standards Organisation of Nigeria Act.
 
@@ -374,99 +374,99 @@ Membership
 
 1. (1) Subject to this Schedule, the Council shall consist of seventeen members to be appointed by the Minister and, apart from the chairman and the Director, shall comprise the following-
 
-(a)    one representative from each of the following, that is-
+(a) one representative from each of the following, that is-
 
-(i)     the Federal Ministry of Agriculture and Rural Development;
+(i) the Federal Ministry of Agriculture and Rural Development;
 
-(ii)    the Ministry of Defence;
+(ii) the Ministry of Defence;
 
-(iii)    the Federal Ministry of Health;
+(iii) the Federal Ministry of Health;
 
-(iv)   the Federal Ministry of Commerce;
+(iv) the Federal Ministry of Commerce;
 
-(v)    the Federal Ministry of Transport; and
+(v) the Federal Ministry of Transport; and
 
-(vi)   the Federal Ministry of Works and Housing,
+(vi) the Federal Ministry of Works and Housing,
 
 so however that when appointing a person to represent a Ministry the Minister may appoint a person from any statutory corporation for which that Ministry has overall control or responsibility to represent such Ministry;
 
-(b)    onerepresentative from each of the following fields of activity appointed by the Minister after consultation with the appropriate body (if any) in each case, that is-
+(b) onerepresentative from each of the following fields of activity appointed by the Minister after consultation with the appropriate body (if any) in each case, that is-
 
-(i)     university education and research;
+(i) university education and research;
 
-(ii)    chambers of commerce, industry and mines;
+(ii) chambers of commerce, industry and mines;
 
-(iii)    engineering and engineering consultancy services;
+(iii) engineering and engineering consultancy services;
 
-(iv)   processing and manufacturing industry;
+(iv) processing and manufacturing industry;
 
-(v)    construction industry;
+(v) construction industry;
 
-(vi)   employers' associations;
+(vi) employers' associations;
 
-(vii)   consumers' associations; and
+(vii) consumers' associations; and
 
-(c)    oneperson appearing to the Minister to represent interests or fields of activity not otherwise represented.
+(c) oneperson appearing to the Minister to represent interests or fields of activity not otherwise represented.
 
-(2)    TheDirector-General shall be a member of the Council and the chairman of the Council shall be the Director-General of the Federal Ministry of Industry.
+(2) TheDirector-General shall be a member of the Council and the chairman of the Council shall be the Director-General of the Federal Ministry of Industry.
 
-(3)    ThePresident may by order published in the Federal Gazette increaseor reduce or otherwise vary the composition of the membership of the Council.
+(3) ThePresident may by order published in the Federal Gazette increaseor reduce or otherwise vary the composition of the membership of the Council.
 
 Termsof service
 
-2.     Subjectto paragraphs 3 and 4 of this Schedule, a member of the Council shall hold office for a period of four years from the effective date of the instrument of his appointment or his appointment, as the case may be.
+2. Subjectto paragraphs 3 and 4 of this Schedule, a member of the Council shall hold office for a period of four years from the effective date of the instrument of his appointment or his appointment, as the case may be.
 
-3.     Withoutprejudice to section 11 ofthe Interpretation Act (which provides, among other things, for the removal of appointees by the person who appointed them) a member of the Council shall cease to hold office if he resigns his office by a notice in writing signed by him and served on the Minister.
+3. Withoutprejudice to section 11 ofthe Interpretation Act (which provides, among other things, for the removal of appointees by the person who appointed them) a member of the Council shall cease to hold office if he resigns his office by a notice in writing signed by him and served on the Minister.
 
-4.     A person who ceases to hold office as member of the Council shall be eligible for reappointment.
+4. A person who ceases to hold office as member of the Council shall be eligible for reappointment.
 
-5.     Referencesin paragraphs 2 to 4 above to a member of the Council do not include references to the chairman, the Director, or any person appointed under paragraph 1 (1) (a) above.
+5. Referencesin paragraphs 2 to 4 above to a member of the Council do not include references to the chairman, the Director, or any person appointed under paragraph 1 (1) (a) above.
 
 Proceedings
 
-6.     Subjectto this Act and section 27 of the Interpretation Act (which provides for decisions of a statutory body to be taken by a majority of its members and for the chairman to have a second or casting vote), the Council may make standing orders regulating the proceedings of the Council or any committee thereof.
+6. Subjectto this Act and section 27 of the Interpretation Act (which provides for decisions of a statutory body to be taken by a majority of its members and for the chairman to have a second or casting vote), the Council may make standing orders regulating the proceedings of the Council or any committee thereof.
 
-7.     Thequorum of the Council shall be seven and shall include at least three of the persons mentioned in paragraph 1 (1 ) (b) to (d) of this Schedule, and the quorum of any committee of the Council shall be determined by the Council.
+7. Thequorum of the Council shall be seven and shall include at least three of the persons mentioned in paragraph 1 (1 ) (b) to (d) of this Schedule, and the quorum of any committee of the Council shall be determined by the Council.
 
-8.     TheCouncil shall elect a member to be deputy-chairman of the Council for such period as the Council may determine, so however that a deputy-chairman who ceases to be a member shall cease to be deputy-chairman.
+8. TheCouncil shall elect a member to be deputy-chairman of the Council for such period as the Council may determine, so however that a deputy-chairman who ceases to be a member shall cease to be deputy-chairman.
 
-9.     Atany meeting of the Council the chairman or in his absence the deputy-chairman shall preside, but if both are absent the members present at the meeting shall elect one of their number to preside at the meeting.
+9. Atany meeting of the Council the chairman or in his absence the deputy-chairman shall preside, but if both are absent the members present at the meeting shall elect one of their number to preside at the meeting.
 
-10.   The Council shall meet not less than once every three months and on such other occasions as may be necessary.
+10. The Council shall meet not less than once every three months and on such other occasions as may be necessary.
 
-11.    Subjectto paragraph 10 above and any standing orders of the Council, the Council shall meet whenever it is summoned by the chairman and before summoning a meeting the chairman shall direct the secretary to give at least fourteen days' notice of the meeting to each member; and if the chairman is required to do so by notice given to him by not less than seven other members, he shall summon a meeting of the Council in the manner aforesaid but to be held within twenty days from the date on which the notice is so given.
+11. Subjectto paragraph 10 above and any standing orders of the Council, the Council shall meet whenever it is summoned by the chairman and before summoning a meeting the chairman shall direct the secretary to give at least fourteen days' notice of the meeting to each member; and if the chairman is required to do so by notice given to him by not less than seven other members, he shall summon a meeting of the Council in the manner aforesaid but to be held within twenty days from the date on which the notice is so given.
 
-12.   Wherethe Council desires to obtain the advice of any person on a particular matter, the Council may co-opt him as a member for such period as it thinks fit, but a person who is a member by virtue of this paragraph shall not be entitled to vote at any meeting of the Council and shall not count towards a quorum.
+12. Wherethe Council desires to obtain the advice of any person on a particular matter, the Council may co-opt him as a member for such period as it thinks fit, but a person who is a member by virtue of this paragraph shall not be entitled to vote at any meeting of the Council and shall not count towards a quorum.
 
-13.   Notwithstandinganything in paragraphs 6 to 12 above, the first meeting of the Council shall be summoned by the Minister, who may give such directions as he thinks fit as to the procedure which shall be followed at that meeting.
+13. Notwithstandinganything in paragraphs 6 to 12 above, the first meeting of the Council shall be summoned by the Minister, who may give such directions as he thinks fit as to the procedure which shall be followed at that meeting.
 
 Committees
 
 14. (1)The Council may appoint such technical and project committees as it thinks fit to deal with specific materials or group of materials or topics or such other tasks as the Council may direct any such committee to undertake.
 
-(2)    Eachsuch committee shall be presided over by a member of the Council and shall be made up of such number of experts, not necessarily members of the Council, as the Council may determine in each case.
+(2) Eachsuch committee shall be presided over by a member of the Council and shall be made up of such number of experts, not necessarily members of the Council, as the Council may determine in each case.
 
-15.   Subject to its standing orders, the Council may appoint such other committees as it thinks fit, but the decision of a committee appointed under this paragraph shall be of no effect until it is confirmed by the Council.
+15. Subject to its standing orders, the Council may appoint such other committees as it thinks fit, but the decision of a committee appointed under this paragraph shall be of no effect until it is confirmed by the Council.
 
 Miscellaneous
 
-16.    Thevalidity of any proceedings of the Council or any committee thereof shall not be affected-
+16. Thevalidity of any proceedings of the Council or any committee thereof shall not be affected-
 
-(a)    by any vacancy in the membership of the Council or any committee; or
+(a) by any vacancy in the membership of the Council or any committee; or
 
-(b)    by any defect in the appointment of any such member; or
+(b) by any defect in the appointment of any such member; or
 
-(c)    byreason that a person not entitled to do so took part in the proceedings.
+(c) byreason that a person not entitled to do so took part in the proceedings.
 
-17.    A person shall not by reason only of his membership of the Council be treated as holding an office of emolument under the Government of the Federation or a State.
+17. A person shall not by reason only of his membership of the Council be treated as holding an office of emolument under the Government of the Federation or a State.
 
 SUBSIDIARY LEGISLATION
 
 List of Subsidiary Legislation
 
-1.     MandatoryIndustrial Standards Order (18th April 1978).
+1. MandatoryIndustrial Standards Order (18th April 1978).
 
-2.     MandatoryIndustrial Standards Order (28th August 1989).
+2. MandatoryIndustrial Standards Order (28th August 1989).
 
 MANDATORY INDUSTRIAL STANDARDS ORDER
 
@@ -498,9 +498,9 @@ Under section 12
 
 Commencement: 28th August 1989
 
-1.    The industrial standards specified in the second column of the Schedule to this Order are hereby declared mandatory industrial standards in respect of the commodities or processes specified in the first column thereof.
+1. The industrial standards specified in the second column of the Schedule to this Order are hereby declared mandatory industrial standards in respect of the commodities or processes specified in the first column thereof.
 
-2.     This Order may be cited as the Mandatory Industrial Standards Order.
+2. This Order may be cited as the Mandatory Industrial Standards Order.
 
 SCHEDULE OF STANDARDS APPROVED BY THE STANDARDS ORGANIZATION OF NIGERIA
 
@@ -2040,7 +2040,7 @@ NIS 426: 2000
 
 5.
 
-Code of practice for cement secondary packaging.  (NIS 442:2003)
+Code of practice for cement secondary packaging. (NIS 442:2003)
 
 NCP 10:2003
 

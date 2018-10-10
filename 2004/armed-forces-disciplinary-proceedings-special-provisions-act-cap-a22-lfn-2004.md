@@ -24,17 +24,17 @@ An Act to enable the appropriate Council to take disciplinary proceedings agains
 
 Notwithstanding anything to the contrary in any law, the appropriate Councilor Board of each force of the Armed Forces of the Federation (in this Act referred to as "the Council") may institute, and where instituted may continue disciplinary proceedings against any person subject to military law (hereafter referred to as an "officer") whether or not-
 
-(a)    criminal proceedings have been instituted with respect to such a person in any court of law in Nigeria or elsewhere or are about to be instituted or are contemplated; or
+(a) criminal proceedings have been instituted with respect to such a person in any court of law in Nigeria or elsewhere or are about to be instituted or are contemplated; or
 
-(b)    the grounds upon which any criminal charge is based or is to be based are substantially the same as those upon which the disciplinary proceedings were or are to be instituted.
+(b) the grounds upon which any criminal charge is based or is to be based are substantially the same as those upon which the disciplinary proceedings were or are to be instituted.
 
-2.     Power of the Council to punish following an acquittal
+2. Power of the Council to punish following an acquittal
 
 An officer acquitted on a criminal charge for an offence or given a discharge, whether amounting to an acquittal or not, in any court of law may be dismissed or otherwise punished in accordance with any disciplinary provisions on any other charge arising out of his conduct in the matter if the Council is satisfied-
 
-(a)    that his conduct in the matter has been in any respect blameworthy; or
+(a) that his conduct in the matter has been in any respect blameworthy; or
 
-(b)    that it is in the interest of the force where he is deployed and generally in the interest of the Armed Forces as a whole that he be so punished.
+(b) that it is in the interest of the force where he is deployed and generally in the interest of the Armed Forces as a whole that he be so punished.
 
 3. No proceedings against Council for contempt of court
 
@@ -46,7 +46,7 @@ As from the commencement of this Act, the provisions contained in any regulation
 
 5. Interpretation
 
-(1)    In this Act, unless the context otherwise requires-
+(1) In this Act, unless the context otherwise requires-
 
 "Council" means the Army Council, Navy Board or Air Force Council established by the Armed Forces Act;
 
@@ -58,9 +58,9 @@ As from the commencement of this Act, the provisions contained in any regulation
 
 "officer" means any person subject to military law.
 
-(2)    References in this Act to the Council shall be construed, where appropriate, as including references to any person to whom the Council may have delegated its powers pursuant to the appropriate service law.
+(2) References in this Act to the Council shall be construed, where appropriate, as including references to any person to whom the Council may have delegated its powers pursuant to the appropriate service law.
 
-6.     Short title
+6. Short title
 
 This Act may be cited as the Armed Forces (Disciplinary Proceedings) (Special Provisions) Act.
 

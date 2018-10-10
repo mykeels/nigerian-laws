@@ -2,17 +2,17 @@
 
 ARRANGEMENTOF SECTIONS
 
-1.        Short title.
+1. Short title.
 
-2.        Interpretation.
+2. Interpretation.
 
-3.        Discounting of any kind of currency prohibited.
+3. Discounting of any kind of currency prohibited.
 
-4.        Purchase of coin beyond face value prohibited.
+4. Purchase of coin beyond face value prohibited.
 
-5.        Separate offence in respect of each note or coin.
+5. Separate offence in respect of each note or coin.
 
-6.        Price not to be variable according to kind of currency in which payment is made.
+6. Price not to be variable according to kind of currency in which payment is made.
 
 CURRENCYOFFENCES ACT
 
@@ -38,21 +38,21 @@ In this Act, unless the context otherwise requires-
 
 If any person shall-
 
-(a)          buy or sell or offer or attempt to buy or sell;
+(a) buy or sell or offer or attempt to buy or sell;
 
-(b)          induce or attempt to induce any other person to buy or sell;
+(b) induce or attempt to induce any other person to buy or sell;
 
-(c)           offer or accept or offer to accept in payment of a debt or otherwise, any note or coin at or for a lower rate or value than the same imports, he shall be guilty of an offence and liable on conviction to imprisonment for a term of five years or a fine of N1000or to both such imprisonment and fine.
+(c) offer or accept or offer to accept in payment of a debt or otherwise, any note or coin at or for a lower rate or value than the same imports, he shall be guilty of an offence and liable on conviction to imprisonment for a term of five years or a fine of N1000or to both such imprisonment and fine.
 
 4. Purchase of coin beyond face value prohibited
 
 If any person shall-
 
-(a)          buy or sell or offer or attempt to buy or sell;
+(a) buy or sell or offer or attempt to buy or sell;
 
-(b)          induce or attempt to induce any other person to buy or sell;
+(b) induce or attempt to induce any other person to buy or sell;
 
-(c)           offer or accept or offer to accept in payment of a debt or otherwise, any coin for an amount exceeding the face value of such coin, he shall be guilty of an offence and liable on conviction to imprisonment for a term of five years or a fine of N 1,000 or to both such imprisonment and fine.
+(c) offer or accept or offer to accept in payment of a debt or otherwise, any coin for an amount exceeding the face value of such coin, he shall be guilty of an offence and liable on conviction to imprisonment for a term of five years or a fine of N 1,000 or to both such imprisonment and fine.
 
 5. Separate offence in respect of each note or coin
 

@@ -72,95 +72,95 @@ An Act to make provisions for the declaration of assets by employees of banks op
 
 1.Employees to make full disclosure of assets
 
-(1)   Every employee of a Bank shall, within fourteen days of the commencement of this Act, make a full disclosure of all his assets.
+(1) Every employee of a Bank shall, within fourteen days of the commencement of this Act, make a full disclosure of all his assets.
 
-(2)   In the case of a new employee, he shall within fourteen days of assuming duty with the Bank make a full disclosure of all his assets at the time of his assuming duty; and for the purpose of this subsection, a transfer or secondment from one Bank to another shall be treated as a new employment.
+(2) In the case of a new employee, he shall within fourteen days of assuming duty with the Bank make a full disclosure of all his assets at the time of his assuming duty; and for the purpose of this subsection, a transfer or secondment from one Bank to another shall be treated as a new employment.
 
 2. Execution of Assets Declaration Form
 
-(1)   The full disclosure of assets required under section 1 of this Act shall be made in the manner prescribed in the Declaration of Assets Form contained in Form A of the Schedule to this Act and shall be executed before and attested to by the Registrar of a High Court, the Court of Appeal or the Supreme Court.
+(1) The full disclosure of assets required under section 1 of this Act shall be made in the manner prescribed in the Declaration of Assets Form contained in Form A of the Schedule to this Act and shall be executed before and attested to by the Registrar of a High Court, the Court of Appeal or the Supreme Court.
 
-(2)   The President or the appropriate authority may from time to time prescribe such other forms as may be necessary to achieve the purpose and intendment of this Act.
+(2) The President or the appropriate authority may from time to time prescribe such other forms as may be necessary to achieve the purpose and intendment of this Act.
 
-3.    Submissionof assets forms
+3. Submissionof assets forms
 
-(1)   On completion and execution of the Declaration of Assets Form in the manner prescribed in section 2 (1) of this Act, the employee shall submit the form to the Chief Executive of his Bank within the time prescribed in section 1 of this Act.
+(1) On completion and execution of the Declaration of Assets Form in the manner prescribed in section 2 (1) of this Act, the employee shall submit the form to the Chief Executive of his Bank within the time prescribed in section 1 of this Act.
 
-(2)   The Chief Executive of the Bank to whom Declaration of Assets forms have been submitted under subsection (1) of this section shall, within seven days after the expiration of the time stipulated in section 1 of this Act, submit the forms to the appropriate authority together with the list of employees compiled in the manner prescribed in Form B of the Schedule to this Act.
+(2) The Chief Executive of the Bank to whom Declaration of Assets forms have been submitted under subsection (1) of this section shall, within seven days after the expiration of the time stipulated in section 1 of this Act, submit the forms to the appropriate authority together with the list of employees compiled in the manner prescribed in Form B of the Schedule to this Act.
 
-4.    AnnualAssets Declaration
+4. AnnualAssets Declaration
 
-(1)   An employee who has made a declaration in accordance with section 1 of this Act shall, within seven days of the anniversary of the initial declaration and every subsequent year thereafter, make a further full disclosure of all assets acquired or disposed of during the immediately preceding year to which the declaration relates.
+(1) An employee who has made a declaration in accordance with section 1 of this Act shall, within seven days of the anniversary of the initial declaration and every subsequent year thereafter, make a further full disclosure of all assets acquired or disposed of during the immediately preceding year to which the declaration relates.
 
-(2)   The full disclosure required to be made in subsection (1) of this section shall be in the manner prescribed in the Annual Assets Declaration Form contained in Form C of the Schedule to this Act and shall be duly executed and attested to in the manner prescribed in section 2 of this Act.
+(2) The full disclosure required to be made in subsection (1) of this section shall be in the manner prescribed in the Annual Assets Declaration Form contained in Form C of the Schedule to this Act and shall be duly executed and attested to in the manner prescribed in section 2 of this Act.
 
-(3)   The Chief Executive of every Bank shall, within seven days of receipt, submit to the appropriate authority all Annual Assets Declaration Forms submitted to him under this section.
+(3) The Chief Executive of every Bank shall, within seven days of receipt, submit to the appropriate authority all Annual Assets Declaration Forms submitted to him under this section.
 
-(4)   The obligation of an employee to make an annual declaration of assets as required in this section shall extend to a period of two years after the determination of his employment with the Bank; and for this purpose, it shall be the duty of the employee to collect the appropriate form from the Chief Executive of his Bank or a person authorised by him in that behalf and to submit the completed form to the Chief Executive within the time stipulated in subsection (1) of this section.
+(4) The obligation of an employee to make an annual declaration of assets as required in this section shall extend to a period of two years after the determination of his employment with the Bank; and for this purpose, it shall be the duty of the employee to collect the appropriate form from the Chief Executive of his Bank or a person authorised by him in that behalf and to submit the completed form to the Chief Executive within the time stipulated in subsection (1) of this section.
 
-(5)   Notwithstanding the circumstances of the determination of the employment of an employee affected by this Act, the Chief Executive shall, whenever requested by a former employee, promptly deliver to the former employee concerned the stipulated form to enable him to comply with the provisions of this section.
+(5) Notwithstanding the circumstances of the determination of the employment of an employee affected by this Act, the Chief Executive shall, whenever requested by a former employee, promptly deliver to the former employee concerned the stipulated form to enable him to comply with the provisions of this section.
 
-5.    Listof movements of employees
+5. Listof movements of employees
 
-(1)   The Chief Executive of every Bank shall twice in every year, but not later than 7 January, or 7 July, as the case may be, submit to the appropriate authority a list of all employees who joined or left the employment of the Bank in the immediately preceding six months expiring respectively on 31 December of the previous year and 30 June of that year respectively.
+(1) The Chief Executive of every Bank shall twice in every year, but not later than 7 January, or 7 July, as the case may be, submit to the appropriate authority a list of all employees who joined or left the employment of the Bank in the immediately preceding six months expiring respectively on 31 December of the previous year and 30 June of that year respectively.
 
-(2)   The list referred to in subsection (1) of this section shall be in the manner prescribed in the Biannual Returns of Employees Movements contained in Form D of the Schedule to this Act.
+(2) The list referred to in subsection (1) of this section shall be in the manner prescribed in the Biannual Returns of Employees Movements contained in Form D of the Schedule to this Act.
 
-6.    Verification,etc., of Assets Declaration
+6. Verification,etc., of Assets Declaration
 
 The appropriate authority shall cause to be verified every Declaration of Assets Form and Annual Assets Declaration Form submitted under this Act and may direct that a thorough investigation should be conducted into the assets and activities of the employee concerned including the assets and activities of his spouse, child, relative, parent, associate or privy.
 
-7.    Offencesof unjust enrichment
+7. Offencesof unjust enrichment
 
-(1)   It shall be an offence for an employee of a Bank to own assets in excess of his legitimate, known and provable income and assets.
+(1) It shall be an offence for an employee of a Bank to own assets in excess of his legitimate, known and provable income and assets.
 
-(2)   Any employee guilty of an offence under subsection (1) of this section shall on conviction be liable to imprisonment for ten years and shall, in addition, forfeit the excess assets or its equivalent in money to the Federal Government.
+(2) Any employee guilty of an offence under subsection (1) of this section shall on conviction be liable to imprisonment for ten years and shall, in addition, forfeit the excess assets or its equivalent in money to the Federal Government.
 
-(3)   For the purpose of imposing a penalty on conviction under this section, due regard shall be had to the amount or value of assets by which the assets of the convicted employee are in excess of his legitimate, known and provable income and assets.
+(3) For the purpose of imposing a penalty on conviction under this section, due regard shall be had to the amount or value of assets by which the assets of the convicted employee are in excess of his legitimate, known and provable income and assets.
 
-(4)   In determining the assets of an employee, any gift, bequest, donation or fraudulent, fictitious or artificial transaction made by the employee during the relevant period shall be treated as forming part of his assets.
+(4) In determining the assets of an employee, any gift, bequest, donation or fraudulent, fictitious or artificial transaction made by the employee during the relevant period shall be treated as forming part of his assets.
 
-(5)   For the purposes of this section, the income and assets of an employee shall include salaries, allowances, returns on investment, gifts, donations and bequests received by him.
+(5) For the purposes of this section, the income and assets of an employee shall include salaries, allowances, returns on investment, gifts, donations and bequests received by him.
 
-8.    Offencesrelating to assets declaration
+8. Offencesrelating to assets declaration
 
-(1)   Any employee affected by this Act who‐
+(1) Any employee affected by this Act who‐
 
-(a)   knowingly fails to make full disclosure of the assets and liabilities required to be made under this Act; or
+(a) knowingly fails to make full disclosure of the assets and liabilities required to be made under this Act; or
 
-(b)   knowinglymakes a declaration that is false, knowing same to be false in part or in whole; or
+(b) knowinglymakes a declaration that is false, knowing same to be false in part or in whole; or
 
-(c)   failsto answer any question contained in the appropriate form under this Act; or
+(c) failsto answer any question contained in the appropriate form under this Act; or
 
-(d)   fails, neglects or refuses to make a declaration or furnish information as required by the provisions of this Act,
+(d) fails, neglects or refuses to make a declaration or furnish information as required by the provisions of this Act,
 
 commits an offence under this Act and shall be liable on conviction to imprisonment for a term of ten years.
 
-(2)   Any assets found not to have been disclosed shall, in addition to any or both of the penalties prescribed under subsection (1) of this section or that prescribed in section 7 of this Act, be forfeited to the Federal Government.
+(2) Any assets found not to have been disclosed shall, in addition to any or both of the penalties prescribed under subsection (1) of this section or that prescribed in section 7 of this Act, be forfeited to the Federal Government.
 
-9.    Offencerelating to fronting
+9. Offencerelating to fronting
 
-(1)   Any person who‐
+(1) Any person who‐
 
-(a)   acts as a front for an employee of a Bank or does or omits to do anything or acts in a manner likely to defeat the objects of this Act; or
+(a) acts as a front for an employee of a Bank or does or omits to do anything or acts in a manner likely to defeat the objects of this Act; or
 
-(b)   unlawfully acquires, disposes, operates, owns or retains any assets for or on behalf of any employee of a Bank,
+(b) unlawfully acquires, disposes, operates, owns or retains any assets for or on behalf of any employee of a Bank,
 
 commits an offence under this Act and shall be liable on conviction to imprisonment for seven years.
 
-(2)   In addition to the imprisonment prescribed in subsection (1) of this section, the assets in question shall be forfeited to the Federal Government.
+(2) In addition to the imprisonment prescribed in subsection (1) of this section, the assets in question shall be forfeited to the Federal Government.
 
-(3)   For the purposes of this section, a person acts as a front if‐
+(3) For the purposes of this section, a person acts as a front if‐
 
-(a)   he accepts a gift, donation or bequest from an employee of a Bank on the understanding or in circumstances in which it could be inferred that such a gift, donation or bequest was intended to be held on behalf of, or in trust for or the use of the employee, his spouse, children, parents, relatives, associates or privies; or
+(a) he accepts a gift, donation or bequest from an employee of a Bank on the understanding or in circumstances in which it could be inferred that such a gift, donation or bequest was intended to be held on behalf of, or in trust for or the use of the employee, his spouse, children, parents, relatives, associates or privies; or
 
-(b)   he knowingly enters into a fraudulent, fictitious or artificial transaction with the employee.
+(b) he knowingly enters into a fraudulent, fictitious or artificial transaction with the employee.
 
 10. Offencesrelating to importation and exportation of goods and products
 
-(1)   Any person who forges, falsifies or alters any document relating to importation or exportation of goods, products or any article whatsoever shall be guilty of an offence under this Act and shall be liable to imprisonment for a term of ten years and any asset found to have been illegitimately acquired shall be forfeited to the Federal Government.
+(1) Any person who forges, falsifies or alters any document relating to importation or exportation of goods, products or any article whatsoever shall be guilty of an offence under this Act and shall be liable to imprisonment for a term of ten years and any asset found to have been illegitimately acquired shall be forfeited to the Federal Government.
 
-(2)   In this section, "document" means any banking, customs or shipping documents including but not limited to letters of credit (confirmed or unconfirmed), bill of lading and invoices.
+(2) In this section, "document" means any banking, customs or shipping documents including but not limited to letters of credit (confirmed or unconfirmed), bill of lading and invoices.
 
 11. Trial of offences under this Act
 
@@ -168,9 +168,9 @@ An offence under this Act shall be triable by the Federal High Court.
 
 12. Applicationof Act to the Nigerian Customs Service and to other persons and institutions
 
-(1)   The provisions of this Act shall apply to the Comptroller‐General, Deputy Comptroller‐General, Assistant Comptroller‐General, Chief Collector, Principal Collector, Collector and other officer, staff or employee of the Nigerian Customs Service as they apply to a Chief Executive or an employee of a Bank.
+(1) The provisions of this Act shall apply to the Comptroller‐General, Deputy Comptroller‐General, Assistant Comptroller‐General, Chief Collector, Principal Collector, Collector and other officer, staff or employee of the Nigerian Customs Service as they apply to a Chief Executive or an employee of a Bank.
 
-(2)   The President may direct by an instrument published in the Federal Gazette that the provisions of this Act be applied to any other person, class of employees, institutions or bodies either in the private or public sector of the Nigerian economy.
+(2) The President may direct by an instrument published in the Federal Gazette that the provisions of this Act be applied to any other person, class of employees, institutions or bodies either in the private or public sector of the Nigerian economy.
 
 13. Regulations
 
@@ -196,7 +196,7 @@ In this Act, unless the context otherwise requires‐
 
 "spouse" means any wife or husband of the employee whether the marriage was contracted under the Marriage Act, Customary Law, Islamic or any other form of marriage and includes a person with whom the employee is cohabiting.
 
-15.  Short title
+15. Short title
 
 This Act may be cited as the Bank Employees, etc. (Declaration of Assets) Act.
 
@@ -224,7 +224,7 @@ A. It is an offence punishable by ten years' imprisonment under the Act to‐
 
 (iv) fail, neglect or refuse to make a declaration or furnish any information required.
 
-B. (i)       Each item is to be completed. If it does not apply, the person affected must write "nil" or "none" in the space. Where necessary an extra sheet or sheets may be used and attached to this form by the person affected.
+B. (i) Each item is to be completed. If it does not apply, the person affected must write "nil" or "none" in the space. Where necessary an extra sheet or sheets may be used and attached to this form by the person affected.
 
 (ii) To the Secretary to the Federal Government.
 
@@ -530,7 +530,7 @@ Important:It is an offence punishable by ten years imprisonment under the Act to
 
 I,………………………………………………………………………………………being an employee of Bank required under the bank Employees, etc., (Declaration of Assets) Act to make an annual declaration of assets required and disposed of during the immediately preceding year do hereby declare as follows:-
 
-6.   Please give a list of:
+6. Please give a list of:
 
 (a) Assets acquired in the last one year by-
 
@@ -560,7 +560,7 @@ Children
 
 N
 
-7.  Please give details of any gift, donation or bequest or of assets received from each individual, person or organization in excess of an aggregate of N200 in the last one year by you, your spouse or children. Specify the name of the donor and relationship to you.
+7. Please give details of any gift, donation or bequest or of assets received from each individual, person or organization in excess of an aggregate of N200 in the last one year by you, your spouse or children. Specify the name of the donor and relationship to you.
 
 I,…………………………………………………………………………….solemnly declare that the information given by me in this form is correct and that I conscientiously believe same to be true by virtue of the Oaths Act.
 

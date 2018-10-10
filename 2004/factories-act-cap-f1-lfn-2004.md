@@ -6,223 +6,223 @@ ARRANGEMENT OF SECTIONS
 
 Registration of Factories
 
-1.     Register of factories.
+1. Register of factories.
 
-2.     Registration of existing factories.
+2. Registration of existing factories.
 
-3.     Registration of new factories.
+3. Registration of new factories.
 
-4.     Notification of change in particulars furnished.
+4. Notification of change in particulars furnished.
 
-5.     Appointment of Factories Appeal Board.
+5. Appointment of Factories Appeal Board.
 
-6.     Appeal to Board from decision of Director of Factories.
+6. Appeal to Board from decision of Director of Factories.
 
 ### PART II
 
 Health (general provisions)
 
-7.     Cleanliness.
+7. Cleanliness.
 
-8.     Overcrowding.
+8. Overcrowding.
 
-9.     Ventilation.
+9. Ventilation.
 
-10.    Lighting.
+10. Lighting.
 
-11.    Drainageof floors.
+11. Drainageof floors.
 
-12.    Sanitaryconveniences.
+12. Sanitaryconveniences.
 
-13.    Dutyof inspector as to sanitary defects remediable by local authority.
+13. Dutyof inspector as to sanitary defects remediable by local authority.
 
 ### PART III
 
 Safety (general provisions)
 
-14.    Primemovers.
+14. Primemovers.
 
-15.    Transmissionmachinery.
+15. Transmissionmachinery.
 
-16.    Poweredmachinery.
+16. Poweredmachinery.
 
-17.    Othermachinery.
+17. Othermachinery.
 
-18.    Provisionsas to unfenced machinery.
+18. Provisionsas to unfenced machinery.
 
-19.    Construction and maintenance of fencing.
+19. Construction and maintenance of fencing.
 
-20.    Constructionand disposal of new machinery.
+20. Constructionand disposal of new machinery.
 
-21.    Vesselscontaining dangerous liquids.
+21. Vesselscontaining dangerous liquids.
 
-22.    Self‐acting machines.
+22. Self‐acting machines.
 
-23.    Trainingand supervision of inexperienced workers.
+23. Trainingand supervision of inexperienced workers.
 
-24.    Hoistsand lifts.
+24. Hoistsand lifts.
 
-25.    Chains,ropes and lifting tackle.
+25. Chains,ropes and lifting tackle.
 
-26.    Cranesand other lifting machines.
+26. Cranesand other lifting machines.
 
-27.    Registerof chains, etc., and other lifting machines.
+27. Registerof chains, etc., and other lifting machines.
 
-28.    Safemeans of access and safe place of employment.
+28. Safemeans of access and safe place of employment.
 
-29.    Precautionsin places where dangerous fumes are likely to be present.
+29. Precautionsin places where dangerous fumes are likely to be present.
 
-30.    Precautionswith respect to explosives or inflammable dust, gas, vapour or substance.
+30. Precautionswith respect to explosives or inflammable dust, gas, vapour or substance.
 
-31.    Steamboilers.
+31. Steamboilers.
 
-32.    Steamreceivers and steam containers.
+32. Steamreceivers and steam containers.
 
-33.    Airreceivers.
+33. Airreceivers.
 
-34.    Exceptionas to steam boilers, steam receivers, steam containers and air receivers.
+34. Exceptionas to steam boilers, steam receivers, steam containers and air receivers.
 
-35.    Preventionof fire.
+35. Preventionof fire.
 
-36.    Safetyprovisions in case of fire.
+36. Safetyprovisions in case of fire.
 
-37.    Powerof inspector to issue improvement notice.
+37. Powerof inspector to issue improvement notice.
 
-38.    Powerof inspector to issue prohibition notice as to dangerous factory.
+38. Powerof inspector to issue prohibition notice as to dangerous factory.
 
-39.    Appealagainst notice.
+39. Appealagainst notice.
 
 ### PART IV
 
 Welfare (general provisions)
 
-40.    Supplyof drinking water.
+40. Supplyof drinking water.
 
-41.    Washingfacilities.
+41. Washingfacilities.
 
-42.    Accommodationfor clothing.
+42. Accommodationfor clothing.
 
-43.    First‐aid.
+43. First‐aid.
 
-44.    Exemptionif ambulance room is provided.
+44. Exemptionif ambulance room is provided.
 
 ### PART V
 
 Health, safety and welfare (special provisions and regulations)
 
-45.    Removalof dust or fumes.
+45. Removalof dust or fumes.
 
-46.    Mealsin certain dangerous trades.
+46. Mealsin certain dangerous trades.
 
-47.    Protectiveclothing and appliances.
+47. Protectiveclothing and appliances.
 
-48.    Protectionof eyes in certain processes.
+48. Protectionof eyes in certain processes.
 
-49.    Powerto make regulations for health, safety and welfare.
+49. Powerto make regulations for health, safety and welfare.
 
-50.    Powerto take samples.
+50. Powerto take samples.
 
 ### PART VI
 
 Notification and investigation of accidents and industrial diseases
 
-51.    Notificationof accidents.
+51. Notificationof accidents.
 
-52.    Powerto extend dangerous occurrences provisions as to notice of accidents.
+52. Powerto extend dangerous occurrences provisions as to notice of accidents.
 
-53.    Notificationof industrial disease.
+53. Notificationof industrial disease.
 
 ### PART VII
 
 Special applications, extensions and miscellaneous provisions
 
-54.    Premiseswhere part of building is separate factory.
+54. Premiseswhere part of building is separate factory.
 
-55.    Docks,wharves and quays.
+55. Docks,wharves and quays.
 
-56.    Premisesin which steam boilers are used.
+56. Premisesin which steam boilers are used.
 
-57.    Powerto extend application of provisions of Act.
+57. Powerto extend application of provisions of Act.
 
 ### PART VIII
 
 General registers, etc.
 
-58.    Generalregisters.
+58. Generalregisters.
 
-59.    Preservationof registers and records.
+59. Preservationof registers and records.
 
-60.    Postingof abstract of Act, regulations and notices.
+60. Postingof abstract of Act, regulations and notices.
 
-61.    Dutiesof persons employed.
+61. Dutiesof persons employed.
 
-62.    Prohibitionof deductions from wages.
+62. Prohibitionof deductions from wages.
 
 ### PART IX
 
 Administration
 
-63.    Report.
+63. Report.
 
-64.    Appointmentof inspectors.
+64. Appointmentof inspectors.
 
-65.    Powersof inspectors.
+65. Powersof inspectors.
 
-66.    Powerof inspectors to conduct proceedings before a magistrate's court.
+66. Powerof inspectors to conduct proceedings before a magistrate's court.
 
-67.    Provisionsas to regulations made under this Act.
+67. Provisionsas to regulations made under this Act.
 
-68.    Publicationin the Gazette of certificates issued or revoked by the Director of Factories.
+68. Publicationin the Gazette of certificates issued or revoked by the Director of Factories.
 
 ### PART X
 
 Offences, penalties and legal proceedings
 
-69.    Offences.
+69. Offences.
 
-70.    Penaltyfor offences for which no express penalty is provided.
+70. Penaltyfor offences for which no express penalty is provided.
 
-71.    Penaltyin cases of death or injury.
+71. Penaltyin cases of death or injury.
 
-72.    Forgeryof certificates, false entries and false declarations.
+72. Forgeryof certificates, false entries and false declarations.
 
-73.    Penaltyfor persons actually committing offence for which occupier is liable.
+73. Penaltyfor persons actually committing offence for which occupier is liable.
 
-74.    Powersof occupier or owner to exempt himself from liability on the conviction of actual offender.
+74. Powersof occupier or owner to exempt himself from liability on the conviction of actual offender.
 
-75.    Proceedingsagainst persons other than occupier or owners.
+75. Proceedingsagainst persons other than occupier or owners.
 
-76.    Ownerof machine liable in certain cases instead of occupier.
+76. Ownerof machine liable in certain cases instead of occupier.
 
-77.    Prosecutionof offences.
+77. Prosecutionof offences.
 
-78.    Specialprovisions as to evidence.
+78. Specialprovisions as to evidence.
 
-79.    Serviceand sending of documents, etc.
+79. Serviceand sending of documents, etc.
 
-80.    Powerto modify agreements.
+80. Powerto modify agreements.
 
-81.    Powerto apportion expenses.
+81. Powerto apportion expenses.
 
 ### PART XI
 
 General
 
-82.    Saving.
+82. Saving.
 
-83.    Generalapplication.
+83. Generalapplication.
 
-84.    Applicationto factories belonging to Government of the Federation or States.
+84. Applicationto factories belonging to Government of the Federation or States.
 
-85.    Powerto exempt in cases of emergency.
+85. Powerto exempt in cases of emergency.
 
-86.    Repealsand savings.
+86. Repealsand savings.
 
-87.    Meaningof factory.
+87. Meaningof factory.
 
-88.    Interpretation.
+88. Interpretation.
 
-89.    Shorttitle.
+89. Shorttitle.
 
 SCHEDULE
 
@@ -236,43 +236,43 @@ An Act to provide for the registration, etc., of factories; to provide for facto
 
 Registration of factories
 
-1.     Register of factories
+1. Register of factories
 
 The Director of Factories shall keep a register of factories in which he shall cause to be entered such particulars in relation to every factory required to be registered under this Act, as he may consider necessary or desirable.
 
-2.     Registration of existing factories
+2. Registration of existing factories
 
-(1)    Every person who at the commencement of this Act occupies a factory shall, within one month after such commencement, apply for the registration of such factory to the Director of Factories by completing the application form prescribed in the First Schedule to this Act.
+(1) Every person who at the commencement of this Act occupies a factory shall, within one month after such commencement, apply for the registration of such factory to the Director of Factories by completing the application form prescribed in the First Schedule to this Act.
 
-(2)    Upon receipt of the application in subsection (1) of this section, the Director of Factories shall cause the factory to be registered and shall issue to the occupier a certificate of registration in the form set out in the Second Schedule to this Act.
+(2) Upon receipt of the application in subsection (1) of this section, the Director of Factories shall cause the factory to be registered and shall issue to the occupier a certificate of registration in the form set out in the Second Schedule to this Act.
 
-3.     Registration of new factories
+3. Registration of new factories
 
-(1)    Before any person occupies or uses as a factory any premises which were not so occupied or used by him at the commencement of this Act, he shall apply for the registration of such premises by sending to the Director of Factories an application containing the particular set out in the First Schedule to this Act.
+(1) Before any person occupies or uses as a factory any premises which were not so occupied or used by him at the commencement of this Act, he shall apply for the registration of such premises by sending to the Director of Factories an application containing the particular set out in the First Schedule to this Act.
 
-(2)    An application under this section shall be filed with the Director of Factories at least six months before the commencement of actual construction of a building or structures intended to be used as a factory.
+(2) An application under this section shall be filed with the Director of Factories at least six months before the commencement of actual construction of a building or structures intended to be used as a factory.
 
-(3)    Anperson who‐
+(3) Anperson who‐
 
-(a)    not having been issued a certificate of registration as aforesaid, occupies or uses a factory or any premises which have not been registered as a factory; or
+(a) not having been issued a certificate of registration as aforesaid, occupies or uses a factory or any premises which have not been registered as a factory; or
 
-(b)    having been issued a certificate of registration of a factory as aforesaid, occupies or uses as a factory any premises which were not so registered as a factory,
+(b) having been issued a certificate of registration of a factory as aforesaid, occupies or uses as a factory any premises which were not so registered as a factory,
 
 shall be guilty of an offence.
 
-(4)    Any person who commits an offence under subsection (4) of this section shall be liable on conviction to a fine not exceeding N2,000 or to imprisonment for twelve months or to both such fine and imprisonment and if the contravention is continued after conviction, the person shall be guilty of a further offence and liable on conviction in respect thereof to a fine not exceeding N 100 or to imprisonment not exceeding fourteen days for each day on which the offence was continued.
+(4) Any person who commits an offence under subsection (4) of this section shall be liable on conviction to a fine not exceeding N2,000 or to imprisonment for twelve months or to both such fine and imprisonment and if the contravention is continued after conviction, the person shall be guilty of a further offence and liable on conviction in respect thereof to a fine not exceeding N 100 or to imprisonment not exceeding fourteen days for each day on which the offence was continued.
 
-(5)    Where the Director of Factories refuses to issue a certificate of registration under this section he shall, if so requested by the applicant, state in writing the grounds of such refusal.
+(5) Where the Director of Factories refuses to issue a certificate of registration under this section he shall, if so requested by the applicant, state in writing the grounds of such refusal.
 
-4.     Notification of change in particulars furnished
+4. Notification of change in particulars furnished
 
 If, at any time after an application has been sent to the Director of Factories in pursuance of the provisions of section 2 or 3 of this Act, any change occurs with respect to the particulars set out in the application, the occupier of the premises to which the application relates shall forthwith inform the Director of Factories, in writing, of such change, and, if he fails to do so, he shall be guilty of an offence under this Act.
 
-5.     Appointment of Factories Appeal Board
+5. Appointment of Factories Appeal Board
 
-(1)    Subject to the provisions of subsections (2) and (3) of this section, the Minister may, by notice in the Gazette, appoint such persons as he thinks fit to constitute a Factories Appeal Board (in this Act referred to as "the Board") for the purpose of hearing and determining any appeal that may be submitted to it under the provisions of section 6 of this Act.
+(1) Subject to the provisions of subsections (2) and (3) of this section, the Minister may, by notice in the Gazette, appoint such persons as he thinks fit to constitute a Factories Appeal Board (in this Act referred to as "the Board") for the purpose of hearing and determining any appeal that may be submitted to it under the provisions of section 6 of this Act.
 
-(2)    If the Minister deems it expedient that a person holding office in the public service of the Federation should be appointed to the Board, the Minister shall so inform the President who may, if he thinks fit, appoint a person holding office as aforesaid to the Board.
+(2) If the Minister deems it expedient that a person holding office in the public service of the Federation should be appointed to the Board, the Minister shall so inform the President who may, if he thinks fit, appoint a person holding office as aforesaid to the Board.
 
 (3) The Board shall consist of a chairman and not less than four other members, and the chairman shall be a legal practitioner who has been so qualified for not less than ten years.
 
