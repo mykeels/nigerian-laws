@@ -2,9 +2,9 @@
 
 SECTIONS
 
-### PARTI—STANDARDS ORGANISATION OF NIGERIA
+## PART I —STANDARDS ORGANISATION OF NIGERIA
 
-### PARTIII- FUNCTIONS AND DUTIES OF THE ORGANISATION
+## PART III - FUNCTIONS AND DUTIES OF THE ORGANISATION
 
 5. Functions of the Organisation.
 
@@ -12,7 +12,7 @@ SECTIONS
 
 7. Power to charge for services.
 
-### PART IV- STAFF OF THE ORGANISATION
+## PART IV - STAFF OF THE ORGANISATION
 
 8. Appointment, etc. of Director-General.
 
@@ -46,7 +46,7 @@ SECTIONS
 
 23. Budget and expenditure.
 
-### PART VI - NIGERIAN INDUSTRIAL STANDARDS
+## PART VI - NIGERIAN INDUSTRIAL STANDARDS
 
 24. Procedure for establishment of Industrial Standards.
 
@@ -62,7 +62,7 @@ SECTIONS
 
 30. Powers of Director-General in relation to hazardous products.
 
-### PART VII – OFFENCES
+## PART VII – OFFENCES
 
 31. Powerto enter premises.
 
@@ -72,7 +72,7 @@ SECTIONS
 
 33. Offences by bodies corporate.
 
-### PART VIII – LEGAL PROCEEDINGS
+## PART VIII – LEGAL PROCEEDINGS
 
 34. Commencement of legal proceedings.
 
@@ -96,7 +96,7 @@ SECTIONS
 
 44. Reports
 
-### PART IX--MISCELLANEOUS  PROVISIONS
+## PART IX - MISCELLANEOUS  PROVISIONS
 
 45. Power to make test purchases.
 
@@ -122,7 +122,7 @@ An Act to repealthe Standards Organisation of Nigeria Act, cap S9 Laws of the Fe
 
 ENACTED by the National Assembly of the Federal Republic of Nigeria­
 
-### PART 1- STANDARDS ORGANISATION OF NIGERIA
+## PART 1 - STANDARDS ORGANISATION OF NIGERIA
 
 Establishment of the Standards Organisation of Nigeria.
 
@@ -142,7 +142,7 @@ Power of the Minister to give directives to the Organisation.
 
 (2) TheOrganisation shall give to the Minister such information and returns relating to its activities as the Minister may, from time to time, require.
 
-### PART II - THE STANDARDS COUNCIL OF NIGERIA
+## PART II - THE STANDARDS COUNCIL OF NIGERIA
 
 The Standards Council of Nigeria.
 
@@ -230,7 +230,7 @@ Functions of   the Council, etc
 
 (2) Subject to this Act, the Minister may give the Council directivesof a general character or relating generally to particular matters (but not to any individual or case) with regard to the exercise by the Council of its functions, and the Council shall comply with the directives.
 
-### PART III—FUNCTIONS AND DUTIES OF THE ORGANISATION
+## PART III — FUNCTIONS AND DUTIES OF THE ORGANISATION
 
 Functions of the Organisation
 
@@ -280,7 +280,7 @@ Certain acts not interpreted as assurances or guarantees.
 
 43. Any function performed under this Act by the Minister, the Organisation, the Council, a member of the Council, a committee, or a member of a committee, the Director-General or an employee of the Organisation in connection with the certification of any commodity, product, material, substance, service, process, act or matter, shall not be interpreted as an assurance or a guarantee of any nature in respect of that commodity, product, material, substance, service, process, act or matter.
 
-### PART IX – MISCELLANEOUS PROVISIONS
+## PART IX – MISCELLANEOUS PROVISIONS
 
 Reports.
 
