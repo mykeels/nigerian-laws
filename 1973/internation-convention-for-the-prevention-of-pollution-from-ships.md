@@ -1068,7 +1068,7 @@ DAMAGE ASSUMPTIONS
 
 a) Side damage
 
-(i)  Longitudinal  1/3 L 2/3 or 14.5 metres,
+(i) Longitudinal  1/3 L 2/3 or 14.5 metres,
      extent (lc);  whichever is less
 
 (ii) Transverse	  B/5 or 11.5 metres,
@@ -1098,7 +1098,7 @@ b) Bottom damage
 (ii) Trans-   B/6 or 10 metres, 5 metres
      verse    whichever is less but not less
      extent   than 5 metres
-     (ts)	 
+     (ts) 
 
 (iii) Vertical  B or 6 metres,
      extent
@@ -1122,7 +1122,7 @@ Oc = sigmaW1 + sigmaK1C1         (I)
 
 b) for bottom damages: 
 
-Os = 1/3(sigmaZ1W1 + sigmaZ1C1)     (II)
+Os = 1/3(sigmaZ1W1 + sigmaZ1C1) (II)
 
 where:
 
@@ -1158,7 +1158,7 @@ c) Suction wells may be neglected in the determination of the value hi provided 
 
 4. In the case where bottom damage simultaneously involves four centre tanks, the value of Os may be calculated according to the formula
 
-Os = 1/4(sigmaZiWi + sigmaZiCi)       (III)
+Os = 1/4(sigmaZiWi + sigmaZiCi) (III)
 
 5. An Administration may credit as reducing oil outflow in case of bottom damage, an installed cargo transfer system having an emergency high suction in each cargo oil tank, capable of transferring from a breached tank or tanks to segregated ballast tanks or to available cargo tankage if it can be assured that such tanks will have sufficient ullage. 
 Credit for such a system would be governed by ability to transfer in two hours of operation oil equal to one half of the largest of the breached tanks involved and by availability of equivalent receiving capacity in ballast or cargo tanks. The credit shall be confined to permitting calculation of Os according to formula (III). The pipes for such suctions shall be installed at least at a height not less than the vertical extent of the bottom damage vs. The Administration shall supply the Organization with the information concerning the arrangements accepted by it, for circulation to other Parties to the Convention.
@@ -1362,7 +1362,7 @@ Date of building or major conversion contract..............
 Date on which keel was laid or ship was at a similar stage of construction or on which major conversion was commenced....................................................
 ..................
 
-Date of delivery or completion of major conversion........                   
+Date of delivery or completion of major conversion........ 
 ......................................................
 
 
@@ -1399,7 +1399,7 @@ PART B
 
 OIL TANKER
 
-Deadweight ..................metric tons. Length of ship...............	metres.
+Deadweight ..................metric tons. Length of ship............... metres.
 
 It is certified that this ship is:
 
@@ -1435,7 +1435,7 @@ Issued at.................................................
 
                    (place of issue of Certificate)
 
-........................19....   ............................
+........................19.... ............................
 (Signature of duly authorized official issuing the Certificate)
 
   (Seal or stamp of the issuing Authority, as appropriate)
@@ -1509,7 +1509,7 @@ Name of ship .........................
 
 Total cargo carrying capacity of ship in cubic metres 
 ......................................................Voyage 
-..........(date).....to .............	(date)
+..........(date).....to ............. (date)
  
 a) Loading of oil cargo 1. Date and place of loading			
 2. Types of oil loaded			
@@ -1524,14 +1524,14 @@ of loading2
 
 The undersigned certifies that in addition to the above, all sea valves, overboard discharges valves, cargo tank and pipeline connections and inter-connections, were secured on completion of loading oil cargo.
 
-Date of entry..........    Officer in charge..............
+Date of entry.......... Officer in charge..............
 
                            Master ........................
 
 b) Internal transfer of oil cargo during voyage
 
 5. Date of internal transfer		
-6. Identity of tank(s)	
+6. Identity of tank(s) 
  (i) From	
 	(ii) To	
 7. Was(were)
@@ -1611,7 +1611,7 @@ f) Discharge of dirty ballast
 28. Was any oil observed on the surface of the water in the locality of the discharge?
 
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1645,7 +1645,7 @@ g) Discharge of water from slop tanks
 
 42. Was any oil observed on the surface of the water in the locality of the discharge?
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1665,7 +1665,7 @@ h) Disposal of residues
 
 46. Date and port of disposal of residue
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1686,7 +1686,7 @@ i) Discharge of clean ballast contained in cargo tanks
 
 53. Was any oil observed on the surface of the water in the locality of the discharge?
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1705,7 +1705,7 @@ j) Discharge overboard of bilge water containing oil which has accumulated in ma
 
 58. Method of disposal (state whether a separator was used)
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1720,14 +1720,14 @@ k) Accidental or other exceptional discharges of oil
 
 62. Circumstances of discharge or escape, the reasons therefor and general remarks
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
 1. Has the oil monitoring and control system been out of operation at any time when discharging overboard? If so, give time and date of failure and time and date of restoration and confirm that this was due to equipment failure and state reason if known........................................................
 .......................................................
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1757,7 +1757,7 @@ a) Ballasting or cleaning of oil fuel tanks
 
 4. Date and position of ship at start of ballasting
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1775,7 +1775,7 @@ b) Discharge of dirty ballast or cleaning water from tanks referred to under sec
 
 10. Quantity discharged
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1792,7 +1792,7 @@ c) Disposal of residues
 
 13. Date and port of disposal of residue
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1815,7 +1815,7 @@ d) Discharge overboard of bilge water containing oil which has accumulated in ma
     (c) through oily-water separating equipment and an oil filtering system;
     (d) to reception facilities
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1830,14 +1830,14 @@ e) Accidental or other exceptional discharges of oil
 
 22. Circumstances of discharge or escape, the reasons therefor and general remarks
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
 
 f) Has the required oil monitoring and control system been out of operation at any time when discharging overboard? If so, state time and date of failure and time and date of restoration, and confirm that this was due to equipment failure, and state reason if known.
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1850,7 +1850,7 @@ If so, state which tanks were so ballasted and method of discharge of the dirty 
 ......................................................
 ......................................................
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -1859,7 +1859,7 @@ h) Additional operational procedures and general remarks........................
 
 ......................................................
 
-Date of entry.............   Officer in charge .............
+Date of entry............. Officer in charge .............
 
                              Master.........................
 
@@ -2321,7 +2321,7 @@ LIST OF NOXIOUS LIQUID SUBSTANCES CARRIED IN BULK
                                    (Para-           graph
                                    graph B of       D(1)
                                    Regulation       of
-                                   5)               Regula-
+                                   5) Regula-
                                                     tion 5)
 
                            I         II        III    IV
@@ -2396,7 +2396,7 @@ Methyl acetate ...........1231        D Methyl acrylate ..........1919        C 
 
 Methylene Chloride ........1593       B 2-Methyl-5-Ethylpyridine* . -         B Methyl methacrylate........1247       D 2-Methypentene* ........... -         D alpha-Methylstyrene* ...... -         D Monochlorobenzene .........1134       B Monoethanolamine .......... -         D Monoisopropanolamine ...... -         C Monomethyl ethanolamine ... -         C Mononitrobenzene .......... -         C Monoisopropylamine ........ -         C Morpholine* ...............2054       C Naphthalene (molten) ......1334       A        0.1    0.05 Naphthenic acids* ......... -         A        0.1    0.05
 
-* Asterisk indicates that the substance has been provisionally included in this list and that further data are necessary in order to complete the evaluation of its environmental hazards, particularly in relation to living resources.   
+* Asterisk indicates that the substance has been provisionally included in this list and that further data are necessary in order to complete the evaluation of its environmental hazards, particularly in relation to living resources. 
 
 Nitric acid (90%) .........2031/2032  C 2-Nitropropane ............ -         D ortho-Nitrotoluene ........1664       C Nonyl alcohol* ............ -         C Nonylphenol ............... -         C n-Octanol ................. -         C Oleum .....................1831       C Oxalic acid ((10Ñ25%) ..... -         D Pentachloroethane .........1669       B n-Pentane .................1265       C Perchlorocthylene 
  (Tetrachloroethylene).....1897       B Phenol ....................1671       B Phosphoric acid ...........1805       D Phosphorus (elemental) ....1338       A        0.1    0.005 Phthalic Anhydride 
@@ -2497,7 +2497,7 @@ f) Transfer of dirty ballast water
 36. date and port of discharge to shore reception facilities 
 (if applicable)
 
-.....................	Signature of Master
+..................... Signature of Master
 
 g) Transfer from slop tank/disposal of residue
 
@@ -2557,7 +2557,7 @@ Issued at.................................
 (place of issue of Certificate)
 
 
-.................19 ....   ........................
+.................19 .... ........................
 (Signature of duly authorized official issuing the Certifi- 
 cate)
 
@@ -2859,7 +2859,7 @@ INTERNATIONAL SEWAGE POLLUTION PREVENTION CERTIFICATE(1973)
 
 Issued under the Provisions of the International Convention for the Prevention of Pollution from Ships, 1973, under the Authority of the Government of
 
-...	................................................
+... ................................................
 (full designation of the country)
 
 by.................................................... (full designation of the competent person or organization authorized under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973)
@@ -2920,7 +2920,7 @@ This Certificate is valid until ..........................
 Issued at..................................................
                    (place of issue of Certificate)
 
-................  19...    ..............................
+................ 19... ..............................
 (Signature of official issuing the Certificate)
 
   (Seal or stamp of the Issuing Authority, as appropriate)
@@ -3375,10 +3375,10 @@ Regulation 13A
 
 REQUIREMENTS FOR OIL TANKERS WITH DEDICATED CLEAN BALLAST TANKS
 
-1.  An oil tanker operating with dedicated clean ballast tanks in accordance with the provisions of Regulation 13(9) 
+1. An oil tanker operating with dedicated clean ballast tanks in accordance with the provisions of Regulation 13(9) 
 or (10) of this Annex, shall have adequate tank capacity, dedicated solely to the carriage of clean ballast as defined in Regulation 1(16) of this Annex, to meet the requirements of Regulations 13(2) and (3) of this Annex.
 
-2.  The arrangements and operational procedures for dedicated clean ballast tanks shall comply with the requirements established by the Administration. Such requirements shall contain at least all the provisions of the Specifications for Oil Tankers with Dedicated Clean Ballast Tanks adopted by the International Conference on Tanker Safety and Pollution Prevention, 1978, in Resolution 14 and as may be revised by the Organization.
+2. The arrangements and operational procedures for dedicated clean ballast tanks shall comply with the requirements established by the Administration. Such requirements shall contain at least all the provisions of the Specifications for Oil Tankers with Dedicated Clean Ballast Tanks adopted by the International Conference on Tanker Safety and Pollution Prevention, 1978, in Resolution 14 and as may be revised by the Organization.
 
 3. An oil tanker operating with dedicated clean ballast tanks shall be equipped with an oil content meter, approved by the Administration on the basis of specification recommended by the Organization*, to enable supervision of the oil content in ballast water being discharged. The oil content meter shall be installed no later than at the first scheduled shipyard visit of the tanker following the entry into force of the present Protocol. Until such time as the content meter is installed, it shall immediately before discharge of ballast be established by examination of the ballast water from dedicated tanks that no contamination with the oil has taken place.
 
@@ -3627,7 +3627,7 @@ Endorsement for existing ships (1)
 (2) The period after the entry into force of the Protocol within which oily-water separating equipment, oil discharge control systems, oil filtering systems and/or slop tank arrangements must be provided is set out in Regulations 13A(3), 15(1) and 16(4) of Annex I of the Protocol.
 
                              
-Signed .......................                                          
+Signed ....................... 
 (Signature of duly authorized official)
 
 Place .......................
@@ -3641,8 +3641,8 @@ PART B OIL TANKERS(3)
 
 (3) This Part should be completed for oil tankers including combination carriers, and those entries which are applicable should be completed for ships other than oil tankers which are constructed and utilized to carry oil in bulk of an aggregate capacity of 200 cubic metres or above.
 
-Carrying Capacity of Ship (m2)	Deadweight of Ship
-(metric tons)	Length of ship (m)
+Carrying Capacity of Ship (m2) Deadweight of Ship
+(metric tons) Length of ship (m)
 		
 
 It is certified that this ship is constructed and equipped, and must operate, in accordance with the following:
@@ -3695,7 +3695,7 @@ Segregated ballast tanks**
 
 The segregated ballast tanks are distributed as follows:
 
-Tank	Volume (m2)	Tank	Volume (m2)
+Tank	Volume (m2) Tank	Volume (m2)
 			
 
 		
@@ -3705,7 +3705,7 @@ This ship is operating with dedicated clean ballast tanks until ................
                          (date)
 in accordance with the requirements of Regulation 13A of Annex I of the Protocol. The dedicated clean ballast tanks are designated as follows:
 
-Tank	Volume (m2)	Tank	Volume (m2)
+Tank	Volume (m2) Tank	Volume (m2)
 			
 
 Manual**
@@ -3720,7 +3720,7 @@ b) a valid Operations and Equipment Manual for Crude Oil Washing in accordance w
 
 Identification of the valid Manual........................
  
-Signed .......................                                          
+Signed ....................... 
 (Signature of duly authorized official)
 
 Place .......................
@@ -3731,7 +3731,7 @@ Date ........................
 
 Identification of the valid Manual........................
  
-Signed .......................                                          
+Signed ....................... 
 (Signature of duly authorized official)
 
 Place .......................
@@ -3758,7 +3758,7 @@ b) operating with special ballast arrangements in accordance with Regulation 13D
 and is therefor exempted from the requirements of Regulation 13 of Annex I of the Protocol.
 
 
-Signed .......................                                          
+Signed ....................... 
 (Signature of duly authorized official)
 
 Place .......................
@@ -3781,10 +3781,10 @@ This Certificate is valid until
 
 subject to intermediate survey(s) at intervals of....................................................
 
-Issued at.............................................                                       
+Issued at............................................. 
 (Place of issue of Certificate)
 
-...............19.....     ...........................
+...............19..... ...........................
 (signature of duly authorized official)
 
 
@@ -3870,7 +3870,7 @@ Total dedicated clean ballast capacity
 ..........................................cubic metres
 
 The following tanks are designated as dedicated clean ballast tanks:
-Tank	Volume (m2)	Tank	Volume (m2)
+Tank	Volume (m2) Tank	Volume (m2)
 			
 
 
@@ -3924,7 +3924,7 @@ Date of entry  ........... Officer in charge ..............
 The undersigned certifies that, in addition to the above, all sea valves overboard discharge valves, cargo tank and pipeline connexions and connexions between tanks or inter-
 tank connexions, were secured on completion of discharge of clean ballast and that the pump(s) and pipes designated for clean ballast operations were properly cleaned upon completion of discharge of clean ballast.
 
-Date of entry .............   Officer in charge............
+Date of entry ............. Officer in charge............
 
                               Master ......................
 
@@ -3942,7 +3942,7 @@ Distinctive number of letters .......................
 Total cargo carrying capacity ................... cubic metres
 
 Voyage from ..................... to ........................
-            (Port(s))	(date)        (Port(s))    (date)
+            (Port(s)) (date) (Port(s)) (date)
 
 NOTES: 
 The periods covered by the supplement should be consistent with the periods covered by the Oil Record Book. 
@@ -3975,7 +3975,7 @@ A separate column should be used for each tank washed or water rinsed.
 
 The tanks were washed in accordance with programmes given in the Operations and Equipment Manual (see Note 3) and confirmed dry on completion.
 
-Date of entry .............   Officer in charge............
+Date of entry ............. Officer in charge............
 
                               Master ......................
 
@@ -3997,7 +3997,7 @@ Note 3 If the programmes given in the Operations and Equipment Manual are not fo
      (a) reception facilities
      (b) slop tank(s) (identify slop tank(s))
 
-Date of entry .............   Officer in charge............
+Date of entry ............. Officer in charge............
 
                               Master ......................
 
@@ -4016,8 +4016,8 @@ Total cargo carrying capacity ........................cubic metres
 
 Total ballast water capacity required for compliance with Regulation 13(2) and (3) of Annex I of the Protocol ......................cubic metres
 
-Voyages from ....................  to ............	
-              (Port(s))                 (Port(s))
+Voyages from .................... to ............ 
+              (Port(s)) (Port(s))
 
 NOTE: The periods covered by the Supplement should be consistent with the periods covered by the Oil Record Book.
 
