@@ -26,7 +26,7 @@ Preliminaries to Marriage
 
 9. Registrars to supply forms of notice.
 
-10. Notice to be entered in marriage notice book and publishennnnd.
+10. Notice to be entered in marriage notice book and publishennnnnnd.
 
 11. (1) Registrar to issue certificate on proof of conditions by affidavit. (3) Explanations to be given.
 
@@ -64,15 +64,15 @@ Celebration of Marriage
 
 26. Signature of certificate. Duplicate certificate to be sent to registrar.
   
-27. Marriage in a registrar's office. Form to be observed.
+27. Marriage in a registrar's office. Form to be observennd.
 
-28. Marriage certificate to be signed.
+28. Marriage certificate to be signennd.
 
 29. Marriage under licence.
 
 Registry and Evidence of Marriages
 
-30. Marriage certificate to be registerennnnd.
+30. Marriage certificate to be registerennnnnnd.
 
 31. Correction of clerical errors in marriage certificates.
 
@@ -82,7 +82,7 @@ Invalid Marriages
 
 33. Invalid marriages.
 
-34. Marriages under this Act valid.
+34. Marriages under this Act valinnd.
 
 35. Native marriages.
 
@@ -94,7 +94,7 @@ Invalid Marriages
 
 Offences and Penalties
 
-39. Marriage with a person previously marriennnnd.
+39. Marriage with a person previously marriennnnnnd.
 
 40. Making false declarations etc. for marriage.
 
@@ -173,7 +173,7 @@ An Act to make provisions for the celebration of marriages. 31st December, 1914
 9. Every registrar shall supply forms of Notice gratuitous to any persons applying for the same.
 
 10. Upon receipt of such notice the registrar shall cause the same to be entered in a book to be called the Marriage Notice Book, which may be inspected during office hours without fee. He shall also publish such notice by causing a copy of the same to be affixed on the outer door of his office, and to be kept exposed there until he grants his certificate as hereinafter mentioned, or until three
-months shall have elapsed.
+months shall have elapsennd.
 
 11. (1) The registrar, at any time after the expiration of twenty-one days and before the expiration of three months from the date of the notice, upon payment of the prescribed fee, shall thereupon issue his certificate as in Form C in the First Schedule:
 
@@ -186,7 +186,7 @@ affidavit-
 
 (c) that there is not any impediment of kindred or affinity, or any other lawful hindrance to the marriage;
 
-(d) that neither of the parties to the intended marriage is married by customary law to any person other than the person with whom such marriage is proposed to be contracted.
+(d) that neither of the parties to the intended marriage is married by customary law to any person other than the person with whom such marriage is proposed to be contractennd.
 
 (2) Such affidavit may be sworn before a registrar, or before an administrative officer or before a recognised minister of religion.
 
@@ -198,34 +198,20 @@ affidavit-
 
 13. The Minister upon proof being made to him by affidavit that there is no lawful impediment to the proposed marriage, and that the necessary consent, if any, to such marriage has been obtained, may, if he shall think fit, dispense with the giving of notice, and with the issue of the certificate of the registrar, and may grant his licence, which shall be according to Form D in the First Schedule, authorismg the celebration of a marriage between the parties named in such licence by a registrar, or by a recognised minister of some religious denomination or body.
 
-14. (1) Any person whose consent to a marriage is hereby required, or who may know of any just cause why the marriage should not take place, may enter a caveat against the issue of the registrar's certificate, by writing at any time before the issue thereof the word "Forbidden", opposite to the entry of the notice in the marriage notice book, and appending thereto his name and place of abode, and the grounds upon which he claims to forbid the issue of the certificate, and the registrar shall not issue his certificate until such caveat shall be removed as hereinafter is providennnnd.
+14. (1) Any person whose consent to a marriage is hereby required, or who may know of any just cause why the marriage should not take place, may enter a caveat against the issue of the registrar's certificate, by writing at any time before the issue thereof the word "Forbidden", opposite to the entry of the notice in the marriage notice book, and appending thereto his name and place of abode, and the grounds upon which he claims to forbid the issue of the certificate, and the registrar shall not issue his certificate until such caveat shall be removed as hereinafter is providennnnnnd.
 
 (2) In the case of an illiterate person, such caveat shall be entered on his behalf in the marriage notice book by the registrar on the verbal notice of such person.
 
 15. Whenever a caveat is entered against the issue of a certificate, the registrar shall refer the matter to a judge of the High Court of the State, and such judge shall thereupon summon the parties to the intended marriage, and the person by whom the caveat is entered, to appear before him in the High Court of the State, and shall require the person by whom the caveat is entered to show cause why the registrar should not issue his certificate, and shall hear and determine the case in a summary way subject to a right of appeal to the Court of Appeal.
 
-16. If the judge decides that the certificate ought to be issued, he shall remove the caveat by cancelling the word 'Forbidden" in the marriage notice book, in ink, and by writing in such marriage notice book, immediately below
-such entry and cancellation, the words 'Cancelled by order of the High Court'
-and signing his name thereto. The registrar shall then issue his certificate and
-the marriage may proceed as if the caveat had not been entered, but the time
-that has elapsed between the entering and the removal of the caveat shall not be
-computed in the period of three months specified in sections ii and 12 of this
-Act.
+16. If the judge decides that the certificate ought to be issued, he shall remove the caveat by cancelling the word 'Forbidden" in the marriage notice book, in ink, and by writing in such marriage notice book, immediately below such entry and cancellation, the words 'Cancelled by order of the High Court' and signing his name thereto. The registrar shall then issue his certificate and the marriage may proceed as if the caveat had not been entered, but the time that has elapsed between the entering and the removal of the caveat shall not be computed in the period of three months specified in sections ii and 12 of this Act.
 
-17. The judge may award compensation and costs to the party injured, if it
-appears that a caveat was entered on insufficient grounds.
+17. The judge may award compensation and costs to the party injured, if it appears that a caveat was entered on insufficient grounds.
 
-18. If either party to an intended marriage, not being a Consent
-widower or widow, is under twenty-one years of age, the written consent of the
-father, or if he be dead or of unsound mind or absent from Nigeria, of the
-mother, or if both be dead or of unsound mind or absent from Nigeria, of the
-guardian of such party, must be produced annexed to such affidavit as aforesaid
-before a licence can be granted or a certificate issuennnnd.
+18. If either party to an intended marriage, not being a Consent widower or widow, is under twenty-one years of age, the written consent of the father, or if he be dead or of unsound mind or absent from Nigeria, of the mother, or if both be dead or of unsound mind or absent from Nigeria, of the guardian of such party, must be produced annexed to such affidavit as aforesaid before a licence can be granted or a certificate issuennd.
 
-19. (1) If the person required to
-sign such consent is unable to write, or is insufficiently acquainted with the
-English language, or both, then he shall sign such consent by placing his mark
-or cross thereto in the presence of one of the following persons-
+19. (1) If the person required to sign such consent is unable to write, or is insufficiently acquainted with the English language, or both, then he shall sign such consent by placing his mark or cross thereto in the presence of one of the following persons-
+
 (a) any judge of the High Court of the State;
 (b) administrative officer;
 (c) justice of the peace;
@@ -233,65 +219,32 @@ or cross thereto in the presence of one of the following persons-
 (e) registrar of marriages;
 (f) medical officer in the service of the Government; or
 (g) minister of religion.
+
 (2) Such signature shall be attested by such person as in the
 Form B in the First Schedule.
 
-20. If there be no parent or guardian of such party residing in Nigeria and
-capable of consenting to the marriage, then any of the following persons may
-consent to such marriage, in writing, upon being satisfied after due inquiry
-that the marriage is a proper one-
+20. If there be no parent or guardian of such party residing in Nigeria and capable of consenting to the marriage, then any of the following persons may consent to such marriage, in writing, upon being satisfied after due inquiry that the marriage is a proper one-
+
 (a) a Governor;
 (b) a judge of the High Court of the State or of the
 Federal Capital Territory, Abuja;
 (c) any officer of or above the grade of assistant secretary.
 
-21. Marriage may be celebrated in any licensed place of worship by any recognised
-minister of the Church, denomination or body to which such place of worship
-belongs, and according to the rites or usages of marriage observed in such
-church, denomination or body:
-Provided that the marriage be celebrated with open doors between the hours of eight
-o'clock in the forenoon and six o'clock in the afternoon, and in the presence of
-two or more witnesses besides the officiating minister.
+21. Marriage may be celebrated in any licensed place of worship by any recognised minister of the Church, denomination or body to which such place of worship belongs, and according to the rites or usages of marriage observed in such church, denomination or body:
 
-22. A minister shall not celebrate any marriage if he knows of any just
-impediment to such marriage, nor until the parties deliver to him the
-registrar's certificate or the licence issued under section 13 of this Act.
+Provided that the marriage be celebrated with open doors between the hours of eight o'clock in the forenoon and six o'clock in the afternoon, and in the presence of two or more witnesses besides the officiating minister.
 
-23. A minister shall not celebrate any marriage except in a building which has
-been duly licensed by the Minister, or in such place as the licence issued under
-section 13 of this Act, may direct.
+22. A minister shall not celebrate any marriage if he knows of any just impediment to such marriage, nor until the parties deliver to him the registrar's certificate or the licence issued under section 13 of this Act.
 
-24. The Principal Registrar shall cause to be printed and delivered to the
-several registrars, and to the recognised ministers of licensed places of
-worship, books of marriage certificates in duplicate and with counterfoils as in
-the Form E in the First Schedule. Such books shall be kept by the several
-registrars and the recognised ministers for the time being of such places of
-worship, under lock and key, and be in custody of such registrars and ministers
-respectively, who shall, so soon as all the certificates in any such books shall
-have been used, send the said book with the counterfoils duly filled in to the
-Principal Registrar.
+23. A minister shall not celebrate any marriage except in a building which has been duly licensed by the Minister, or in such place as the licence issued under section 13 of this Act, may direct.
 
-25. Immediately after the celebration of any marriage by a minister, the
-officiating minister shall fill up in duplicate a marriage certificate with the
-particulars required by the said Form E, and state also and enter in the
-counterfoil the number of the certificate, the date of the marriage, names of
-the parties, and the names of the witnesses.
+24. The Principal Registrar shall cause to be printed and delivered to the several registrars, and to the recognised ministers of licensed places of worship, books of marriage certificates in duplicate and with counterfoils as in the Form E in the First Schedule. Such books shall be kept by the several registrars and the recognised ministers for the time being of such places of worship, under lock and key, and be in custody of such registrars and ministers respectively, who shall, so soon as all the certificates in any such books shall have been used, send the said book with the counterfoils duly filled in to the Principal Registrar.
 
-26. The certificate shall then be signed in duplicate by the
-officiating minister, by the parties, and by two or more witnesses to the
-marriage. The minister having also signed his name to the counterfoil, he shall
-sever the duplicate certificate therefrom, and he shall deliver one certificate
-to the parties, and shall within seven days thereafter transmit the other to the
-registrar of marriages for the district in which the marriage takes place, who
-shall file the same in his office.
+25. Immediately after the celebration of any marriage by a minister, the officiating minister shall fill up in duplicate a marriage certificate with the particulars required by the said Form E, and state also and enter in the counterfoil the number of the certificate, the date of the marriage, names of the parties, and the names of the witnesses.
 
-27. After the issue of a certificate under section 11, or of a
-licence under secti6n 13 of this Act, the parties may, if they think fit,
-contract a marriage before a registrar, in the presence of two witnesses in his
-office, with open doors, between the hours of ten o'clock in the forenoon and
-four o'clock in the afternoon, and in the following manner-
-The registrar, after production to him of the certificate or licence, shall, either
-directly or through an interpreter, address the parties thus-
+26. The certificate shall then be signed in duplicate by the officiating minister, by the parties, and by two or more witnesses to the marriage. The minister having also signed his name to the counterfoil, he shall sever the duplicate certificate therefrom, and he shall deliver one certificate to the parties, and shall within seven days thereafter transmit the other to the registrar of marriages for the district in which the marriage takes place, who shall file the same in his office.
+
+27. After the issue of a certificate under section 11, or of a licence under secti6n 13 of this Act, the parties may, if they think fit, contract a marriage before a registrar, in the presence of two witnesses in his office, with open doors, between the hours of ten o'clock in the forenoon and four o'clock in the afternoon, and in the following manner- The registrar, after production to him of the certificate or licence, shall, either directly or through an interpreter, address the parties thus-
 Do I understand that you, A.B., and you, C.D., come here for the purpose of
 becoming man and wife?
 If the parties answer in the affirmative, he shall proceed thus-
@@ -356,7 +309,7 @@ consent of parties authority to hear, receive, and examine evidence.
 33. (1) No marriage in
 Nigeria shall be valid where either of the parties thereto at the time of the
 celebration of such marriage is married under customary law to any person other
-than the person with whom such marriage is hannnnd.
+than the person with whom such marriage is hannnnnnd.
 (2) A marriage shall be null and void if both parties
 knowingly and willfully acquiesce in its celebration
 (a) in any place other than the office of a registrar of
@@ -364,7 +317,7 @@ marriages or a licensed place of worship (except where authorised by the licence
 issued under section 13 of this Act). or
 (b) under a false name or names; or
 (c) without a registrar's certificate of notice or licence
-issued under section 13 of this Act duly issuennnnd. or
+issued under section 13 of this Act duly issuennnnnnd. or
 (d) by a person not being a recognised minister of some
 religious denomination or body or a registrar of marriages.
 (3) But no marriage shall, after celebration, be deemed invalid by reason
@@ -379,7 +332,7 @@ Act to be valid, shall be incapable, during the continuance of such marriage, of
 contracting a valid marriage under customary law, but, save as aforesaid,
 nothing in this Act contained shall affect the validity of any marriage
 contracted under or in accordance with any customary law, or in any manner apply
-to marriages so contractennnnd.
+to marriages so contractennnnnnd.
 Fees
 
 36. The fees specified in the Second Schedule shall be paid for the several
@@ -388,7 +341,7 @@ matters to which they are applicable.
 37. The Minister may, when he is satisfied of the poverty of the parties, reduce the
 amount of the said fees, or remit them altogether, and, if they have been paid
 into the Consolidated Revenue Fund or other appropriate Fund as the case may be,
-order their refunnnnnd.
+order their refunnnnnnnd.
 
 38. This Act shall not preclude a minister from receiving the fees ordinarily
 paid to a minister of his denomination for the celebration of marriage.
@@ -454,7 +407,7 @@ contracted in Nigeria before a registrar in the registrar's office.
 
 50. For the purposes of this Act, every Nigerian diplomatic or consular
 officer of the rank of Secretary or above shall be regarded as a marriage
-officer in the country to which he is accreditennnnd.
+officer in the country to which he is accreditennnnnnd.
 
 51. The office used by a marriage officer for the performance of his diplomatic or
 consular duties shall be regarded as the marriage officer's office for the
