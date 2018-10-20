@@ -172,8 +172,7 @@ An Act to make provisions for the celebration of marriages. 31st December, 1914
 
 9. Every registrar shall supply forms of Notice gratuitous to any persons applying for the same.
 
-10. Upon receipt of such notice the registrar shall cause the same to be entered in a book to be called the Marriage Notice Book, which may be inspected during office hours without fee. He shall also publish such notice by causing a copy of the same to be affixed on the outer door of his office, and to be kept exposed there until he grants his certificate as hereinafter mentioned, or until three
-months shall have elapsennd.
+10. Upon receipt of such notice the registrar shall cause the same to be entered in a book to be called the Marriage Notice Book, which may be inspected during office hours without fee. He shall also publish such notice by causing a copy of the same to be affixed on the outer door of his office, and to be kept exposed there until he grants his certificate as hereinafter mentioned, or until three months shall have elapsennd.
 
 11. (1) The registrar, at any time after the expiration of twenty-one days and before the expiration of three months from the date of the notice, upon payment of the prescribed fee, shall thereupon issue his certificate as in Form C in the First Schedule:
 
@@ -220,8 +219,7 @@ affidavit-
 (f) medical officer in the service of the Government; or
 (g) minister of religion.
 
-(2) Such signature shall be attested by such person as in the
-Form B in the First Schedule.
+(2) Such signature shall be attested by such person as in the Form B in the First Schedule.
 
 20. If there be no parent or guardian of such party residing in Nigeria and capable of consenting to the marriage, then any of the following persons may consent to such marriage, in writing, upon being satisfied after due inquiry that the marriage is a proper one-
 
@@ -245,214 +243,96 @@ Provided that the marriage be celebrated with open doors between the hours of ei
 26. The certificate shall then be signed in duplicate by the officiating minister, by the parties, and by two or more witnesses to the marriage. The minister having also signed his name to the counterfoil, he shall sever the duplicate certificate therefrom, and he shall deliver one certificate to the parties, and shall within seven days thereafter transmit the other to the registrar of marriages for the district in which the marriage takes place, who shall file the same in his office.
 
 27. After the issue of a certificate under section 11, or of a licence under secti6n 13 of this Act, the parties may, if they think fit, contract a marriage before a registrar, in the presence of two witnesses in his office, with open doors, between the hours of ten o'clock in the forenoon and four o'clock in the afternoon, and in the following manner- The registrar, after production to him of the certificate or licence, shall, either directly or through an interpreter, address the parties thus-
-Do I understand that you, A.B., and you, C.D., come here for the purpose of
-becoming man and wife?
+
+> Do I understand that you, A.B., and you, C.D., come here for the purpose of becoming man and wife?
+
 If the parties answer in the affirmative, he shall proceed thus-
-Know ye that, by the public taking of each other as man and wife in my presence and
-in the presence of the persons now here, and by the subsequent attestation
-thereof by signing your names to that effect, you become legally married to each
-other, although no other rite of a civil or religious nature shall take place,
-and that this marriage cannot be dissolved during your lifetime, except by a
-valid judgment of divorce; and if either of you before the death of the other
-shall contract another marriage while this remain undissolved you will be
-thereby guilty of bigamy, and liable to punishment for that offence.
-Each of the parties shall then say to the other "I call upon all persons here
-present to witness that I, A.B., do take thee, C.D., to be my lawful wife (or
-husband).
+  
+> Know ye that, by the public taking of each other as man and wife in my presence and in the presence of the persons now here and by the subsequent attestation thereof by signing your names to that effect, you become legally married to each
+other, although no other rite of a civil or religious nature shall take place, and that this marriage cannot be dissolved during your lifetime, except by a valid judgment of divorce; and if either of you before the death of the other
+shall contract another marriage while this remain undissolved you will be thereby guilty of bigamy, and liable to punishment for that offence.
 
-28. The registrar shall then fill up, and he and the parties and
-witnesses shall sign, the certificate of the marriage in duplicate, and the
-registrar shall then fill up and sign the counterfoil as hereinbefore prescribed
-in the case of a marriage by a minister, and shall deliver one certificate to
-the parties and shall file the other in his office.
+Each of the parties shall then say to the other "I call upon all persons here present to witness that I, A.B., do take thee, C.D., to be my lawful wife (or husband).
 
-29. Whenever the licence issued under section 13 of this Act authorises the
-celebration of marriage at a place other than a licensed place of worship, or
-the office of a registrar of marriages, the registrar of the district in which
-such marriage is intended to take place, upon the production of such licence,
-shall deliver to the person producing the same a blank certificate of marriage
-in duplicate, and the minister or registrar celebrating such marriage shall fill
-up such certificate, and observe strictly all the formalities hereinbefore
-prescribed as to marriages in a licensed place of worship, or registrar's
-office, as the case may be.
+28. The registrar shall then fill up, and he and the parties and witnesses shall sign, the certificate of the marriage in duplicate, and the registrar shall then fill up and sign the counterfoil as hereinbefore prescribed in the case of a marriage by a minister, and shall deliver one certificate to the parties and shall file the other in his office.
 
-30. (1) Every registrar shall
-forthwith register in a book to be kept in his office for such purpose, and to
-be called the Marriage Register Book, every certificate of marriage which shall
-be filed in his office according to the Form F in the First Schedule; and every
-such entry shall be made in the order of date from the beginning to the end of
-the book, and every entry so made shall be dated on the day on which it is so
-entered, and shall be signed by the registrar, and such book shall be indexed in
-such manner as is best suited for easy reference thereto.
-(2) The registrar shall at all reasonable times allow searches to be made in
-the marriage register book, and shall give certified copies therefrom upon
-payment of the prescribed fee.
-(3) Within ten days after the last day of each month, every registrar shall send to
-the Principal Registrar a certified copy of all entries made by him during the
-preceding month in the marriage register book of his district, and the Principal
-Registrar shall file the same in his office.
+29. Whenever the licence issued under section 13 of this Act authorises the celebration of marriage at a place other than a licensed place of worship, or the office of a registrar of marriages, the registrar of the district in which such marriage is intended to take place, upon the production of such licence, shall deliver to the person producing the same a blank certificate of marriage in duplicate, and the minister or registrar celebrating such marriage shall fill up such certificate, and observe strictly all the formalities hereinbefore prescribed as to marriages in a licensed place of worship, or registrar's office, as the case may be.
 
-31. Any registrar, when authorised by the Principal Registrar, may
-correct any clerical error in any certificate of marriage filed in his office,
-upon production to him of the certificate delivered to the parties, and shall
-authenticate every such correction by his signature and the date of such
-correction.
+30. (1) Every registrar shall forthwith register in a book to be kept in his office for such purpose, and to be called the Marriage Register Book, every certificate of marriage which shall be filed in his office according to the Form F in the First Schedule; and every such entry shall be made in the order of date from the beginning to the end of the book, and every entry so made shall be dated on the day on which it is so entered, and shall be signed by the registrar, and such book shall be indexed in such manner as is best suited for easy reference thereto.
 
-32. Every certificate of marriage which shall have been filed in the
-office of the registrar of any district, or a copy thereof, purporting to be
-signed and certified as a true copy by the registrar of such district for the
-time being, and every entry in a marriage register book, or copy thereof
-certified as aforesaid, shall be admissible as evidence of the marriage to which
-it relates, in any court of justice or before any person having by law of
-consent of parties authority to hear, receive, and examine evidence.
+(2) The registrar shall at all reasonable times allow searches to be made in the marriage register book, and shall give certified copies therefrom upon payment of the prescribed fee.
 
-33. (1) No marriage in
-Nigeria shall be valid where either of the parties thereto at the time of the
-celebration of such marriage is married under customary law to any person other
-than the person with whom such marriage is hannnnnnd.
-(2) A marriage shall be null and void if both parties
-knowingly and willfully acquiesce in its celebration
-(a) in any place other than the office of a registrar of
-marriages or a licensed place of worship (except where authorised by the licence
-issued under section 13 of this Act). or
+(3) Within ten days after the last day of each month, every registrar shall send to the Principal Registrar a certified copy of all entries made by him during the preceding month in the marriage register book of his district, and the Principal Registrar shall file the same in his office.
+
+31. Any registrar, when authorised by the Principal Registrar, may correct any clerical error in any certificate of marriage filed in his office, upon production to him of the certificate delivered to the parties, and shall authenticate every such correction by his signature and the date of such correction.
+
+32. Every certificate of marriage which shall have been filed in the office of the registrar of any district, or a copy thereof, purporting to be signed and certified as a true copy by the registrar of such district for the time being, and every entry in a marriage register book, or copy thereof certified as aforesaid, shall be admissible as evidence of the marriage to which it relates, in any court of justice or before any person having by law of consent of parties authority to hear, receive, and examine evidence.
+
+33. (1) No marriage in Nigeria shall be valid where either of the parties thereto at the time of the celebration of such marriage is married under customary law to any person other than the person with whom such marriage is hand.
+
+(2) A marriage shall be null and void if both parties knowingly and willfully acquiesce in its celebration
+
+(a) in any place other than the office of a registrar of marriages or a licensed place of worship (except where authorised by the licence issued under section 13 of this Act). or
 (b) under a false name or names; or
-(c) without a registrar's certificate of notice or licence
-issued under section 13 of this Act duly issuennnnnnd. or
-(d) by a person not being a recognised minister of some
-religious denomination or body or a registrar of marriages.
-(3) But no marriage shall, after celebration, be deemed invalid by reason
-that any provision of this Act other than the foregoing has not been complied
-with.
+(c) without a registrar's certificate of notice or license issued under section 13 of this Act duly issuennnnnnd. or
+(d) by a person not being a recognised minister of some religious denomination or body or a registrar of marriages.
+(3) But no marriage shall, after celebration, be deemed invalid by reason that any provision of this Act other than the foregoing has not been complied with.
 
-34. All marriages celebrated under this Act shall be good and valid in
-law to all intents and purposes.
+34. All marriages celebrated under this Act shall be good and valid in law to all intents and purposes.
 
-35. Any person who is married under this Act, or whose marriage is declared by this
-Act to be valid, shall be incapable, during the continuance of such marriage, of
-contracting a valid marriage under customary law, but, save as aforesaid,
-nothing in this Act contained shall affect the validity of any marriage
-contracted under or in accordance with any customary law, or in any manner apply
-to marriages so contractennnnnnd.
+35. Any person who is married under this Act, or whose marriage is declared by this Act to be valid, shall be incapable, during the continuance of such marriage, of contracting a valid marriage under customary law, but, save as aforesaid, nothing in this Act contained shall affect the validity of any marriage contracted under or in accordance with any customary law, or in any manner apply to marriages so contracted.
+
 Fees
 
-36. The fees specified in the Second Schedule shall be paid for the several
-matters to which they are applicable.
+36. The fees specified in the Second Schedule shall be paid for the several matters to which they are applicable.
 
-37. The Minister may, when he is satisfied of the poverty of the parties, reduce the
-amount of the said fees, or remit them altogether, and, if they have been paid
-into the Consolidated Revenue Fund or other appropriate Fund as the case may be,
-order their refunnnnnnnd.
+37. The Minister may, when he is satisfied of the poverty of the parties, reduce the amount of the said fees, or remit them altogether, and, if they have been paid into the Consolidated Revenue Fund or other appropriate Fund as the case may be, order their refund.
 
-38. This Act shall not preclude a minister from receiving the fees ordinarily
-paid to a minister of his denomination for the celebration of marriage.
+38. This Act shall not preclude a minister from receiving the fees ordinarily paid to a minister of his denomination for the celebration of marriage.
 
-39. Whoever, being unmarried, goes through the ceremony of
-marriage under this Act with a person whom he or she knows to be married to
-another person, shall be liable to imprisonment for five years.
+39. Whoever, being unmarried, goes through the ceremony of marriage under this Act with a person whom he or she knows to be married to another person, shall be liable to imprisonment for five years.
 
-40. Whoever in any affidavit, declaration, certificate, licence,
-document, or statement by law to be made or issued for the purposes of a
-marriage, declares, enters, certifies or marriage, states any material matter
-which is false, shall, if he does so without having taken reasonable means to
-ascertain the truth or falsity of such matter, be liable to imprisonment for one
-year, or shall, if he does so knowing that such matter is false, be liable to
-imprisonment for five years.
+40. Whoever in any affidavit, declaration, certificate, licence, document, or statement by law to be made or issued for the purposes of a marriage, declares, enters, certifies or marriage, states any material matter which is false, shall, if he does so without having taken reasonable means to ascertain the truth or falsity of such matter, be liable to imprisonment for one year, or shall, if he does so knowing that such matter is false, be liable to imprisonment for five years.
 
-41. Whoever endeavours to prevent a marriage by pretence that his consent
-thereto is required by law, or that any person whose consent is so required does
-not consent, or that there is any legal impediment to the performing of such
-marriage, shall, if he does so knowing that such pretence is false or without
-having reason to believe that it is true, be liable to imprisonment for two
-years.
+41. Whoever endeavours to prevent a marriage by pretence that his consent thereto is required by law, or that any person whose consent is so required does not consent, or that there is any legal impediment to the performing of such marriage, shall, if he does so knowing that such pretence is false or without having reason to believe that it is true, be liable to imprisonment for two years.
 
-42. Whoever performs or witnesses as a marriage officer the ceremony of marriage,
-knowing that he is not duly qualified so to do, or that any of the matters
-required by law for ceremony. the validity of such marriage has not happened or
-been performed, so that the marriage is void or unlawful on any ground, shall be
-liable to imprisonment for five years.
+42. Whoever performs or witnesses as a marriage officer the ceremony of marriage, knowing that he is not duly qualified so to do, or that any of the matters required by law for ceremony. the validity of such marriage has not happened or been performed, so that the marriage is void or unlawful on any ground, shall be liable to imprisonment for five years.
 
-43. Whoever, being under a duty to fill up the certificate of a marriage
-celebrated by him, or the counterfoil thereof, or to transmit the same to the
-registrar of marriages, wilfully fails to perform such duty, shall be liable to
-imprisonment for two years.
+43. Whoever, being under a duty to fill up the certificate of a marriage celebrated by him, or the counterfoil thereof, or to transmit the same to the registrar of marriages, wilfully fails to perform such duty, shall be liable to imprisonment for two years.
 
-44. Whoever personates any other person in marriage, or marries under a false name
-or description, with intent to deceive the other party to the marriage, shall be
-liable to imprisonment for five years.
+44. Whoever personates any other person in marriage, or marries under a false name or description, with intent to deceive the other party to the marriage, shall be liable to imprisonment for five years.
 
-45. Whoever goes through the ceremony of marriage, or any ceremony which he or
-she represents to be a ceremony of marriage, knowing that the marriage is void
-on any ground, and that the other person believes it to be valid, shall be
-liable to imprisonment for five years.
+45. Whoever goes through the ceremony of marriage, or any ceremony which he or she represents to be a ceremony of marriage, knowing that the marriage is void on any ground, and that the other person believes it to be valid, shall be liable to imprisonment for five years.
 
-46. Whoever contracts a marriage under the provisions of this Act, or any
-modification or re-enactment thereof, being at the time married in accordance
-with customary law to any person other than the person with whom such marriage
-is contracted, shall be liable to imprisonment for five years.
+46. Whoever contracts a marriage under the provisions of this Act, or any modification or re-enactment thereof, being at the time married in accordance with customary law to any person other than the person with whom such marriage is contracted, shall be liable to imprisonment for five years.
 
-47. Whoever, having contracted marriage under this Act, or any
-modification or re-enactment thereof, or under any enactment repealed by this
-Act, during the continuance of such marriage contracts a marriage in accordance
-with customary law, shall be liable to imprisonment for five years.
+47. Whoever, having contracted marriage under this Act, or any modification or re-enactment thereof, or under any enactment repealed by this Act, during the continuance of such marriage contracts a marriage in accordance with customary law, shall be liable to imprisonment for five years.
 
-48. Whoever, knowing that the written consent required by this Act has not been
-obtained, shall marry or assist or procure any other person to marry a minor
-under the age of twenty-one years, not being a widow or widower, shall be liable
-to imprisonment for two years.
+48. Whoever, knowing that the written consent required by this Act has not been obtained, shall marry or assist or procure any other person to marry a minor under the age of twenty-one years, not being a widow or widower, shall be liable to imprisonment for two years.
 
-49. Subject to sections 50 to 53, a marriage between parties one of whom is a
-citizen of Nigeria, if it is contracted in a country outside Nigeria before a
-marriage officer in his office, shall be as valid in law as if it had been
-contracted in Nigeria before a registrar in the registrar's office.
+49. Subject to sections 50 to 53, a marriage between parties one of whom is a citizen of Nigeria, if it is contracted in a country outside Nigeria before a marriage officer in his office, shall be as valid in law as if it had been contracted in Nigeria before a registrar in the registrar's office.
 
-50. For the purposes of this Act, every Nigerian diplomatic or consular
-officer of the rank of Secretary or above shall be regarded as a marriage
-officer in the country to which he is accreditennnnnnd.
+50. For the purposes of this Act, every Nigerian diplomatic or consular officer of the rank of Secretary or above shall be regarded as a marriage officer in the country to which he is accreditennnnnnd.
 
-51. The office used by a marriage officer for the performance of his diplomatic or
-consular duties shall be regarded as the marriage officer's office for the
-purposes of this Act.
+51. The office used by a marriage officer for the performance of his diplomatic or consular duties shall be regarded as the marriage officer's office for the purposes of this Act.
 
-52. Subject to the modifications specified in section 53 this Act shall apply
-in relation to a marriage contracted before a marriage officer as nearly as may
-be as it applies in relation to a marriage contracted before a registrar.
+52. Subject to the modifications specified in section 53 this Act shall apply in relation to a marriage contracted before a marriage officer as nearly as may be as it applies in relation to a marriage contracted before a registrar.
 
 53. The modifications referred to in section 52 of this Act are as follows-
-(a) references to the
-registrar's district shall be construed as references to the country to which
-the marriage officer is accredited;
-(b) the affidavit mentioned in section 11(2) of this Act
-shall be sworn before the marriage officer;
-(c) section 13 of this Act shall not apply;
-(d) sections 15 to 17 of this Act shall not apply and, if a caveat is entered under
-section 14 of this Act in respect of an intended marriage of which notice has
-been given, the notice and all proceedings consequent thereon shall be void and
-any fee paid shall be refunded to the payer (without prejudice to the right to
-give a fresh notice or enter a fresh caveat);
-(e) the marriage officer, if he is satisfied that the consent of any person required
-by section 1~ of this Act cannot be obtained because of that person's absence,
-inaccessibility or disability, may (without prejudice to that person's right to
-enter a caveat under section 14 of this Act) dispense with the necessity of
-obtaining the consent of that person or a consent under section 20 of this Act
-so however that the marriage officer shall not have power to dispense with the
-consent required by section 18 of this Act if he is satisfied that the marriage
-is being sought to be celebrated outside Nigeria solely because that consent
-could not be obtained in Nigeria.
-(f) in section 30(3) of this Act the words "three months" and
-"each calendar year" shall be substituted for the words "ten
-days" and "each month" respectively;
-(g) in section 33(1) of this Act the words "in
-Nigeria" shall be disregarded;
-(h) any fee chargeable shall be converted to the local
-currency at the official rate of exchange;
-(i) power to reduce, remit or refund fees under section 38 of this Act shall be
-vested in the marriage officer."
 
-54. The forms contained in the First Schedule may be used in the cases to which they
-are applicable, with such alterations as may be necessary.
+(a) references to the registrar's district shall be construed as references to the country to which the marriage officer is accredited;
+(b) the affidavit mentioned in section 11(2) of this Act shall be sworn before the marriage officer;
+(c) section 13 of this Act shall not apply;
+(d) sections 15 to 17 of this Act shall not apply and, if a caveat is entered under section 14 of this Act in respect of an intended marriage of which notice has been given, the notice and all proceedings consequent thereon shall be void and any fee paid shall be refunded to the payer (without prejudice to the right to give a fresh notice or enter a fresh caveat);
+(e) the marriage officer, if he is satisfied that the consent of any person required by section 1~ of this Act cannot be obtained because of that person's absence, inaccessibility or disability, may (without prejudice to that person's right to enter a caveat under section 14 of this Act) dispense with the necessity of obtaining the consent of that person or a consent under section 20 of this Act so however that the marriage officer shall not have power to dispense with the consent required by section 18 of this Act if he is satisfied that the marriage is being sought to be celebrated outside Nigeria solely because that consent could not be obtained in Nigeria.
+(f) in section 30(3) of this Act the words "three months" and "each calendar year" shall be substituted for the words "ten
+days" and "each month" respectively;
+(g) in section 33(1) of this Act the words "in Nigeria" shall be disregarded;
+(h) any fee chargeable shall be converted to the local currency at the official rate of exchange;
+(i) power to reduce, remit or refund fees under section 38 of this Act shall be vested in the marriage officer."
+
+54. The forms contained in the First Schedule may be used in the cases to which they are applicable, with such alterations as may be necessary. 
+
 Repeals
 
-55. The Marriage Ordinance,* the Marriage Proclamation and
-the Foreign Marriage Ordinance, 1913,t are hereby repealed:
-Provided, however, that the said enactments shall continue to apply to every marriage
-contracted thereunder or validated thereby as if this Act had not been made.
+55. The Marriage Ordinance,* the Marriage Proclamation and the Foreign Marriage Ordinance, 1913, are hereby repealed: Provided, however, that the said enactments shall continue to apply to every marriage contracted thereunder or validated thereby as if this Act had not been made.
