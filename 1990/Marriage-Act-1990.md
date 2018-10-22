@@ -18,7 +18,7 @@ Laws of the Federation of Nigeria 1990
 
 6. Places of worship to be licensed for celebration of marriages.
 
-Preliminaries to Marriage
+   **Preliminaries to Marriage**
 
 7. Notice of marriage.
 
@@ -26,7 +26,7 @@ Preliminaries to Marriage
 
 9. Registrars to supply forms of notice.
 
-10. Notice to be entered in marriage notice book and publishennnnnnd.
+10. Notice to be entered in marriage notice book and published.
 
 11. (1) Registrar to issue certificate on proof of conditions by affidavit. (3) Explanations to be given.
 
@@ -42,7 +42,7 @@ Preliminaries to Marriage
 
 17. Compensation and costs.
 
-Consent to Marriage in certain cases necessary
+    **Consent to Marriage in certain cases necessary**
 
 18. Consent to marriage of minors.
 
@@ -50,7 +50,7 @@ Consent to Marriage in certain cases necessary
 
 20. Consent where no parent or guardian capable of consenting.
 
-Celebration of Marriage
+    **Celebration of Marriage**
 
 21. Marriage in licensed place of worship. Proviso as to times and witnesses.
 
@@ -70,15 +70,15 @@ Celebration of Marriage
 
 29. Marriage under licence.
 
-Registry and Evidence of Marriages
+    **Registry and Evidence of Marriages**
 
-30. Marriage certificate to be registerennnnnnd.
+30. Marriage certificate to be registered.
 
 31. Correction of clerical errors in marriage certificates.
 
 32. Evidence of marriage.
 
-Invalid Marriages
+    **Invalid Marriages**
 
 33. Invalid marriages.
 
@@ -92,9 +92,9 @@ Invalid Marriages
 
 38. Minister may receive customary fees
 
-Offences and Penalties
+    **Offences and Penalties**
 
-39. Marriage with a person previously marriennnnnnd.
+39. Marriage with a person previously married.
 
 40. Making false declarations etc. for marriage.
 
@@ -114,7 +114,7 @@ Offences and Penalties
   
 48. Marrying minor without prescribed consent.
 
-Foreign Marriages
+    **Foreign Marriages**
 
 49. Validity of foreign marriages.
 
@@ -126,11 +126,9 @@ Foreign Marriages
 
 53. Modifications referred to in section
 
-52. Forms
-
 54. Forms.
 
-Repeals.
+    **Repeals.**
 
 55. Repeals
 
@@ -197,7 +195,7 @@ affidavit-
 
 13. The Minister upon proof being made to him by affidavit that there is no lawful impediment to the proposed marriage, and that the necessary consent, if any, to such marriage has been obtained, may, if he shall think fit, dispense with the giving of notice, and with the issue of the certificate of the registrar, and may grant his licence, which shall be according to Form D in the First Schedule, authorismg the celebration of a marriage between the parties named in such licence by a registrar, or by a recognised minister of some religious denomination or body.
 
-14. (1) Any person whose consent to a marriage is hereby required, or who may know of any just cause why the marriage should not take place, may enter a caveat against the issue of the registrar's certificate, by writing at any time before the issue thereof the word "Forbidden", opposite to the entry of the notice in the marriage notice book, and appending thereto his name and place of abode, and the grounds upon which he claims to forbid the issue of the certificate, and the registrar shall not issue his certificate until such caveat shall be removed as hereinafter is providennnnnnd.
+14. (1) Any person whose consent to a marriage is hereby required, or who may know of any just cause why the marriage should not take place, may enter a caveat against the issue of the registrar's certificate, by writing at any time before the issue thereof the word "Forbidden", opposite to the entry of the notice in the marriage notice book, and appending thereto his name and place of abode, and the grounds upon which he claims to forbid the issue of the certificate, and the registrar shall not issue his certificate until such caveat shall be removed as hereinafter is provided.
 
 (2) In the case of an illiterate person, such caveat shall be entered on his behalf in the marriage notice book by the registrar on the verbal notice of such person.
 
@@ -274,7 +272,7 @@ Each of the parties shall then say to the other "I call upon all persons here pr
 
 (a) in any place other than the office of a registrar of marriages or a licensed place of worship (except where authorised by the licence issued under section 13 of this Act). or
 (b) under a false name or names; or
-(c) without a registrar's certificate of notice or license issued under section 13 of this Act duly issuennnnnnd. or
+(c) without a registrar's certificate of notice or license issued under section 13 of this Act duly issued. or
 (d) by a person not being a recognised minister of some religious denomination or body or a registrar of marriages.
 (3) But no marriage shall, after celebration, be deemed invalid by reason that any provision of this Act other than the foregoing has not been complied with.
 
@@ -312,7 +310,7 @@ Fees
 
 49. Subject to sections 50 to 53, a marriage between parties one of whom is a citizen of Nigeria, if it is contracted in a country outside Nigeria before a marriage officer in his office, shall be as valid in law as if it had been contracted in Nigeria before a registrar in the registrar's office.
 
-50. For the purposes of this Act, every Nigerian diplomatic or consular officer of the rank of Secretary or above shall be regarded as a marriage officer in the country to which he is accreditennnnnnd.
+50. For the purposes of this Act, every Nigerian diplomatic or consular officer of the rank of Secretary or above shall be regarded as a marriage officer in the country to which he is accredited.
 
 51. The office used by a marriage officer for the performance of his diplomatic or consular duties shall be regarded as the marriage officer's office for the purposes of this Act.
 
